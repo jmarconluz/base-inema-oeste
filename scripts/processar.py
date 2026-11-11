@@ -86,6 +86,10 @@ def tipo_outorga(r):
         base = "Poço (captação subterrânea)"
     elif SUPERFICIAL.search(art):
         base = "Captação superficial"
+    elif r.get("acao") == "Transferir":
+        return "Transferência de titularidade (sem dado técnico)"
+    elif re.search(r"altera[çc][ãa]o do direito", art, re.I):
+        return "Alteração de outorga (sem dado técnico)"
     else:
         return "Não identificado"
     if re.search(r"capta[çc][ãa]o\s+subterr", art, re.I) and re.search(r"capta[çc][ãa]o\s+superficial", art, re.I):
