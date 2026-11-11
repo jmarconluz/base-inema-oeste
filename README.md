@@ -64,3 +64,14 @@ Os CSV usam `;` como separador e codificação UTF-8 com BOM, então abrem diret
 ## Cópias dos processos (SEIA)
 
 `coletor/coletor_seia.js` roda na consulta pública do SEIA (logado, HTTPS). Para cada processo da lista (`dados/oeste/lista_processos_seia.json`), ele gera uma ficha com os atos e a lista de documentos. Quando a pasta local é conectada, baixa também os PDFs para `E:\Downloads\processos\<processo>\`. O progresso fica salvo no navegador, então dá para parar e retomar.
+
+### Retomar a coleta do SEIA (índice em 3 abas)
+
+1. Abra no navegador do app a consulta pública do SEIA por HTTPS (logado) em até 3 abas.
+2. A lista completa (`eco_lista`) e o código (`eco_code`) ficam guardados no `localStorage` do SEIA. Em cada aba, rode `eval(localStorage.getItem('eco_code'))` e depois:
+   - aba 1: `SEIAW.iniciar({chave:'fichas', ordem:'asc'})`
+   - aba 2: `SEIAW.iniciar({chave:'fichas_w2', ordem:'desc'})`
+   - aba 3: `SEIAW.iniciar({chave:'fichas_w3', ordem:'asc', inicio:5254})`
+3. As abas não repetem processos: cada processo concluído recebe a marca `eco_ok:<processo>` no `localStorage`. As fichas ficam no IndexedDB `eco_seia`.
+
+Se o `localStorage` tiver sido limpo, recrie a lista a partir de `coletor/lista_processos_oeste_b36.txt` (Oeste, primeiro) e `coletor/lista_processos_bahia_resto_b36.txt` (restante da Bahia).
