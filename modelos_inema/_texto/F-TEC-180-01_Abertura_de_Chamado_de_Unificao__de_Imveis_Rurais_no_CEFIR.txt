@@ -1,0 +1,70 @@
+
+ATENÇÃO!
+Caso a unificação contemple cadastro que tenha reserva legal com o status de aprovada, a unificação só pode ser realizada na condição de se manter a reserva legal na espacialização e na extensão originalmente aprovadas. Havendo necessidade de mudanças na localização da Reserva Legal, deve ser formado um processo de Aprovação de Relocação de Localização de Reserva Legal (ARRL) no sistema SEIA. 
+ (    ) Estou ciente dessa instrução.
+
+
+
+
+
+2.  DADOS DE CONTATO
+Nome:
+Telefone de contato:                                                    E-mail de contato:
+
+
+3. CARACTERIZAÇÃO DA UNIFICAÇÃO DE MATRÍCULAS 
+Quantidade de matrículas que serão unificadas:
+Nome do novo imóvel:                                             Nova matrícula:                            
+Município:                                                                   Área total (ha):
+Proprietário:                                                               CPF:
+
+DADOS DAS MATRÍCULAS A SEREM UNIFICADAS 
+("Copie e cole" a caixa 3.1 quantas vezes for necessário, de forma a caracterizar cada matrícula)
+3.1
+Nome do Imóvel:
+Matrícula:                                                                   Área total (ha):
+Município:
+Proprietário:                                                               CPF:
+N° Certificado CEFIR:                                                 N° Termo de Compromisso CEFIR:
+
+Nº CAR: 
+A Reserva Legal está com o status de "Aprovada" ou "Averbada"?    (    ) Sim    (     ) Não
+
+
+
+
+
+4.  DECLARAÇÕES
+
+Declaro serem verdadeiras as informações constantes deste documento, estando ciente de que a falsidade de quaisquer dados constitui prática de crime e resultará na aplicação das sanções penais cabíveis, nos termos dispostos no Código Penal (Decreto-Lei nº 2.848/40), na lei de Crimes Ambientais (Lei nº 9.605/98) e nas suas normas regulamentadoras. 
+                                
+                                                                       (Local), (dia) de (mês) de (ano).
+
+
+_____________________________________________________________
+                                                                                Nome completo
+
+
+
+5. DOCUMENTOS E ARQUIVOS NECESSÁRIOS
+
+
+
+5.1 O presente formulário, devidamente preenchido e assinado pelo responsável da solicitação;
+5.2 Cópia de documento de identificação com foto e CPF do atual proprietário e do signatário do formulário;
+5.3 Procuração simples, quando necessário;
+5.4 Documentação comprobatória da unificação das matrículas;
+5.5 Arquivos shapefile (extensões .dbf, .shp, .shx e .prj) do Perímetro e Reserva Legal do imóvel decorrente da unificação, caso as Reservas Legais dos imóveis a serem unificados estiverem com o status de "Aprovada" ou "Averbada";
+5.6 Declaração com solicitação do cancelamento de CEFIR e CAR das matrículas que serão unificadas
+
+Todos os documentos devem ser transformados em um arquivo pdf único, o qual deve ser enviado junto aos shapefiles para o e-mail atendimento.seia@inema.ba.gov.br.
+
+Após a abertura do chamado, acompanhe o andamento da sua solicitação com a equipe do Service Desk, por meio do telefone (71) 3118-4544.
+
+
+
+6. ORIENTAÇÕES
+
+
+    - Na unificação de móveis que já tiveram Reserva Legal aprovada no CEFIR, é necessário que o shape a ser enviado para a área unificada corresponda em extensão e em localização ao conjunto dos shapes das RLs aprovadas nos cadastros a serem unificados.
+

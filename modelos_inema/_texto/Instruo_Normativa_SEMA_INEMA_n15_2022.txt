@@ -1,0 +1,122 @@
+                                                                Salvador, Bahia – Sexta-Feira,
+                                                                      28 de Outubro de 2022
+                                                                          Ano CVI – Nº 23.532
+
+
+Instrução Normativa SEMA/INEMA Nº 15, de 27 de outubro de 2022.
+
+Dispõe sobre as ações a serem realizadas em casos de suspeita ou confirmação de
+fraudes no Sistema Estadual de Informações Ambientais e de Recursos Hídricos - SEIA
+e no Cadastro Estadual Florestal de Imóveis Rurais - CEFIR.
+
+A SECRETÁRIA DO MEIO AMBIENTE E A DIRETORA GERAL DO INSTITUTO DO MEIO
+AMBIENTE E RECURSOS HÍDRICOS, no uso de suas atribuições conferidas pela Lei
+Estadual n° 12.212/2011 e considerando a Lei Federal n° 12.651/2012, a Lei Estadual n°
+10.431/2006 com Regulamento aprovado pelo Decreto Estadual n° 14.024/2012 e
+disposições constantes no Decreto Estadual n° 15.180/2014, RESOLVEM:
+
+Art. 1º Estabelecer ações e providências a serem realizadas pela Secretaria do Meio
+Ambiente - SEMA e pelo Instituto do Meio Ambiente e Recursos Hídricos - INEMA, nos
+casos em que se identifiquem eventuais ocorrências com indícios de fraudes no
+Sistema Estadual de Informações Ambientais e de Recursos Hídricos - SEIA e no
+Cadastro Estadual Florestal de Imóveis Rurais - CEFIR.
+
+Art. 2º Para efeitos desta Instrução Normativa, entende-se por fraude a adulteração
+de informações constantes na base de dados do SEIA e/ou CEFIR, envolvendo o uso de
+falsidade documental e/ou manipulação de dados, através da utilização não autorizada
+de informações do proprietário, possuidor ou terceiros, ou por qualquer outro meio
+ilegítimo, com o objetivo de obter vantagem para si ou terceiros.
+
+Art. 3º A apuração dos casos de suspeita de fraude na base de dados do SEIA e/ou
+CEFIR dar-se-á nas seguintes hipóteses:
+I - de ofício, por iniciativa da autoridade administrativa;
+II - a pedido do interessado;
+III - por denúncia do administrado.
+
+Art. 4º Para instauração do processo de apuração de fraude a que se refere o Art. 2º,
+deverá a parte interessada ou o denunciante registrar um chamado junto ao INEMA,
+por meio do envio de mensagem eletrônica para o endereço
+atendimento.seia@inema.ba.gov.br, com a precisa descrição dos fatos e suas
+circunstâncias, juntada de provas documentais que julgar pertinentes e apresentação,
+entre outras, das seguintes informações:
+I - número do CPF ou CNPJ do requerente, nos casos de requerimentos e processos do
+SEIA;
+II - número de requerimento ou processo do SEIA, se for o caso;
+III - número do CPF ou CNPJ do proprietário ou justo possuidor do imóvel rural, nos
+casos de cadastros do CEFIR;
+IV - denominação, município e matrícula de imóvel rural cadastrado no CEFIR, se for o
+caso.
+
+Parágrafo único: A apresentação das informações constantes no Art. 4º não isentará o
+interessado ou denunciante de apresentar novos dados, quando solicitados, e que se
+tornem imprescindíveis para apuração dos indícios de fraude.
+
+Art. 5º Os chamados registrados e identificados pela equipe do suporte técnico do
+INEMA como referentes às suspeitas de fraude serão encaminhados para a Assessoria
+Técnica da Diretoria Geral do INEMA, que providenciará a instrução do processo
+administrativo no sistema SEI-Bahia e, ato contínuo, o seu encaminhamento à
+Coordenação do SEIA, na SEMA.
+
+Art. 6º A Coordenação do SEIA analisará os processos administrativos referentes às
+suspeitas de fraude, emitindo Nota Técnica quanto à verossimilhança ou certeza,
+quando de possível constatação, da ocorrência de fraudes no sistema.
+
+Art. 7º Inferida a verossimilhança ou constatada certeza quanto à ocorrência de fraude
+em cadastro de imóvel rural no CEFIR, a Coordenação do SEIA deverá:
+I - promover as ações necessárias para a restauração das informações constantes na
+base de dados do Sistema para parâmetro anterior à adulteração;
+II - identificar o(s) usuário(s) supostamente responsável(veis) pela fraude, bloqueando
+o acesso deste(s) aos Sistemas SEIA e CEFIR;
+
+§ 1º Os cadastros de imóveis rurais no CEFIR beneficiados pela fraude poderão ser
+excluídos da base de dados do sistema.
+§ 2º As informações do cadastro adulterado no CEFIR serão restauradas de forma
+automática pelo sistema e retornarão às mesmas condições anteriores à fraude, com a
+manutenção do caráter declaratório das informações prestadas no cadastro por seu
+responsável.
+§ 3° Procedida a restauração das informações do sistema CEFIR, o cadastro do imóvel
+rural será restabelecido, de modo a viabilizar a expedição do Certificado de Inscrição
+ou do Termo de Compromisso, da forma como constava antes da adulteração.
+§ 4º As autorizações ambientais expedidas pelo órgão ambiental que, porventura,
+forem emitidas com base em informações provenientes de cadastros fraudulentos
+poderão ser canceladas, sem prejuízo das demais sanções previstas em Lei.
+
+Art. 8º A SEMA e o INEMA reportarão aos órgãos competentes os casos de suspeita ou
+confirmação de fraude no sistema, para apuração nas demais instâncias de
+responsabilização.
+
+Art. 9º Com o objetivo de coibir a ocorrência de alterações fraudulentas a que se
+refere o Art. 1º, fica determinado que, nos casos de solicitação, por particular, de
+ alteração do endereço de e-mail constante no cadastro de pessoa física no SEIA, ou
+inclusão de procurador de pessoa física, os pedidos de alteração/inclusão deverão ser
+ apresentados ao INEMA por mensagem eletrônica, por meio do endereço eletrônico
+alteracaoemailseia@inema.ba.gov.br, com cópia para atend@inema.ba.gov.br,
+instruídos com os seguintes documentos:
+I - Documento de identificação com foto do titular do cadastro;
+II - Pedido de alteração devidamente assinado pelo requerente.
+Parágrafo único - Na hipótese dos pedidos de alteração/inclusão serem realizados por
+intermédio de procurador, serão exigidos:
+I - Cópia de documento de identificação do requerente e do procurador, contendo
+fotografia;
+II - Cópia da procuração com firma reconhecida em cartório;
+III - Pedido de alteração com assinatura do procurador.
+
+Art. 10 Em casos de suspeita de fraude em processos e requerimentos do sistema SEIA
+e/ou no CEFIR, como a prestação de informação falsa e a apresentação de documentos
+aparentemente adulterados, o INEMA poderá sinalizar a pendência e solicitar a
+apresentação de novas informações e documentos, assim como proceder o bloqueio
+ou suspensão preventiva do cadastro ou de atos autorizativos a este vinculados.
+
+Art. 11 Em casos de dúvida quanto à autenticidade dos documentos apresentados, em
+conformidade com a Lei Federal nº 13.726/2018, o INEMA poderá solicitar o
+comparecimento presencial dos interessados em uma de suas unidades para a
+apresentação dos documentos originais e a confrontação dos mesmos com as cópias.
+
+Art. 12. Esta Instrução Normativa entra em vigor na data de sua publicação.
+
+Marcia Cristina Telles de Araújo Lima
+Secretária do Meio Ambiente
+
+Daniella Teixeira Fernandes de Araújo
+Diretora Geral do INEMA
+

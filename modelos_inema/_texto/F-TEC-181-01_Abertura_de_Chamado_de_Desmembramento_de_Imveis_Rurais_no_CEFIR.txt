@@ -1,0 +1,67 @@
+ATENÇÃO!
+Caso o desmembramento contemple cadastro que tenha reserva legal com o status de aprovada, o desmembramento só pode ser realizado na condição de se manter a reserva legal na espacialização e na extensão originalmente aprovadas. Havendo necessidade de mudanças na localização da Reserva Legal, deve ser formado um processo de Aprovação de Relocação de Localização de Reserva Legal (ARRL) no sistema SEIA. 
+ (    ) Estou ciente dessa instrução.
+
+
+
+2.  DADOS DE CONTATO
+Nome:
+Telefone de contato:                                                    E-mail de contato:
+
+
+3. DADOS DO IMÓVEL A SER DESMEMBRADO
+Nome do Imóvel:
+Matrícula:                                                                   Área total (ha):
+Município:
+Proprietário:                                                               CPF:
+N° Certificado CEFIR:                                                 N° Termo de Compromisso CEFIR:
+
+Nº CAR: 
+A Reserva Legal está com o status de "Aprovada" ou "Averbada"?    (    ) Sim 
+ATENÇÃO!
+Para demais status de Reserva Legal não é necessária a abertura de chamado. O próprio requerente pode editar o seu imóvel de modo a corrigir a área da matrícula original, editando-o posteriormente para equivaler a uma das frações desmembradas e liberando a área excedente para o cadastro das matrículas decorrentes do desmembramento.
+
+4. DADOS DOS IMÓVEIS DECORRENTES DO DESMEMBRAMENTO
+4.1 Nome do imóvel:                                                                  Matrícula:
+4.2 Nome do imóvel:                                                                  Matrícula:
+4.3 Nome do imóvel:                                                                  Matrícula:
+4.4 Nome do imóvel:                                                                  Matrícula:
+4.5 Nome do imóvel:                                                                  Matrícula:
+Houve transferência de titularidade de alguma(s) das frações desmembradas? Em caso afirmativo, sinalize a(s) matrícula(s) e o(s) CPF(s) do(s) seu(s) novo(s) titular(es):
+
+
+
+Declaro serem verdadeiras as informações constantes deste documento, estando ciente de que a falsidade de quaisquer dados constitui prática de crime e resultará na aplicação das sanções penais cabíveis, nos termos dispostos no Código Penal (Decreto-Lei nº 2.848/40), na lei de Crimes Ambientais (Lei nº 9.605/98) e nas suas normas regulamentadoras. 
+
+                                                                       (Local), (dia) de (mês) de (ano).
+
+_____________________________________________________________
+                                                                                Nome completo
+
+
+
+5. DOCUMENTOS E ARQUIVOS NECESSÁRIOS
+
+
+
+5.1 O presente formulário, devidamente preenchido e assinado pelo responsável da solicitação;
+5.2 Cópia de documento de identificação com foto e CPF do atual proprietário e do signatário do formulário;
+5.3 Procuração simples, quando necessário;
+5.4 Documentação comprobatória do desmembramento do imóvel;
+5.5 Arquivos shapefile (extensões .dbf, .shp, .shx e .prj) dos Perímetros e Reservas Legais de todos as matrículas decorrentes do desmembramento.
+
+Todos os documentos devem ser transformados em um arquivo pdf único, o qual deve ser enviado junto aos shapefiles para o e-mail atendimento.seia@inema.ba.gov.br.
+
+Após a abertura do chamado, acompanhe o andamento da sua solicitação com a equipe do Service Desk, por meio do telefone (71) 3118-4544.
+
+
+
+6. ORIENTAÇÕES
+
+
+    - Os shapes mencionados no item 5.5 devem ser encaminhados de forma organizada e identificada. Para cada matrícula resultante do desmembramento, crie uma pasta com os temas (Perímetro e Reserva Legal) correspondente. Isso dará mais agilidade na análise de sua solicitação.
+
+    - No desmembramento de imóveis, é fundamental que a Reserva Legal originalmente aprovada não tenha a sua localização nem a sua extensão total modificadas. Os shapes devem refletir isso.
+
+
+

@@ -1,0 +1,449 @@
+INSTITUTO DO MEIO AMBIENTE
+                                 PORTARIA Nº 13.950/2010 - Define os critérios e diretrizes para elaboração e
+                                 apresentação ao IMA de documentos e informações georreferenciadas
+                                 (coordenadas, plantas, imagens de satélite e fotografias aéreas verticais)
+                                 referentes a formação dos processos de licenciamento ambiental de controle
+                                 florestal, no estado da Bahia.
+O Instituto do Meio Ambiente, considerando o artigo nº 157, §2º e o artigo nº 350, inciso XVI, do regulamento da Lei
+nº 10.431/2006 aprovado pelo Decreto nº 11.235/2008, no uso de suas atribuições resolve:
+Art. 1º - Esta Portaria estabelece os critérios e diretrizes que deverão ser seguidos para apresentação ao IMA dos
+documentos e informações georreferenciadas (coordenadas, plantas, imagens de satélite ou fotografias aéreas
+verticais) necessários à formação de processos de licenciamento ambiental e de controle florestal no estado da
+Bahia.
+Parágrafo único - O IMA poderá solicitar informações complementares necessárias à análise dos processos de
+licenciamento ambiental e de controle florestal.
+Art. 2º - Para efeito desta Portaria são adotadas as seguintes definições:
+     I. Dados Espaciais: são considerados aqueles que podem ser representados espacialmente, ou seja, de
+         forma gráfica. Estes constituem-se em imagens, mapas temáticos ou planos de informações (PIs).
+    II. Arquivo Raster: representam dados espaciais em que os elementos são codificados na forma de uma
+         matriz, em que cada célula dessa matriz é denominada de pixel (par de coordenadas planas e/ou
+         geográficas e um valor z associado).
+   III. Arquivo Vetorial: representam dados espaciais que tem estrutura composta por três primitivas gráficas
+         (pontos, linhas e polígonos) e utiliza um sistema de coordenadas para a sua representação espacial.
+  IV. Planta Georreferenciada: arquivo espacializado dentro dos limites do território baiano que utiliza o Datum
+         SAD69 ou SIRGAS 2000.
+    V. Datum: marco determinado por procedimentos geodésicos de alta precisão, que serve como ponto de
+         referência para todos os levantamentos que venham a ser executados sobre uma determinada área do
+         globo terrestre. No Brasil, os três sistemas geodésicos de referência são: Córrego Alegre, South American
+         Datum (SAD69) e SIRGAS 2000.
+  VI. GPS: sistema de posicionamento global formado por uma constelação de 24 satélites NAVSTAR –
+         Navigation System with Timing and Ranging ativos que circulam a Terra em órbitas elípticas. Comumente o
+         termo GPS é utilizado como sinônimo de aparelho voltado para obtenção de medições sendo a principal
+         delas a aferição de coordenadas geográficas. De modo geral os aparelhos de GPS podem realizar
+         medições de baixa e alta precisão. Estas são aferidas por GPS Geodésico e aquelas por GPS de
+         Navegação.
+  VII. Imagens de Satélite: são imagens compostas por uma malha ou grid, onde cada célula ou pixel tem sua
+         localização definida em um sistema matricial de coordenadas do tipo linha e coluna. Cada pixel possui um
+         atributo numérico que indica o nível de cinza da célula, e representa a intensidade de energia
+         eletromagnética medida pelo sensor, e que varia de 0 a 255.
+    a) Resolução Espacial: capacidade de um sensor de detectar objetos na superfície terrestre a partir de uma
+        determinada dimensão. A resolução espacial pode ser definida como o menor elemento ou superfície
+        distinguível por um sensor, ou seja, quanto maior for a resolução espacial, menor será o tamanho do objeto
+        que o sensor pode “ver”. Sendo assim, sensores com resolução espacial de 10m têm capacidade de
+        distinguir objetos no terreno com dimensão de 10 metros comprimento ou área de 100 m 2. Essa resolução
+        pode ser traduzida, portanto, como a área real abrangida no terreno por cada pixel correspondente na
+        imagem.
+    b) Imagem de Satélite de Alta Resolução Espacial: aquela que apresenta uma resolução espacial de até
+        2,5 (dois e meio) metros, permitindo, portanto, a visualização de objetos com até 2,5 metros de
+        comprimento ou que possuam uma área de 6,25 (seis e vinte cinco) m 2.
+   c) Combinação de Bandas no Sistema RGB: as bandas ou faixas espectrais da imagem são combinadas no
+      Sistema RGB, Red (vermelho), Green (verde) e Blue (azul). Baseia-se no princípio físico de que as
+      diferenças cromáticas são resultado da projeção da luz branca através de filtros de tais cores. No sistema
+      RGB as cores percebidas na cena ou imagem apresentam as cores naturalmente percebidas pelo olho
+      humano.
+VIII. Fotografias aéreas verticais: são aquelas obtidas quando o eixo ótico da câmera é coincidente à vertical
+      do lugar fotografado. Nestas fotografias o eixo óptico da câmera apresenta inclinação ≤ 3º graus da vertical
+      em relação à superfície. Deve ser obtida a partir do uso de aeronave devidamente preparada e
+      homologada para receber este sistema.
+  a) Ortorretificação: procedimento que tem como finalidade corrigir as distorções de fotografias aéreas
+      verticais ocasionadas pelo relevo, transformando assim a imagem fotográfica de uma projeção cônica para
+      uma projeção ortogonal, mantendo a constância da escala em toda a imagem ortorretificada.
+   b)         Fotografias aéreas verticais em colorido normal: são fotografias aéreas verticais que captam e gravam
+              a energia da região de 0,4 – 0,7μm (luz azul, verde e vermelha) e representam a superfície do terreno
+              com as mesmas tonalidades (cores) que os nossos olhos vêem a paisagem (Jensen, 2009).
+  IX.     Arquivos de Metadados: arquivos em meio digital ou impressos que acompanham os arquivos vetoriais
+          (plantas georreferenciadas), as imagens de satélite e fotografias aéreas verticais, e que devem conter as
+          especificações técnicas destas. Para as imagens de satélite devem ser especificadas informações sobre
+          dia, mês e ano do imageamento, sistema de coordenadas, projeção cartográfica, nome do sensor. Estas
+          informações devem ser apresentadas em formato txt ou pdf e são fornecidas pelas empresas que
+          comercializam as imagens de satélite. Para as fotografias aéreas verticais devem ser apresentadas
+          informações sobre o ano, mês, projeção cartográfica e escala, em formato txt, doc ou pdf. Para as plantas
+          georreferenciadas são indispensáveis as informações sobre o datum horizontal e projeção do arquivo, no
+          formato txt, doc ou pdf.
+   X.     Sistema Universal Transversal de Mercator – UTM: sistema que utiliza como superfície de projeção 60
+          cilindros transversos e secantes ao elipsóide, cada um com amplitude de 6º em longitude e tem como
+          limites as latitude 84 N e 80 S.
+   a)          Coordenadas UTM - Universal Transversal de Mercator: métrica utilizada para evitar valores de
+               coordenadas negativos. Para tanto, no Equador, as coordenadas N crescem do sul para o norte,
+               acrescidas de 10.000.000 m, no Meridiano Central de cada fuso as coordenadas E crescem de oeste
+               para leste, acrescidas de 500.000 m. Os mapas com projeção UTM são de uso local e apresentam um
+               sistema de coordenadas UTM que é métrico e cartesiano, próprio para cada zona UTM.
+  XI.     Reserva Legal: a Reserva Legal, instituída pela Lei n° 4.771 de 15/09/65 (Código Florestal), constitui para
+          o nordeste do Brasil a área de, no mínimo, 20% (vinte por cento) de cada propriedade rural, onde não é
+          permitido o corte raso, devendo ser averbada à margem da inscrição de matrícula do imóvel, no registro de
+          imóveis competente, sendo vedada a alteração de sua destinação, nos casos de transmissão, a qualquer
+          título, ou de desmembramento da área.
+  XII.    Croqui: aqui definido como um desenho ou uma representação gráfica detalhada de uma paisagem rural
+          específica.
+ XIII.    Declaração de Aptidão ao PRONAF (DAP): instrumento que identifica a família como beneficiária do
+          Programa Nacional de Fortalecimento da Agricultura Familiar (PRONAF).
+         Dos documentos e informações georreferenciadas necessários à formação dos processos de
+                                        licenciamento ambiental
+Art. 3º - As informações georreferenciadas necessárias à formação dos processos de licenciamento ambiental
+serão exigidas pelo IMA de acordo com a modalidade da licença, tipologia e porte dos empreendimentos e
+atividades.
+         §1º - Os empreendimentos e atividades da Divisão A do Anexo III do Regulamento da Lei nº 10.431/06
+aprovado pelo Decreto nº 11.235/08, deverão apresentar os arquivos georreferenciados quando do requerimento
+da Licença de Localização ou Licença de Implantação, quando esta for a primeira licença requerida:
+         a)     Será exigida a planta georreferenciada para propriedades com área < 5.000 hectares e para os
+                assentamentos de reforma agrária;
+         b) Será exigida planta e imagem de satélite (ou fotografia aérea) georreferenciadas para propriedades
+            com área > 5.000 hectares e para os grupos A2.11.1, A2.11.3 e A3.2, nos casos de grande e
+            excepcional portes.
+        §2º - Os empreendimentos e atividades das Divisões B, C, D, E, F, G e H do Anexo III do Regulamento da
+Lei nº 10.431/06 aprovado pelo Decreto nº 11.235/08 deverão apresentar as informações georreferenciadas a que
+se refere o caput deste artigo de acordo os Anexos I e II desta Portaria.
+      §3º - Quando se tratar de licenciamento mediante Licença Conjunta (LC) deverão ser apresentadas
+imagens de satélite ou fotografias aéreas verticais georreferenciadas cobrindo toda a área objeto dos estudos
+ambientais requeridos.
+Art. 4º - O empreendedor estará dispensado de apresentar as imagens de satélite ou fotografias aéreas verticais
+georreferenciadas quando as mesmas estiverem disponíveis no acervo do IMA.
+Parágrafo único - Nos casos da dispensa a que se refere o caput deste artigo o empreendedor deverá informar as
+especificações das referidas imagens, após consulta ao acervo de imagens do IMA no Sistema Georreferenciado
+de Gestão Ambiental (GEOBAHIA), disponível no endereço eletrônico http://geobahia.ima.ba.gov.br, observando-
+se os critérios mencionados no artigo 2º, alínea “b” do inciso VII e inciso IX desta Portaria.
+  Dos documentos e informações georreferenciadas necessários à formação dos processos de controle
+                                             florestal
+Art. 5º – Os documentos e informações georreferenciadas necessários à formação de processo para Aprovação da
+Localização de Reserva Legal (ARL) deverão atender aos seguintes requisitos:
+    I. Para as propriedades rurais com área de até 4 módulos fiscais e com Declaração de Aptidão ao PRONAF
+       será exigida a apresentação de croqui, em papel no formato A4 ou A3, e a descrição e detalhamento, de
+       forma clara e sem rasuras, das vias de acesso ao imóvel, dos limites da propriedade e da área destinada a
+       reserva legal. O croqui deverá ser apresentado conforme modelo do Anexo IV desta Portaria, contendo os
+       elementos que caracterizam a propriedade e seu entorno, tais como:
+          a) sede da propriedade e benfeitorias;
+          b) cursos e lâminas d’água, lagoas;
+          c) estradas de rodagem, ferrovias e linhas de transmissão;
+          d) áreas de pastagem, cultivos, reflorestamentos;
+          e) propriedades limítrofes com o imóvel;
+          f)   localização do(s) remanescente(s) florestal (is) destinado(s) à formação de Reserva Legal.
+   II. Para as propriedades rurais com área de até 500 hectares e que não possuem Declaração de Aptidão ao
+       PRONAF será exigida, além do croqui a que se refere o inciso I deste artigo, a apresentação das
+       coordenadas geográficas (latitude e longitude) de 2 (dois) pontos, referentes à localização do(s)
+       remanescente(s) florestal (is) destinado(s) a formação de Reserva Legal e da sede da propriedade,
+       respectivamente. O código do ponto coletado para a localização da área destinada à formação de Reserva
+       Legal deve ser representado pela sigla RL01 e o código do ponto coletado para localização da sede da
+       propriedade deve ser representado pela sigla SD01.
+  III. Para as propriedades rurais com área superior a 500 hectares será exigida a apresentação de planta
+       georreferenciada contendo os limites do imóvel rural e da área destinada à formação de Reserva Legal, de
+       acordo com os critérios de precisão cartográfica e procedimentos da Norma Técnica para
+       Georreferenciamento de Imóveis Rurais do INCRA (Lei Federal n° 10.267, de 28/08/2001 e Decreto Federal
+       n° 4.449, de 30/10/2002) conforme consta no Anexo III desta portaria, observando-se os seguintes
+       requisitos:
+          a) O código dos pontos coletados para delimitação da área destinada à formação de Reserva Legal
+             deve ser constituído em seus caracteres iniciais por sigla que identifique a atividade florestal, no
+             caso Reserva Legal (RL). Os 4 (quatro) últimos caracteres serão preenchidos por numeração
+             seqüencial rigorosa, começando pelo número 0001, seguido pelo número 0002 e assim
+             sucessivamente até o último vértice da área (poligonal) levantado, sem interrupção de sua
+             seqüência numérica (Figura 1). Esta codificação refere-se aos limites de áreas destinadas as
+             Reservas Legais, localizadas no interior da propriedade e que não coincidem com os limites da
+             propriedade rural.
+
+
+                              RL       0001
+
+
+                           RESERVA              NUMERAÇÃO
+                            LEGAL
+          Figura 1. Codificação dos pontos da poligonal da área destinada a Reserva Legal.
+             b) A codificação dos pontos coletados para delimitação da propriedade rural deverá adotar a
+                nomenclatura estabelecida pela Norma Técnica para Georreferenciamento de Imóveis Rurais do
+                INCRA (Lei Federal n° 10.267, de 28/08/2001 e Decreto Federal n° 4.449, de 30/10/2002). Da
+                mesma forma, quando os limites da Reserva Legal coincidirem com os limites da propriedade.
+             c) Caso o local onde está localizada a área destinada à formação de Reserva Legal seja seccionado pelo
+                  meridiano 42°, os arquivos digitais deverão ser georreferenciados no Sistema de Coordenadas
+                  Geográficas, ou seja, em décimo de grau.
+Art. 6º - A planta georreferenciada a ser apresentada para formação de processo para Aprovação de Plano de
+Manejo Florestal Sustentável (APMF) deverá conter as seguintes informações:
+    I. Poligonais dos talhões a serem explorados;
+   II. Sistema viário (vias internas e de acesso ao imóvel);
+  III. Poligonal (is) da(s) área(s) de preservação permanente e da Reserva Legal;
+  IV. Coordenadas de localização das parcelas do inventário florestal;
+   V. Hidrografia (corpos d´água temporários e permanentes).
+Parágrafo único - O IMA poderá exigir que a planta georreferenciada a que se refere o caput deste artigo seja
+planialtimétrica, quando constatar relevo acidentado na área do imóvel, ou seja, terrenos com grandes diferenças
+de nível.
+Art. 7º - A planta georreferenciada a ser apresentada para formação de processo para Autorização de Supressão
+de Vegetação Nativa (ASV) deverá conter as seguintes informações:
+   I.      Poligonal (is) da(s) área(s) onde será suprimida vegetação nativa;
+  II.      Sistema viário (vias internas e de acesso ao imóvel);
+ III.      Poligonal (is) da(s) área(s) de preservação permanente e da Reserva Legal;
+ IV.       Coordenadas de localização das parcelas do inventário florestal;
+  V.       Hidrografia (corpos d´água permanentes e temporários).
+        Parágrafo único - O IMA poderá exigir que a planta georreferenciada a que se refere o caput deste artigo
+seja planialtimétrica, quando constatar relevo acidentado na área do imóvel, ou seja, terrenos com grandes
+diferenças de nível.
+                           Dos critérios e diretrizes para coleta e apresentação das informações
+Art. 8º - As coordenadas geográficas (latitude e longitude) deverão ser coletadas no Sistema Geodésico Sirgas
+2000, podendo ser utilizado o SAD69 até 2014, conforme período de transição definido pelo Instituto Brasileiro de
+Geografia e Estatística (IBGE) e apresentadas em formulário padrão do IMA.
+Art. 9º - As plantas georreferenciadas deverão ser elaboradas no sistema de coordenadas UTM, utilizando o
+Datum SIRGAS 2000, podendo ser utilizado o SAD69 até 2014, conforme período de transição definido pelo
+Instituto Brasileiro de Geografia e Estatística (IBGE), apresentadas no formato *shp (Shapefile) e acompanhadas
+dos arquivos de metadados, apresentados conforme disposto no inciso IX do artigo 2º desta Portaria.
+        §1º - Todas as linhas e/ ou polilinhas que terminem ou comecem num mesmo ponto deverão ser
+conectadas por meio de nós, devendo estar completas, sem falhas ou interrupções no arquivo vetorial. Não usar
+linhas do tipo “spline”.
+        §2º - Em empreendimentos passíveis de apresentação de imagens de satélite ou fotografias aéreas
+verticais, os arquivos vetoriais das plantas deverão ser georreferenciados a partir das imagens de satélite ou
+fotografias aéreas verticais.
+       §3º - Caso a área do empreendimento seja seccionada pelo meridiano 42°, a planta deverá ser
+georreferenciada no Sistema de Coordenadas Geográficas em décimo de grau.
+Art. 10 - As imagens de satélite apresentadas ao IMA deverão atender aos seguintes requisitos:
+    I.     Projetadas e georreferenciadas no sistema de coordenadas UTM, utilizando o Datum SIRGAS 2000,
+         podendo ser utilizado o SAD69 até 2014, conforme período de transição definido pelo Instituto Brasileiro de
+         Geografia e Estatística (IBGE);
+    II.    Atuais;
+   III.   De alta resolução espacial;
+   IV.    Apresentar combinação de bandas no sistema RGB.
+        §1º - São consideradas imagens de satélite atuais as imagens obtidas (imageadas) nos últimos 24 (vinte e
+quatro) meses, contados anteriormente à data de formação do processo de licenciamento ambiental ou de controle
+florestal.
+       §2º - Nos casos em que for realizado o processamento de fusão de bandas, estas deverão ser
+apresentadas em arquivos separados com o respectivo arquivo de metadados.
+        §3º - Em qualquer tipo de fusão de bandas realizada nas imagens de satélite não poderá haver perda de
+qualidade ou comprometimento dos parâmetros de interpretação tais como padrão, textura, tonalidade, cor, entre
+outros, compatíveis com a resolução espacial exigida.
+Art.11 - Os arquivos raster das imagens de satélite deverão ser apresentados nos formatos TIFF ou GEOTIFF.
+Art.12 - As imagens e os arquivos vetoriais deverão possuir o mesmo Datum e a mesma projeção cartográfica com
+georreferenciamentos equivalentes, evitando desta forma possíveis deslocamentos ou distorções entre estes.
+Art.13 - Nos casos em que as imagens de satélite não estejam disponíveis em acervo ou catálogo, e sua aquisição
+só seja possível através da programação de sensor, o empreendedor deverá apresentar uma declaração, conforme
+Anexo V desta Portaria, constando o prazo de entrega das imagens de satélite ao IMA e as especificações técnicas
+destas, além da cópia do contrato de compra da imagem ou documento equivalente.
+Parágrafo único - Quando se tratar de imagem a ser adquirida para formação de processo de Licença Conjunta
+(LC), a declaração a que se refere o caput deste artigo será assinada pelo representante da entidade que
+representa legalmente o empreendimento.
+Art.14 - Quando da impossibilidade de apresentação de imagens de satélite, poderão ser apresentadas fotografias
+aéreas verticais atuais, devidamente georreferenciadas e ortorretificadas, projetadas e georreferenciadas no
+sistema de coordenadas UTM, utilizando o Datum SIRGAS 2000, podendo ser utilizado o SAD69 até 2014,
+conforme período de transição definido pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
+Parágrafo único - São consideradas fotografias aéreas atuais as fotografias obtidas (imageadas) nos últimos 24
+(vinte e quatro) meses, contados anteriormente à data de formação do processo de licenciamento ambiental ou de
+controle florestal.
+Art.15 - Os arquivos raster das fotografias aéreas verticais deverão ser entregues nos formatos TIFF ou GEOTIFF.
+Art.16 - As fotografias aéreas verticais e os arquivos vetoriais deverão possuir o mesmo Datum e a mesma
+projeção cartográfica com georreferenciamentos equivalentes, evitando desta forma possíveis deslocamentos ou
+distorções entre estes.
+Art.17 - No caso de impossibilidade de apresentação de fotografias aéreas verticais na formação do processo de
+licenciamento ambiental ou de controle florestal devido ao prazo necessário para o aerolevantamento, o
+empreendedor deverá apresentar ao IMA uma Declaração constando o prazo de entrega das fotografias aéreas,
+conforme Anexo V desta Portaria, as especificações técnicas destas, além da cópia do contrato de execução dos
+serviços de aerolevantamento ou documento equivalente.
+Parágrafo único - Quando se tratar de fotografia aérea a ser apresentada para formação de processo de Licença
+Conjunta (LC), a declaração a que se refere o caput deste artigo será assinada pelo representante da entidade que
+representa legalmente o empreendimento.
+Art.18 - Nos casos de apresentação de mosaico de imagens de satélite, ou de fotografias aéreas verticais, o
+respectivo arquivo de metadados deverá conter as informações de cada cena, de acordo com as exigências do
+inciso IX, artigo 2º desta Portaria.
+Art.19 - Os arquivos digitais vetoriais, as imagens de satélite ou fotografias aéreas verticais georreferenciadas e
+seus respectivos metadados deverão ser entregues, obrigatoriamente, em CD ROM ou DVD, com capa de
+proteção em acrílico, separadamente dos demais arquivos e informações relativos ao processo de licenciamento
+ambiental e de controle florestal.
+Esta Portaria entra em vigor na data da sua publicação, revogadas as disposições em contrário.
+
+INSTITUTO DO MEIO AMBIENTE, em 23 de dezembro de 2010.
+PEDRO RICARDO SILVA MOREIRA
+Diretor Geral
+                                                  ANEXO I
+
+Apresentação de arquivos georreferenciados exigidos nos processos de licenciamento ambiental, de
+acordo com a modalidade de licença e porte dos empreendimentos e atividades das Divisões B, C, D, E, F,
+G e H do Anexo III do Regulamento da Lei nº 10.431/06 aprovado pelo Decreto nº 11.235/08 e suas
+alterações.
+
+             PORTE            MODALIDADE DE LICENÇA               ARQUIVOS GEORREFERENCIADOS
+
+             Micro e                                              Planta georreferenciada ou no caso do
+                                          Todos                    Grupo B7, micro porte, coordenadas
+            Pequeno                                                            geográficas
+
+             Médio                        Todos                          Planta georreferenciada
+
+                              Licença de Localização – LL       Planta e imagem de satélite (ou fotografia
+                                                                        aérea) georreferenciadas
+                              Licença de Implantação – LI*               Planta georreferenciada
+      Grande e Excepcional
+                                 Licença de Operação – LO
+                                                                Planta e imagem de satélite (ou fotografia
+                                 Renovação da Licença de                aérea) georreferenciadas
+                                    Operação – RLO
+
+*Nos casos em que a LI for a primeira licença concedida (empreendimentos irregulares) é obrigatório a
+apresentação de imagem de satélite ou fotografia aérea georreferenciadas.
+                                                  ANEXO II
+Apresentação de arquivos georreferenciados exigidos nos processos de licenciamento ambiental, de
+acordo com a tipologia e porte dos empreendimentos e atividades das Divisões B, C, D, E, F, G e H do
+Anexo III do Regulamento da Lei nº 10.431/06 aprovado pelo Decreto nº 11.235/08 e suas alterações.
+      DIVISÃO/GRUPO                PORTE                       ARQUIVOS GEORREFERENCIADOS
+      Divisão B: Mineração
+      Grupos B1 a B6               Micro; Pequeno;           Planta Georreferenciada
+                                   Médio
+                                   Grande; Excepcional       Planta e imagem de satélite (ou fotografia
+                                                             aérea) georreferenciadas
+      Grupo B7                     Micro                     Coordenadas geográficas
+                                   Pequeno; Médio            Planta Georreferenciada
+                                   Grande; Excepcional       Planta e imagem de satélite (ou fotografia
+                                                             aérea) georreferenciadas
+      Divisão C: Indústrias
+      Grupos C1 a C16              Micro; Pequeno;           Planta Georreferenciada
+                                   Médio; Grande
+                                   Excepcional               Planta e imagem de satélite (ou fotografia
+                                                             aérea) georreferenciadas
+      Divisão D: TRANSPORTE
+      Grupos D1, D2, D3.1, D4,     Micro; Pequeno;           Planta Georreferenciada
+                                   Médio; Grande;
+                                   Excepcional
+      Divisão E: SERVIÇOS
+      Grupos E1 a E12 (exceto:     Micro; Pequeno;           Planta Georreferenciada
+      E2.1, E2.2, E2.4)            Médio; Grande;
+                                    Excepcional
+      Grupos E2.1, E2.2, E2.4       Micro; Pequeno;         Planta Georreferenciada
+                                    Médio
+                                    Grande; Excepcional     Planta e imagem de satélite (ou fotografia
+                                                            aérea) georreferenciadas
+      Divisão F: OBRAS CIVIS
+      Grupos F1, F2, F4, F5 e F6    Micro; Pequeno;         Planta Georreferenciada
+                                    Médio
+                                    Grande; Excepcional     Planta e imagem de satélite (ou fotografia
+                                                            aérea) georreferenciadas
+      Grupo F3                 Micro; Pequeno;              Planta Georreferenciada
+                               Médio; Grande e
+                               Excepcional
+      Divisão G: EMPREENDIMENTOS URBANÍSTICOS, TURÍSTICO E DE LAZER
+      Grupos G1, G2.1, G2.2, Micro; Pequeno;       Planta Georreferenciada
+      G2.3                     Médio
+                               Grande; Excepcional Planta e imagem de satélite (ou fotografia
+                                                   aérea) georreferenciadas
+      Grupos G2.2.1            Micro; Pequeno;     Planta Georreferenciada
+                               Médio; Grande;
+                               Excepcional
+      Divisão H: BIOTECNOLOGIA
+      Grupo H1                 Micro; Pequeno;     Planta Georreferenciada
+                               Médio; Grande
+                               Excepcional         Planta e imagem de satélite (ou fotografia
+                                                   aérea) georreferenciadas
+                                                   ANEXO III
+      Critérios de precisão cartográfica e procedimentos para georreferenciamento de imóveis rurais
+1. Sistema Cartográfico
+Deverá ser adotado para a execução do cálculo de coordenadas, distância, área e azimute, o plano de projeção
+UTM. Todos os cálculos deverão ser realizados no plano de projeção UTM, visando atender a medição,
+demarcação e georreferenciamento de imóveis rurais. O referencial planimétrico (Datum horizontal) deverá ser o
+SIRGAS 2000, podendo ser utilizado o SAD69 até 2014, conforme período de transição definido pelo Instituto
+Brasileiro de Geografia e Estatística (IBGE).
+As altitudes fundamentais serão referenciadas ao zero do marégrafo de Imbituba, em Santa Catarina. Deverá ser
+utilizado o referencial altimétrico que coincidir com o nível médio dos mares no Porto Henrique Lage, na Baía de
+Imbituba, Santa Catarina (Datum vertical).
+Toda a infraestrutura geodésica, indispensável aos trabalhos de georreferenciamento, deverá ser obtida de dados
+fundamentais do Sistema Geodésico Brasileiro, oriundos exclusivamente de:
+a) redes geodésicas estaduais estabelecidas a partir do rastreamento de sinais de satélites de posicionamento e
+homologadas pelo IBGE;
+b) vértices da rede fundamental (1ª ordem) brasileira, desde que os mesmos tenham sido reocupados com
+rastreadores de sinais do GPS, e suas novas coordenadas homologadas pelo IBGE;
+c) estações ativas receptoras de sinais de satélites do GPS da Rede Brasileira de Monitoramento Contínuo -
+RBMC/IBGE;
+d) estações ativas receptoras de sinais de satélites do GPS da Rede INCRA de Bases Comunitárias do GPS –
+RIBAC, quando homologadas;
+e) estações ativas receptoras de sinais de satélites do GPS, pertencentes a outros órgãos públicos ou empresas
+privadas, desde que homologadas pelo IBGE;
+f) linhas de nivelamento geométrico e/ou redes trigonométricas, quando necessárias ao apoio vertical,
+homologadas pelo IBGE;
+A inexistência de infraestrutura geodésica na região dos trabalhos implicará na determinação de coordenadas de
+uma base, preferencialmente por rastreamento de sinais de satélites do GPS com as convenientes técnicas de
+processamento e redução ao elipsóide, de modo a atender as necessidades de apoio geodésico do projeto.
+Quando do uso de transporte de coordenadas pelo método convencional, é indispensável à utilização de 2 (dois)
+vértices distintos das redes supracitadas. Em qualquer caso, as coordenadas utilizadas como referência deverão
+ter seus respectivos indicadores de precisão fornecidos pela entidade provedora das mesmas.
+2. Levantamentos de Apoio Básico
+2.1 Técnicas convencionais
+Os levantamentos de controle com técnicas convencionais são definidos para fins desta Norma, como aqueles que
+utilizam medições angulares, lineares e de desníveis através de, respectivamente, teodolitos, medidores
+eletrônicos de distâncias e níveis em suas diversas combinações e cálculos decorrentes. Destinam-se a fornecer
+pontos diversos com coordenadas e altitudes para a utilização nos levantamentos que visam a determinação do
+perímetro e do georreferenciamento da propriedade. A classificação dos equipamentos convencionais de acordo
+com suas precisões é apresentada a seguir:
+Teodolitos
+Os teodolitos são classificados de acordo com o desvio padrão de uma direção observada em duas posições da
+luneta (CE/CD). O valor da precisão interna de cada modelo é normalmente definido pelo fabricante. Não havendo
+indicação deste, a precisão angular poderá ser aferida por entidade oficial habilitada a partir de testes efetuados
+em campo de prova ou laboratório de aferição.
+Tabela 1. Classificação dos teodolitos de acordo com a sua precisão angular (ABNT-NBR-13.133/DIN18.723).
+                   Classe de teodolitos                    Desvio-padrão (precisão angular)
+         1 – precisão baixa                                         ≤ 30”
+         2 – precisão média                                         ≤ 07”
+         3 – precisão alta                                          ≤ 02”
+
+Níveis
+Os níveis são classificados de acordo o desvio padrão correspondente a 1 km de duplo nivelamento e tem sua
+precisão indicada pelo fabricante. Devem ser aferidos periodicamente para correção de erros sistemáticos.
+Tabela 2. Classificação dos níveis (ABNT-NBR-13.133).
+
+                     Classe de níveis                               Desvio-padrão
+         1 – precisão baixa                                          > 10 mm / km
+         2 – precisão média                                         ≤03 mm / km
+         3 – precisão alta                                          ≤01 mm / km
+         4 – precisão muito alta                                    ≤01 mm / km
+MEDs – Medidores Eletrônicos de Distância
+Os medidores eletrônicos de distância são classificados de acordo com o desvio padrão (Tabela 3).
+Tabela 3. Classificação dos medidores eletrônicos de distância – MEDs (ABNT-NBR-13.133).
+
+                     Classe de MEDs                                Desvio-padrão
+         1 – precisão baixa                                     (10 mm + 10 ppm x D)
+         2 – precisão média                                      (5 mm + 5 ppm x D)
+         3 – precisão alta                                       (3 mm + 2 ppm x D)
+Onde: D = Distância medida em km e ppm = parte por milhão
+Estações Totais
+As estações totais são medidores eletrônicos de ângulos e distâncias (Tabela 4).
+Tabela 4. Classificação das estações totais de acordo com a precisão interna (ABNT-NBR-13.133).
+
+         Classes de Estações                Desvio padrão                    Desvio padrão
+                 Totais                   (precisão angular)                (precisão linear)
+      1 – precisão baixa                         ≤30”                    (5 mm + 10 ppm x D)
+      2 – precisão média                         ≤07”                     (5 mm + 5 ppm x D)
+      3 – precisão alta                          ≤02”                     (3 mm + 3 ppm x D
+3. Elaboração de poligonais
+As poligonais deverão ser elaboradas linearmente, sem mudanças substanciais de sentido, com deflexão superior
+a 60°, buscando minimizar os erros de orientação comuns às poligonais.
+O controle azimutal deverá ser rigorosamente observado. Nas medições angulares, metade das observações será
+efetuada no ângulo interno e metade no ângulo externo, com discrepâncias máximas de 360 ±  4”, 360 ±  5”,
+respectivamente para poligonais de precisão (CONTROLE BÁSICO) e apoio ao levantamento e à demarcação
+(CONTROLE IMEDIATO), de acordo com os critérios e procedimentos da Norma Técnica para
+Georreferenciamento de Imóveis Rurais do INCRA Lei n° 10.267, de 28/08/2001 e Decreto n° 4.449, de
+30/10/2002.
+A elaboração do traçado das poligonais deverá permitir a distribuição de pontos de apoio em número e localização
+necessários às etapas posteriores de: levantamento e demarcação, levantamento de detalhes e
+georreferenciamento, resguardadas as distancias máximas para as mesmas. Na elaboração das poligonais os
+pontos de partida e chegada deverão ser distintos, qualquer que seja a técnica de levantamento utilizada. Sob
+nenhuma hipótese será admitido o fechamento da elaboração de uma poligonal em torno de um mesmo ponto.
+                                         ANEXO IV
+Modelo de croqui da propriedade rural para fins de aprovação da localização de Reserva Legal
+                                                   ANEXO V
+      Declaração para Alteração de Prazo de Entrega de Imagens de Satélite ou Fotografias Aéreas Verticais
+                                              Georreferenciadas
+
+
+
+
+Eu______________________________,CPFnº____________,nacionalide___________, residente e domiciliado
+(a)       a___________________________________________,             representante        legal     da       empresa
+_________________________________________, CNPJ nº ___________________, declaro que a entrega da(s)
+______________________________         [imagem   (ns)   de   satélite   ou   fotografia(s)   aérea(s)   vertical   (is)
+georreferenciadas] ao Instituto do Meio Ambiente (IMA) referentes ao processo de licenciamento ambiental do
+empreendimento __________________, ocorrerá até____de_________de 20__, e apresento anexa a esta
+declaração, cópia do contrato de compra de imagem de satélite georreferenciada ou de execução dos serviços de
+aerolevantamento, ou documento equivalente.
+
+                                     _________________________________
+                                            Assinatura do declarante
+                                     Salvador____de___________de 20____.
+

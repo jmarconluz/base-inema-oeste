@@ -1,0 +1,384 @@
+                                                                         Salvador, Bahia – Sexta-Feira,
+                                                                                   01 de Julho de 2022
+                                                                                    Ano CVI – Nº 23.448
+
+
+                 INSTRUÇÃO NORMATIVA Nº 003 DE 30 DE JUNHO DE 2022
+
+Dispõe sobre procedimentos administrativos e critérios técnicos de Autorização para
+Perfuração de Poços – APPO, tamponamento de poços, monitoramento e outorga para fins
+de exploração de água subterrânea no aquífero Urucuia de domínio do Estado da Bahia.
+Revoga a Instrução Normativa INGÁ Nº 15 de 18 de março de 2010.
+
+A Diretora Geral do INSTITUTO DO MEIO AMBIENTE E RECURSOS HÍDRICOS - INEMA com
+fulcro nas atribuições e competências que lhe foram delegadas pela Lei Estadual nº
+12.212/11 e Leis Estaduais nº 10.431/06 e 11.612/09, e suas alterações, regulamentadas
+pelo Decreto Estadual nº 14.024/12;
+
+Considerando o Art. 26, inciso I da Constituição Federal de 1988 estabelece que as águas
+superficiais e subterrâneas incluem-se entre os bens dos Estados;
+
+Considerando a Lei Estadual nº 11.612/09; o Art. 24, inciso III, que a qualquer tempo, o
+outorgante poderá revisar autorizações emitidas, podendo ser suspensa parcial ou
+totalmente, bem como ser extinta, nas hipóteses dos arts. 19 e 20 da Lei nº 11.612/09 e dos
+arts. 24 e 25 da Resolução CNRH nº 16/2001;
+
+Considerando a Resolução CONERH nº 96, de 25 de fevereiro de 2014, que estabelecem
+diretrizes e critérios gerais para a outorga do direito de uso dos recursos hídricos de domínio
+do Estado da Bahia;
+
+Considerando a Portaria INEMA nº 11.292 de 13 de fevereiro de 2016, que define os
+documentos e estudos necessários para requerimento junto ao INEMA dos atos
+administrativos para regularidade ambiental de empreendimentos e atividades no Estado da
+Bahia;
+
+Considerando o disposto na Portaria INEMA nº 21.953 de 07 de dezembro de 2020;
+
+Considerando a Portaria INEMA nº 22.181, de 28 de janeiro 2021, que estabelece critérios
+para implantação de sistema de medição para monitoramento dos usos e intervenções em
+recursos hídricos visando à adoção de medidas de controle no estado da Bahia;
+
+Considerando o Termo de Cooperação Técnica n° 001/2017, referente ao Projeto de Estudo
+do Potencial Hídrico da Região do Oeste da Bahia: Quantificação e Monitoramento da
+Disponibilidade dos Recursos do Aquífero Urucuia e Superficiais nas Bacias dos Rios Corrente
+e Grande, firmado entre o Programa para Desenvolvimento do Agronegócio (PRODEAGRO) e
+o Estado da Bahia através da Secretaria da Agricultura, Irrigação, Pecuária, Pesca e
+Aquicultura (SEAGRI), Secretaria Estadual de Meio Ambiente (SEMA), Secretaria de
+Infraestrutura Hídrica e Saneamento (SIHS) e Instituto de Meio Ambiente e Recursos
+Hídricos (INEMA);
+Considerando o Convênio n° 11/2018, firmado entre o Programa para o Desenvolvimento da
+Agropecuária (PRODEAGRO), a Universidade Federal de Viçosa (UFV), Fundação Arthur
+Bernardes (FUNARB), Associação de Agricultores e Irrigantes da Bahia (AIBA) e Instituto de
+Associação e Agricultores e Irrigantes da Bahia (IAIBA);
+
+Considerando o Relatório Técnico Final do Estudo do Potencial Hídrico da Região Oeste da
+Bahia: Quantificação e Monitoramento da Disponibilidade dos Recursos do Aquífero Urucuia
+e Superficiais nas Bacias dos rios Grande, Corrente e Carinhanha do Convênio n° 11/2018;
+Considerando o Relatório Técnico Final do Sistema integrado de inteligência territorial para
+gestão dos recursos hídricos superficiais e subterrâneos e desenvolvimento sustentável da
+agricultura irrigada no Oeste da Bahia desenvolvido no período de 2019 a 2021 sob
+responsabilidade técnica da Universidade Federal de Viçosa (UFV) e do Instituto de
+Geociências da Universidade Federal do Rio de Janeiro (UFRJ);
+
+Considerando que o aquífero Urucuia é um extenso aquífero sedimentar e exerce função de
+regulador de vazões e seu fluxo subterrâneo contribui para perenização dos principais
+afluentes da margem esquerda do Rio São Francisco;
+
+Considerando que a exploração desordenada das águas subterrâneas pode implicar na
+alteração do equilíbrio hidrodinâmico do aquífero, redução dos volumes disponíveis,
+redução da sua capacidade de armazenamento, diminuição do volume de corpos hídricos
+superficiais e alteração da qualidade do aqüífero;
+
+Considerando ainda a necessidade de orientar os processos para obtenção de regularidade
+ambiental de uso do manancial subterrâneo do aquífero Urucuia;
+
+RESOLVE:
+
+Art. 1º. Ficam estabelecidos os procedimentos administrativos e critérios técnicos de
+Autorização para Perfuração de Poços (APPO), tamponamento de poços, monitoramento e
+outorga para fins de exploração de água subterrânea no aquífero Urucuia de domínio do
+Estado da Bahia.
+
+                                CAPÍTULO I - DAS DEFINIÇÕES
+
+Art. 2º. Para efeitos desta Portaria considera-se:
+
+   ABNT: Associação Brasileira de Normas Técnicas
+
+   APPO: Autorização para Perfuração de Poços;
+
+   ATEND: Central de Atendimento do INEMA;
+
+   ART: Anotação de Responsabilidade Técnica
+
+   APP: Área de Preservação Permanente;
+
+   CNARH: Cadastro Nacional de Usuários de Recursos Hídricos;
+Coeficiente de armazenamento (S): Parâmetro adimensional que descreve a capacidade
+do sistema aquífero de armazenar água;
+
+Condutividade hidráulica (K): Parâmetro que mede a facilidade com a qual a água se
+move no solo;
+
+COCSB / DIRAM: Coordenação de Cadastro de Usuários e Segurança de Barragem /
+Diretoria De Recursos Hídricos e Monitoramento Ambiental;
+
+FCE: Formulário de Caracterização do Empreendimento;
+
+GEOBAHIA: Sistema de Informação Geográfica (SIG) oficial utilizado no INEMA;
+
+Google Earth: Programa de computador desenvolvido e distribuído pela empresa
+estadunidense do Google cuja função é apresentar um modelo tridimensional do globo
+terrestre, construído a partir de mosaico de imagens de satélite obtidas de fontes
+diversas, imagens aéreas e GIS 3D;
+
+NBR nº 12.212 de 14/09/2017: Projeto de poço tubular para captação de água
+subterrânea - Procedimento;
+
+NBR nº 12.244 de 31/03/2006: Poço tubular - Construção de poço tubular para captação
+de água subterrânea;
+
+NBR nº 15.495-1 de 18/06/2007: Poços de monitoramento de águas subterrâneas em
+aqüíferos granulados - Parte 1: Projeto e construção;
+
+Nível Dinâmico (ND): Nível do lençol d’água dentro do poço, medido a partir da
+superfície do terreno, quando o poço está sob – regime de bombeamento e o nível de
+água for considerado em equilíbrio dinâmico;
+
+Nível Estático (NE): Nível da superfície livre da água dentro do poço, medida a partir da
+superfície do terreno, quando o poço não está sendo bombeado e o nível de água for
+considerado em repouso;
+
+NOUT/DIRRE: Núcleo de Outorga/Diretoria de Regulação;
+
+Período de bombeio: tempo máximo de funcionamento do conjunto motor-bomba;
+
+Poço Tubular: perfuração vertical, cilíndrica, revestida com material em PVC aditivado ou
+em aço, em forma de tubos e filtros, para captar água subterrânea de aquífero existente
+na crosta terrestre;
+
+PPV: Prorrogação do Prazo de Validade;
+
+Rios intermitentes: corpos de água lóticos que naturalmente não apresentam
+escoamento superficial por períodos do ano;
+
+Rios perenes: corpos de água lóticos que possuem naturalmente escoamento superficial
+durante todo o período do ano;
+   SAU: Sistema Aquífero Urucuia;
+
+   SEIA: Sistema Estadual de Informações Ambientais e de Recursos Hídricos;
+
+   Testes de aquífero: Consiste em bombear água de um poço e observar os rebaixamentos
+   ocasionados pelo bombeamento neste poço e em outros poços de observação vizinhos.
+   Este tipo de teste tem como finalidade a determinação dos paramentos hidrodinâmicos
+   do meio poroso-Condutividade hidráulica (K), Transmissividade (T) e Coeficiente de
+   armazenamento (S);
+
+   Testes de bombeamento: Teste realizado para verificar o comportamento de um poço
+   em funcionamento, seu desempenho e eficiência;
+
+   Testes de interferência: Teste realizado para verificar a interferência de um poço
+   bombeado, monitorando a variação do nível da água em um ou mais poços e entre
+   poços e Rios;
+
+   Transmissividade (T): Quantidade de água que pode ser transmitida horizontalmente por
+   toda a espessura saturada do aquífero. Pode-se conceituá-la como a taxa de escoamento
+   de água através de uma faixa vertical do aquífero com largura unitária submetida a um
+   gradiente hidráulico unitário.
+
+                    CAPÍTULO II – DAS DISPENSAS E INEXIGIBILIDADE
+
+Art. 3º. Considera-se inexigível de solicitação de APPO os poços e/ou piezômetros
+perfurados para fins de pesquisa com finalidade de monitoramento qualitativo ou
+quantitativo do aquífero ou para pesquisas hidrogeológica, devendo o interessado
+apresentar o prévio requerimento de inexigibilidade ao INEMA, de acordo com os arts. 14 e
+15, da Resolução CONERH nº. 96/2014, bem como Portaria INEMA nº. 11.292/2016, em seu
+anexo IV;
+
+Art. 4º. Na análise de disponibilidade hidrogeológica é verificado se a vazão do teste de
+bombeamento dos poços se enquadra na quantidade de vazão solicitada pelo requerente.
+
+      §1°- vazões iguais ou inferiores a 0,5 L/s serão dispensados de outorga de uso da
+      água, desde que não haja restrições na área estabelecida pelo INEMA;
+
+      §2°-em caso de abastecimento público em meio rural, vazões iguais ou inferiores a
+      1,5 L/s serão dispensados de outorga de uso da água.
+
+        CAPÍTULO III - DAS AUTORIZAÇÕES PARA PERFURAÇÃO DE POÇOS (APPO)
+
+Art. 5º. O requerimento de APPO deve seguir o disposto na Portaria INEMA nº 11.292/2016.
+
+Art. 6º. O usuário que requerer a APPO e ou a captação de água subterrânea deve seguir as
+diretrizes da ABNT: NBR n Nº 12.212 de 31/03/2006, NBR n Nº 12.244 de 31/06/2006 e NBR
+n Nº 15.495-1 de 18/06/2007.
+Art. 7º. A empresa perfuradora de poços deverá estar devidamente cadastrada no INEMA. O
+cadastro é realizado na ATEND por meio de preenchimento de formulário próprio e
+encaminhado à COCSB / DIRAM.
+
+Art. 8º. A perfuração dos poços deve ser acompanhada por Geólogo ou Engenheiro de
+Minas e deverá apresentar cópia da ART.
+
+Art. 9º. Não será permitida a perfuração de poços em área de APP e de reserva legal
+aprovadas; exceto para as atividades de interesse social, utilidade publica e baixo impacto
+ambiental, conforme definições do Código Florestal Brasileiro e outras normas vigentes.
+
+Art. 10º. Não serão autorizadas novas perfurações e/ou concessões de outorga de recursos
+hídricos em áreas consideradas como crítica nos Planos de Recursos Hídricos de Bacias
+Hidrográficas, em estudos que demonstrem situações de criticidade e em avaliações técnicas
+devidamente fundamentadas pelo órgão executor da Política Estadual de Recursos Hídricos.
+
+Art. 11º. Em caso de emissão de APPO em Unidades de Conservação, o usuário deverá
+obedecer aos critérios de uso estabelecidos nos Planos de Manejo dessas unidades de
+conservação em que o empreendimento está inserido.
+
+Art. 12º. Para efeito desta Instrução Normativa ficam definidas as seguintes distâncias
+mínimas, entre poços e entre estes e os cursos d’água como manifestação prévia da
+expectativa de vazão, respeitando os critérios:
+
+       §1°- Entre poços tubulares de usuários de recursos hídricos:
+
+       I – distância inferior a 500 metros: expectativa de dispensa de outorga, somente para
+       fins de consumo humano e dessedentação animal;
+
+       II – distância de 500 até 1000 metros: expectativa de captação de até 1.800 m³/dia;
+
+       III – distância acima de 1000 até 1500 metros: expectativa de captação de até 3.600
+       m³/dia;
+
+       IV – distância acima 1500 até 2000 metros: expectativa de captação de até 5.400
+       m³/dia;
+
+       V – distância acima 2000 até 2500 metros: expectativa de captação de até 7.200
+       m³/dia;
+
+       VI – distância acima de 2500 metros: expectativa de captação de até 9.000 m³/dia.
+
+       §2°- Para um conjunto de poços situados em um perímetro que caracterize um único
+       empreendimento e usuário de recursos hídricos, será adotada a regra do §1° para
+       determinar o número máximo de poços no perímetro. A locação dos poços ficará a
+       critério do usuário de recursos hídricos obedecendo à expectativa de captação
+       máxima, entretanto pode se adotar distanciamentos diferenciados de acordo com
+       projeto apresentado.
+       §3°- Nos casos em que se adotar distanciamentos diferenciados daqueles definidos
+       no §1° e forem identificadas possíveis interferências nos valores totais dos volumes
+       captados entre poços do mesmo empreendimento, a responsabilidade será
+       inteiramente do empreendedor.
+       §4°-Os distanciamentos diferenciados daqueles definidos no §1° não serão
+       permitidos se forem identificados possíveis interferências nos valores totais dos
+       volumes captados entre poços de propriedades vizinhas de diferentes proprietários.
+
+       §5°- Entre poços tubulares e rios perenes ou intermitentes:
+
+       I – distância inferior a 500 metros: expectativa de dispensa de outorga, somente para
+       fins de consumo humano e dessedentação animal;
+
+       II – distância de 500 até 1.000 metros: expectativa de captação de até 1.800 m³/;
+
+       III – distância acima 1000 até 1500 metros: expectativa de captação de até 3.600
+       m³/dia;
+
+       IV – distância acima 1500 até 2000 metros: expectativa de captação de até 5.400
+       m³/dia;
+
+       V – distância acima 2000 até 2500 metros: expectativa de captação de até 7.200
+       m³/dia;
+
+       IV – distância acima de 2500 metros: expectativa de captação de até 9.000 m³/dia.
+
+       §6°- A profundidade será definida com base em estudos de possível interferência do
+poço no manancial mais próximo, apresentado pelo usuário, visando à segurança hídrica da
+bacia.
+       .
+
+Art. 13º. A análise de distanciamento entre poços e os cursos d’água será feita utilizando
+ferramentas como imagens de satélite (Google Earth) e a base cartográfica do GEOBAHIA;
+podendo ainda, serem utilizados outros estudos ou ferramentas de Georeferenciamento.
+
+ CAPÍTULO IV - DOS CRITÉRIOS TÉCNICOS PARA OUTORGA DE CAPTAÇÃO SUBTERRÂNEA
+
+Art. 14º. A vazão de captação será definida na outorga de direito de uso dos recursos
+hídricos, considerando as informações técnicas repassadas pelo interessado, tais como teste
+de bombeamento, teste de interferência, laudo hidrogeológico e dados de monitoramento
+do aquífero. E levando em consideração os critérios definidos no Art.12º.
+
+Art.15º. A análise de solicitação de outorga de direito de uso dos recursos hídricos levará em
+consideração o atendimento d aos condicionantes de APPO e apresentadas de acordo com a
+Portaria INEMA nº 21.953/2020.
+
+Art. 16º. Todas as análises de outorga de água subterrânea estão condicionadas a
+apresentação de estudos hidrogeológicos específicos e testes de bombeamentos para fins
+de análise da disponibilidade hidrogeologia. E ainda, a apresentação de projeto especifico
+que justifique a demanda hídrica do empreendimento.
+Art. 17º. Poderá ser solicitada a realização de perfilagem geofísica com os perfis de Raio
+Gama, Eletroresistividade, Perfil Sônico Potencial espontâneo para subsidiar a analise do
+requerimento de outorga para captação subterrânea.
+
+Art. 18º. Poderá ser solicitada a realização de analise química de água e solo para avaliação
+qualitativa.
+
+Art. 19º. Poderá ser solicitado teste de interferência em captações em propriedades vizinhas
+como condicionante para perfuração de poços no mesmo empreendimento.
+
+Art. 20º. A captação máxima a ser autorizada em poços perfurados no SAU é de até 9.000
+m³/dia.
+
+Art. 21º. A qualquer tempo o INEMA pode reavaliar, mediante decisão motivada, os volumes
+outorgados e o tempo de bombeamento/dia, podendo suspender temporário ou
+definitivamente a autorização para exploração dos recursos hídricos subterrâneos.
+
+Parágrafo único. A outorga poderá também ser revisada pelo Poder Público nas hipóteses
+previstas nos incisos do art. 19 da Lei Estadual nº11.612, de 08 de Outubro de 2019 que
+dispõe sobre a Política Estadual de Recursos Hídricos.
+
+Art. 22º. A vazão máxima a ser outorgada poderá ultrapassar os limites estabelecidos no Art.
+12, respeitando o Art.20, desde que o empreendedor apresente estudo específico da
+hidrogeologia da área alvo da solicitação de outorga, com comprovação da não influência
+nas vazões de poços tubulares pré-existentes e/ou recursos hídricos superficiais do entorno,
+de modo a não acarretar prejuízos a terceiros e aos cursos d’água. O estudo deve ser
+acompanhado de ART do profissional responsável.
+
+ CAPÍTULO V - DOS CRITÉRIOS TÉCNICOS PARA O MONITORAMENTO DOS MANANCIAIS E
+                                     DO USO
+
+Art. 23º. O usuário deverá construir piezômetro com revestimento e filtro geomecânico com
+diâmetro de 4’ ou de aço de 3’ a 4’ com distância entre 25 a 50 metros do poço produtor e
+instalar medidor de nível de água automático. O número de piezômetros que deve ser
+instalado em cada propriedade será descrito nos condicionantes de emissão da APPO.
+
+Art. 24 º. O detentor da APPO deverá elaborar uma Ficha do Poço de Monitoramento e
+protocolar a mesma em anexo ao Relatório de Atendimento de Condicionantes a ser
+entregue no sistema SEI após a perfuração do poço, e antes de formalizar a solicitação de
+outorga.
+
+Art. 25º. Quando necessário, o INEMA pode solicitar instalação de estações fluviométricas
+telemétrica, a fim de monitorar as captações dos volumes outorgados de um conjunto de
+poços em um mesmo empreendimento inserido próximo ao manancial, com o objetivo de
+identificar possíveis impactos pelo bombeamento.
+
+Art. 26º. O usuário deverá instalar medidores de vazão nos poços, antes do inicio da
+captação autorizada, de acordo com a Portaria INEMA nº 22.181/2021 considerando o
+somatório da vazão outorgada para a propriedade.
+Art. 27º. O monitoramento do aquífero deve atender aos condicionantes escritos no ato
+autorizativo e o que consta na Portaria INEMA nº 22.181/2021.
+
+
+
+                                CAPÍTULO V - DOS PRAZOS
+
+Art. 28º. Os prazos para perfuração dos poços são de 02 (dois) anos, sendo prorrogado por
+igual período mediante a solicitação de PPV no SEIA.
+
+Art. 29º. A solicitação de PPV / APPO deve ser requerida com 90 (noventa) dias de
+antecedência, sendo que o deferimento da solicitação de PPV / APPO será através de
+emissão de notificação de comunicação.
+
+Art. 30º. Os prazos estabelecidos para a vigência da outorga são os mesmos definidos na
+Portaria INEMA nº 11.292/2016.
+
+                            CAPÍTULO VI - DISPOSIÇÕES FINAIS
+
+Art. 31º. Os poços abandonados, temporária ou definitivamente, deverão ser tecnicamente
+tamponados de forma a evitar contaminação para as águas subterrâneas.
+
+Art. 32º. Em caso de tamponamento do poço, o requerente deverá solicitar o cancelamento
+do ato autorizativo juntamente com a entrega do Relatório de Atendimento de
+Condicionantes no sistema SEI.
+
+Art. 33º. Fica revogada a Instrução Normativa INGÁ Nº 15 de 18 de março de 2010.
+
+Art.34º - As APPO emitidas com base na Instrução Normativa INGÁ Nº 15 de 18 de março de
+2010 e com prazo de validade vigente até a presente data continuam válidas, uma vez que
+as mesmas não criam expectativas em relação à vazão a ser captada. A análise das
+solicitações de vazão dependerá da demanda e disponibilidade hídrica a ser analisada em
+processo próprio de outorga e de acordo com a norma vigente no ato de análise do
+processo.
+
+Art. 35º. Solicitações de alteração de projetos de captação subterrânea deferidos, com
+emissão de portaria de outorga vigente, deverão ser requeridos no sistema SEIA mediante o
+atendimento dos itens do Capítulo V desta Instrução Normativa.
+
+Art. 36º. Esta Instrução Normativa entra em vigor na data de sua publicação.
+
+DANIELLA TEIXEIRA FERNANDES DE ARAÚJO
+Diretora Geral em Exercício
+

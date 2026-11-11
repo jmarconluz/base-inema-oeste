@@ -1,0 +1,640 @@
+                              DIÁRIO OFICIAL DA UNIÃO
+                            Publicado em: 10/07/2026 | Edição: 128-A | Seção: 1 - Extra A | Página: 6
+               Órgão: Ministério do Meio Ambiente e Mudança do Clima/Conselho Nacional do Meio Ambiente
+
+
+                          RESOLUÇÃO CONAMA Nº 516, DE 8 DE JULHO DE 2026
+
+                                                  Estabelece restrições ao uso de determinadas substâncias
+                                                  perigosas em equipamentos eletroeletrônicos comercializados
+                                                  no território nacional.
+
+
+            O CONSELHO NACIONAL DO MEIO AMBIENTE, no uso das atribuições que lhe conferem os arts.
+6º, inciso II, e 8º, inciso VII, da Lei nº 6.938, de 31 de agosto de 1981, tendo em vista o disposto em seu
+Regimento Interno, assim como nos art. 2º, art. 6º, inciso I, art. 30 e art. 31, incisos I e II, da Lei nº 12.305, de
+2 de agosto de 2010, bem como o que consta do Processo Administrativo nº 02000.002604/2025-82,
+resolve:
+
+           CAPÍTULO I
+
+           DISPOSIÇÕES GERAIS
+
+          Art. 1º Esta Resolução estabelece restrições ao uso de determinadas substâncias perigosas em
+equipamentos eletroeletrônicos comercializados no território nacional, com o objetivo de contribuir para a
+destinação final ambientalmente adequada, bem como para a proteção da saúde humana e do meio
+ambiente.
+
+           Parágrafo único. A aplicação desta Resolução não prejudica a observância dos tratados
+internacionais dos quais o Brasil seja signatário, bem como as normas brasileiras que regulam as relações
+de consumo.
+
+           Art. 2º Para efeitos desta Resolução, adotam-se as seguintes definições:
+
+          I - comerciante: pessoa física ou jurídica distinta do fabricante, do importador ou do distribuidor,
+que oferte ou permita que terceiros que ofertem ou comercializem equipamento eletroeletrônico para
+consumidor, a título oneroso ou gratuito, inclusive plataformas de comércio eletrônico;
+
+           II - consumidor: pessoa física ou jurídica que adquire ou utiliza equipamento eletroeletrônico;
+
+           III - descontinuação: medida, planejada pelo fabricante ou pelo importador, de retirada do
+produto da cadeia de suprimentos em razão de defasagem tecnológica ou exigências legais, na qual os
+fabricantes ou importadores não aceitarão pedidos de produtos descontinuados a partir da data de
+descontinuação informada pelos fabricantes;
+
+          IV - dispositivo médico: qualquer instrumento, aparelho, equipamento, implante, dispositivo
+médico para diagnóstico in vitro, software, material ou outro artigo, destinado pelo fabricante a ser usado,
+isolado ou conjuntamente, em seres humanos, para algum dos seguintes propósitos médicos específicos,
+e cuja principal ação pretendida não seja alcançada por meios farmacológicos, imunológicos ou
+metabólicos no corpo humano, mas que pode ser auxiliado na sua ação pretendida por tais meios:
+
+           a) diagnóstico, prevenção, monitoramento, tratamento (ou alívio) de doença;
+
+           b) diagnóstico, monitoramento, tratamento ou reparação de lesão ou deficiência;
+
+          c) investigação, substituição, alteração da anatomia ou de processo ou de estado fisiológico ou
+patológico;
+
+           d) suporte ou manutenção da vida;
+
+           e) controle ou apoio à concepção; ou
+
+          f) fornecimento de informações por meio de exame in vitro de amostras provenientes do corpo
+humano, incluindo doações de órgãos e tecidos;
+
+         V - dispositivo médico eletroeletrônico: qualquer dispositivo médico eletroeletrônico cujo
+funcionamento dependa de fonte de energia elétrica;
+         VI - dispositivo médico implantável eletroeletrônico: qualquer dispositivo eletroeletrônico
+destinado a ser introduzido totalmente no corpo humano mediante intervenção clínica e a nele
+permanecer após a intervenção, ou destinado a ser introduzido parcialmente no corpo humano mediante
+intervenção clínica e a nele permanecer por período de, pelo menos, trinta dias;
+
+          VII - dispositivo para diagnóstico in vitro: reagentes, calibradores, padrões, controles, coletores
+de amostra, softwares, instrumentos ou outros artigos, usados individualmente ou em combinação, com
+intenção de uso determinada pelo fabricante, para a análise in vitro de amostras derivadas do corpo
+humano, exclusivamente ou principalmente, para fornecer informações para fins de diagnóstico, auxílio ao
+diagnóstico, monitoramento, compatibilidade, triagem, predisposição, prognóstico, predição ou
+determinação do estado fisiológico;
+
+           VIII - dispositivo veterinário eletroeletrônico: qualquer dispositivo elétrico e eletrônico para ser
+utilizado em animais, destinado à prevenção, diagnóstico, tratamento, reabilitação ou anticoncepção e que
+não utiliza meio farmacológico, imunológico ou metabólico, podendo, entretanto, ser auxiliado em suas
+funções por tais meios, cujo funcionamento dependa de fonte de energia elétrica ou qualquer outra fonte
+de potência distinta da gravidade ou gerada pelo corpo animal e que funcione pela conversão desta
+energia;
+
+           IX - distribuidor: pessoa física ou jurídica, distinta do fabricante ou do importador, que oferte ou
+distribua equipamento eletroeletrônico ao comerciante;
+
+          X - equipamentos eletroeletrônicos: equipamentos cujo funcionamento adequado depende de
+correntes elétricas ou de campos eletromagnéticos para cumprir pelo menos uma função prevista, bem
+como os equipamentos para geração, transmissão, transferência e medição dessas correntes e campos,
+com tensão nominal não superior a 1000 V em corrente alternada e 1500 V em corrente contínua,
+incluindo partes e peças, por exemplo, eletrodomésticos, equipamentos de informática e
+telecomunicações, equipamentos de iluminação, equipamentos de consumo, módulos fotovoltaicos,
+ferramentas eletroeletrônicas, brinquedos e equipamentos de esporte e lazer, dispositivos médicos
+eletroeletrônicos, instrumentos eletroeletrônicos para diagnóstico in vitro, dispositivos veterinários
+eletrônicos, instrumentos de monitoração e controle, e dispensadores automáticos;
+
+        XI - equipamentos industriais fixos de grandes dimensões: grande conjunto de máquinas, de
+equipamentos ou de componentes que funcionam conjuntamente para aplicação específica, instaladas de
+forma permanente, cujo uso, manutenção e desmontagem devem ser feitas por profissionais, além de ser
+utilizadas em instalações industriais ou unidades de pesquisa e de desenvolvimento;
+
+          XII - fabricante: pessoa física ou jurídica que fabrique, transforme, produza, crie ou monte
+equipamento eletroeletrônico, ou mande fabricar ou montar equipamento eletroeletrônico comercializado
+sob seu nome ou sua marca;
+
+          XIII - fios e cabos: todos os fios e cabos de tensão nominal inferior a 250 V que servem como
+ligação ou extensão e permitem ligar equipamento eletroeletrônico ao ponto de alimentação elétrica ou a
+dois ou mais equipamentos eletroeletrônicos entre si;
+
+           XIV - importador: pessoa física ou jurídica que promova a entrada de equipamentos
+eletroeletrônicos no território aduaneiro do Brasil para fins de distribuição ou de comercialização;
+
+           XV - instalação fixa de grande dimensão: combinação de grandes dimensões de diversos tipos
+de aparelhos e, em certos casos, de outros dispositivos, que são montados, instalados e desmontados por
+profissionais, destinados a ser permanentemente utilizados em local predefinido;
+
+           XVI - instrumento eletroeletrônico para diagnóstico in vitro: equipamento ou aparato
+eletroeletrônico desenvolvido pelo fabricante com a intenção de ser usado como dispositivo médico para
+diagnóstico in vitro;
+
+           XVII - instrumentos industriais de monitoração e controle: instrumentos de monitoração e
+controle concebidos para utilização exclusivamente industrial ou profissional;
+
+          XVIII - máquina móvel fora de estrada de uso pretendido profissional: qualquer máquina móvel,
+seus implementos e acessórios, equipamento industrial transportável ou veículo com ou sem carroçaria,
+não destinado a ser utilizado para o transporte rodoviário de passageiros ou de mercadorias, tracionada ou
+com propulsão própria através de motor(es) de combustão interna ou elétrico(s), este(s) último(s) sendo
+alimentado(s) por baterias ou alimentação de energia externa;
+         XIX - material homogêneo: material de composição uniforme, ou material que consista em
+combinação de materiais que não possam ser separados ou fragmentados em materiais diferentes por
+meios mecânicos como cortar, esmagar, moer, ou por processos abrasivos;
+
+          XX - família de produto: agrupamento de modelos de produto com mesma finalidade,
+possuidores de uma ou mais características em comum, a saber: memorial descritivo, projeto, dimensões,
+massa, matéria-prima, configuração, de um mesmo fabricante;
+
+            XXI - módulo fotovoltaico: equipamento composto por conjunto de células solares fotovoltaicas
+interligadas eletricamente e encapsuladas, que realiza a conversão direta da radiação solar em energia
+elétrica, por meio do efeito fotovoltaico; e
+
+           XXII - peça e parte de reposição: componente, parte ou peça, reprocessado ou não, passível de
+substituição em equipamento eletroeletrônico, cuja presença é imprescindível para o funcionamento do
+equipamento conforme especificação de fábrica, sendo a substituição necessária para restaurar ou
+aprimorar a funcionalidade do equipamento eletroeletrônico.
+
+           Art. 3º Esta Resolução não se aplica a:
+
+         I - equipamentos eletroeletrônicos necessários à defesa e segurança do Estado, incluindo
+armas, munições e materiais bélicos destinados para fins especificamente militares ou de segurança
+interna;
+
+        II - equipamentos eletroeletrônicos concebidos para serem enviados ao espaço, bem como os
+equipamentos de solo necessários à operação de satélites e sistemas espaciais;
+
+           III - equipamentos eletroeletrônicos projetados e instalados especificamente como partes
+integrantes de outros tipos de equipamentos não abrangidos por esta Resolução, cuja funcionalidade
+dependa da integração a esses equipamentos, e que só podem ser substituídos por componentes
+idênticos, desenvolvidos exclusivamente para esse mesmo fim;
+
+           IV - equipamentos industriais fixos de grandes dimensões;
+
+           V - instalações fixas de grandes dimensões;
+
+           VI - meios de transporte de pessoas e mercadorias, excluindo os equipamentos de mobilidade
+individual autopropelidos;
+
+           VII - máquinas móveis fora de estrada, de uso pretendido profissional;
+
+           VIII - dispositivos médicos implantáveis eletroeletrônicos;
+
+           IX - módulos fotovoltaicos utilizados em sistema solar fotovoltaico, projetado e instalado por
+profissionais, para uso permanente em local definido, com o objetivo de produzir energia elétrica a partir
+da radiação solar;
+
+           X - pilhas e baterias; e
+
+           XI - equipamentos eletroeletrônicos concebidos especificamente para fins de pesquisa e
+desenvolvimento e disponibilizados exclusivamente no contexto entre empresas ou instituições.
+
+          Parágrafo único. O Ministério da Defesa estabelecerá, por ato normativo próprio, os critérios e
+procedimentos para caracterização e enquadramento dos equipamentos eletroeletrônicos destinados à
+defesa nacional para fins da exclusão prevista no inciso I do caput, incluindo os equipamentos de uso dual
+ou com especificações técnicas equivalentes a produtos civis.
+
+           CAPÍTULO II
+
+           DAS RESTRIÇÕES E ISENÇÕES
+
+           Art. 4º Os equipamentos eletroeletrônicos, incluindo os fios, os cabos e as peças de reposição
+para reparação, reutilização, atualização das funcionalidades ou melhoria da capacidade, somente podem
+ser fabricados, importados, distribuídos e comercializados no território nacional caso não contenham as
+substâncias listadas abaixo, em concentrações superiores aos limites máximos permitidos por massa de
+material homogêneo:
+
+           I - bifenilas polibromadas (PBB) - 0,1% (um décimo por cento);
+
+           II - éteres difenílicos polibromados (PBDE) - 0,1% (um décimo por cento);
+
+           III - mercúrio (Hg) - 0,1% (um décimo por cento);
+
+           IV - cádmio (Cd) - 0,01% (um centésimo por cento);
+            V - cromo hexavalente (Cr-VI) - 0,1% (um décimo por cento);
+
+            VI - chumbo (Pb) - 0,1% (um décimo por cento);
+
+            VII - ftalato de di (2-etil-hexila) (DEHP) - 0,1% (um décimo por cento);
+
+            VIII - ftalato de benzila e butila (BBP) - 0,1% (um décimo por cento);
+
+            IX - ftalato de dibutila (DBP) - 0,1% (um décimo por cento); e
+
+            X - ftalato de di-isobutila (DIBP) - 0,1% (um décimo por cento).
+
+          § 1º Os fabricantes e os importadores devem observar os seguintes prazos para adequar os seus
+produtos aos valores máximos de concentração estabelecidos nos incisos I a X do caput:
+
+            I - a partir da entrada em vigor desta Resolução para as substâncias dos incisos I e II do caput;
+
+             II - cento e oitenta dias, a contar da entrada em vigor desta Resolução, para a substância do
+inciso III do caput;
+
+            III - três anos, a contar da data da publicação desta Resolução, para as substâncias dos incisos
+IV a VI do caput;
+
+            IV - quatro anos, a contar da publicação desta Resolução, para as substâncias dos incisos VII a X
+do caput.
+
+            § 2º O disposto no caput não se aplica:
+
+          I - aos equipamentos eletroeletrônicos, fios, cabos ou às peças de reposição para reparo ou
+reúso de equipamentos eletroeletrônicos colocados no mercado que tenham sido projetados e fabricados
+antes dos prazos estabelecidos no § 1º; e
+
+          II - aos equipamentos eletroeletrônicos que se beneficiem de alguma isenção temporária nos
+termos do art. 5º.
+
+         § 3º No caso do inciso III do caput, os fabricantes e os importadores devem observar as
+concentrações e restrições estabelecidas pelo Decreto nº 9.470, de 14 de agosto de 2018, adotando a
+norma mais restritiva para a implementação desta Resolução.
+
+          § 4º Os equipamentos eletroeletrônicos distribuídos e comercializados no território nacional que
+já tenham alguma das substâncias previstas no caput regulamentadas por outras normas devem cumprir
+as previsões mais restritivas, mantida a obrigação de observar o estabelecido por esta Resolução para as
+demais substâncias.
+
+           Art. 5º Poderão ser concedidas isenções temporárias ao cumprimento do disposto no art. 4º
+para aplicações específicas de equipamentos eletroeletrônicos, desde que seja atendida pelo menos uma
+das seguintes condições:
+
+           I - impossibilidade técnica ou científica de eliminar ou substituir, no equipamento
+eletroeletrônico, quaisquer das substâncias listadas no art. 4º;
+
+        II - inexistência de garantia quanto à confiabilidade do uso de substância alternativa no
+equipamento eletroeletrônico; e
+
+           III - a eliminação ou a substituição da substância química do equipamento eletroeletrônico
+resultar, considerando o ciclo de vida do produto, em impactos ambientais, à saúde ou à segurança
+humana que superam os benefícios esperados da substituição.
+
+          § 1º O Ministério do Meio Ambiente e Mudança do Clima decidirá sobre a inclusão, alteração,
+renovação ou revogação de materiais e componentes dos equipamentos eletroeletrônicos na lista das
+isenções.
+
+          § 2º Os pedidos de concessão, de alteração, de renovação ou de revogação de isenções podem
+ser apresentados, a qualquer momento, por fabricantes e por importadores, observando os períodos
+estipulados no § 1º.
+
+          § 3º O Ministério do Meio Ambiente e Mudança do Clima deverá dar publicidade a todos os
+pedidos de concessão, alteração, renovação e revogação de isenções temporárias.
+
+           Art. 6º O Ministério do Meio Ambiente e Mudança do Clima poderá definir procedimentos
+diferenciados para requerimento e análise dos pedidos de concessão, alteração, renovação e revogação
+de isenções temporárias, observando os princípios e as regras constitucionais, tais como transparência,
+publicidade, participação, contraditório e informação.
+           § 1º O Ministério do Meio Ambiente e Mudança do Clima, ao analisar os pedidos de concessão,
+alteração, renovação e revogação de isenções temporárias e ao definir os prazos de isenção, também
+considerará a disponibilidade e a acessibilidade às alternativas no mercado, bem como eventuais isenções
+vigentes em outros países que possuam mecanismos de controle de substâncias perigosas em
+equipamentos eletroeletrônicos tão ou mais restritivos que esta Resolução.
+
+           § 2º Para a definição dos prazos de isenção, será considerada a harmonização com os melhores
+prazos praticados em outros países que possuam legislação de restrição de substâncias em equipamentos
+eletroeletrônicos, a fim de garantir previsibilidade às cadeias globais de abastecimento.
+
+         § 3º O pedido de renovação da isenção deverá ser apresentado até dezoito meses antes da data
+de vencimento.
+
+          § 4º Até que o pedido de renovação seja julgado, a isenção vigente não expirará.
+
+           § 5º No caso de o pedido de renovação de isenção ser indeferido ou de a isenção ser revogada,
+a isenção expirará no prazo mínimo de doze meses e no prazo máximo de dezoito meses, a contar da data
+da publicação da decisão.
+
+          CAPÍTULO III
+
+          DO CADASTRO E DA AUTODECLARAÇÃO DE CONFORMIDADE
+
+          Art. 7º Fica criado o Cadastro Nacional de Equipamentos Eletroeletrônicos com Restrições de
+Substâncias Perigosas, que será instituído e regulamentado pelo Ministério do Meio Ambiente e Mudança
+do Clima para coleta, integração, sistematização, disponibilização e atualização de dados dos
+equipamentos eletroeletrônicos sujeitos às restrições desta Resolução.
+
+           § 1º Para efetivar o cadastro de que trata o caput, o fabricante ou o importador, pessoa física ou
+jurídica, deverá declarar que atende às restrições ou às isenções desta Resolução, respondendo
+administrativa e criminalmente pela veracidade das informações prestadas.
+
+           § 2º O representante legal ou procurador do fabricante ou importador que prestar a declaração
+de que trata o § 1º também responderá, administrativa e criminalmente, pela veracidade das informações
+prestadas.
+
+           § 3º O cadastro de que trata o caput é obrigatório e prévio à fabricação ou à importação em
+território nacional dos equipamentos eletroeletrônicos com restrição das substâncias perigosas,
+observado o art. 11.
+
+            Art. 8º Cada equipamento eletroeletrônico, modelo ou família de produto produzido, importado
+ou comercializado no território nacional, deverá ser cadastrado individualmente e gerará autodeclaração
+de conformidade, também individualizada, que será vinculada ao fabricante ou importador, pessoa física
+ou jurídica, responsável pelo cadastramento.
+
+          Art. 9º Para emissão da autodeclaração de conformidade, deverão ser fornecidas as seguintes
+informações:
+
+            I - dados de identificação do fabricante, quando se tratar de equipamento produzido em
+território nacional;
+
+          II - informações do responsável pelo registro;
+
+          III - dados de identificação do fabricante estrangeiro e do importador, quando se tratar de
+produto importado;
+
+           IV - objeto de identificação do equipamento eletroeletrônico, do modelo ou da família de
+produto, incluindo os códigos e demais elementos necessários à sua identificação, de modo a permitir seu
+rastreamento;
+
+           V - a indicação do cumprimento das restrições relativas às substâncias perigosas, conforme
+previsto no art. 4º, nas diferentes partes dos equipamentos em que essas substâncias possam estar
+presentes, quando aplicável;
+
+          VI - o enquadramento do equipamento eletroeletrônico em caso de isenção previsto no art. 5º;
+e
+
+          VII - termo de responsabilidade pela veracidade das informações cadastradas.
+
+          § 1º O Ministério do Meio Ambiente e Mudança do Clima poderá exigir informações
+complementares em regulamento.
+          § 2º O cadastro e a documentação técnica serão protegidos por sigilo, assegurada a
+confidencialidade das informações sensíveis, ressalvada a publicidade dos registros de autodeclaração
+destinados ao consumidor.
+
+           Art. 10. Realizado o cadastro, será disponibilizada a opção de emissão de autodeclaração de
+conformidade aos fabricantes e importadores que prestem declaração de que o equipamento
+eletroeletrônico cadastrado atende aos requisitos especificados no Capítulo II.
+
+           § 1º A emissão da autodeclaração de conformidade ficará disponível para os equipamentos
+eletrônicos que:
+
+            I - declarem atender aos requisitos de restrição de substância do art. 4º, caput; ou
+
+           II - embora não atendam aos requisitos de restrição de substância estabelecidos no art. 4º,
+caput, sejam importados ou fabricados antes do fim do prazo de adequação fixado no mesmo dispositivo;
+e
+
+            III - usufruam do prazo de isenção temporária.
+
+         § 2º A autodeclaração de conformidade deverá acompanhar o produto fabricado ou importado
+em sua embalagem, na íntegra ou por meio de ferramenta de redirecionamento que facilmente direcione
+o consumidor para o seu acesso, além de ser disponibilizada na rede mundial de computadores.
+
+          § 3º Caso a autodeclaração não possa constar da embalagem do produto na forma do § 2º,
+sempre que solicitado, o fabricante ou o importador do equipamento eletroeletrônico deverá fornecer a
+autodeclaração ao solicitante no prazo máximo de cinco dias úteis.
+
+           Art. 11. O prazo para a inclusão de informações no Cadastro Nacional de Equipamentos
+Eletroeletrônicos com Restrições de Substâncias Perigosas e emissão da autodeclaração de conformidade
+no sistema será de um ano, contado da disponibilização do sistema.
+
+          Parágrafo único. Ao término dos prazos de adequação fixados no art. 4º, § 1º, incisos II, III e IV, ou
+dos prazos de isenção aprovados, os fabricantes e os importadores deverão atualizar as informações no
+cadastro e emitir autodeclaração de conformidade atualizada.
+
+            CAPÍTULO IV
+
+            DAS OBRIGAÇÕES DOS FABRICANTES, IMPORTADORES, DISTRIBUIDORES E COMERCIANTES
+
+            Art. 12. São obrigações dos fabricantes relativamente aos equipamentos eletroeletrônicos que
+fabricam:
+
+            I - assegurar que os equipamentos eletroeletrônicos a serem projetados e fabricados no
+território nacional atendam aos requisitos e prazos previstos no art. 4º, inclusive nas produções em série;
+
+          II - cadastrar e manter atualizado o cadastro individual dos equipamentos eletroeletrônicos,
+modelo ou família de produto no Cadastro Nacional de Equipamentos Eletroeletrônicos com restrições de
+substâncias perigosas, nos termos do art. 7º;
+
+            III - emitir a autodeclaração de conformidade de restrição de substâncias para cada
+equipamento eletroeletrônico, modelo ou família de produto, e disponibilizá-lo nos termos do disposto no
+Capítulo III;
+
+         IV - manter, no idioma português, a documentação técnica mínima definida em ato do Ministério
+do Meio Ambiente e Mudança do Clima, necessária para demonstrar a regularidade da autodeclaração de
+conformidade;
+
+          V - manter a autodeclaração de conformidade e a documentação técnica durante o prazo de
+cinco anos, contados a partir da descontinuação do equipamento eletroeletrônico no mercado;
+
+          VI - fornecer à autoridade federal competente pela fiscalização ambiental, quando solicitado,
+toda informação e documentação necessária, no idioma português, para demonstrar a conformidade do
+equipamento eletroeletrônico com o disposto nesta Resolução;
+
+           VII - disponibilizar, quando solicitado, aos distribuidores e comerciantes a autodeclaração a que
+se refere o inciso III, do caput;
+
+          VIII - manter registro dos equipamentos eletroeletrônicos considerados não conformes, nos
+casos do art. 17; e
+           IX - efetuar registros necessários para garantir a rastreabilidade dos equipamentos
+eletroeletrônicos comercializados, mantendo-os à disposição das autoridades competentes por período
+de cinco anos após a fabricação.
+
+          Art. 13. São obrigações dos importadores relativamente aos equipamentos eletroeletrônicos
+que importam:
+
+          I - assegurar que os equipamentos eletroeletrônicos a serem colocados no mercado nacional
+tenham sido projetados e fabricados de acordo com os requisitos e os prazos previstos no art. 4º, inclusive
+nas produções em série;
+
+          II - cadastrar e manter atualizado o cadastro individual dos equipamentos eletroeletrônicos,
+modelo, ou família de produto no Cadastro Nacional de Equipamentos Eletroeletrônicos com restrições de
+substâncias perigosas, nos termos do art. 7º;
+
+            III - emitir a autodeclaração de conformidade de restrição de substâncias para cada
+equipamento eletroeletrônico, modelo, ou família de produto, e disponibilizá-la nos termos do disposto no
+Capítulo III;
+
+         IV - exigir do fabricante estrangeiro e manter, no idioma português, a documentação técnica
+mínima definida em ato do Ministério do Meio Ambiente e Mudança do Clima, necessária para demonstrar
+a regularidade da autodeclaração de conformidade;
+
+          V - manter a autodeclaração de conformidade e a documentação técnica durante o prazo de
+cinco anos, contados a partir da descontinuação do equipamento eletroeletrônico no mercado;
+
+            VI - fornecer à autoridade federal competente pela fiscalização ambiental, quando por ela
+solicitado, todas as informações e documentação necessárias, no idioma português, para demonstrar a
+conformidade do equipamento eletroeletrônico com o disposto nesta Resolução;
+
+           VII - disponibilizar, quando solicitado, aos distribuidores e comerciantes a autodeclaração a que
+se refere o inciso III do caput;
+
+          VIII - manter registro dos equipamentos eletroeletrônicos considerados não conformes, nos
+casos do art. 17; e
+
+           IX - efetuar registros necessários para garantir a rastreabilidade dos equipamentos
+eletroeletrônicos comercializados, mantendo-os à disposição das autoridades competentes por período
+de cinco anos após a importação.
+
+           Art. 14. Os fabricantes e os importadores deverão assegurar a conformidade dos equipamentos
+eletroeletrônicos nas hipóteses de alterações no projeto ou nas características do produto, bem como nas
+normas técnicas utilizadas para atestar a veracidade da autodeclaração de conformidade.
+
+          Parágrafo único. Sempre que alterações no projeto do produto resultarem em mudanças na
+documentação técnica mencionada no caput, a documentação deverá ser atualizada, assim como a
+autodeclaração de conformidade no sistema previsto no art. 11, parágrafo único.
+
+           Art. 15. São obrigações dos distribuidores e dos comerciantes relativamente aos equipamentos
+eletroeletrônicos que distribuem e comercializam:
+
+               I - exigir dos fabricantes e dos importadores, como requisito para comercialização e distribuição
+dos equipamentos eletroeletrônicos, a disponibilização da autodeclaração a que se referem o art. 12, inciso
+III, e o art. 13, inciso III; e
+
+          II - fornecer à autoridade federal competente pela fiscalização, quando solicitado, a
+autodeclaração de conformidade.
+
+           Art. 16. Os importadores, distribuidores e comerciantes equiparam-se aos fabricantes para
+efeitos desta Resolução, assumindo as obrigações previstas nos arts. 12, 13 e 17, sempre que:
+
+             I - colocarem equipamentos eletroeletrônicos no mercado com o seu nome ou sua marca
+comercial;
+
+             II - alterarem os equipamentos eletroeletrônicos fabricados de forma que o cumprimento do
+disposto no art. 4º possa ser afetado; e
+
+             III - quando não cumprirem a obrigação prevista no art. 15, inciso I.
+           Art. 17. Os fabricantes e os importadores de equipamentos eletroeletrônicos que,
+posteriormente à sua comercialização aos distribuidores, comerciantes ou consumidores, tiverem
+conhecimento da não conformidade dos equipamentos com o disposto no art. 4º deverão, imediatamente:
+
+           I - informar à autoridade ambiental federal e o órgão ambiental responsável pelo licenciamento
+ambiental, caso sejam órgãos diferentes;
+
+           II - informar aos distribuidores e comerciantes para que cessem a comercialização dos
+equipamentos eletroeletrônicos aos consumidores;
+
+           III - adequar o seu processo produtivo para assegurar a conformidade dos equipamentos
+eletroeletrônicos fabricados, ou promover adequações para garantir a conformidade dos equipamentos
+importados; e
+
+          IV - recolher os produtos já comercializados e, quando for tecnicamente possível e viável, sanar
+a desconformidade, de acordo com os mecanismos e prazos previstos na legislação vigente.
+
+           § 1º Na aplicação do inciso IV do caput, os consumidores devem ser informados das medidas
+corretivas a serem adotadas mediante anúncios publicitários veiculados em imprensa, rádio, televisão ou
+mídias digitais, às expensas dos fabricantes ou importadores, conforme o caso.
+
+         § 2º Na impossibilidade de sanar a não conformidade, aos equipamentos eletroeletrônicos, às
+peças ou às partes deverá ser dada a destinação final ambientalmente adequada, nos termos da Lei nº
+12.305, de 2 de agosto de 2010, assegurado o direito à informação, inclusive aos trabalhadores da cadeia
+de reciclagem.
+
+           CAPÍTULO V
+
+           DA INFORMAÇÃO E COMUNICAÇÃO
+
+           Art. 18. Do corpo dos equipamentos eletroeletrônicos deverão constar informações que
+permitam a identificação e a rastreabilidade do equipamento, em língua portuguesa, de forma clara e
+objetiva, mediante a utilização de marcação ou etiquetas duráveis, legíveis e com resistência mecânica
+suficiente para suportar o manuseio e intempéries, visando assim preservar as informações nelas contidas
+durante toda a vida útil do equipamento eletroeletrônico:
+
+           I - o modelo, o número do lote ou da série, ou quaisquer outros elementos que permitam a
+respectiva identificação do produto;
+
+           II - nome comercial registrado ou marca registrada, em um único endereço de contato no Brasil;
+e
+
+           III - nos produtos nacionais, a identificação do fabricante e, nos produtos importados, a
+identificação do importador.
+
+           Parágrafo único. As informações exigidas no caput podem ser disponibilizadas por meio de
+ferramenta de redirecionamento que permita a identificação e a rastreabilidade do equipamento.
+
+         Art. 19. No corpo dos equipamentos eletroeletrônicos sujeitos à logística reversa, deverá constar,
+de forma clara e visível, simbologia indicativa de descarte seletivo, nos termos do Anexo, salvo se outra
+simbologia para a mesma finalidade for prevista em legislação específica.
+
+           Art. 20. Na impossibilidade ou inviabilidade técnica de incluir as informações referidas no art. 18
+ou a simbologia mencionada no art. 19 diretamente no corpo do equipamento eletroeletrônico, essas
+deverão constar na embalagem do produto, em documento que o acompanhe ou por meio de ferramenta
+de redirecionamento prevista no art. 10.
+
+           CAPÍTULO VI
+
+           DA FISCALIZAÇÃO
+
+         Art. 21. A autoridade ambiental federal competente pela fiscalização poderá requisitar amostra
+de lotes de equipamento eletroeletrônico, de quaisquer tipos, fabricados ou importados para
+comercialização no país, a seu critério, para fins de comprovação do atendimento às exigências desta
+Resolução.
+
+           § 1º A autoridade ambiental federal, mencionada no caput, poderá providenciar a realização de
+ensaios para verificação dos teores das substâncias referidas no art. 4º.
+          § 2º Quando verificados os indícios de irregularidade por meio da análise de documentação
+técnica de que tratam os arts. 12 e 13, bem como de outros elementos relevantes, a autoridade federal
+competente poderá determinar a realização de ensaios pelo importador ou fabricante, para verificação dos
+teores das substâncias referidas no art. 4º, justificando tecnicamente a solicitação de cada ensaio em cada
+produto.
+
+           § 3º Os ensaios deverão ser realizados em laboratórios acreditados por órgãos competentes
+para este fim, signatários dos acordos do International Laboratory Accreditation Cooperation - ILAC e do
+InterAmerican Accreditation Cooperation - IAAC.
+
+          § 4º A autoridade ambiental federal, quando da fiscalização nos distribuidores e comerciantes,
+poderá apreender as amostras de equipamentos eletroeletrônicos.
+
+          § 5º A autoridade ambiental federal poderá solicitar aos fabricantes ou importadores, ou a estes
+equiparados, informações sobre as amostras ou lotes dos equipamentos eletroeletrônicos apreendidos.
+
+        § 6º Constatada a infração, o responsável arcará com todas as despesas decorrentes das
+medidas determinadas pela autoridade federal competente, incluindo ensaios, apreensão,
+armazenamento e destruição dos equipamentos eletroeletrônicos.
+
+         Art. 22. A autoridade ambiental federal competente pela fiscalização poderá, em consonância
+com a documentação técnica, adotar procedimentos complementares relativos ao controle, à fiscalização,
+aos laudos e às análises físico-químicas, necessários à verificação do cumprimento do disposto nesta
+Resolução.
+
+          Art. 23. O não cumprimento das obrigações previstas nesta Resolução sujeitará os infratores às
+penalidades previstas na legislação em vigor, sem prejuízo das obrigações previstas no art. 17.
+
+          Art. 24. A lista de substâncias restritas na composição de equipamentos eletroeletrônicos,
+prevista no art. 4º, poderá ser atualizada com base em novas evidências científicas, na disponibilidade de
+alternativas seguras e no princípio da precaução.
+
+          Parágrafo único. O Ministério do Meio Ambiente e Mudança do Clima deverá verificar a
+necessidade de revisão da lista de substâncias restritas no mínimo a cada cinco anos.
+
+          Art. 25. Sem prejuízo do quanto estabelecido no Decreto nº 7.746, de 5 de junho de 2012, e na
+Instrução Normativa nº 1, de 19 de janeiro de 2010, do Ministério do Planejamento, Orçamento e Gestão, os
+órgãos e entidades da administração pública federal direta, autárquica, fundacional e as empresas estatais
+dependentes, quando da aquisição de equipamentos eletroeletrônicos, poderão exigir que não contenham
+substâncias perigosas em concentração acima da recomendada no art. 4º, sem necessidade de aguardar o
+decurso dos prazos nele previstos, a menos que enquadrado em hipótese de isenção temporária.
+
+          CAPÍTULO VII
+
+          DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+
+          Art. 26. As obrigações relativas a:
+
+          I - documentação técnica, prevista no Capítulo IV, são exigíveis a partir da emissão da
+autodeclaração de conformidade;
+
+          II - informação prevista no art. 18 será exigível a partir da emissão da autodeclaração de
+conformidade; e
+
+          III - informação e comunicação previstas no art. 19 serão exigíveis dois anos a partir da emissão
+da autodeclaração de conformidade.
+
+           Art. 27. O Ministério do Meio Ambiente e Mudança do Clima publicará, em até cento e oitenta
+dias, contados da publicação desta Resolução, listagem inicial dos equipamentos eletroeletrônicos e das
+respectivas aplicações que estarão isentos do cumprimento do art. 4º, bem como, quando aplicável, os
+prazos de validade das isenções, renováveis mediante requerimento dos fabricantes ou dos importadores.
+
+          Art. 28. O Ministério do Meio Ambiente e Mudança do Clima publicará, em até cento e oitenta
+dias contados da publicação desta Resolução, os procedimentos e os critérios para o requerimento e a
+análise dos pedidos de concessão, alteração, renovação ou revogação de isenções.
+
+          Art. 29. O Ministério do Meio Ambiente e Mudança do Clima estabelecerá, em até cento e
+oitenta dias, contados da publicação desta Resolução, por meio de ato normativo, a documentação técnica
+mencionada no art. 12, inciso IV.
+           Art. 30. O disposto nesta Resolução não prejudica o exercício das competências do Comitê
+Deliberativo de Substâncias Químicas, de que trata a Lei nº 15.022, de 13 de novembro de 2024.
+
+               Art. 31. Esta resolução entra em vigor na data de sua publicação.
+
+                                                                 JOÃO PAULO RIBEIRO CAPOBIANCO
+                                                                   Presidente do Conselho
+ANEXO
+
+               SIMBOLOGIA DE DESTINAÇÃO FINAL ADEQUADA
+
+               O SÍMBOLO QUE INDICA A NECESSIDADE DE O EQUIPAMENTO ELETROELETRÔNICO SER
+DESCARTADO DE FORMA SELETIVA É CONSTITUÍDO POR CONTENTOR DE RESÍDUOS RISCADO COM XIS.
+
+
+
+
+Este conteúdo não substitui o publicado na versão certificada.
+

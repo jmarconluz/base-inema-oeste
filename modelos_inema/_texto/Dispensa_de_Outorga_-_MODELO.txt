@@ -1,0 +1,154 @@
+
+FORMULÁRIO DE DISPENSA DE OUTORGA
+INFORMAÇÕES GERAIS
+Finalidade:
+
+(  ) Abastecimento humano (anexar formulário específico)
+(  ) Abastecimento animal (anexar formulário específico)
+(  ) Irrigação (anexar formulário específico)
+(  ) Abastecimento industrial (anexar formulário específico)
+(  ) Aquicultura (anexar formulário específico)
+(  ) Outros usos: _____________________________
+
+Manancial :
+
+Subterrâneo (  ) - apresentar teste de bombeamento
+
+Superficial com barramento existente (  ) 
+
+Superficial sem barramento (  )
+
+R.P.G.A:
+
+Bacia Hidrográfica:
+Município / cidade:
+
+MANANCIAL SUPERFICIAL
+Nome do manancial (rio, riacho, córrego):
+
+Coordenadas do Ponto de Captação (em graus, minutos e segundos).
+
+Latitude:
+
+Longitude:
+
+Fonte das coordenadas
+Datum: 
+
+ GPS
+
+ MAPA 
+Captação
+        
+      A fio d'água
+    
+
+Vazão requerida para captação (m³ / dia):
+
+
+___________________________________
+
+Período de Bombeio (h / dia):
+
+___________________________________
+
+
+
+ A fio d'água com barramento de nível
+ Em reservatório / Barramento com Regularização
+
+Altura máxima (m):
+
+Comprimento total (m):
+
+Vazão regularizada (m³/s):
+
+Garantia de atendimento da Vazão Reg. (%):
+
+Volume Máximo Acumulado (m³):
+
+Estimado
+Calculado
+
+Material Construtivo:
+
+Vazão Descarga de Fundo (m³/dia):
+
+MANANCIAL SUBTERRÂNEO
+Coordenadas do Ponto de Captação (em graus, minutos e segundos).
+
+Latitude:
+
+Longitude:
+
+
+
+Dados do manancial:
+
+Unidade geológica aflorante
+
+__________________________________________
+
+Unidade produtora
+
+__________________________________________
+Fonte das coordenadas
+
+Datum: 
+
+ GPS
+
+
+ MAPA
+
+Tipo de aquífero __________________________________________
+
+Litologia
+ 
+ Calcarias
+ Cristalinas
+ Metassedimentares
+ Sedimentares
+
+Nível estático do poço (m):
+
+Nível dinâmico do poço (m):
+
+Vazão de teste do poço (m³ / h):
+
+Profundidade do poço (m):
+
+Vazão específica (m³):
+Vazão requerida para captação (m³ / dia):
+
+
+
+Período de Bombeio (h / dia):
+
+BOMBA
+MOTOR
+Marca:
+Modelo:
+Altura Manométrica (m.c.a):_________________
+Vazão (m³/h): ___________
+
+Marca:
+Modelo:
+Potência:
+Energia utilizada: (  ) elétrica   (  ) combustão
+Técnico responsável:
+
+Tel:
+
+OBS: Apresentar informações, projetos e estudos específicos, conforme estabelecido na relação de documentação.
+Declaração
+Declaro serem verdadeiras as informações contidas neste documento, estando advertido de que a falsidade de qualquer dado constitui prática de crime e resultará na aplicação das sanções penais cabíveis, nos termos dispostos no Código Penal (Decreto-Lei nº 2.848/40), na Lei de Crimes Ambientais (Lei nº 9.605/98) e nas suas normas regulamentares.
+       
+__________________, ____ de ____________ de _____
+  
+ ________________________________________________
+Nome por extenso do representante legal
+
+__________________________________
+           Assinatura
+

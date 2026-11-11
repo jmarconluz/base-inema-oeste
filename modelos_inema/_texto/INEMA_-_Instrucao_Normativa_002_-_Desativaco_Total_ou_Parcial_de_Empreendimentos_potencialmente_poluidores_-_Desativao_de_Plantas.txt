@@ -1,0 +1,494 @@
+                                                                           Salvador, Bahia - Sábado,
+                                                                                19 de Junho de 2021
+                                                                                 Ano Cv - No 23.191
+
+
+INSTRUÇÃO NORMATIVA Nº 002 DE 18 DE JUNHO DE 2021. Dispõe sobre a
+desativação total ou parcial de empreendimentos potencialmente poluidores,
+encerramento de atividades potencialmente poluidoras, reabilitação de área e dá
+outras providências.
+
+
+A DIRETORA GERAL DO INSTITUTO DO MEIO AMBIENTE E RECURSOS
+HÍDRICOS - INEMA, no uso de suas atribuições conferidas pelos incisos I e X do Art.
+106 da Lei Estadual nº 12.212/2011 e consoante Lei Estadual nº 10.431/2006, com
+alterações trazidas pela Lei Estadual nº 12.377/2011, regulamentada pelo Decreto nº
+14.024/12,
+CONSIDERANDO a necessidade de estabelecer critérios e padronizar os
+procedimentos administrativos de desativação total ou parcial de empreendimentos
+potencialmente poluidores, encerramento de atividades potencialmente poluidoras,
+reabilitação de área em processos de Licenciamento Ambiental, visando à
+implementação das Políticas Ambientais de Meio Ambiente e de Proteção da
+Biodiversidade,
+                                     RESOLVE:
+Art. 1º Estabelecer procedimentos para desativação de empreendimentos ou
+encerramento de atividades, que sejam potencialmente poluidoras, bem como definir
+responsabilidades e fornecer subsídios para a adequação do licenciamento ambiental
+para a desativação total ou parcial de empreendimentos ou encerramento, total ou de
+parte de atividades, envolvendo as etapas de desinventário, descomissionamento,
+desmontagem ou desmantelamento e demolição, bem como a conclusão de
+processos de remediação/reabilitação identificados com vistas a eliminar ou reduzir
+impactos ambientais.
+                                     CAPÍTULO I
+                                 DAS DEFINIÇÕES
+Art. 2º Para fins de aplicação desta Instrução Normativa são adotadas as seguintes
+definições:
+I - Área Contaminada (AC) - área, terreno, local, instalação, edificação ou benfeitoria
+que contenha quantidades ou concentrações de matéria em condições que causem ou
+possam causar danos à saúde humana, ao meio ambiente ou a outro bem a proteger;
+II - Área Contaminada em Processo de Reutilização (ACRu) - área contaminada onde
+se pretende estabelecer um novo uso do solo, com a eliminação, ou a redução a
+níveis aceitáveis, dos riscos aos bens a proteger, decorrentes da contaminação;
+III - Área Suspeita (AS) - será considerada Área Suspeita de Contaminação, pelo
+órgão ambiental competente, aquela em que, após a realização de uma avaliação
+preliminar, forem observados indícios da presença de contaminação ou identificadas
+condições que possam representar perigo;
+IV - Autorização Ambiental (AA) - instrumento de licenciamento ambiental que autoriza
+a realização ou operação de empreendimentos, pesquisas e serviços de caráter
+temporário, execução de obras que não resultem em instalações permanentes, bem
+como as que possibilitem melhoria ambiental;
+V - Avaliação Preliminar - avaliação inicial, realizada com base nas informações
+históricas disponíveis e inspeção do local, com o objetivo principal de encontrar
+evidências, indícios ou fatos que permitam suspeitar da existência de contaminação na
+área.
+VI - Avaliação de Risco - processo pelo qual são identificadas, avaliadas e
+quantificadas as probabilidades de riscos à saúde humana ou a bens de relevante
+interesse ambiental a serem protegidos;
+VII - Contaminação - presença de substância(s) química(s) no ar, água ou solo,
+decorrentes de atividades antrópicas, em concentrações tais que restrinjam a
+utilização desse recurso ambiental para os usos atual ou pretendido, definidas com
+base em avaliação de risco à saúde humana, assim como aos bens a proteger, em
+cenário de exposição padronizado ou específico;
+VIII - Concentração Máxima Aceitável (CMA) - máxima concentração de uma SQI -
+Substância Química de Interesse em um determinado compartimento do meio físico
+que não representa risco à saúde do receptor presente em um cenário de exposição
+específico;
+IX - Declaração de Área Reabilitada para Uso Pretendido - documento emitido pelo
+órgão ambiental competente, informando que a área está reabilitada para o uso
+pretendido;
+X - Demolição - etapa planejada para atender ao escopo de remoção de estruturas
+civis, colunas, vigas, lajes, bunkers, bases civis, prédios e instalações em geral;
+XI - Desativação Total ou Parcial - interrupção operacional com possibilidade de
+remoção de instalação física, podendo envolver as atividades de desinventário,
+descomissionamento, desmontagem ou desmantelamento e demolição, bem como a
+subsequente baixa no ativo contábil da empresa;
+XII - Descomissionamento – consistem nos procedimentos para parada, total ou
+parcial, desinventário e limpeza de uma unidade produtiva; podem ser utilizados em
+atividades de manutenção geral periódica;
+XIII - Desinventário - é a eliminação dos estoques de produtos e subprodutos
+(acabados ou não), matéria-prima, insumos, efluentes e resíduos de uma unidade
+industrial;
+XIV - Desmontagem ou Desmantelamento - etapa planejada para atender ao escopo
+da desativação total ou parcial, utilizando procedimentos de construção e montagem,
+análise de risco e equipe especifica por disciplina, para remover máquinas e
+equipamentos de uma unidade produtiva;
+XV - Fonte Primária de Contaminação - instalação ou material a partir dos quais os
+contaminantes se originam e foram ou estão sendo liberados para o meio físico;
+XVI - Fonte Secundária de Contaminação - meio atingido por substâncias químicas de
+interesse provenientes da fonte primária de contaminação, capaz de armazenar certa
+massa dessas substâncias e atuar como fonte de contaminação de outros
+compartimentos do meio físico;
+XVII - Gerenciamento das Áreas Contaminadas (GAC) - conjunto de medidas que
+asseguram o conhecimento das características das áreas contaminadas e a definição
+das medidas de intervenção mais adequadas a serem requeridas, visando eliminar ou
+minimizar os danos e/ou riscos aos bens a proteger, gerados pelos contaminantes
+nelas contidas;
+XVIII - Gerenciamento de Resíduos - é a utilização de procedimentos que indiquem e
+controlem quantidades, tipo de resíduos, tipo de embalagens, tipo de transporte,
+destinações dos materiais sólidos (equipamentos, peças, sucatas e resíduos), logística
+de remoção, licenças ambientais e etc;
+XIX - Investigação Confirmatória - etapa do processo de gerenciamento de áreas
+contaminadas que tem como objetivo principal confirmar ou não a existência de
+contaminantes no solo ou nas águas subterrâneas em concentrações acima dos
+valores de investigação estabelecidos pelo órgão ambiental competente;
+XX - Investigação Detalhada - etapa do processo de gerenciamento de áreas
+contaminadas que consiste na avaliação detalhada das características da fonte de
+contaminação e dos meios afetados, determinando os tipos de contaminantes
+presentes e suas concentrações, bem como a área e o volume das plumas de
+contaminação, e sua dinâmica de propagação;
+XXI - Licença de Operação (LO) - instrumento de licenciamento ambiental que
+concede a operação da atividade ou empreendimento, após a verificação do efetivo
+cumprimento das exigências constantes das licenças anteriores, com estabelecimento
+das medidas de controle ambiental e condicionantes para a operação;
+XXII - Limite de Bateria - define a poligonal do escopo de um determinado projeto,
+estabelecendo os limites físicos do empreendimento e a responsabilidade da equipe
+de projeto e da equipe de execução;
+XXIII - Limpeza – são os procedimentos para remover incrustações, películas ou
+mesmo quantidades residuais de substâncias químicas em máquinas ou
+equipamentos da unidade produtiva;
+XXIV - Modelo Conceitual de Exposição (MCE) - é a representação escrita ou gráfica
+da situação ambiental da área onde, por meio dos dados obtidos, são formuladas
+hipóteses sobre as características da fonte de contaminação, as prováveis vias de
+transporte dos contaminantes (meios onde pode se propagar), a distribuição espacial
+da contaminação e os prováveis receptores ou bens a proteger;
+XXV - Passivo Ambiental – é o conjunto de obrigações que pessoas físicas ou
+jurídicas têm com a sociedade, que em decorrência de suas atividades danosas
+causadas ao meio ambiente provocaram contaminação em uma determinada área;
+XXVI - Plano de Encerramento - relatório técnico elaborado pela empresa, que deverá
+contemplar as informações do empreendimento, as medidas de controle ambiental
+aplicáveis ao caso, assinado por responsável técnico e com documento de
+responsabilidade técnica do respectivo conselho de classe;
+XXVII - Plano de Intervenção - documento técnico, desenvolvido com base nos
+resultados obtidos nas etapas de investigação e de avaliação de risco do
+gerenciamento de áreas contaminadas, no qual são apresentadas, discutidas e
+justificadas, em âmbito conceitual, as medidas destinadas à reabilitação de áreas
+contaminadas, de modo a viabilizar o uso pretendido atendendo às metas
+estabelecidas;
+XXVIII - Plano de Reabilitação Ambiental - documento técnico que contemple as
+etapas de recuperação da área, adequando a qualidade do solo e da água
+subterrânea, visando o uso futuro;
+XXIX - Reabilitação - processo que tem por objetivo proporcionar o uso seguro de
+áreas contaminadas por meio da adoção de um conjunto de medidas que levam à
+eliminação ou redução dos riscos impostos pela área aos bens a proteger;
+XXX - Remediação – uma das ações de intervenção para reabilitação de área
+contaminada, que consiste em aplicação de técnicas, visando a remoção, contenção
+ou redução das concentrações de contaminantes;
+XXXI - Sistema em Hibernação – sistema fora de operação na fase de suspensão
+temporária de um sistema ou unidade industrial, com as devidas proteções de
+segurança de processo, ambiental e de manutenção, que permitam o retorno futuro à
+operação de forma segura;
+XXXII - Substância Química de Interesse (SQI) - substância química quantificada em
+amostra proveniente do meio físico, que está relacionada à fonte primária ou
+secundária de contaminação;
+XXXIII - Valor de Referência de Qualidade (VRQ) - é a concentração de determinada
+substância que define a qualidade natural do solo, sendo determinado com base em
+interpretação estatística de análises físico-químicas de amostras de diversos tipos de
+solos;
+XXXIV - Valor de Prevenção (VP) - é a concentração de valor limite de determinada
+substância no solo, tal que ele seja capaz de sustentar as suas funções principais de
+acordo com o art. 3º da Resolução CONAMA n° 420/2009;
+XXXV - Valor de Investigação (VI) - é a concentração de determinada substância no
+solo ou na água subterrânea acima da qual existem riscos potenciais, diretos ou
+indiretos, à saúde humana, considerando um cenário de exposição padronizado.
+
+
+                                     CAPÍTULO II
+
+                                   APLICABILIDADE
+
+Art. 3º Estão sujeitos às exigências desta Instrução Normativa os empreendimentos
+que exercem as seguintes atividades, conforme o disposto no Anexo IV do Decreto no
+14.024/2012, com suas alterações:
+
+I - Todas aquelas listadas na Divisão C – Indústrias;
+
+II - Todas as atividades listadas na Divisão D – Transportes (exceto as do Grupo D3
+que não possuam bases operacionais);
+
+III - Os seguintes subgrupos: E2.2 Termoelétricas ou Grupos Geradores, E2.6
+Caldeiras, E3.1 Terminais de minério, E3.2 Terminais de petróleo e derivados de
+produtos químicos diversos, E3.4 Postos de Venda de Gasolina e Outros
+Combustíveis, E3.5 Entreposto Aduaneiro de produtos não perigosos, E6.1 Usinas de
+Compostagem e Triagem de Materiais e Resíduos Urbanos, E6.2 Reciclagem de
+materiais metálicos, E6.4 Aterros Sanitários, E7.1 Aterro e estocagem de resíduos
+industriais, E7.2 Tratamento centralizado de resíduos industriais, Grupo E-8 Serviços
+de coleta, tratamento e disposição de efluentes industriais, E10.1 Cemitérios, E11.1
+Tinturaria e Lavanderias Industrial/ Hospitalar, E11.2 Manutenção Industrial,
+Jateamento, Pintura e Correlatos E11.3 Serviços de calderaria, usinagem, solda,
+tratamento, e revestimento em metais, E11.4 Serviços de Descontaminação de
+Lâmpadas Fluorescentes ou Reciclagem, E11.6 Serviços de Lavagem,
+Descontaminação e Manutenção de Tanques e Isotanques, H2.1.1 Abatedouros e
+frigoríficos;
+
+§ 1º Além desses, todos os empreendimentos que utilizaram, utilizam, estocam e
+manipulam PCB’s ou quaisquer POPs, passíveis de licenciamento ambiental,
+conforme o Anexo IV do Decreto no 14.024/2012, e suas alterações, que pretendam
+encerrar definitivamente (parcial ou total), as suas atividades, mediante demolição
+e/ou desmantelamento de unidades produtivas e sistemas auxiliares;
+
+§ 2º Esta Instrução Normativa não se aplica a unidades nucleares nem a estações de
+tratamento de substâncias e materiais radioativos, instalações militares ou atividades
+de extração de minérios, uma vez que se trata de empreendimentos regidos por
+legislações específicas aplicadas pela Comissão Nacional de Energia Nuclear
+(CNEN), Ministério do Exército e Agência Nacional de Mineração (ANM).
+                                    CAPÍTULO III
+
+                                  SUPORTE LEGAL
+
+
+Art. 4º O suporte legal específico desta Instrução Normativa é o seguinte:
+I - Arts. 98, 103 e 155 do Regulamento da Lei nº 10.431/2006, aprovado pelo Decreto
+nº 14.024/2012, e suas alterações, que prevê, respectivamente: a necessidade de
+licenciamento ambiental, para atividades capazes, sob qualquer forma, de causar
+degradação ambiental, a apresentação de Plano de Encerramento no caso de
+desativação de empreendimentos e encerramento de atividades passíveis de
+licenciamento e, na exigibilidade de requerimento de Autorização Ambiental para o
+caso de atividades e serviços de caráter temporário;
+II - Resolução CONAMA n° 420/2009, que dispõe sobre critérios e valores
+orientadores de qualidade do solo quanto à presença de substâncias químicas e, em
+seu Art. 13, que conceitua as classes de qualidade do solo em função da
+concentração de substâncias químicas;
+III - Regulamento da Lei n° 10.431/2006, aprovado pelo Decreto n° 14.024/2012, que
+trata da obrigatoriedade pelos responsáveis pelo dano, de recuperação das áreas
+afetadas por degradação ambiental, devendo se dar sem prejuízo de outras
+responsabilidades administrativas, através da adoção de medidas, visando a
+recuperação do solo, da vegetação e/ou das águas, à redução dos riscos ambientais
+que possam dar nova destinação à área, a necessidade de elaboração de um Plano
+de Reabilitação Ambiental da área, a ser submetido à aprovação da autoridade
+ambiental competente; e a exigibilidade de apresentação de relatório sobre qualidade
+do solo e águas subterrâneas aos órgãos ambientais competentes, em caso de
+encerramento de atividades.
+                                    CAPÍTULO IV
+
+        INSTRUMENTO LEGAL PARA DESATIVAÇÃO TOTAL OU PARCIAL
+Art. 5º Deverá ser requerido previamente junto ao INEMA o competente processo de
+Autorização Ambiental (AA) para a desativação total ou parcial de empreendimentos
+ou encerramento de atividades operacionais, sujeitos aos procedimentos de
+desinventariamento,    limpeza,     descomissionamento,    desmantelamento     ou
+desmontagem e demolição, com ou sem remediação de área contaminada.
+§ 1º No caso do encerramento de atividades operacionais de empreendimentos, que
+não envolvam todos os procedimentos previstos no caput do Art. 5º, deverá ser
+protocolado ofício junto ao INEMA, informando sobre a desativação desta unidade,
+acompanhado do Plano de Encerramento, para avaliação deste órgão, conforme
+disposto no Art. 103 do Decreto 14.024/2012 e suas alterações;
+Art. 6º No caso em que a desativação da atividade operacional seja parcial, mantendo
+o sistema em hibernação, o INEMA deverá ser informado previamente, através de
+ofício, constando neste as unidades afetadas, as influências nas emissões
+atmosféricas, geração de resíduos, e efluentes líquidos.
+
+
+                                   CAPÍTULO V
+
+          PROCEDIMENTOS PARA DESATIVAÇÃO TOTAL OU PARCIAL
+
+
+Art. 7º O empreendedor deverá apresentar ao INEMA, no momento do requerimento
+da Autorização Ambiental (AA):
+I - A situação ambiental de momento da área, relatando a qualidade em que se
+encontra o solo e as águas subterrâneas, por meio de uma Avaliação Preliminar,
+conforme a ABNT NBR 15515-1, elaborando um modelo conceitual de exposição.
+§ 1º Caso a análise técnica do processo de AA revele indícios ou suspeitas de
+contaminação, o empreendedor deverá apresentar uma Investigação Confirmatória da
+área, segundo a ABNT NBR 15515-2, para que haja prosseguimento da análise;
+§ 2º Caso haja contaminação, o empreendedor deverá apresentar a Investigação
+Detalhada, de acordo com a ABNT NBR15515-3, a Avaliação de Risco a Saúde
+Humana para Fins de Gerenciamento de Áreas Contaminadas, de acordo com ABNT
+NBR 16209, Plano de Reabilitação de Áreas Contaminadas, de acordo com ABNT
+NBR 16784, e o Plano de Desativação de Empreendimentos com Potencial de
+Contaminação, de acordo com a ABNT NBR 16901;
+§ 3º. No caso de não ser encontrado passivo ambiental durante os diagnósticos
+preliminar e confirmatório, não significa necessariamente que em análise futura não
+possa ser verificada a sua existência e o estabelecimento de nexo causal com a
+empresa desenvolvedora da atividade potencialmente poluidora e, se assim ocorrer,
+poderá ser imputada à empresa a obrigação para reparação do dano causado.
+II - Plano de Desativação, incluindo procedimentos de Desinventário, Limpeza e
+Descomissionamento das instalações que serão desativadas totalmente ou
+parcialmente, contendo no mínimo as seguintes informações:
+a) Caracterização da área de estudo, incluindo descrição dos processos produtivos
+(atuais e históricos) e identificação das instalações e dos equipamentos informando
+seu destino;
+b) Identificação e quantificação das matérias-primas e dos produtos remanescentes,
+atuais e históricos, acompanhados das suas respectivas Ficha de Informações de
+Segurança de Produtos Químicos (FISPQ), e indicar o destino;
+c) Forma de remoção e destino dos materiais existentes na área;
+d) Caracterização e quantificação dos resíduos sólidos e/ou efluentes líquidos
+(inventários de resíduos) e indicar o tratamento ou destino;
+e) Caracterização dos materiais que comporão os entulhos provenientes de eventuais
+demolições, incluindo as suspeitas ou indícios de contaminação nas estruturas, e
+informar o destino;
+f) Caracterização dos efluentes que serão gerados e forma de tratamento e destino
+final;
+g) Caracterização das possíveis emissões atmosféricas e mitigação;
+h) Cronograma de execução do plano.
+III - Plano de Desmantelamento ou Desmontagem e Demolição com análise preliminar
+de risco, quando couber.
+§ 1º. Para essa etapa a unidade já deve ter sido totalmente desinventariada,
+descomissionada, e ter seu relatório técnico final do item Plano de Desativação
+aprovado pelo Órgão Ambiental;
+§ 2º. O Plano de Desmontagem e Demolição será elaborado pelo empreendedor,
+atendendo aos procedimentos desta norma e será submetido à análise do Órgão
+Ambiental;
+§ 3º. O prazo de execução do Plano de Desmontagem e Demolição será em função do
+cronograma apresentado, podendo ser renovado a partir de sua aprovação;
+§ 4º. Concluída a etapa de desmontagem e/ou demolição, a empresa deverá informar
+ao órgão ambiental sua conclusão e apresentar o relatório final desta etapa;
+§ 5º No caso de serem identificados, durante a etapa de desmontagem e/ou
+demolição, materiais ou componentes de equipamentos contendo substâncias
+radioativas, deverão ser adotadas as normas pertinentes do Conselho Nacional de
+Energia Nuclear (CNEN);
+Art. 8º. No caso de empreendimentos com Licenças de Operação vencidas e que
+necessitem     iniciar   procedimentos      de     desinventariamento,   limpeza,
+descomissionamento, desmantelamento ou desmontagem e demolição é necessário o
+requerimento de Autorização Ambiental para realização dessas atividades.
+Art. 9º. Na existência conhecida de passivo ambiental identificado durante atividade
+produtiva, cuja recuperação exceda ao prazo da autorização ambiental para
+remediação pretendida, este deve ser informado, mencionando a faixa de tempo
+estimada de recuperação conforme ABNT NBR 16784-1:2020 ou norma similar
+aprovada pelo INEMA.
+Art. 10. Após a avaliação preliminar e investigação confirmatória do site, para águas
+subterrâneas e/ou superficiais e solo, caso não haja passivo ambiental identificado, a
+empresa deve apresentar ao INEMA, relatório técnico completo evidenciando o
+diagnóstico.
+Art. 11. Deve-se considerar no relatório técnico completo evidenciando o diagnóstico,
+a existência ou não de passivo ambiental, o uso pretendido da área de acordo com o
+zoneamento do plano diretor ou equivalente de desenvolvimento municipal da área e
+demais itens e as atividades realizadas de desinventário, limpeza,
+descomissionamento, desmantelamento ou desmontagem e demolição.
+Art. 12. Todo relatório ou estudo técnico deverá ser elaborado por equipe técnica
+devidamente habilitada ou profissional habilitado, acompanhado de sua ART
+(Anotação de Responsabilidade Técnica) junto ao Conselho competente.
+
+
+                                     CAPÍTULO VI
+
+                              PLANO DE INTERVENÇÃO
+
+
+Art. 13. Após as etapas de Avaliação Preliminar, Investigação Confirmatória,
+Investigação Detalhada e Análise de Risco à Saúde Humana, conforme ABNT NBR
+16.209: 2013, com a caracterização do passivo ambiental e da contaminação da área,
+a próxima etapa será efetuar a intervenção na área, devendo o empreendedor
+requerer processo de AA e apresentar um Plano de Intervenção conforme a NBR
+16784:2020, contendo as seguintes informações:
+I - A metodologia a ser utilizada para o controle ou eliminação das fontes primária e
+secundária de contaminação;
+II - O uso atual e futuro do solo da área objeto e sua circunvizinhança;
+III - As alternativas de intervenção consideradas técnica e economicamente viáveis e
+suas consequências;
+IV - O programa de monitoramento;
+V - O cronograma das ações.
+Art. 14. No caso da identificação de condição de perigo, em qualquer etapa do
+gerenciamento, deverão ser tomadas ações emergenciais compatíveis para a
+eliminação desta condição e a continuidade da investigação e do gerenciamento.
+Art. 15. Na existência de passivo ambiental cujo prazo de implementação do Plano de
+Intervenção exceda o prazo da licença, a empresa deverá informar ao órgão ambiental
+as medidas previstas, agrupando-as em função da duração de sua aplicabilidade em
+curto, médio e longo prazo, seguindo os critérios estabelecidos na ABNT NBR
+16784:2020.
+Art. 16. Caso a área esteja classificada como contaminada em processo de
+reutilização ou área contaminada em processo de remediação, devem ser definidas e
+avaliadas as metas para reabilitação para o uso pretendido, considerando a
+manutenção ou mudança do uso atual, bem como no caso da ampliação e/ou
+mudança da atividade potencialmente poluidora, mediante aprovação do INEMA.
+Art. 17. Durante a elaboração dos estudos de investigação de contaminação do solo e
+águas subterrâneas, deve ser avaliada a origem da pluma de contaminação e se esta
+ultrapassa os limites de bateria do empreendimento.
+§ 1º. Nesse caso, deverá ser avaliada a origem da fonte primária e secundária e, caso
+essas fontes estejam dentro dos limites da empresa, será de inteira responsabilidade
+desta.
+§ 2º. Caso as fontes primárias e secundárias estejam localizadas nas vizinhanças, a
+empresa deverá informar ao INEMA para que providências sejam tomadas em comum
+acordo com as empresas envolvidas.
+Art. 18. Caso a utilização futura da área seja declarada como indefinida e caso não
+exista um zoneamento prévio da área, o Plano de Intervenção deve ser elaborado
+considerando o Modelo Conceitual de Exposição (MCE) em suas premissas mais
+restritivas.
+                                   CAPÍTULO VII
+
+               ACOMPANHAMENTO DO PLANO DE INTERVENÇÃO
+
+
+Art. 19. A empresa deverá informar ao INEMA, através de relatórios periódicos, as
+etapas executadas do plano de intervenção e do monitoramento realizado na área, se
+for o caso.
+
+
+                                   CAPÍTULO VIII
+
+                   LIBERAÇÃO DA ÁREA PARA OUTROS USOS
+
+
+Art. 20. Esta etapa consiste na emissão de Parecer Técnico quanto à liberação da
+área para outros usos, após ter sido concluída a etapa de intervenção do local.
+Art. 21. A empresa informará ao INEMA sobre a conclusão das etapas de intervenção,
+que emitirá Parecer Técnico avaliando se as etapas de gerenciamento de áreas
+contaminadas foram cumpridas, se a avaliação de risco demonstrou a existência de
+substâncias abaixo das concentrações máximas aceitáveis, se as metas de
+remediação ambiental foram atingidas, se foram eliminadas as fontes de
+contaminação primária e secundária e se outros parâmetros disponíveis indicarem que
+a área afetada pode ser liberada para o uso pretendido.
+Art. 22. Após a análise do Relatório Final sobre a conclusão das etapas de intervenção
+e no caso de Parecer Técnico favorável, o INEMA emitirá a Declaração de Área
+Reabilitada para o Uso Pretendido considerando as premissas do MCE mais
+restritivas.
+Art. 23. Caso o Parecer Técnico seja desfavorável ao pleito da empresa, o INEMA
+emitirá documento (carta ou ofício), com instruções e recomendações técnicas para a
+continuidade das etapas de intervenção na área ou outras medidas que entender
+necessárias.
+Art. 24. Em caso de modificação do uso pretendido, previamente declarado, o Órgão
+Ambiental poderá solicitar novo diagnóstico ambiental da área em questão, às
+expensas do empreendedor.
+Art. 25. O Órgão Ambiental poderá solicitar à empresa que apresente
+manifestação/anuência de outras entidades para finalização do processo de
+desativação do empreendimento.
+
+
+                                    CAPÍTULO IX
+                               DISPOSIÇÕES FINAIS
+
+
+Art. 26. O uso futuro da área que sofreu desativação deverá estar de acordo com o
+plano diretor de desenvolvimento municipal da respectiva região em que se encontra.
+Art. 27. As metas estabelecidas na análise de risco devem contemplar o uso
+pretendido da área e o seu respectivo enquadramento.
+Art. 28. O profissional habilitado que validar os estudos e a análise de risco deverá
+possuir uma ART - Anotação de Responsabilidade Técnica referente ao trabalho
+executado.
+Art. 29. Para desativações temporárias ou hibernação de toda a instalação, deverá ser
+elaborado um plano, a ser submetido ao INEMA, estabelecendo uma rotina de
+inspeção e manutenção que avalie condições de isolamento ao sistema em operação,
+sistemas elétricos energizados ou desenergizados, identificando e sinalizando
+subestação/equipamento, sistemas de instrumentação e controle, intertravamento dos
+equipamentos, painel da estação de controle SDCD - Sistema Digital de Controle
+Distribuído e PLC - Programador Lógico de Controle.
+Art. 30. Não se enquadram como desativação:
+I - Remoção de sistemas e instalações que sejam substituídos por peças ou
+equipamentos similares novos (sem mudança de projeto ou alteração das
+características originais de processo): são serviços de manutenção;
+II - Remoção de sistemas e instalações que sejam substituídos por peças ou
+equipamentos com funções parecidas ou diferentes, sem modificar a finalidade da
+unidade ou planta industrial de processo e que necessitem de revisões de projeto: são
+serviços de investimento (empreendimentos);
+Art. 31. Os anexos desta Instrução Normativa, compostos do Anexo I: Documentos e
+Normas de Referência e Anexo II: Fluxograma, estão disponíveis no sítio eletrônico do
+INEMA (www.inema.ba.gov.br);
+
+Art. 32. O não cumprimento do disposto nesta Instrução Normativa sujeitará os
+infratores à aplicação das penalidades e sanções previstas em lei.
+
+Art. 33. Os casos omissos nesta Instrução Normativa serão resolvidos em Atos
+Administrativos específicos a serem expedidos pela Diretoria Geral do INEMA;
+
+Art. 34. Esta Instrução Normativa entrará em vigor na data de sua publicação.
+
+
+                  MÁRCIA CRISTINA TELLES DE ARAÚJO LIMA
+                               Diretora Geral
+<#E.
+             ANEXO I - DOCUMENTOS E NORMAS DE REFERÊNCIA
+
+1. Lei nº 10.431, de 20/12/2006, que dispõe sobre a Política Estadual de Meio
+    Ambiente e de Proteção à Biodiversidade;
+2. Lei Estadual 11.612, de 08/10/2009, que dispõe sobre a Política Estadual de
+    Recursos Hídricos;
+3. Decreto Estadual nº 14.024, de 06/06/2012, que aprova o Regulamento da Lei nº
+    10.431, de 20/12/2006, que instituiu a Política de Meio Ambiente e de Proteção à
+    Biodiversidade do Estado da Bahia, e da Lei nº 11.612, de 08/10/2009, que dispõe
+    sobre a Política Estadual de Recursos Hídricos e o Sistema Estadual de
+    Gerenciamento de Recursos Hídricos;
+4. ABNT - Associação Brasileira de Normas Técnicas. NBR - 15515-1:2007: Passivo
+    ambiental em solo e águas subterrâneas - Parte 1: Avaliação Preliminar;
+5. ABNT - Associação Brasileira de Normas Técnicas - NBR 15515-2:2011: Passivo
+    ambiental em solo e águas subterrâneas - Parte 2: Investigação Confirmatória;
+6. ABNT - Associação Brasileira de Normas Técnicas - NBR 15515-3:2013: Passivo
+    ambiental em solo e águas subterrâneas - Parte 3: Investigação Detalhada;
+7. ABNT - Associação Brasileira de Normas Técnicas - NBR 16209:2013: Avaliação
+    de risco a saúde humana para fins de gerenciamento de áreas contaminadas;
+8. ABNT - Associação Brasileira de Normas Técnicas - NBR 16210:2013: Modelo
+    conceitual de gerenciamento de áreas contaminadas – Procedimento;
+9. ABNT - Associação Brasileira de Normas Técnicas - NBR 16784-1:2020:
+    Reabilitação de áreas contaminadas - Plano de intervenção - Parte 1:
+    Procedimento de elaboração;
+10. ABNT - Associação Brasileira de Normas Técnicas - NBR 16901:2020:
+    Gerenciamento de áreas contaminadas - Plano de desativação de
+    empreendimentos com potencial de contaminação - Procedimento;
+11. ASTM E 1739 - American Standard Testing Methods - RBCA Risk Based
+    Corrective Actions;
+12. CONAMA - Conselho Nacional de Meio Ambiente. Resolução nº 420, de 28 de
+    dezembro de 2009. Dispõe sobre critérios e valores orientadores de qualidade do
+    solo quanto à presença de substâncias químicas e estabelece diretrizes para o
+    gerenciamento ambiental de áreas contaminadas por essas substâncias em
+    decorrência de atividades antrópicas. Diário Oficial da União, Brasília, nº 249, 30
+    dez. 2009. p. 81-84
+ANEXO II - FLUXOGRAMA
+

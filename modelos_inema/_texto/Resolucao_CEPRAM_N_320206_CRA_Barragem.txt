@@ -1,0 +1,2610 @@
+RESOLUÇÃO CEPRAM Nº 3702 de 24 DE NOVEMBRO DE 2006. O CONSELHO
+ESTADUAL DE MEIO AMBIENTE - CEPRAM, no uso de suas atribuições, tendo em vista o
+que consta no Processo Nº 2006-004225/TEC/NT-0005, RESOLVE: Art. 1º Aprovar a
+Norma Técnica NT-005/2006 e seus Anexos, que dispõe sobre o licenciamento ambiental de
+barragem, no estado da Bahia. Art. 2º Os casos omissos nesta norma serão resolvidos pelo
+CEPRAM.        Art. 3º A íntegra desta Resolução estará disponível no site
+www.seia.ba.gov.br/cepram. Art. 4º Esta Resolução entra em vigor na data de sua
+publicação, revogadas as disposições em contrário. VLADIMIR ABDALA NUNES –
+Presidente
+
+
+
+Considerando:
+
+   •   o disposto no inciso IV do parágrafo 2º do art. 43 da Constituição Federal de
+       1988, que trata da prioridade para o aproveitamento econômico e social dos
+       rios e massas de água represadas ou represáveis nas regiões de baixa
+       renda, sujeitas a secas periódicas;
+   •   a utilidade pública das obras essenciais de infra-estrutura destinada ao
+       saneamento básico, legalmente declarada pelo Código Florestal, na alínea b,
+       do inciso IV do parágrafo 2º do art. 1º, alterada pela Medida Provisória n.
+       2166-67, de 24 de agosto de 2001;
+   •   que a Política Estadual de Recursos Hídricos, estabelecida pela Lei Estadual
+       nº 6855, de 12 de maio de 1995, define que é direito de todos o acesso aos
+       recursos hídricos do estado;
+   •   que o inciso I do art. 41 da Lei Estadual nº 7.799, de 07 de fevereiro de 2001,
+       que institui a Política Estadual de Administração dos Recursos Ambientais do
+       Estado da Bahia, faculta, no processo de licenciamento ambiental, a
+       simplificação dos procedimentos para empreendimentos e atividades de
+       pequeno potencial degradador;
+
+
+                           NORMA TÉCNICA NT 005/2006
+
+                  LICENCIAMENTO AMBIENTAL DE BARRAGEM
+
+1.0 OBJETIVO
+
+Esta norma estabelece critérios e procedimentos para subsidiar o licenciamento
+ambiental de barragem, no Estado da Bahia.
+
+2.0 APLICAÇÃO
+
+Esta norma aplica-se às atividades de planejamento, projeto, construção, operação
+e ampliação de barragem, no Estado da Bahia, excetuando-se aquelas destinadas à
+geração de energia elétrica.
+
+
+
+
+                                                                                      1
+3.0 SUPORTE LEGAL
+Esta Norma tem como suporte legal o disposto no art. 6o, incisos IV, do regulamento
+da Lei Estadual n° 7.799, de 07.02.2001, aprovado pelo Decreto Estadual nº 7.967 de
+05.06.2001.
+
+4.0 LEGISLAÇÃO FUNDAMENTAL E DOCUMENTOS COMPLEMENTARES
+
+Deverá ser cumprida toda a legislação federal, estadual e municipal pertinente ao
+assunto, devendo, para fins de utilização desta norma, ser consultados, em especial,
+os seguintes documentos:
+
+4.1 Legislação Federal
+
+   •   Lei Federal nº 3.824 de 13/11/1960, que torna obrigatória a destoca e
+       conseqüente limpeza das bacias hidráulicas dos açudes, represas e lagos
+       artificiais construídas pela União, Estados, Municípios ou empresas que
+       gozem de concessões do Poder Público;
+   •   Lei Federal nº 4.771, de 15/09/1965, que institui o Código Florestal;
+   •   Portaria IPHAN nº 07, de 01/12/1988, que estabelece procedimentos
+       necessários à comunicação prévia, às permissões e às autorizações para
+       pesquisas e escavações arqueológicas em sítios arqueológicos previstos na
+       Lei Federal nº 3.924/1961;
+   •   Resolução CONAMA nº 302, de 20/03/2002, que dispõe sobre parâmetros,
+       definições e limites da área de preservação permanente de reservatórios
+       artificiais e o regime de uso do entorno;
+   •   Resolução CONAMA nº 303, de 20/03/2002, que dispõe sobre parâmetros,
+       definições e limites da APP;
+   •   Portaria IPHAN nº 230, de 17/12/2002, que dispõe sobre dispositivos para
+       compatibilização e obtenção de licenças ambientais em áreas de preservação
+       arqueológica;
+   •   Resolução CNRH nº 37, de 26/03/2004, que estabelece diretrizes para a
+       outorga de recursos hídricos para a implantação de barragens em corpos de
+       água de domínio dos Estados, do Distrito Federal e da União;
+   •   Resolução CONAMA nº 347, de 10/09/2004, que dispõe sobre a proteção do
+       patrimônio espeleológico;
+   •   Resolução CONAMA nº 369, de 28/03/2006, que dispõe sobre os casos
+       excepcionais, de utilidade pública, interesse social ou baixo impacto
+       ambiental, que possibilitam a intervenção ou supressão de vegetação em
+       Área de Preservação Permanente (APP).
+
+
+4.2 Legislação Estadual
+   •   Lei Estadual nº 7.799 de 07/02/2001, que institui a política estadual de
+       Administração dos Recursos Ambientais;
+
+
+
+
+                                                                                  2
+   •   Decreto Estadual n° 7.967 de 05/06/2001, que aprova o regulamento da Lei nº
+       7.799, de 07 /02/2001;
+   •   Decreto Estadual nº 9.958, de 30/03/2006, que altera o regulamento da Lei nº
+       7.799, de 07 /02/2001;
+   •   Lei Estadual nº 6.569, de 17/01/1994, que dispõe sobre a Política Florestal do Estado
+       da Bahia;
+   •   Decreto Estadual nº 6.785, de 23/09/1997, que aprova o regulamento da Lei nº
+       6.569, de 17/01/1994;
+   •   Decreto Estadual nº 9.405, de 26/04/2005, que altera o regulamento da Lei nº
+       6.569, de 17/01/1994;
+   •   Lei Estadual nº 6.855, de 12/05/1995, que estabelece a Política, Gerenciamento
+       e Plano Estadual de Recursos Hídricos;
+   •   Decreto Estadual n° 6.296 de 21/03/1997, que dispõe sobre a outorga de direito de
+       uso de recursos hídricos;
+   •   Resolução CEPRAM nº 3.542, de 21/12/2005, que dispõe sobre a dispensa
+       do licenciamento ambiental para a construção e reforma de reservatórios
+       artificiais com finalidade de abastecimento humano e dessedentação de
+       animais, em águas de domínio estadual e em áreas de programas de caráter
+       social e de combate à pobreza;
+   •   Resolução CEPRAM nº 2.929, de 18/01/2002, que dispõe sobre o processo
+       de avaliação de impacto ambiental, para os empreendimentos e atividades
+       consideradas efetiva ou potencialmente causadoras de significativa
+       degradação do meio ambiente;
+   •   Resolução CEPRAM nº 2.983 de 28/06/2002, que dispõe sobre a
+       documentação necessária para requerimento de licença ambiental,
+       autorização de supressão de vegetação ou uso alternativo do solo, outorga de
+       direito do uso das águas, no Estado da Bahia, alterada pela Resolução
+       CEPRAM no 3.527, de 25/11/2005.
+
+
+4.3 Documentos de Referência
+   •   Diretrizes Ambientais para Projeto e Construção de Barragem e Operação de
+       Reservatórios. Ministério da Integração Nacional. Secretaria de Infra-Estrutura
+       Hídrica / Subprograma de Desenvolvimento Sustentável de Recursos Hídricos
+       para o Semi-Árido Brasileiro. Brasília, DF – 2005;
+   •   Manual de Especificações Ambientais para Projeto e Construção de
+       Barragens e Operação de Reservatórios. Ministério do Meio Ambiente /
+       Secretaria de Recursos Hídricos – Proágua / Semi-árido. Brasília, DF – 2003;
+   •   Manual de Segurança e Inspeção de Barragens. Ministério da Integração
+       Nacional. Brasília, DF – 2002.
+
+5.0 DEFINIÇÕES
+
+Para os efeitos desta Resolução, são adotadas as seguintes definições:
+
+
+
+                                                                                          3
+5.1 Definições gerais
+
+   •   Análise Prévia de Processos: ato administrativo pelo qual o CRA avalia as
+       características do empreendimento definindo o enquadramento do mesmo e
+       os procedimentos para o processo de licenciamento. A avaliação é realizada
+       com base nas informações contidas no Requerimento para o Licenciamento,
+       apresentado pelo empreendedor.
+
+   •    Anuência Prévia: ato administrativo pelo qual o órgão administrador da
+       Unidade de Conservação (UC) se manifesta sobre as condições para
+       implantação de empreendimentos e atividades na UC, ou em sua zona de
+       amortecimento;
+
+   •   Área de Preservação Permanente (APP): área protegida nos termos da
+       legislação pertinente, coberta ou não por vegetação nativa, com a função
+       ambental de preservar os recursos hídricos, a paisagem, a estabilidade
+       geológica, a biodiversidade, o fluxo gênico de fauna e flora, proteger o solo e
+       assegurar o bem-estar das populações humanas;
+   •   Área de Reserva Legal: área vegetada ou destinada à recomposição da
+       vegetação correspondente a, no mínimo, 20% (vinte por cento) da
+       propriedade ou posse rural, devidamente averbada no Registro de Imóveis;
+   •   Autorização de Supressão de Vegetação: ato administrativo que autoriza o
+       empreendedor à supressão de vegetação ou uso alternativo do solo dentro
+       dos limites da área requerida e nas condições técnicas estabelecidas;
+   •   Declaração da Política Ambiental: documento elaborado pelo
+       empreendedor no qual são apresentados o conjunto das ações e as diretrizes
+       relacionadas às questões ambientais da instituição;
+   •   Comissão Técnica de Garantia Ambiental (CTGA): comissão constituída
+       nas instituições públicas e privadas, que tem como objetivo coordenar,
+       executar, acompanhar, avaliar e pronunciar-se sobre os planos, programas e
+       projetos potencialmente degradadores desenvolvidos no âmbito de sua
+       atividade;
+   •   Empreendedor: Pessoa Física ou Jurídica, proprietário, diretor ou sócio,
+       representante legalmente constituído, responsável pela atividade econômica;
+   •   Entidade Gestora: pessoa jurídica responsável pela operacionalização das
+       ações estabelecidas no sentido de garantir a conservação, recuperação, o
+       uso e ocupação do entorno do reservatório artificial;
+   •   Estudos Ambientais: estudos relativos aos aspectos ambientais,
+       relacionados à localização, instalação, operação e ampliação de uma
+       atividade ou empreendimento, apresentado como subsídio ao licenciamento
+       ambiental;
+   •   Impacto Ambiental: qualquer alteração das propriedades químicas, físicas,
+       biológicas e sócio-econômicas do meio ambiente, causada por qualquer
+       forma de matéria ou energia, resultante das atividades humanas que, direta
+
+
+
+
+                                                                                    4
+    ou indiretamente, afetem: a saúde, a segurança e o bem-estar da população;
+    as atividades sociais e econômicas; a biota; as condições estéticas e
+    sanitárias do meio-ambiente; a qualidade dos recursos naturais;
+•   Licença Ambiental: ato administrativo pelo qual o órgão ambiental
+    competente avalia a viabilidade de implantação de atividade ou
+    empreendimento efetiva ou potencialmente poluidores e estabelece as
+    condições, restrições e medidas de controle ambiental que deverão ser
+    obedecidas para sua localização, instalação, alteração e operação;
+•   Medidas Mitigadoras: ações e procedimentos visando minimizar os impactos
+    causados no meio ambiente;
+•   Medidas Compensatórias: aquelas que             são   estabelecidas   como
+    compensação aos impactos não mitigáveis;
+•   Órgão Ambiental Competente: órgão estadual ou municipal de meio
+    ambente, responsável pelo controle ambiental do empreendimento;
+•   Outorga de direito de uso da água: ato administrativo que autoriza o
+    empreendedor a utilizar os recursos hídricos dentro dos limites e condições
+    estabelecidas na Portaria de Outorga, deferida pelo órgão gestor de recursos
+    hídricos do Estado;
+•   Outorga para execução de obras ou serviços: ato administrativo que
+    autoriza o empreendedor a executar obras ou serviços relacionados com o
+    uso de recursos hídricos dentro dos limites e condições estabelecidas na
+    Portaria de Outorga, deferida pelo órgão gestor de recursos hídricos do
+    Estado;
+•   Plano de Controle Ambiental (PCA): documento que contém os projetos
+    executivos propostos nos estudos ambientais relativos às ações mitigadoras
+    dos impactos ambientais, acompanhado do cronograma de execução, bem
+    como daquelas estabelecidas pelo CRA ou CEPRAM.
+•   Plano de Recuperação de Áreas Degradadas (PRAD): documento
+    contendo as propostas de medidas mitigadoras para os impactos ambientais
+    causados pelas atividades ou empreendimentos poluidores, incluindo o
+    detalhamento dos projetos para a reabilitação das áreas degradadas;
+•   Relatório de Controle Ambiental (RCA): documento que contém
+    informações, levantamentos e/ou estudos que permitam avaliar os efeitos do
+    empreendimento sobre o meio ambiente;
+•   Requerimento da Licença Ambiental: documento elaborado                 pelo
+    empreendedor solicitando ao órgão ambiental a licença de interesse.
+•   Roteiro de Caracterização do Empreendimento: documento no qual o
+    empreendedor apresenta as informações básicas do empreendimento,
+    proporcionando ao órgão ambiental condições de avaliar as características
+    essenciais do mesmo e consequentemente definir os procedimentos e etapas
+    a serem observadas no processo de licenciamento.
+
+
+
+
+                                                                              5
+   •   Projeto Técnico do Empreendimento: documento elaborado pelo
+       empreendedor no qual são indicadas, em detalhes, todas as características
+       construtivas, executivas e operacionais, das várias etapas que compõem o
+       empreendimento.
+   •   Termo de Responsabilidade Ambiental: documento apresentado pelo
+       empreendedor, no qual são firmados os compromissos e a responsabilidade
+       com a gestão ambiental do empreendimento;
+   •   Termo de Referência (TR): instrumento orientador, fornecido pelo órgão
+       ambiental, tendo como finalidade estabelecer as diretrizes para a elaboração
+       e conteúdo de estudos ambientais.
+5.2 Definições Específicas
+   •   Açude: conjunto formado pela barragem, com suas obras complementares,
+       pelo reservatório d’água e pela Área de Preservação Permanente (APP);
+   •   Aguadas ou barreiros: obra realizada em uma lagoa ou baixada, visando o
+       aprofundamento da mesma para aumentar o volume armazenado tendo como
+       principal contribuição, as águas pluviais;
+   •   Aliviador: estrutura destinada a extravasar as vazões de cheias máximas do
+       reservatório. O mesmo que sangradouro e vertedouro;
+   •   Áreas de empréstimos: termo usado para identificar o local de onde será
+       retirado material para fins de construção;
+   •   Área de inundação: área onde ocorreu o transbordamento de água da calha
+       normal de um rio ou resultante da acumulação de água por meio da
+       construção de uma barragem, em áreas não habitualmente submersas;
+   •   Bacia de Contribuição: área drenada para um ponto específico, tal como o
+       eixo da barragem, também conhecida como bacia hidrográfica;
+   •   Bacia Hidráulica: área de uma bacia hidrográfica inundada pela implantação
+       de uma barragem, definida pela cota da soleira do sangradouro;
+   •   Barragem: construção transversal a um rio com finalidade de armazenar
+       águas em determinado trecho, controlar o nível das águas, regular o
+       escoamento ou derivar suas águas para canais;
+   •   Barragem de nível: construção transversal a um corpo hídrico com finalidade
+       de elevar o nível da água até uma determinada cota, visando a captação ou
+       derivação por meio de adutoras ou canais, também conhecida como
+       barragem de derivação;
+   •   Catádromo: migração estacional de peixe de água doce que desce para
+       desovar no mar;
+   •   Descarga de fundo: dispositivo que possibilita extravazar água de fundo do
+       reservatório;
+   •   Dique: construção permanente, normalmente paralela a um corpo hídrico,
+       com finalidade de evitar fugas da água acumulada no reservatório por meio
+       de selas topográficas;
+
+
+
+                                                                                 6
+   •   Ensecadeira: construção provisória transversal a um corpo hídrico com a
+       finalidade de armazenar e desviar as águas, durante a fase de implantação
+       da barragem;
+   •   Jazida: massa individualizada de recurso mineral ou fóssil, de valor
+       econômico, aflorando à superfície ou existente no interior da terra, a exemplo
+       de jazidas de areia, de solo e de pedra;
+   •   Nascente: local de afloramento do lençol freático e/ou início de um curso
+       d´água;
+   •   Piracema: migração sazonal de cardumes de peixes rio acima, na época da
+       desova ou com as primeiras chuvas;
+   •   Plano de obras: seqüência dos trabalhos para implantação da barragem e
+       obras complementares, contemplando mobilização e desmobilização;
+   •   Reservatório: volume de água acumulado pelo barramento;
+   •   Rio Efêmero: rio que não é alimentado pelo lençol freático, com fluxo de
+       água somente durante e imediatamente após as chuvas, permanecendo seco
+       a maior parte do ano;
+   •   Rio Intermitente: rio com fluxo de água apenas em certa época do ano;
+   •   Rio Perene: rio que sempre apresenta água no seu leito, sendo alimentado
+       pelo lençol freático;
+   •   Túnel de desvio: escavação provisória durante a fase de construção de uma
+       barragem, com a finalidade de desviar as águas do rio;
+   •   Vazão Regularizada: volume passível de ser retirado de um reservatório de
+       acumulação, em um determinado tempo, com uma determinada garantia;
+   •   Vazão de Restituição: vazão garantida para proteção da vida aquática, à
+       jusante da barragem. O mesmo que vazão ecológica.
+
+6.0 DISPOSIÇÕES GERAIS
+
+6.1 A localização, a implantação a operação, bem como a ampliação de barragens,
+dependerão de prévio licenciamento ambiental, conforme o artigo 180, § 1º Inciso VI,
+do Regulamento da Lei nº 7.799, de 07/02/2001, aprovado pelo Decreto Estadual nº
+7.967, de 05/06/2001;
+6.2 As atividades e empreendimentos sujeitos ao licenciamento ambiental deverão
+apresentar roteiro de caracterização do empreendimento e demais estudos
+ambientais, de acordo com os Termos de Referência apresentados nos Anexos I, II,
+III, IV, V e VI. O CRA poderá exigir, a seu critério, estudos complementares;
+6.3 Os profissionais que subscrevem os estudos e projetos que integram os
+processos de licenciamento ambiental serão responsáveis pelas informações
+apresentadas, sujeitando-se às sanções administrativas, civis e penais;
+6.4 Os estudos e projetos apresentados ao CRA deverão ser assinados por
+profissionais legalmente habilitados e devidamente credenciados nos respectivos
+
+
+
+
+                                                                                   7
+Conselhos de Classe, sendo necessária apresentação do registro de Anotação de
+Responsabilidade Técnica (ART), ou documento equivalente;
+6.5 No caso de transferência da Licença Ambiental para novo titular, o mesmo
+deverá comprovar, junto ao CRA, a sua capacidade operacional em cumprir os
+condicionantes estabelecidos na licença, bem como, os aspectos inerentes às
+normas vigentes;
+6.6 Os empreendimentos localizados em Unidade de Conservação (UC) ou na sua
+zona de amortecimento dependerão da Anuência Prévia do gestor da UC.
+6.7 O processo de licença ambiental poderá ser arquivado pelo CRA, devido ao não
+cumprimento pelo interessado, das notificações expedidas para solicitações de
+complementação dentro do prazo concedido;
+6.8 Sendo constatado omissão ou falsa descrição de informações relevantes ao
+processo licenciatório, o CRA adotará as penalidades cabíveis, podendo inclusive
+cancelar a licença.
+
+7.0 DISPOSIÇÕES ESPECIFÍCAS
+
+7.1 Dos Procedimentos para o Licenciamento Ambiental
+7.1.1 Os projetos de construção, ampliação e operação de barragem ficam sujeitos a
+Licença Simplificada (LS), para micro e pequeno porte; Licença de Localização (LL),
+Licença de Implantação (LI), Licença de Operação (LO) ou Licença de Alteração
+(LA), para médio, grande e excepcional porte, em conformidade com legislação
+específica;
+7.1.2 O enquadramento, dos projetos de construção, ampliação e operação de
+barragem quanto ao porte far-se-á conforme os critérios estabelecidos na Tabela 1:
+
+
+
+
+  Tabela 1 – Porte da barragem segundo a área de inundação do reservatório
+
+         PORTE                          ÁREA DE INUNDAÇÃO (ha)
+         Micro                                       <5
+         Pequeno                                  > 5 < 50
+         Médio                                    > 50 < 200
+         Grande                                 > 200 ≤ 1000
+         Excepcional                               > 1000
+
+7.1.3 Para licenciamento de barragem cujo reservatório tiver área de inundação até
+200 ha deverá ser previamente realizado estudo ambiental de acordo com Termo de
+Referência constante no Anexo II (micro e pequeno porte) ou Anexo IV (médio
+porte).
+
+
+
+                                                                                 8
+7.1.4 Para licenciamento de barragem cujo reservatório tiver área de inundação
+acima de 200 ha (enquadrado como grande ou excepcional porte) ou quando,
+independente do porte do empreendimento, a sua área de influência for considerada
+pelo órgão ambiental competente como de significativo valor ecológico ou grande
+sensibilidade socioambiental, deverá ser previamente realizado Estudo de Impacto
+Ambiental (EIA) e seu respectivo Relatório de Impacto sobre o Meio Ambiente
+(RIMA), conforme Termo de Referência constante do Anexo V, podendo o CRA
+complementá-lo, após inspeção técnica.
+
+7.1.5 A aprovação pelo CRA dos estudos objeto dos termos de referência dos
+anexos IV e V se dará mediante a análise de relatórios parciais, em três etapas
+distintas, assim definidas:
+
+       Etapa I – Alternativa Locacional: o CRA analisará as alternativas locacionais
+contempladas no estudo apresentado pelo empreendedor, contendo os itens de 1 a
+3 do Termo de Referência constante do Anexo IV ou do Anexo V desta norma (1-
+Informações Gerais; 2-Caracterização do Empreendimento; 3-Alternativas
+Locacionais), podendo convocar reuniões com a equipe responsável pela
+elaboração dos estudos e/ou realizar inspeção técnica conjunta, deliberando sobre a
+escolha da alternativa locacional para o empreendimento, no prazo máximo de 45
+dias do recebimento do relatório;
+
+      Etapa II – Diagnóstico Ambiental: o empreendedor apresentará ao CRA o
+Diagnóstico Ambiental referente à alternativa locacional escolhida na Etapa I, que
+procederá à análise no prazo máximo de 90 dias, podendo requerer, se for o caso,
+complementações e ajustes necessários.
+
+      Etapa III – Avaliação dos Impactos Ambientais: após análise do Diagnóstico
+Ambiental pelo CRA o empreendedor procederá à avaliação dos impactos
+ambientais do empreendimento e concluirá o estudo que será apresentado ao CRA
+para prosseguimento da análise e emissão de parecer conclusivo.
+
+7.1.6 O CRA poderá convocar reuniões públicas para discussão do projeto no
+decorrer da análise dos estudos ambientais.
+7.1.7 Quando o empreendimento localizar-se em sub-bacia onde já existam outros
+barramentos, os estudos ambientais deverão contemplar a análise integrada e os
+impactos cumulativos;
+7.1.8 No caso de ampliação ou modificação do projeto de barragem com licença em
+vigor, a regularização dar-se-á mediante requerimento ao CRA da Licença de
+Alteração, observando o previsto no regulamento da Lei Estadual nº 7.799/2001;
+7.1.9 Ficam dispensadas do licenciamento ambiental:
+      I. As aguadas ou barreiros;
+      II. A construção e reforma de reservatórios artificiais de até 200 mil m³,
+      destinados exclusivamente ao abastecimento público ou dessendentação de
+      animais, localizados em rios de domínio estadual, com a prévia manifestação
+      da Superintendência de Recursos Hídricos (SRH);
+
+
+
+
+                                                                                  9
+      III. Os serviços de manutenção e/ou recuperação da estrutura física de
+      barragem, desde que devidamente licenciada.
+7.2 Do Requerimento da Licença Ambiental
+7.2.1 Para solicitação da Licença Simplificada (LS) será exigida a seguinte
+documentação:
+   I. Requerimento, conforme modelo fornecido pelo CRA;
+  II. Análise Prévia de Processos fornecida pelo CRA;
+  III. Roteiro de Caracterização do Empreendimento (RCE) e Estudo Ambiental,
+       conforme Anexo I;
+  IV. Projeto técnico da barragem acompanhado com as devidas Anotação de
+      Responsabilidade Técnica (ART) de elaboração e de execução;
+  V. Certidão da Prefeitura Municipal declarando que o local e o tipo de
+     empreendimento ou atividade estão em conformidade com a legislação
+     aplicável ao uso e ocupação do solo;
+  VI. Termo de Responsabilidade Ambiental, conforme modelo fornecido pelo CRA;
+ VII. Comprovante de pagamento da remuneração fixada no Anexo IV do
+      Regulamento da Lei nº 7.799, de 07/02/2001;
+VIII. Decreto de desapropriação;
+  IX. Outorga do direito de uso da água expedida pelo Órgão gestor de recursos
+      hídricos;
+  X. Outorga para execução de obras ou serviços que alterem o regime dos
+     recursos hídricos, em quantidade ou qualidade, emitida pelo órgão gestor dos
+     recursos hídricos, quando couber;
+  XI. Autorização de supressão de vegetação emitida pelo órgão florestal
+      competente;
+ XII. Documento do DNPM, que autoriza extração mineral de materiais a serem
+      utilizados durante a construção da barragem, quando couber;
+XIII. Outras informações ou memoriais complementares exigidos pelo CRA.
+7.2.2 Para solicitação da Licença de Localização (LL) será exigida a seguinte
+documentação:
+   I. Requerimento, conforme modelo fornecido pelo CRA;
+  II. Análise Prévia de Processos fornecida pelo CRA;
+  III. Roteiro de Caracterização do Empreendimento (RCE), conforme Anexo II;
+  IV. Certidão da Prefeitura Municipal declarando que o local e o tipo de
+      empreendimento ou atividade estão em conformidade com a legislação
+      aplicável ao uso e ocupação do solo;
+  V. Termo de Responsabilidade Ambiental, conforme modelo fornecido pelo CRA;
+  VI. Original da publicação do pedido da Licença de Localização em jornal de
+      grande circulação conforme modelo padronizado pelo CRA;
+
+
+
+                                                                               10
+ VII. Comprovante de pagamento da remuneração fixada no Anexo IV do
+      Regulamento da Lei nº 7.799, de 07/02/2001;
+VIII. Outorga do direito de uso da água expedida pelo órgão gestor de recursos
+      hídricos;
+  IX. Outorga para execução de obras ou serviços que alterem o regime dos
+      recursos hídricos, em quantidade ou qualidade, emitida pelo órgão gestor dos
+      recursos hídricos, quando couber;
+  X. Documento do DNPM, que autoriza extração mineral de materiais a serem
+     utilizados durante a construção da barragem, quando couber;
+  XI. Estudo Ambiental, conforme Anexo III ou Estudo de Impacto Ambiental
+      (EIA/RIMA), conforme Anexo IV, quando couber;
+ XII. Outras informações ou memoriais complementares exigidos pelo CRA.
+7.2.3 Para solicitação da Licença de Implantação (LI) será exigida a seguinte
+documentação:
+   I. Requerimento, conforme modelo fornecido pelo CRA;
+  II. Análise Prévia de Processos fornecida pelo CRA;
+  III. Roteiro de Caracterização do Empreendimento (RCE), conforme Anexo V;
+  IV. Projeto técnico da barragem acompanhado com as devidas Anotação de
+      Responsabilidade Técnica (ART) de elaboração e de execução;
+  V. Original da publicação do pedido de Licença de Implantação em jornal de
+     grande circulação, conforme modelo padronizado pelo CRA;
+  VI. Termo de Responsabilidade Ambiental, conforme modelo fornecido pelo CRA;
+ VII. Cópia da Licença de Localização (LL);
+VIII. Auto-avaliação do cumprimento das condicionantes da Licença de Localização
+      (LL);
+  IX. Comprovante de pagamento da remuneração fixada no Anexo IV do
+      Regulamento da Lei nº 7.799, de 07/02/2001;
+  X. Decreto de desapropriação;
+  XI. Certidão de Averbação de Reserva Legal registrada em cartório;
+ XII. Autorização de Supressão de Vegetação emitida pelo órgão florestal
+      competente, quando couber;
+XIII. Outras informações ou memoriais complementares exigidos pelo CRA.
+7.2.4 Para solicitação da Licença de Operação (LO) será exigida a seguinte
+documentação:
+   I. Requerimento, conforme modelo fornecido pelo CRA;
+  II. Análise Prévia de Processos fornecida pelo CRA;
+  III. Roteiro de Caracterização do Empreendimento (RCE), conforme Anexo VI;
+  IV. Original da publicação do pedido de Licença de Operação (LO);
+
+
+
+                                                                               11
+  V. Termo de Responsabilidade Ambiental, conforme modelo fornecido pelo CRA;
+  VI. Cópia da Licença de Implantação (LI);
+ VII. Auto-avaliação do cumprimento das condicionantes da Licença de Implantação
+      (LI);
+ VIII. Comprovante de pagamento da remuneração fixada no Anexo IV do
+       Regulamento da Lei nº 7.799, de 07/02/2001;
+  IX. Cópia da Ata de criação da Comissão Técnica de Garantia Ambiental (CTGA),
+      devidamente registrada em Cartório de Títulos e Documentos da Comarca onde
+      a empresa estiver localizada, acompanhado do Regimento Interno e Plano de
+      Trabalho, bem como do currículo e Anotação de Responsabilidade Técnica
+      (ART) ou equivalente do Coordenador da Comissão;
+  X. Declaração da Política Ambiental da empresa, estabelecida pela alta
+     administração, devidamente divulgada;
+  XI. Outras informações ou memoriais complementares exigidos pelo CRA.
+
+
+7.3 Das Exigências Técnicas
+7.3.1 Para a construção e ampliação de barragens deverão ser atendidos, entre
+outros, os seguintes requisitos básicos:
+      I. A barragem deverá ser construída adotando critérios e procedimentos de
+      segurança, observando as normas técnicas pertinentes, adequados ao porte
+      das obras;
+      II. A barragem deverá possuir estrutura e equipamentos que possibilitem o
+      controle de altura do nível d'água e o retorno da vazão ao curso natural
+      (descarga de fundo, comporta, galeria, réguas limnimétricas, dentre outros);
+      III. No caso de barragens localizadas em curso(s) d´água onde ocorre a
+      piracema deverá ser realizado estudo específico de ictiofauna, visando a
+      definição, quando necessário, de mecanismos que assegurem a ocorrência
+      do fenômeno;
+      IV. A Área de Preservação Permanente (APP) no entorno do reservatório
+      deverá ser revegetada, preferencialmente com espécies nativas;
+      V. As áreas degradadas pela construção da barragem (áreas de empréstimos,
+      canteiro de obras, áreas de bota-fora, dentre outras) deverão ser
+      recuperadas, conforme PRAD;
+      VI. Nos projetos que envolvam a necessidade de reassentamento, os
+      respectivos programas ambientais devem garantir, no mínimo, o
+      restabelecimento das condições de vida existentes anteriormente ao
+      reassentamento, buscando, sempre que possível, melhorar o padrão de vida
+      das famílias afetadas.
+
+
+
+
+                                                                               12
+                                    ANEXO I
+
+    ROTEIRO DE CARACTERIZAÇÃO DO EMPREENDIMENTO E ESTUDO
+     AMBIENTAL PARA BARRAGENS DE MICRO OU PEQUENO PORTE
+
+
+
+1. INFORMAÇÕES GERAIS
+
+   a) Nome ou Razão Social;
+   b) CGC ou CIC;
+   c) Endereço da sede do empreendimento, fax, telefone e e-mail;
+   d) Inscrição estadual (se pessoa jurídica);
+   e) Localização do empreendimento (distrito, município e UC);
+   f) Nome(s) do(s) responsável(is) pelo Projeto, com endereço, telefone, fax e
+      e-mail;
+   g) Nome(s) do(s) responsável(is) pelo Estudo Ambiental, com endereço,
+      telefone, fax e e-mail;
+   h) Relação da equipe técnica responsável pelo Estudo Ambiental (nome,
+      formação e registro profissional).
+
+2. CARACTERIZAÇÃO DO EMPREENDIMENTO
+
+   a) Localização do empreendimento, com delimitação da bacia hidrográfica, em
+      escala de 1:100.000, planta ou croqui da bacia hidráulica e da Área de
+      Preservação Permanente (APP), em escala adequada;
+   b) Descrição da situação do empreendimento com objetivos e justificativas,
+      informando a importância no contexto econômico e social;
+   c) Características técnicas do empreendimento apresentando o material a ser
+      utilizado na construção da barragem, estrutura dos aliviadores, vazão
+      máxima, vazão regularizada, vazão de restituição, altura da barragem, cota
+      operacional de inundação; áreas da bacia hidráulica, da bacia hidrográfica e
+      infra-estrutura operacional necessária;
+   d) Locais previstos para as áreas de empréstimo e bota-fora, definindo as
+      formas de extração, transporte e recuperação das referidas jazidas;
+   e) Plano de Obras e respectivo cronograma.
+
+3. ASPECTOS GERAIS DA ÁREA DE INFLUÊNCIA DO EMPREENDIMENTO
+
+Justificar e apresentar em escala adequada os limites geográficos das áreas a
+serem afetadas, direta ou indiretamente, pelo empreendimento, bem como as
+
+
+
+
+                                                                                 i
+Áreas de Preservação Permanente (APP), as Unidades de Conservação (UC) e
+suas zonas de amortecimento.
+
+4. DIAGNÓSTICO AMBIENTAL
+
+Apresentar as características da área de influência direta e indireta do
+empreendimento, incluindo:
+   a) Meio físico: condições geológicas (informando, inclusive, a ocorrência de
+      áreas calcárias), condições geotécnicas e, estudo hidrológico
+      contemplando as vazões máxima, média e mínima do corpo hídrico;
+   b) Meio biótico: fauna e flora terrestre e aquática, existência de espécies
+      raras, endêmicas e/ou em vias de extinção;
+   c) Meio socioeconômico: população e perfil socioeconômico da área de
+      influência direta, cadastro dos proprietários e moradores nas áreas de
+      inundação e de preservação permanente, usos do solo e da água, aspectos
+      arqueológicos, culturais, históricos, organização social, infra-estrutura de
+      serviços.
+
+5. AVALIAÇÃO AMBIENTAL
+
+   a) Identificação de prováveis impactos socioambientais;
+   b) Medidas mitigadoras e compensatórias.
+
+6. PLANO DE CONTROLE AMBIENTAL (PCA)
+
+Deverão ser apresentados, quando couberem, os seguintes planos e programas,
+informando-se a fase do projeto à qual estão relacionados, o custo e o
+responsável pela sua implementação, devendo os mesmos estar integrados com o
+Plano de Obras.
+A não apresentação de quaisquer dos planos e programas abaixo listados deverá
+ser devidamente justificada.
+      a) Plano de Conservação do Entorno do Reservatório contendo no mínimo:
+             •   Definição da entidade gestora do reservatório e suas atribuições;
+             •   Ações para conscientização dos usuários da água;
+             •   Indicação das restrições quanto ao uso das águas do reservatório
+                 e do seu entorno;
+             •   Projeto de gestão da Área de Preservação Permanente (APP) e
+                 conservação das águas do reservatório, contemplando a
+                 recuperação, uso e preservação de acordo com as diretrizes do
+                 CONAMA, com incentivo à gestão participativa;
+             •   Regras de operação do reservatório;
+      b) Plano de Desapropriação – Indenização;
+
+
+                                                                                 ii
+c) Programa de Monitoramento da Qualidade da Água do Reservatório;
+d) Medidas de Controle dos Processos Erosivos e Assoreamento;
+e) Plano de Desmatamento e Limpeza da Bacia Hidráulica;
+f) Plano de Recuperação de Áreas Degradadas (PRAD), incluindo o
+   paisagismo;
+g) Plano de Resgate de Flora e Fauna;
+h) Programa de Educação Ambiental: (i) comunidade local e (ii)
+   trabalhadores do empreendimento;
+i) Programa de Comunicação Social;
+j) Programa de Gerenciamento de Resíduos Sólidos;
+k) Programa de Condições e Meio Ambiente do Trabalho na Indústria da
+   Construção (PCMAT);
+l) Programa de Controle Médico e Saúde Ocupacional (PCMSO);
+m) Programas de Compensação Socioambiental;
+n) Medidas de Controle de Ruídos e Emissão de Material Particulado.
+
+
+
+
+                                                                      iii
+                                   ANEXO II
+
+  ROTEIRO DE CARACTERIZAÇÃO DO EMPREENDIMENTO PARA LL DE
+     BARRAGENS DE MÉDIO, GRANDE OU EXCEPCIONAL PORTE
+
+
+
+1. INFORMAÇÕES GERAIS
+
+  a) Nome ou Razão Social;
+  b) CGC ou CIC;
+  c) Endereço da sede do empreendimento, fax, telefone e e-mail;
+  d) Inscrição estadual (se pessoa jurídica);
+  e) Localização do empreendimento (distrito, município, UC);
+  f) Nome(s) do(s) responsável(is) pelo Projeto, com endereço, telefone, fax e
+     e-mail;
+  g) Nome(s) do(s) responsável(is) pelo Estudo Ambiental, com endereço,
+     telefone, fax e e-mail;
+  h) Relação da equipe técnica responsável pelo Estudo Ambiental (nome,
+     formação e registro profissional).
+
+2. CARACTERIZAÇÃO DO EMPREENDIMENTO
+
+  a) Síntese dos objetivos do empreendimento e sua justificativa em termos de
+     importância no contexto social da região e do município;
+  b) Localização do empreendimento, com delimitação da bacia hidrográfica, em
+     escala de 1:100.000, planta georreferenciada da bacia hidráulica, da Área
+     de Preservação Permanente (APP) e arranjo geral do projeto em escala
+     adequada;
+  c) Características técnicas do empreendimento apresentando o material a ser
+     utilizado na construção da barragem, estrutura dos aliviadores, vazão
+     máxima, vazão regularizada, vazão de restituição, altura da barragem, cota
+     operacional de inundação; áreas da bacia hidráulica, da bacia hidrográfica e
+     infra-estrutura operacional necessária, detalhando:
+        •   Barragem: layout em escala adequada, considerações sobre o tipo,
+            adeqüabilidade do local, pré-dimensionamento, altura máxima da
+            barragem;
+        •   Reservatório de acumulação: planta planialtimétrica em escala
+            adequada, características físicas (área do lago; capacidade de
+            armazenamento, níveis de operação, capacidade de atenuação de
+            cheias), estimativa da área a ser desmatada para a formação do
+            lago, dentre outros;
+
+
+
+                                                                               iv
+         •   Tomada d’água:         considerações     sobre    o   tipo   e   pré-
+             dimensionamento;
+         •   Desvio do rio: tipo e critérios de escolha da estrutura para desviar o
+             rio, localização, descarga do desvio;
+         •   Obras complementares: planta de localização em escala
+             adequada, características principais das obras complementares e
+             estimativa da área a ser desmatada;
+         •   Canteiro de obras: planta de localização, critérios de escolha da
+             área, pré-dimensionamento, atividades a serem desenvolvidas no
+             canteiro e estimativa da área a ser desmatada;
+         •   Áreas de empréstimos e jazidas: caracterização e localização das
+             áreas para dar suporte às obras (pedra, areia, argila e cascalho)
+             incluindo especificação dos volumes disponíveis e estimativa da área
+             a ser desmatada;
+         •   Áreas de bota-fora: localização e caracterização das áreas de bota-
+             fora e estimativa da área a ser desmatada;
+   d) Estimativa de quantificação da mão-de-obra a ser empregada na
+      implantação do projeto;
+   e) Localização, em escala adequada, das interferências das obras com
+      quaisquer infra-estruturas existentes ou projetadas (ferrovias, linhas de
+      transmissão de energia, gasodutos, vias, cemitérios, áreas agrícolas, dentre
+      outras) ou localidades existentes;
+   f) Outras informações necessárias à perfeita compreensão do projeto e seus
+      impactos.
+
+3. ASPECTOS GERAIS NA ÁREA DE INFLUÊNCIA DO EMPREENDIMENTO
+
+Justificar e apresentar em escala adequada os limites geográficos das áreas a
+serem afetadas, direta ou indiretamente, pelo empreendimento, bem como as
+Áreas de Preservação Permanente (APP), as Unidades de Conservação (UC) e
+suas zonas de amortecimento.
+As informações cartográficas deverão ser georreferenciadas, sobrepostas a
+imagem de satélite obtida, no máximo, nos últimos 20 (vinte) meses da data da
+formação do processo.
+
+
+
+
+                                                                                 v
+                                   ANEXO III
+
+                           TERMO DE REFERÊNCIA
+
+        ESTUDO AMBIENTAL PARA BARRAGEM DE MÉDIO PORTE
+
+
+
+1. INFORMAÇÕES GERAIS
+
+  a) Nome ou Razão Social;
+  b) CGC ou CIC;
+  c) Endereço da sede do empreendimento, fax, telefone e e-mail;
+  d) Inscrição estadual (se pessoa jurídica);
+  e) Localização (distrito, município, UC);
+  f) Nome(s) do(s) responsável(is) pelo Projeto, com endereço, telefone, fax e
+     e-mail;
+  g) Nome(s) do(s) responsável(is) pelo Estudo Ambiental, com endereço,
+     telefone, fax e e-mail;
+  h) Relação da equipe técnica responsável pelo Estudo Ambiental (nome,
+     formação e registro profissional).
+
+2. CARACTERIZAÇÃO DO EMPREENDIMENTO
+
+  a) Síntese dos objetivos do empreendimento e sua justificativa em termos de
+     importância no contexto social da região e do município;
+  b) Localização do empreendimento, com delimitação da bacia hidrográfica, em
+     escala de 1:100.000, planta da bacia hidráulica, da Área de Preservação
+     Permanente (APP) e arranjo geral do projeto em escala adequada;
+  c) Características técnicas do empreendimento apresentando o material a ser
+     utilizado na construção da barragem, estrutura dos aliviadores, vazão
+     máxima, vazão regularizada, vazão de restituição, altura da barragem, cota
+     operacional de inundação; áreas da bacia hidráulica, da bacia hidrográfica e
+     infra-estrutura operacional necessária, detalhando:
+        •   Barragem: layout em escala adequada, considerações sobre o tipo,
+            adeqüabilidade do local, pré-dimensionamento, altura máxima da
+            barragem;
+        •   Reservatório de acumulação: planta planialtimétrica em escala
+            adequada, características físicas (área do lago; capacidade de
+            armazenamento, níveis de operação, capacidade de atenuação de
+            cheias), estimativa da área a ser desmatada para a formação do
+            lago, dentre outros;
+
+
+
+                                                                               vi
+        •   Tomada d’água:          considerações      sobre    o    tipo   e    pré-
+            dimensionamento;
+        •   Desvio do rio: tipo e critérios de escolha da estrutura para desviar o
+            rio, localização, descarga do desvio;
+        •   Obras complementares: planta de localização em escala
+            adequada, características principais das obras complementares e
+            estimativa da área a ser desmatada;
+        •   Canteiro de obras: planta de localização, critérios de escolha da
+            área, pré-dimensionamento, atividades a serem desenvolvidas no
+            canteiro e estimativa da área a ser desmatada;
+        •   Áreas de empréstimos e jazidas: caracterização e localização das
+            áreas para dar suporte às obras (pedra, areia, argila e cascalho)
+            incluindo especificação dos volumes disponíveis e estimativa da área
+            a ser desmatada;
+        •   Áreas de bota-fora: localização e caracterização das áreas de bota-
+            fora e estimativa da área a ser desmatada;
+  d) Estimativa de quantificação da mão-de-obra a ser empregada na
+     implantação do projeto;
+  e) Localização, em escala adequada, das interferências das obras com
+     quaisquer infra-estruturas (ferrovias, linhas de transmissão de energia,
+     gasodutos, vias, cemitérios, áreas agrícolas, dentre outras) ou localidades
+     existentes;
+  f) Outras informações necessárias à perfeita compreensão do projeto e seus
+     impactos.
+
+3. ALTERNATIVAS LOCACIONAIS
+
+  a) Descrição e análise das alternativas locacionais estudadas, adotando-se
+     para todas o mesmo grau de profundidade, com avaliação dos aspectos
+     técnicos, econômicos e ambientais envolvidos. Apresentar mapa na escala
+     1:100.000 com indicação da localização de cada uma das alternativas;
+  b) Justificativa de escolha da alternativa preferencial levando-se em conta,
+      entre outras variantes, a presença de:
+     b.1 zonas de instabilidade a fatores abióticos;
+     b.2 zonas de importância biológica considerando-se os seus atributos
+     ecológicos e fragilidades
+     b.3 zonas de pressão antrópica e presença de comunidades
+     tradicionaisJustificativa da escolha da alternativa preferencial.
+
+
+
+
+                                                                                  vii
+A análise das alternativas locacionais deverá considerar os planos e programas de
+desenvolvimento, propostos e em implantação, com incidência na área de
+influência, que possam interferir, positiva ou negativamente, no projeto. De forma
+recíproca, também deverão ser analisadas as influências do projeto nesses planos
+e programas, para identificação das medidas de compatibilização que se fizerem
+necessárias.
+
+
+
+4. DIAGNÓSTICO AMBIENTAL
+
+4.1 ÁREA DE INFLUÊNCIA DO EMPREENDIMENTO
+Delimitar, em escala adequada, as áreas geográficas a serem direta e
+indiretamente afetadas, denominadas área de influência direta e área de influência
+indireta do projeto, considerando-se o alcance dos impactos nos meios físico,
+biótico e socioeconômico. Os impactos no meio físico e no meio biótico deverão
+ser avaliados tomando-se como unidade geográfica a(s) bacia(s) ou sub-bacia(s)
+hidrográfica(s) onde se insere o empreendimento ou que serão por ele afetadas.
+Deverão ser apresentados com clareza os critérios utilizados para a delimitação
+das áreas de influência direta e indireta.
+O diagnóstico ambiental abrangerá a área de influência do projeto, apresentando
+descrições e análises dos fatores ambientais e suas interações, com dados,
+mapas e acervo fotográfico que permitam melhor visualizar a situação ambiental
+antes da implantação do empreendimento.
+O diagnóstico ambiental contemplará, no mínimo:
+4.2 MEIO FÍSICO
+4.2.1 Características climáticas
+   a) Caracterização do clima tomando-se por base especialmente, os elementos
+      que têm interferência direta no projeto e nas características da sua área de
+      influência, incluindo: comportamento das chuvas (valores médios, máximos
+      e mínimos; coeficiente de variação, dentre outros);
+   b) Estudo da evaporação e evapotranspiração;
+   c) Temperatura (máximas, médias e mínimas);
+   d) Umidade relativa;
+   e) Balanço hídrico;
+   f) Apresentação das correlações existentes entre os diversos elementos
+      considerados.
+4.2.2 Geologia / Geotecnia
+   a) Levantamento das atividades de extração mineral no local e a montante do
+      eixo do barramento, indicando a situação legal dos empreendimentos junto
+      ao DNPM (requerimento, pesquisa, lavra);
+
+
+                                                                               viii
+   b) Estudos da geração de sedimentos da bacia a montante do barramento,
+      bem como da susceptibilidade erosiva, localizando em mapa áreas ou
+      pontos de vulnerabilidade;
+   c) Mapeamento de depósitos sedimentares recentes tanto na área de
+      inundação como ao longo dos tributários de 1a ordem e curso principal,
+      contemplando a área de influencia indireta, detalhando o potencial de
+      assoreamento do reservatório;
+   d) Descrição detalhada da geologia local considerando a bacia hidráulica e
+      seu entorno;
+   e) Seção geológica do sitio do barramento.
+4.2.3 Geomorfologia
+   a) Relevo predominante;
+   b) Caracterização topográfica (levantamento planialtimétrico em escala
+      adequada);
+   c) Posição da área dentro da bacia hidrográfica;
+   d) Características dinâmicas do relevo (propensão à erosão e assoreamento,
+      áreas sujeitas à inundação, escorregamento de encostas, taludes, dentre
+      outros);
+   e) Classificação das formas de relevo quanto à sua origem;
+   f) Caracterização do padrão de drenagem;
+   g) Mapa geomorfológico, incluindo os recursos hídricos, em escala de
+      1:100:000.
+4.2.4 Pedologia
+   a) Definição das classes de solo, indicando para cada uma o nível de
+      estabilidade para o processo de assentamento das estruturas da barragem,
+      apresentando o nível de suscetibilidade aos processos erosivos;
+   b) Aptidão agrícola dos solos, acompanhado de mapa;
+   c) Mapa pedológico na escala de 1:100.000 com classe, perfil, textura e
+      profundidade;
+4.2.5 Recursos Hídricos
+4.2.5.1 Hidrologia
+   a) Características físicas da bacia hidrográfica, mapa da rede hidrográfica
+      localizando o empreendimento e demais estruturas hidráulicas existentes,
+      bem como os limites da bacia hidrográfica;
+   b) Estudo das vazões mínimas (20% da vazão com 90% de permanência ou
+      Q7,10), médias e medias máximas mensais associadas ao tempo de
+      permanência na calha do rio;
+
+
+
+
+                                                                            ix
+   c) Balanço hídrico do reservatório descrevendo a operação em condições de
+      vazões mínima, média e máxima para atender as diversas finalidades:
+      abastecimento d’água, controle de enchentes, irrigação, dentre outros;
+4.2.5.2 Geoquímica
+   a) Estudo de ocorrência de elementos e fontes contaminantes a montante do
+      empreendimento enfatizando metais pesados;
+   b) Determinação da inter-relação entre água subterrânea e superficial.
+4.2.5.3 Qualidade das águas
+   a) Caracterização dos principais fatores físico-químicos e microbiológicos dos
+      corpos d’água que serão utilizados e/ou afetados pelo empreendimento,
+      apresentando a metodologia analítica utilizada para sua determinação.
+   b) Avaliação dos riscos de salinização e de eutrofização das águas a serem
+      reservadas utilizando-se métodos consagrados
+   c) Apresentação de mapa de localização dos pontos de amostragem, em
+      escala adequada.
+   As análises serão realizadas na matriz água e, quando necessário, em
+   sedimento, considerando-se, no mínimo, os parâmetros abaixo discriminados,
+   contemplando pontos situados a montante, a jusante e no local do barramento,
+   bem como nos principais afluentes do reservatório:
+         •   Água
+      Análise físico-química: cor, condutividade elétrica específica*, pH*, OD*,
+      % de saturação de oxigênio, turbidez, temperatura*, DBO, DQO,
+      alcalinidade, cálcio, cloretos, magnésio, potássio, sódio, sulfatos, amônia,
+      nitrito, nitratos, nitrogênio total, fósforo total, sólidos totais, sólidos totais
+      dissolvidos, RAS, (cianeto, arsênio, ferro total, bário, alumínio, manganês,
+      cromo total, zinco, cádmio, mercúrio, chumbo)**.
+      * Parâmetros a serem medidos em campo
+      ** Parâmetros a serem analisados quando detectadas fontes de
+      contaminação
+      Análise bacteriológica: coliformes termotolerantes
+         •   Sedimento
+      Metais: mercúrio, cádmio, chumbo, zinco, cromo, manganês e ferro.
+      Pesticidas: organoclorados e organofosforados.
+4.2.5.4 Hidrogeologia
+ a) Qualidade das águas subterrâneas: parâmetros químicos, físicos e
+    bacteriológicos;
+
+
+
+
+                                                                                      x
+ b) Caracterização dos aqüíferos subterrâneos existentes na área de influência
+    direta, indicando: localização e aspectos geológicos; alimentação, fluxo e
+    recarga;
+ c) Profundidade do aqüífero subterrâneo, relações com as águas superficiais e
+    com outros aqüíferos;
+ d) Cadastramento dos poços, fontes e cacimbas existentes na área de
+    influência direta.
+4.3 MEIO BIÓTICO
+Apresentar as principais características da fauna e da flora regional, de forma a
+permitir uma análise adequada da estrutura e função ecológica dos elementos
+vivos predominantes na área de influência do projeto.
+4.3.1. Ecossistema Terrestre
+4.3.1.1 Vegetação
+          •   Área de Influência Indireta
+   a) Descrição e caracterização da cobertura vegetal, apresentada em escala
+      1:100.000, especificando-se o bioma e considerando a extensão e
+      distribuição das formações vegetais
+          •   Área de Influência Direta
+   a) Identificação e caracterização da cobertura vegetal, em escala com detalhe
+       mínimo de 1:25.000, identificando as espécies vegetais raras, ameaçadas
+       de extinção, indicadoras de alterações ambientais e de interesse
+       econômico e científico;
+   b) Localização em mapa, na escala adequada, da Área de Preservação
+      Permanente (APP) a ser adotada para o reservatório, considerando-se a
+      legislação ambiental vigente.
+   c) Relações flora/flora, flora/fauna e fauna/fauna;
+   d) Realização de estudos fitossociológicos, com estimativa dos parâmetros de
+      estrutura horizontal, tais como; densidades absoluta e relativa, freqüência,
+      dominâncias absoluta e relativa, índice de valor de importância, índice de
+      valor de cobertura e índice de diversidade;
+4.3.1.2 Fauna
+          •   Área de Influência Direta
+   a) Identificação das espécies animais presentes, destacando as endêmicas e
+      raras, em vias de extinção e de interesse econômico.
+   b) Identificação e mapeamento em escala compatível dos sítios de
+      reprodução, nidificação e refúgio da fauna;
+   c) Identificação das espécies da fauna que sejam vetores ou reservatórios de
+      doenças;
+
+
+
+                                                                                    xi
+4.3.2 Ecossistema Aquático
+          •   Área de Influência Direta
+   a) Identificação das espécies animais e vegetais raras, ameaçadas de
+      extinção, vetores e reservatórios de doenças;
+   b) Análise quali-quantitativa dos componentes básicos das populações
+      aquáticas - plâncton, necton e bentos - contemplando os seguintes
+      parâmetros:
+          •   Fitoplâncton: inventário taxonômico, freqüência por grupo
+              taxonômico e pontos amostrais, abundância relativa, densidade
+              numérica (em número de células/L), distribuição espaço-temporal,
+              relação clorofila-a / feofitina-a, riqueza de espécies/índice de
+              diversidade;
+          •   Zooplâncton: inventário taxonômico, freqüência por grupo
+              taxionômico e pontos amostrais, densidade, riqueza de espécie por
+              ponto amostral, distribuição espaço-temporal, riqueza de
+              espécies/índice de diversidade; Zoobentos: inventário taxonômico,
+              freqüência por grupo taxonômico, abundância relativa, densidade e
+              riqueza de espécies/índice de diversidade;
+          •   Ictiofauna: inventário taxionômico, freqüência de ocorrência por
+              grupo taxionômico e pontos amostrais, levantamento do
+              ictioplâncton,   distribuição    espaço-temporal,      riqueza    de
+              espécies/índice de diversidade. Identificar a ocorrência de espécies
+              que realizam piracema e caracterizar seu comportamento (período
+              de reprodução, ambiente de desova, migração dentre outros) com
+              relação ao regime do rio.
+   c) Apresentação de quadros com identificação de espécies animais e vegetais
+      que possam servir como indicadores biológicos das alterações ambientais
+      nos ecossistemas aquáticos.
+
+4.4 MEIO SÓCIOECONÔMICO
+
+A caracterização do meio socioeconômico deverá abranger as áreas de influência
+direta e indireta de forma a demonstrar os efeitos sociais e econômicos advindos
+da implantação e operação do empreendimento e as inter-relações próprias do
+meio antrópico regional, passíveis de alterações relevantes pelos efeitos diretos e
+indiretos do projeto.
+Quando procedente, as variáveis estudadas no meio socioeconômico
+deverão ser apresentadas em séries históricas representativas,
+visando à avaliação de sua evolução temporal.
+As informações relativas à área de influência direta deverão ser apresentados na
+escala de 1:25.000 e a área de influência indireta na escala 1:100.000.
+4.4.1 Área de Influência Indireta
+
+
+                                                                                 xii
+   a) Descrição do processo histórico de ocupação;
+   b) Descrição da evolução da população: taxa de crescimento demográfico e
+      vegetativo da população urbana e rural;
+   c) Descrição da população economicamente ativa e ocupada por segmento
+      econômico;
+   d) Caracterização da economia dos municípios e do potencial existente para o
+      desenvolvimento econômico regional;
+   e) Dados demográficos regionais e do município;
+   f) Centros polarizadores em nível regional: caracterizar o sistema viário
+      abrangendo rodovias, ferrovias, hidrovias e aeroportos;
+   g) Caracterização do sistema de transmissão e distribuição de energia
+      elétrica;
+   h) Caracterização do sistema de telecomunicações;
+   i) Classificação dos municípios segundo o Índice de Desenvolvimento
+      Humano (IDH) e o Índice de Desenvolvimento Social (IDS);
+   j) Localização das Unidades de Conservação (UC) existentes e suas zonas
+      de amortecimento, informando o decreto de sua criação, categoria, área,
+      situação quanto ao plano de manejo e avaliação das interferências com o
+      projeto. Apresentar o mapa de zoneamento ecológico-econômico da UC.
+4.4.2 Área de Influência Direta
+4.4.2.1 População e Dinâmica Populacional
+   a) Descrição do processo histórico de ocupação;
+   b) Aspectos demográficos: número de habitantes por faixa etária e sexo, taxa
+      de crescimento, densidade demográfica da população urbana e rural;
+   c) População de aglomerado(s) urbano(s) e sua participação como mão de
+      obra a ser utilizada pelo empreendimento;
+   d) Quantificação e caracterização social da população a ser desapropriada
+      e/ou deslocada, quando couber;
+   e) Caracterização das condições sócio-econômicas da população (ocupação,
+      renda, nível de instrução, habitação, saúde, cultura, religião e lazer);
+   f) Fluxos migratórios, identificando: origem, tempo de permanência e causas
+      da migração.
+4.4.2.2 Patrimônio histórico, cultural, arqueológico e espeleológico
+   a) Avaliação da possibilidade de ocorrência de sítios de natureza arqueológica
+      ou indígena nas áreas de influência da bacia hidráulica e do eixo do
+      barramento;
+   b) Identificação e caracterização, com mapeamento em escala compatível, de
+      sítios arqueológicos, espeleológicos, históricos e arquitetônicos, bem como
+
+
+                                                                              xiii
+      de locais de relevante beleza cênica ou qualquer outro considerado como
+      patrimônio da população;
+   c) Identificação de manifestações culturais.
+4.4.2.3 Saúde Pública
+   a) Coeficiente de mortalidade para doenças infecciosas e parasitárias
+      (redutíveis por saneamento básico, por imunização e por programas
+      especiais);
+   b) Diagnóstico de endemias que ocorrem na região e/ou que poderão ocorrer
+      ou se expandir com a implantação do empreendimento;
+   c) Relação dos serviços de saúde, hospitais públicos, particulares e postos de
+      saúde, caracterizando oferta / demandas.
+4.4.2.4 Segurança Pública
+   a) Equipamentos e equipe policial;
+   b) Ocorrências policiais.
+4.4.2.5 Organização Social
+   a) Identificação das organizações formais e informais, segundo áreas
+      específicas de atuação (ambiental, associativista, cultural, religiosa,
+      educacional, de saúde e outros) descrevendo graus de atuação;
+   b) Identificação das forças e tensões sociais presentes;
+   c) Levantamento do contingente de trabalhadores a ser estabelecido no local
+      do empreendimento e infra-estrutura necessária;
+   d) Identificação das comunidades tradicionais, quilombolas e indígenas;
+   e) Caracterização dos assentamentos de reforma agrária, movimentos de
+      sem-terra e conflitos existentes;
+   f) Identificação dos equipamentos e edificações de uso coletivo nas
+      comunidades afetadas;
+4.4.2.6 Dinâmica Produtiva
+   a) Caracterização das principais atividades econômicas e o seu potencial para
+      o desenvolvimento regional, enfocando os setores primário, secundário e
+      terciário, identificando as atividades relacionadas à geração de emprego e
+      renda nos municípios (ex: agropecuária, indústria, extrativismo, comércio e
+      serviços). Identificar os setores a serem beneficiados pelo empreendimento
+      e destacar as atividades que poderão ser prejudicadas;
+   b) Caracterização da estrutura fundiária das propriedades diretamente
+      atingidas, incluindo a descrição de posse, uso e benfeitorias de terra;
+   c) Número estimado de empregos diretos e indiretos a serem gerados pelo
+      empreendimento;
+
+
+
+
+                                                                              xiv
+   d) Identificação de centros polarizadores em nível regional frente às
+      demandas locais.
+4.4.2.7 Educação
+   a) Índice de alfabetização e de analfabetismo;
+   b) Caracterização da oferta e da demanda dos serviços educacionais do 1º, 2º
+      e 3º graus no meio urbano e rural da rede de ensino público e privado;
+   c) Descrição da oferta e demanda dos serviços educacionais (acesso,
+      qualidade, deficiências);
+   d) Descrição do sistema de educação Infantil, alfabetização, ensino
+      fundamental, ensino médio, educação de jovens e adultos e ensino
+      profissionalizante;
+   e) Levantamento da existência de transporte escolar rural / urbano;
+   f) Levantamento das causas de evasão e repetência.
+4.4.2.8 Infra-estrutura
+   a) Caracterização do sistema de transmissão e distribuição de energia
+      elétrica;
+   b) Caracterização do sistema de telecomunicações;
+   c) Caracterização da oferta de serviços: abastecimento d’água, esgotamento
+      sanitário, coleta e disposição final de resíduos sólidos.
+   d) Identificação em planta, na escala adequada, das interferências do projeto
+      com os sistemas viários e de transportes, linhas de transmissão de energia,
+      oleodutos, gasodutos, disposição de resíduos, dentre outros
+4.4.2.9 Uso do Solo
+   a) Caracterização e mapeamento do uso e ocupação do solo delimitando:
+      pecuária; culturas permanentes e temporárias; silvicultura; florestas;
+      pastagens naturais e cultivadas; núcleos urbanos, indústrias, unidades de
+      conservação e principais equipamentos na zona rural (igrejas, escolas,
+      cemitérios);
+   b) Caracterização das propriedades existentes na área diretamente atingida
+      pelo empreendimento (bacia hidráulica, APP, infra-estrutura, jazidas, dentre
+      outros);
+   c) Localização das Unidades de Conservação (UC) existentes e suas zonas
+      de amortecimento, informando o decreto de sua criação, categoria, área,
+      situação quanto ao plano de manejo e avaliação das interferências com o
+      projeto. Apresentar o mapa de zoneamento ecológico-econômico da UC.
+4.4.2.10 Uso da Água
+Caracterizar os principais usos das águas superficiais e subterrâneas,
+apresentando a listagem das utilizações levantadas, a montante e a jusante do
+eixo do barramento, suas demandas atuais e futuras, em termos qualitativos e
+
+
+                                                                               xv
+quantitativos, bem como a análise das disponibilidades frente às utilizações atuais
+e projetadas, devendo ser indicadas: abastecimento doméstico e industrial,
+geração de energia, irrigação, pesca, aqüicultura, recreação, navegação,
+preservação da fauna e da flora.
+4.4.2.11 Percepção e integração da População
+   a) Percepção pela população das condições ambientais de seu município e de
+      sua área de moradia;
+   b) Descrição das expectativas da população em relação ao projeto.
+
+5. AVALIAÇÃO DOS IMPACTOS AMBIENTAIS
+
+Será efetuada comparação sistemática das alternativas do empreendimento
+proposto, considerando os principais impactos relacionados a: (i) concepção,
+localização, tecnologia adotada e operação; (ii) custos envolvidos; (iii) adequação
+às condições locais; (iv) requisitos institucionais exigidos para a implantação e
+operação, bem como a alternativa da não realização.
+Serão identificadas e apresentadas as justificativas para a alternativa escolhida.
+Para a alternativa escolhida deverão ser identificadas as ações impactantes, e em
+seguida descritos, interpretados e valorados, os impactos ambientais potenciais,
+nos meios físico, biótico e socioeconômico, relativos às fases de projeto,
+implantação e operação do empreendimento, identificando-se as medidas,
+equipamentos e procedimentos a serem implementados para evitar ou reduzir os
+efeitos adversos do empreendimento, bem como aquelas que poderão valorizar os
+seus efeitos benéficos.
+Será estimado o alcance espacial e temporal dos impactos e quantificada a
+extensão e/ou intensidade dos mesmos, informando-se a fonte dos dados
+disponíveis e as incertezas associadas às previsões.
+A avaliação dos impactos deverá considerar as possíveis interferências do projeto
+com outros da mesma natureza dentro da sua bacia hidrográfica.
+Deverão ser apresentados:
+   a) Os métodos, técnicas e critérios adotados para avaliação dos impactos
+   ambientais;
+   b) A identificação e análise integrada dos impactos;
+   c) A classificação dos impactos;
+   d) Ponderação dos impactos com e sem as medidas mitigadoras e
+   maximizadoras;
+   e) Medidas compensatórias para os impactos não mitigáveis.
+
+5.1 PREVISÃO, DESCRIÇÃO E ANÁLISE DOS IMPACTOS
+
+
+
+
+                                                                                     xvi
+Para análise dos potenciais impactos do empreendimento deverá ser detalhada a
+cadeia de efeitos que lhes dá origem.
+Os impactos serão então classificados considerando-se:
+   •   Natureza – característica do impacto quanto ao seu resultado benéfico (+)
+       ou adverso (-) para um ou mais fatores ambientais;
+   •   Importância – característica do impacto que traduz o significado ecológico
+       ou socioeconômico do ambiente a ser atingido;
+   •   Magnitude – característica do impacto relacionada ao porte ou grandeza
+       da intervenção no ambiente;
+   •   Duração – característica do impacto que traduz a sua temporalidade no
+       ambiente, podendo ser temporário, cíclico ou permanente;
+   •   Reversibilidade – traduz a capacidade do ambiente de retornar ou não à
+       sua condição original após cessada a ação impactante, no curto, médio ou
+       longo prazo;
+   •   Abrangência – traduz a extensão de ocorrência do impacto levando em
+       consideração a área de influência direta e indireta.
+Os impactos serão analisados de acordo com as fases do empreendimento,
+considerando-se, dentre outros:
+5.1.1 Fase de Projeto – corresponde aos impactos originários da concepção e
+desenho do empreendimento.
+       •   Meio Físico:
+   a) Alterações no regime hídrológico;
+   b) Alteração na dinâmica de sedimentos da bacia hidrográfica;
+   c) Alteração da qualidade da água do futuro reservatório em função dos
+      principais usos a montante da barragem (aglomerados urbanos, áreas
+      agrícolas, atividades minerarias, dentre outros);
+   d) Alteração da paisagem regional;
+   e) Interferências em outros barramentos;
+   f) Riscos de salinização da água;
+   g) Riscos de eutrofização da água.
+       •   Meio Biótico:
+   a) Perda de área vegetada e da biodiversidade associada;
+   b) Alteração nas características limnológicas da água;
+   c) Afetação de áreas de refúgio, reprodução e deslocamento da fauna;
+   d) Interferências nas áreas protegidas por lei: reserva legal, área de
+      preservação permanente e unidades de conservação;
+
+
+
+                                                                             xvii
+   e) Transformação de ambiente lótico em lêntico;
+   f) Afetação do fenômeno de piracema.
+        •   Meio Socioeconômico:
+   a) Expectativas da população em relação ao empreendimento;
+   b) Reassentamento involuntário da população;
+   c) Interferências em outros usos da água;
+   d) Interferências em áreas de interesse ecológico e em unidades de
+      conservação;
+   e) Áreas de valor histórico, cultural, espeleológico ou arqueológico;
+   f) Áreas indígenas;
+   g) Perda de meios de sobrevivência;
+   h) Interferência em infra-estrutura e equipamentos públicos e comunitários, ou
+      relocação;
+   i)   Doenças de veiculação hídrica;
+   j)   Conflitos fundiários;
+   k) Interferências nas atividades econômicas: agricultura, mineração, pecuária,
+      dentre outros;
+   l)   Aumento da arrecadação de impostos;
+   m) Contribuição do empreendimento como indutor do desenvolvimento
+      sustentável da região.
+5.1.2 Fase de Implantação – corresponde ao período de execução das obras
+civis: construção da barragem, tráfego, exploração de jazidas, instalação de
+população de trabalhadores.
+        •   Meio Físico:
+   a) Alterações de caráter temporário ou permanente no uso do solo
+   b) Intensificação dos processos erosivos;
+   c) Sismicidade induzida;
+   d) Poluição: ruídos, poeiras, resíduos sólidos e efluentes líquidos;
+   e) Início e/ou aceleração de processos erosivos;
+   f) Instabilidade de encostas;
+   g) Mudanças hidrológicas;
+   h) Transporte de sedimento e assoreamento de cursos d’água.
+        •   Meio Biótico:
+   a) Alteração ou supressão da vegetação existente;
+
+
+
+                                                                            xviii
+  b) Mudanças nos habitats e hábitos da fauna;
+  c) Alterações na diversidade e composição da fauna aquática e terrestre, com
+     destaque para as espécies protegidas por lei.
+       •   Meio Socioeconômico:
+  a) Mudança na vida diária da população residente próxima da obra;
+  b) Exposição da população aos riscos de acidentes;
+  c) Alterações na estrutura social e econômica locais em função da população
+     flutuante a ser empregada como mão-de-obra na construção da barragem,
+     considerando-se inclusive a desmobilização com a conclusão da obra;
+  d) Perdas de áreas de agricultura, silvicultura e pastagens;
+  e) Aumento na demanda de bens e serviços com conseqüente elevação dos
+     preços;
+  f)   Aumento no tráfego de veículos;
+  g) Mudanças no quadro de saúde com a incidência de novas doenças;
+  h) Interferência na infra-estrutura viária, linhas de transmissão e outras;
+  i)   Interferência no patrimônio histórico, cultural, espeleológico e arqueológico;
+  j)   Aumento da caça predatória;
+  k) Interferências nos usos da água decorrentes de desvio do curso d´água.
+
+5.1.3 Fase de Operação – corresponde ao período de funcionamento do
+      empreendimento, a partir do enchimento do reservatório.
+
+       •   Meio Físico:
+  a) Deplecionamento do reservatório;
+  b) Quantidade de água disponível para os diversos usos (doméstico,
+     industrial, agrícola) e sua distribuição temporal, considerando os períodos
+     críticos de operação;
+  c) Instabilidade das encostas marginais do reservatório;
+  d) Elevação do nível do lençol freático.
+       •   Meio Biótico:
+  a) Afogamento, colonização e evasão da fauna silvestre;
+  b) Interrupção de rotas de migração de animais;
+  c) Alterações sobre o comportamento do meio biótico (período de reprodução,
+     migração, e nichos ecológicos) no trecho a jusante, em função das
+     variações do regime de vazões.
+
+       •   Meio Socioeconômico:
+
+
+
+                                                                                  xix
+   a) Conflitos de uso, considerando os já existentes e aqueles que poderão
+      surgir em decorrência das novas demandas viabilizadas com a
+      regularização da vazão;
+   b) Utilização das águas a montante da barragem (irrigação, abastecimento
+      humano, diluição de efluentes, dentre outros) que afetem a qualidade das
+      águas a jusante;
+   c) Alteração nas estruturas social, econômica, cultural, relações de vizinhança
+      e práticas cotidianas;
+   d) Crescimento demográfico;
+   e) Disponibilização de infra-estrutura e novos equipamentos;
+   f) Proliferação de doenças endêmicas de veiculação hídrica.
+
+5.2 PONDERAÇÃO DOS IMPACTOS
+
+Os impactos previstos deverão ser ponderados positiva ou negativamente, de
+acordo com a importância, magnitude, duração, abrangência e reversibilidade,
+explicitando-se claramente os critérios adotados.
+
+6. PROGNÓSTICO AMBIENTAL
+
+A partir de uma análise integrada devem ser elaborados quadros prospectivos,
+mostrando a evolução da qualidade ambiental para a região, nas hipóteses de
+implantação do empreendimento e de sua não realização.
+Considerar a existência de outros empreendimentos, implantados ou previstos, na
+bacia hidrográfica, contemplando os efeitos sinérgicos.
+
+7. MEDIDAS MITIGADORAS E COMPENSATÓRIAS
+
+Com base na previsão, descrição e análise dos impactos, relacionar as medidas
+para eliminação ou minimização dos impactos adversos; compensação daqueles
+que não poderão ser mitigados; e ainda, as medidas para maximização dos
+impactos positivos do projeto.
+Estas medidas serão apresentadas e classificadas quanto a:
+   a) Natureza: preventiva, corretiva, maximizadora ou compensatória;
+   b) Fase do empreendimento em que deverão ser adotadas: projeto,
+      implantação ou operação;
+   c) Fator ambiental a que se destina: físico, biótico ou socioeconômico;
+   d) Prazo de permanência de sua aplicação: curto, médio ou longo;
+   e) Custo;
+   f) Responsável pela sua execução.
+
+
+
+                                                                               xx
+8. PLANO DE CONTROLE AMBIENTAL (PCA)
+
+Deverão ser detalhados os programas para avaliação sistemática da implantação
+e operação da barragem, visando acompanhar a evolução dos impactos previstos
+e a eficiência e eficácia das medidas mitigadoras, compensatórias e de
+valorização do projeto adotado. Os resultados obtidos permitirão identificar a
+necessidade de adoção de medidas complementares.
+A implementação das medidas, em especial aquelas vinculadas ao meio
+socioeconômico, deverá se dar com a participação efetiva da comunidade
+diretamente afetada, bem como dos parceiros institucionais identificados,
+adotando-se procedimentos de comunicação social, buscando-se, desta forma a
+inserção regional do empreendimento.
+Deverão ser apresentados, quando couber, os seguintes planos e programas,
+informando-se a fase do projeto à qual estão relacionados, o custo e o
+responsável pela sua implementação, devendo os mesmos estar integrados com o
+Plano de Obras.
+ A não apresentação de quaisquer dos planos e programas abaixo listados deverá
+ser devidamente justificada.
+Os planos e programas, elencados nos itens de a) até e) deverão ser
+contemplados no EIA/RIMA e os demais apresentados quando do requerimento
+da LI.
+   a) Plano de Desapropriação – indenização;
+   b) Plano de Reassentamento Involuntário;
+   c) Programa de Educação Ambiental: (i) comunidade local e (ii) trabalhadores
+      do empreendimento;
+   d) Programa de Comunicação social;
+   e) Programas de Compensação Socioambiental;
+   f) Plano de Conservação do Entorno do Reservatório contendo no mínimo:
+         •   Definição da entidade gestora do reservatório e suas atribuições;
+         •   Ações para conscientização dos usuários da água;
+         •   Indicação das restrições quanto ao uso das águas do reservatório e
+             do seu entorno;
+         •   Projeto de gestão da Área de Preservação Permanente (APP) e
+             conservação das águas do reservatório, contemplando a
+             recuperação, uso e preservação de acordo com as diretrizes do
+             CONAMA, com incentivo à gestão participativa;
+         •   Regras de operação do reservatório;
+   g) Programa de Controle dos Processos Erosivos e Assoreamento;
+   h) Plano de Desmatamento e Limpeza da Bacia Hidráulica;
+
+
+                                                                                 xxi
+   i) Plano de Recuperação de Áreas Degradadas (PRAD), incluindo o
+      paisagismo;
+   j) Plano de Resgate de Flora e Fauna;
+   k) Programa de Gerenciamento de Resíduos Sólidos;
+   l) Programa de Manejo dos Ecossistemas Aquáticos;
+   m) Programa de Monitoramento da Qualidade da Água;
+   n) Programa de Monitoramento dos Organismos Aquáticos;
+   o) Programa de Condições e Meio Ambiente do Trabalho na Indústria da
+      Construção – PCMAT; Programa de Controle Médico e Saúde Ocupacional
+      (PCMSO);
+   p) Programa de Salvamento do Patrimônio Arqueológico;
+   q) Programa de Controle de Ruídos e Emissão de Material Particulado;
+   r) Programa de desativação do canteiro de obras, obras complementares,
+      áreas de empréstimos, jazidas e bota-fora;
+   s) Plano de Ação Emergencial (PAE), conforme diretrizes do Manual de
+      Segurança e Inspeção de Barragens, publicado pelo Ministério da
+      Integração Nacional.
+
+9. RELATÓRIO SÍNTESE
+
+Elaborar relatório sintetizando os aspectos relevantes do diagnóstico, análise e
+interpretação dos impactos potenciais do empreendimento, utilizando linguagem
+apropriada para apresentação e discussão do projeto com a comunidade local.
+
+10. BIBLIOGRAFIA
+
+Deverá ser apresentada de acordo com as normas da ABNT, de forma temática,
+ao final de cada volume do Estudo Ambiental.
+
+11. ANEXOS
+
+Todas as cartas, mapas, laudos e outros documentos referenciados no Estudo
+Ambiental deverão ser anexados e identificados ao final de cada volume ou em
+volume único.
+
+
+
+
+                                                                            xxii
+                                    ANEXO IV
+
+
+                           TERMO DE REFERÊNCIA
+    ESTUDO DE IMPACTO AMBIENTAL PARA OBRAS DE BARRAGEM E
+     RESPECTIVO RELATÓRIO DE IMPACTO AMBIENTAL – EIA/RIMA
+
+
+
+O Estudo de Impacto Ambiental (EIA) da barragem deverá ser desenvolvido com
+base nas informações levantadas acerca dos fatores ambientais, conforme
+estabelecido neste Termo de Referência, e do conhecimento da natureza e
+características do empreendimento, devendo identificar, analisar e avaliar os
+impactos ambientais relativos às etapas de projeto, implantação e operação do
+empreendimento.
+
+1. INFORMAÇÕES GERAIS
+
+   a) Nome ou Razão Social;
+   b) CGC ou CIC;
+   c) Endereço da sede do empreendimento, fax, telefone e e-mail;
+   d) Inscrição estadual (se pessoa jurídica);
+   e) Localização (distrito, município e UC);
+   f) Nome(s) do(s) responsável(is) pelo Projeto, com endereço, telefone, fax e
+      e-mail;
+   g) Nome(s) do(s) responsável(is) pelo Estudo Ambiental, com endereço,
+      telefone, fax e e-mail;
+   h) Relação da equipe técnica responsável pelo Estudo Ambiental (nome,
+      formação e registro profissional).
+
+2. CARACTERIZAÇÃO DO EMPREENDIMENTO
+
+   a) Síntese dos objetivos do empreendimento e sua justificativa em termos de
+      importância no contexto social da região e do município;
+   b) Localização do empreendimento, com delimitação da bacia hidrográfica, em
+      escala de 1:100.000, planta da bacia hidráulica, da área de preservação
+      permanente e arranjo geral do projeto em escala adequada;
+   c) Características técnicas do empreendimento, determinando o material a ser
+      utilizado na construção da barragem, a estrutura dos aliviadores, a vazão
+      máxima, vazão regularizada, vazão de restituição, altura da barragem, cota
+      operacional de inundação; áreas da bacia hidráulica, da bacia hidrográfica e
+      infra-estrutura operacional necessária, detalhando-se:
+
+
+
+                                                                             xxiii
+        •   Barragem: layout em escala adequada, considerações sobre o tipo,
+            adeqüabilidade do local, pré-dimensionamento, altura máxima da
+            barragem;
+        •   Reservatório de acumulação: planta planialtimétrica em escala
+            adequada, características físicas (área do lago; capacidade de
+            armazenamento, níveis de operação, capacidade de atenuação de
+            cheias), estimativa da área a ser desmatada para a formação do
+            lago, dentre outros;
+        •   Tomada d’água:         considerações     sobre    o    tipo   e      pré-
+            dimensionamento;
+        •   Desvio do rio: tipo e critérios de escolha da estrutura para desviar o
+            rio, localização, descarga do desvio;
+        •   Obras complementares: planta de localização em escala
+            adequada, características principais das obras complementares e
+            estimativa da área a ser desmatada;
+        •   Canteiro de obras: planta de localização, critérios de escolha da
+            área, pré-dimensionamento, atividades a serem desenvolvidas no
+            canteiro e estimativa da área a ser desmatada;
+        •   Áreas de empréstimos e jazidas: caracterização e localização das
+            áreas para dar suporte às obras (pedra, areia, argila e cascalho)
+            incluindo especificação dos volumes disponíveis e estimativa da área
+            a ser desmatada;
+        •   Áreas de bota-fora: localização e caracterização das áreas de bota-
+            fora e estimativa da área a ser desmatada;
+  d) Estimativa de quantificação da mão-de-obra a ser empregada na
+     implantação do projeto;
+  e) Localização, em escala adequada, das interferências das obras com
+     qualquer infra-estrutura existente ou projetada (ferrovias, linhas de
+     transmissão de energia, gasodutos, vias, cemitérios, áreas agrícolas, entre
+     outras) ou localidades existentes;
+  f) Outras informações necessárias à perfeita compreensão do projeto e seus
+     impactos.
+
+3. ALTERNATIVAS LOCACIONAIS
+
+  a) Descrição e análise das alternativas locacionais estudadas, adotando-se
+     para todas o mesmo grau de profundidade, com avaliação dos aspectos
+     técnicos, econômicos e ambientais envolvidos. Apresentar mapa na escala
+     1:100.000 com indicação da localização de cada uma das alternativas;
+  b) Justificativa de escolha da alternativa preferencial levando-se em conta,
+      entre outras variantes, a presença de:
+
+
+
+                                                                                 xxiv
+      b.1 zonas de instabilidade a fatores abióticos;
+      b.2 zonas de importância biológica considerando-se os seus atributos
+      ecológicos e fragilidades
+      b.3 zonas de pressão antrópica e presença de comunidades tradicionais.
+A análise das alternativas locacionais deverá considerar os planos e programas de
+desenvolvimento, propostos e em implantação, com incidência na área de
+influência, que possam interferir, positiva ou negativamente, no projeto. De forma
+recíproca, também deverão ser analisadas as influências do projeto nesses planos
+e programas, para identificação das medidas de compatibilização que se fizerem
+necessárias.
+
+4. DIAGNÓSTICO AMBIENTAL
+
+4.1 ÁREA DE INFLUÊNCIA DO EMPREENDIMENTO
+Delimitar, em escala adequada, as áreas geográficas a serem direta e
+indiretamente afetadas, denominadas área de influência direta e área de influência
+indireta do projeto, considerando-se o alcance dos impactos nos meios físico,
+biótico e socioeconômico. Os impactos no meio físico e no meio biótico deverão
+ser avaliados tomando-se como unidade geográfica a(s) bacia(s) ou sub-bacia(s)
+hidrográfica(s) onde se insere o empreendimento ou que serão por ele afetadas.
+Deverão ser apresentados com clareza os critérios utilizados para a delimitação
+das áreas de influência direta e indireta.
+O diagnóstico ambiental abrangerá a área de influência do projeto, apresentando
+descrições e análises dos fatores ambientais e suas interações, com dados,
+mapas e acervo fotográfico que permitam melhor visualizar a situação ambiental
+antes da implantação do empreendimento,
+O diagnóstico ambiental contemplará, no mínimo:
+4.2 MEIO FÍSICO
+Apresentar os principais dados do meio-físico da área de influência do
+empreendimento, com elaboração de textos descritivos, representações tabulares
+e gráficas.
+4.2.1 Características climáticas
+   a) Caracterização do clima e condições meteorológicas                da   área
+      potencialmente atingida pelo empreendimento, incluindo:
+             Classificação climática;
+             Análise das séries meteorológicas, considerando-se temperatura do
+              ar (máxima, média e mínima), pluviosidade (valores mensais e
+              anuais, delimitação dos períodos secos e chuvosos), umidade do ar,
+              ventos (direção e intensidade) e evaporação.
+   b) Balanço hídrico;
+
+
+
+                                                                              xxv
+   c) Caracterização da rede de estações e postos meteorológicos;
+   d) Apresentação das correlações existentes entre os diversos elementos
+      considerados.
+4.2.2 Geomorfologia
+   a) Caracterização topográfica (levantamento planialtimétrico em escala
+      adequada);
+   b) Posição da área dentro da bacia hidrográfica;
+   c) Classificação das formas de relevo quanto à sua origem;
+   d) Caracterização do padrão de drenagem;
+   e) Mapa geomorfológico, incluindo os recursos hídricos, em escala de
+      1:100:000;
+   f) Características da dinâmica do relevo (presença ou propensão à erosão e
+      assoreamento, áreas sujeitas a inundações, escorregamentos de encostas
+      e taludes, dentre outros), e sua relação com as atividades propostas para o
+      empreendimento (condições favoráveis ou adversas à implantação das
+      obras);
+   g) Compartimentação do relevo;
+   h) Relação geomorfologia/geologia;
+   i) Classificação das formas do modelado.
+4.2.3 Geologia/geotecnia
+   a) Caracterização geológica da área de influência direta, incluindo avaliação
+      litoestratigráfica, esboço estrutural e condições geotécnicas gerais dos
+      solos e rochas;
+   b) Levantamento das atividades de extração mineral a montante do
+      reservatório, indicando o estágio legal dos empreendimentos junto ao
+      Departamento Nacional da Produção Mineral (DNPM) (requerimento,
+      pesquisa, lavra);
+   c)   Mapeamento de depósitos sedimentares recentes tanto na área de
+        inundação como ao longo dos tributários de 1a ordem e curso principal,
+        contemplando a área de influencia indireta detalhando o potencial de
+        assoreamento do reservatório;
+   d) Seção geológica do sítio do barramento;
+   e) Informações sobre a instabilidade das encostas do entorno do lago,
+      avaliando seu comportamento quando submetidas à nova realidade com
+      o enchimento do reservatório;
+   f)   Apresentar Mapa Geológico acompanhado de perfil geológico em escala
+        de 1:100:000.
+4.2.4 Pedologia
+
+
+                                                                             xxvi
+   a) Relações dos solos com a geologia/geomorfologia;
+   b) Mapa pedológico na escala de 1:100.000 com classe, perfil, textura e
+      profundidade;
+   c) Mapa de aptidão agrícola da área de influencia direta;
+   d) Mapa pedológico do entorno do reservatório descrevendo os grupos de
+      solos e suas unidades, baseado em levantamento de campo;
+   e) Extensão e distribuição das unidades de solos;
+4.2.5 Recursos Hídricos
+4.2.5.1 Hidrologia
+   a) Mapa da rede hidrográfica da bacia localizando o empreendimento e
+      demais estruturas hidráulicas existentes;
+   b) Características físicas da bacia, incluindo corpos d´água na área de
+      influência do projeto (rios, riachos, olhos d´água, nascentes e outros), de
+      caráter permanente ou intermitente; profundidade do lençol freático e
+      relação com as águas superficiais;
+   c) Condições atuais de proteção aos corpos d´água, especialmente aqueles
+      utilizados como mananciais de abastecimento e que poderão sofrer
+      influência, direta ou indireta das atividades relacionadas ao projeto;
+   d) Parâmetros hidrológicos (vazões máximas, médias e mínimas);
+   e) Classe de enquadramento da bacia hidrográfica;
+   f) Gráficos com as vazões do manancial considerando as vazões mínima;
+      média das mínimas com 90% de permanência ou (Q7,10); médias e
+      máximas atuais;
+   g) Gráficos com as vazões regularizadas pela barragem durante o ano,
+      correlacionando as vazões afluentes com as vazões efluentes;
+   h) Avaliação das alterações no comportamento das vazões na calha do rio
+      considerando o regime natural e o novo regime com a barragem,
+      verificando se há modificação significativa ou defasagem dos períodos de
+      picos de cheia ou estiagem do rio.
+4.2.5.2   Geoquímica
+      a) Determinação da composição química e mineralógica dos sedimentos
+         de corrente;
+      b) Estudo de ocorrência de elementos e fontes contaminantes a montante
+         do empreendimento enfatizando metais pesados;
+      c) Identificação das fontes de contaminantes caso constatada ocorrência;
+      d) Determinação da inter-relação entre água subterrânea e superficial.
+4.2.5.3 Qualidade das águas
+
+
+
+                                                                               xxvii
+     a) Caracterização dos principais fatores físico-químicos e microbiológicos
+        dos corpos d’água que serão utilizados e/ou afetados pelo
+        empreendimento apresentando a metodologia analítica utilizada para
+        sua determinação;
+     b) Caracterização dos usos da água a montante e a jusante do futuro
+        reservatório;
+     c) Avaliação, utilizando métodos consagrados, dos riscos de salinização e
+        eutrofização das águas no futuro reservatório;
+     d) Apresentação de mapa de localização dos pontos de amostragem, em
+        escala adequada.
+  As análises serão realizadas na matriz água e, quando necessário, em
+  sedimento, considerando-se, no mínimo, os parâmetros abaixo, contemplando
+  pontos situados a montante, a jusante e no local da barragem, bem como nos
+  principais afluentes do reservatório:
+
+
+        •   Água
+     Análise físico-química: cor, condutividade elétrica específica*, pH*, OD*,
+     % de saturação de oxigênio, turbidez, temperatura*, DBO, DQO,
+     alcalinidade, cálcio, cloretos, magnésio, potássio, sódio, sulfatos, amônia,
+     nitrito, nitratos, nitrogênio total, fósforo total, sólidos totais, sólidos totais
+     dissolvidos, RAS, (cianeto, arsênio, ferro total, bário, alumínio, manganês,
+     cromo total, zinco, cádmio, mercúrio, chumbo)**.
+     * Parâmetros a serem medidos em campo
+     ** Parâmetros a serem analisados quando detectadas fontes de
+     contaminação
+     Análise bacteriológica: coliformes termotolerantes
+        •   Sedimento
+     Metais: mercúrio, cádmio, chumbo, zinco, cromo, manganês e ferro.
+     Pesticidas: organoclorados e organofosforados.
+4.2.5.4 Hidrogeologia
+     a) Qualidade das águas subterrâneas parâmetros (químicos, físicos e
+     bacteriológicos);
+     b) Caracterização dos aqüíferos subterrâneos existentes na área de
+     influência direta, indicando: localização e aspectos geológicos; alimentação,
+     fluxo e recarga;
+     c) Profundidade dos níveis d’água subterrâneos; relações com as águas
+     superficiais e com outros aqüíferos;
+
+
+
+
+                                                                                 xxviii
+      d) Condições de explotação considerando localização e tipos de captação
+      utilizados, quantidades explotadas e regime de bombeamento em cada
+      captação; representações cartográficas;
+      e) Cadastramento dos poços, fontes e cacimbas existentes na área de
+      influência direta bem como tipo de captação.
+
+4.3 MEIO BIÓTICO
+
+Neste item, serão apresentados os dados e principais características da fauna e
+flora regional, de tal forma que, permita-se uma análise adequada da estrutura e
+função ecológica dos elementos vivos predominantes na área de influência do
+projeto.
+
+4.3.1 Ecossistema Terrestre
+
+4.3.1.1   Vegetação
+          •   Área de Influência Indireta
+   Descrição e caracterização da cobertura vegetal, especificando o bioma,
+   considerando a extensão e distribuição das formações vegetais, apresentadas
+   em escala 1:100.000.
+          •   Área de Influência Direta - Vegetação
+   a) Identificação e caracterização da cobertura vegetal, em escala com detalhe
+      mínimo de 1:25.000, identificando espécies vegetais raras, ameaçadas de
+      extinção, indicadoras de alterações ambientais e de interesse econômico e
+      científico;
+   b) Relações flora/flora, flora/fauna e fauna/fauna;
+   c) Realização de estudos fitossociológicos, com a estimativa dos parâmetros
+      de estrutura horizontal, tais como; densidades absoluta e relativa,
+      freqüência, dominâncias absoluta e relativa, índice de valor de importância,
+      índice de valor de cobertura e índice de diversidade;
+   d) Identificação das espécies vegetais existentes incluindo listagem
+      taxonômica, especificando os diferentes estratos vegetais, usos, habitat;
+   e) Diagnóstico do estado de conservação da vegetação nativa, destacando a
+      pressão antrópica a que está sujeita, bem como sua utilização;
+   f) Perfil esquemático da vegetação, contemplando as diferentes tipologias
+      vegetacionais.
+
+4.3.1.2 Macrofauna
+
+   a) Identificação qualitativa da fauna da área de influência direta do
+      empreendimento, incluindo listagem taxonômica com ênfase para as
+      espécies endêmicas, raras, ameaçadas de extinção, indicadoras da
+      qualidade ambiental e de interesse econômico e científico;
+
+
+                                                                              xxix
+  b) Identificação e mapeamento em escala compatível dos sítios de
+     reprodução, nidificação, deslocamento, áreas de dessendentação, incluindo
+     áreas de pousio de aves migratórias;
+  c) Identificação de espécies vetores e/ou reservatórios de doenças;
+  d) Identificação do habitat e nicho ecológico das espécies;
+  e) Descrição geral das inter-relações fauna-fauna e fauna-flora;
+  f) Diagnóstico da situação geral da fauna e da ação antrópica sobre ela
+     exercida.
+
+4.3.2 Ecossistema Aquático
+
+        •   Área de Influência Direta
+  a) Identificação das espécies animais e vegetais raras, ameaçadas de
+     extinção, vetores e reservatórios de doenças;
+  b) Análise quali-quantitativa dos componentes básicos das populações
+     aquáticas - plâncton, necton e bentos - contemplando os seguintes
+     parâmetros:
+        •   Fitoplâncton: inventário taxonômico, freqüência por grupo
+            taxonômico e pontos amostrais, abundância relativa, densidade
+            numérica (em número de células/L), distribuição espaço-temporal,
+            relação clorofila-a / feofitina-a, riqueza de espécies/índice de
+            diversidade;
+        •   Zooplâncton: inventário taxonômico, freqüência por grupos
+            taxionômico e pontos amostrais, densidade, riqueza de espécie por
+            ponto amostral, distribuição espaço-temporal, riqueza de
+            espécies/índice de diversidade;
+        •   Zoobentos: inventário taxonômico, freqüência por grupo taxonômico,
+            abundância relativa, densidade e riqueza de espécies/índice de
+            diversidade;
+        •   Ictiofauna: inventário taxionômico, freqüência de ocorrência por
+            grupo taxionômico e pontos amostrais, levantamento do
+            ictioplâncton,   distribuição   espaço-temporal,   riqueza    de
+            espécies/índice de diversidade. Identificação a ocorrência de
+            espécies que realizam piracema e caracterizar seu comportamento
+            (período de reprodução, ambiente de desova, migração dentre
+            outros) com relação ao regime do rio;
+  c) Apresentação de quadros com identificação de espécies animais e vegetais
+     que possam servir como indicadores biológicos das alterações ambientais
+     nos ecossistemas aquáticos.
+
+4.3.3 Ecossistema de Transição
+
+
+
+                                                                          xxx
+Caracterizar os ecossistemas de transição, aquáticos e terrestres, devidamente
+identificados na carta de vegetação.
+
+4.4 MEIO SOCIOECONÔMICO
+
+A caracterização do meio socioeconômico deverá abranger as áreas de influência
+direta e indireta de forma a demonstrar os efeitos sociais e econômicos advindos
+da implantação e operação do empreendimento e as inter-relações próprias do
+meio antrópico regional, passíveis de alterações relevantes pelos efeitos diretos e
+indiretos do projeto.
+Quando procedente, as variáveis estudadas no meio socioeconômico
+deverão ser apresentadas em séries históricas representativas,
+visando à avaliação de sua evolução temporal.
+As informações relativas à área de influência direta deverão ser apresentados na
+escala de 1:25.000 e a área de influência indireta na escala 1:100.000.
+
+4.4.1 Área de Influência Indireta
+
+4.4.1.1. População e Dinâmica Populacional
+   a) Descrição do processo histórico de ocupação;
+   b) Descrição da evolução da população: taxa de crescimento demográfico e
+      vegetativo da população urbana e rural;
+   c) Descrição da população economicamente ativa e ocupada por segmento
+      econômico;
+   d) Caracterização da economia dos municípios e do potencial existente para o
+      desenvolvimento econômico regional;
+   e) Dados demográficos regionais e do município;
+   f) Centros polarizadores em nível regional: caracterizar o sistema viário
+      abrangendo rodovias, ferrovias, hidrovias e aeroportos;
+   g) Caracterização do sistema de transmissão e distribuição de energia elétrica;
+   h) Caracterização do sistema de telecomunicações;
+   i) Classificação dos municípios segundo o Índice de Desenvolvimento Humano
+      (IDH) e o Índice de Desenvolvimento Social (IDS);
+   j) Localização das Unidades de Conservação (UC) existentes e suas zonas de
+      amortecimento, informando o decreto de sua criação, categoria, área,
+      situação quanto ao plano de manejo e avaliação das interferências com o
+      projeto. Apresentar o mapa de zoneamento ecológico-econômico da UC;
+   k) Descrição do patrimônio arqueológico regional;
+   l) Caracterização das comunidades tradicionais (Quilombolas e indígenas),
+       Assentamentos rurais e urbanos, e conflitos, se houver;
+
+
+
+                                                                                xxxi
+   m) Caracterização das atividades agropecuárias, industriais, extrativista
+     mineral, comércio e serviços na geração da renda do(s) município(s);
+   n) Caracterização da economia regional com reflexo para o desenvolvimento
+      econômico regional e local;
+   o)    Apresentação de dados demográficos regionais e do(s) município(s)
+        destacando o setor agrícola e agroindustrial;
+   p) Descrição dos ICM arrecadados regionalmente;
+   q Identificação de áreas de agricultura irrigada, tipo e eficiência do sistema de
+       irrigação, principais culturas e principais áreas de escoamento de produção;
+   r)   Abordagem da economia formal e informal e relações de troca entre a
+        economia local, regional e nacional, incluindo destinação da produção local
+        e importância relativa;
+   s) Identificação dos serviços de saúde e saneamento disponíveis na região;
+   t) Demonstrar os índices relativos à saúde pública e saneamento: natalidade e
+       mortalidade infantil; mortalidade materna; imunização; principais doenças e
+       suas causas;
+   u) Caracterização da estrutura fundiária regional.
+
+4.4.2 Área de Influência Direta
+
+4.4.2.1 População e Dinâmica Populacional
+   a) Descrição do processo histórico de ocupação;
+   b) Aspectos demográficos: número de habitantes por faixa etária e sexo, taxa
+      de crescimento, densidade demográfica da população urbana e rural;
+   c) População de aglomerado(s) urbano(s) e sua participação como mão de
+      obra a ser utilizada pelo empreendimento;
+   d) Quantificação e caracterização social da população a ser desapropriada
+      e/ou deslocada, quando couber;
+   e) Caracterização das condições sócio-econômicas da população (ocupação,
+      renda, nível de instrução, habitação, saúde, cultura, religião e lazer);
+   f) População economicamente ativa e ocupada por setores econômicos;
+   g) Descrição de fluxos Migratórios, identificando: origem, tempo de
+      permanência e causas da migração.
+4.4.2.2 Patrimônio histórico, cultural, arqueológico e espeleológico
+   a) Avaliação da possibilidade de ocorrência de sítios de natureza arqueológica
+      ou indígena nas áreas de influência da bacia hidráulica e do eixo do
+      barramento;
+   b) Identificação e caracterização, com mapeamento em escala compatível, de
+       sítios arqueológicos, espeleológicos, históricos e arquitetônicos, bem como
+
+
+                                                                               xxxii
+      de locais de relevante beleza cênica ou qualquer outro considerado como
+      patrimônio da população;
+   c) Descrição de manifestações culturais;
+   d) Apresentação de relatório conclusivo, em atendimento as exigências do
+IPHAN.
+4.4.2.3 Saúde Pública
+   a) Coeficiente de mortalidade para doenças infecciosas e parasitárias
+      (redutíveis por saneamento básico, por imunização e por programas
+      especiais);
+   b) Diagnóstico de endemias que ocorrem na região e/ou que poderão ocorrer
+      ou se expandir com a implantação do empreendimento;
+   c) Relação dos serviços de saúde, hospitais públicos, particulares e postos de
+      saúde, caracterizando oferta / demandas.
+4.4.2.4 Segurança Pública
+   a) Equipamentos e equipe policial;
+   b) Ocorrências policiais.
+
+4.4.2.5 Organização Social
+
+   a) Identificação das organizações formais e informais, segundo áreas
+      específicas de atuação (ambiental, associativista, cultural, religiosa,
+      educacional, de saúde e outros) descrevendo graus de atuação;
+   b) Identificação das forças e tensões sociais presentes;
+   c) Levantamento do contingente de trabalhadores a ser estabelecido no local
+       do empreendimento e infra-estrutura necessária para atender as demandas
+       futuras;
+   d) Identificação das comunidades tradicionais, quilombolas e indígenas;
+   e) Caracterização dos assentamentos de reforma agrária, movimentos de sem-
+      terra e conflitos existentes;
+   f) Identificação dos equipamentos e edificações de uso coletivo nas
+      comunidades afetadas.
+4.4.2.6 Dinâmica Produtiva
+   a) Caracterização das principais atividades econômicas e o seu incremento
+      após o empreendimento para o desenvolvimento regional;
+   b) Caracterização da estrutura fundiária das propriedades diretamente
+      atingidas, incluindo a descrição de posse, uso e benfeitorias de terra;
+   c) Número estimado de empregos diretos e indiretos a serem gerados pelo
+      empreendimento e postos de trabalho identificando a qualificação exigida;
+
+
+                                                                             xxxiii
+  d) Identificação de centros polarizadores em nível regional frente às demandas
+  locais;
+  e) Identificação áreas de agricultura irrigada, tipo e eficiência do sistema de
+     irrigação, principais culturas e principais áreas de escoamento de produção;
+  f) Caracterização da estrutura dos serviços primário, secundário e terciário,
+      como meios de geração de emprego, nível tecnológico por setor;
+  g) Abordagem dos aspectos da economia informal, relações de troca entre a
+     economia local, a regional e a nacional, incluindo destinação da produção
+     local e importância relativa;
+  h) Descrição da estrutura, empregos e salários no(s) município(s);
+  i) Descrição do ICMs arrecadado na atividade agropecuária local comparando-
+      a com a área de influência indireta;
+  j)    Identificação áreas de agricultura irrigada, tipo e eficiência do sistema de
+       irrigação, principais culturas, insumos utilizados e principais áreas de
+       escoamento de produção;
+  k) Descrição das atividades econômicas e principais centros de escoamento
+     da produção;
+  l)    Estimativa do valor econômico e financeiro de terras e benfeitorias
+       existentes na área diretamente afetada;
+  m) Caracterização da estrutura e situação fundiária, identificando e analisando
+     a ocupação da área, por modelos de propriedade e principais atividades
+     existentes.
+
+4.4.2.7 Saúde Pública e Saneamento
+
+       a) Identificação dos serviços de saúde e saneamento disponíveis na
+          região, a exemplo de: rede de abastecimento de água, disposição de
+          lixo, esgotamento sanitário, tratamento de águas servidas, dentre
+          outros;
+       b) Demonstrar os índices relativos à saúde pública e saneamento:
+          natalidade e mortalidade infantil; mortalidade materna; imunização;
+          principais doenças e suas causas;
+       c) Diagnosticar endemias que ocorrem e/ou que poderão ocorrer ou se
+          expandir com a implantação e operação do empreendimento;
+       d) Descrição oferta de serviços de saúde, hospitais públicos, particulares e
+          postos de saúde;
+       e) Apresentar dados disponíveis sobre a intoxicação por agrotóxicos.
+4.4.2.8 Educação
+       a) Índice de alfabetização e de analfabetismo;
+
+
+
+                                                                              xxxiv
+      b) Caracterização da oferta e da demanda dos serviços educacionais do
+         1º, 2º e 3º graus no meio urbano e rural da rede de ensino público e
+         privado;
+      c) Descrição da oferta e demanda dos serviços educacionais (acesso,
+         qualidade, transporte e deficiências);
+      d) Descrição do sistema de educação Infantil, alfabetização, ensino
+         fundamental, ensino médio, educação de jovens e adultos e ensino
+         profissionalizante;
+      e) Levantamento das causas de evasão e repetência;
+      f) Apresentação de dados de qualificação profissional para o setor agrícola
+         e meio-ambiente.
+4.4.2.9 Infra-estrutura
+      a) Caracterização do sistema de transmissão e distribuição de energia
+         elétrica;
+      b) Caracterização do sistema de telecomunicações;
+      c) Caracterização da oferta de serviços: abastecimento d’água,
+         esgotamento sanitário, coleta e disposição final de resíduos sólidos;
+      d) Caracterização e Identificação em planta, na escala adequada, das
+         interferências do projeto com os sistemas viários e de transportes, linhas
+         de transmissão;
+      e) Apresentar mapas com a infra-estrutura local.
+4.4.2.10 Uso do Solo
+a) Caracterização e mapeamento do uso e ocupação do solo delimitando:
+   pecuária; culturas permanentes e temporárias; silvicultura; florestas; pastagens
+   naturais e cultivadas; núcleos urbanos, indústrias, unidades de conservação e
+   principais equipamentos na zona rural (igrejas, escolas, cemitérios, acessos,
+   linha de transmissão, dentre outros);
+b) Caracterização das propriedades existentes na área diretamente atingida pelo
+   empreendimento (bacia hidráulica, APP, infra-estrutura, jazidas, dentre outros);
+c) Localização das Unidades de Conservação (UC) existentes e suas zonas de
+   amortecimento, informando o decreto de sua criação, categoria, área, situação
+   quanto ao plano de manejo e avaliação das interferências com o projeto.
+   Apresentar o mapa de zoneamento ecológico-econômico da UC;
+d) Caracterização das propriedades existentes na área diretamente afetada pelo
+   empreendimento.
+4.4.2.11 Uso da Água
+Caracterização dos principais usos das águas superficiais e subterrâneas,
+apresentando a listagem das utilizações levantadas, a montante e a jusante do
+eixo do barramento, suas demandas atuais e futuras, em termos qualitativos e
+
+
+                                                                              xxxv
+quantitativos, bem como a análise das disponibilidades frente às utilizações atuais
+e projetadas, devendo ser indicadas: abastecimento doméstico e industrial,
+geração de energia, irrigação, pesca, aqüicultura, recreação, navegação,
+preservação da fauna e da flora.
+4.4.2.12 Qualidade de Vida
+Classificar os municípios segundo os Índices de Desenvolvimento Humano (IDH) e
+o Índice de Desenvolvimento Social (IDS);
+4.4.2.13 Percepção e integração da População
+   a) Percepção pela população das condições ambientais de seu município e de
+      sua área de moradia;
+   b) Descrição das expectativas da população em relação ao projeto.
+4.5 UNIDADES DE CONSERVAÇÃO (UC) E ÁREAS DE PRESERVAÇÃO
+PERMANENTE (APP)
+4.5.1 Apresentar as categorias de Unidades de Conservação (UC) existentes na
+área de influência indireta e direta, identificando o Decreto de criação, categoria,
+área de abrangência, Plano de Manejo (se couber), avaliação das interferências
+com o projeto, acompanhado de mapa indicando o zoneamento e zona de
+amortecimento, se couber;
+4.5.2   Identificação áreas com potencial para criação de Unidades de
+Conservação (UC), justificando a tipologia, descrição dos seus atributos
+socioambientais, culturais e grau de conservação, acompanhado de dados
+cadastrais;
+4.5.3 Identificação com mapeamento em escala compatível para faixa de
+Preservação Permanente a ser adotada no projeto, considerando-se a legislação
+ambiental vigente.
+      •   Os mapas deverão ser apresentados da seguinte forma: em Escala
+          1:100.000, para a Área de Influência indireta, e na escala 1:25:000
+          para a Área de Influência Direta.
+
+5. AVALIAÇÃO DOS IMPACTOS AMBIENTAIS
+
+Será efetuada comparação sistemática das alternativas do empreendimento
+proposto, considerando os principais impactos relacionados: (i) concepção,
+localização, tecnologia adotada e operação; (ii) custos envolvidos; (iii) adequação
+às condições locais; (iv) requisitos institucionais exigidos para a implantação e
+operação, bem como a alternativa da não realização.
+Serão identificadas e apresentadas as justificativas para a alternativa escolhida.
+Para a alternativa escolhida deverão ser identificadas as ações impactantes, e em
+seguida descritos, interpretados e valorados, os impactos ambientais potenciais,
+nos meios físico, biótico e socioeconômico, relativos às fases de projeto,
+implantação e operação do empreendimento, identificando-se as medidas,
+equipamentos e procedimentos a serem implementados para evitar ou reduzir os
+
+
+                                                                               xxxvi
+efeitos adversos do empreendimento, bem como aquelas que poderão valorizar os
+seus efeitos benéficos.
+Será estimado o alcance espacial e temporal dos impactos e quantificada a
+extensão e/ou intensidade dos mesmos, informando-se a fonte dos dados
+disponíveis e as incertezas associadas às previsões.
+A avaliação dos impactos deverá considerar as possíveis interferências do projeto
+com outros da mesma natureza dentro da sua bacia hidrográfica.
+Deverão ser apresentados:
+   a) Os métodos, técnicas e critérios adotados para avaliação dos impactos
+      ambientais;
+   b) A identificação e análise integrada dos impactos;
+   c) A classificação dos impactos;
+   d) Ponderação dos impactos com e sem as medidas mitigadoras e
+      maximizadoras;
+   e) Medidas compensatórias para os impactos não mitigáveis.
+5.1 PREVISÃO, DESCRIÇÃO E ANÁLISE DOS IMPACTOS
+Para análise dos potenciais impactos do empreendimento deverá ser detalhada a
+cadeia de efeitos que lhes dá origem.
+Os impactos serão então classificados considerando-se:
+      •   Natureza – característica do impacto quanto ao seu resultado benéfico
+          (+) ou adverso (-) para um ou mais fatores ambientais;
+      •   Importância – característica do impacto que traduz o significado
+          ecológico ou socioeconômico do ambiente a ser atingido;
+      •   Magnitude – característica do impacto relacionada ao porte ou
+          grandeza da intervenção no ambiente;
+      •   Duração – característica do impacto que traduz a sua temporalidade no
+          ambiente, podendo ser temporário, cíclico ou permanente;
+      •   Reversibilidade – traduz a capacidade do ambiente de retornar ou não
+          à sua condição original após cessada a ação impactante, no curto,
+          médio ou longo prazo;
+      •   Abrangência – traduz a extensão de ocorrência do impacto levando em
+          consideração a área de influência direta e indireta;
+Os impactos serão analisados de acordo com as fases do empreendimento,
+considerando-se, dentre outros:
+5.1.1 Fase de Projeto – corresponde aos impactos originários da concepção e
+desenho do empreendimento.
+          •   Meio Físico:
+
+
+
+                                                                           xxxvii
+a) Alterações no regime hídrológico;
+b) Alterações no microclima;
+c) Alteração na dinâmica de sedimentos da bacia hidrográfica;
+d) Alteração da qualidade da água do futuro reservatório em função dos
+   principais usos a montante da barragem (aglomerados urbanos, áreas
+   agrícolas, atividades minerarias, dentre outros);
+e) Alteração da paisagem regional;
+f) Interferências em outros barramentos;
+g) Riscos de salinização da água;
+h) Riscos de eutrofização da água.
+      •    Meio Biótico:
+a) Perda de área vegetada e da biodiversidade associada;
+b) Alteração nas características limnológicas da água;
+c) Afetação de áreas de refúgio, reprodução e deslocamento da fauna;
+d) Interferências nas áreas protegidas por lei: reserva legal, área de
+   preservação permanente e unidades de conservação;
+e) Transformação de ambiente lótico em lêntico;
+f) Afetação do fenômeno de piracema.
+      •    Meio Socioeconômico:
+a) Expectativas da população em relação ao empreendimento;
+b) Reassentamento involuntário da população;
+c) Interferências em outros usos da água;
+d) Interferências em áreas de interesse ecológico e em unidades de
+     conservação;
+e) Áreas de valor histórico, cultural, espeleológico ou arqueológico;
+f) Áreas indígenas;
+g) Perda de meios de sobrevivência;
+h) Interferência em infra-estrutura e equipamentos públicos e comunitários,
+    ou relocação;
+i) Doenças de veiculação hídrica;
+j) Conflitos fundiários;
+k) Interferências nas atividades econômicas: agricultura, mineração,
+     pecuária, dentre outros;
+ l)       Aumento da arrecadação de impostos;
+
+
+
+                                                                        xxxviii
+       m) Contribuição do empreendimento como indutor do desenvolvimento
+          sustentável da região.
+5.1.2 Fase de Implantação – corresponde ao período de execução das obras
+civis: construção da barragem, tráfego, exploração de jazidas, instalação de
+população de trabalhadores.
+         •   Meio Físico:
+       a) Alterações de caráter temporário ou permanente no uso do solo;
+       b) Intensificação dos processos erosivos;
+       c) Sismicidade induzida;
+       d) Poluição: ruídos, poeiras, resíduos sólidos e efluentes líquidos;
+       e) Início e/ou aceleração de processos erosivos;
+       f) Instabilidade de encostas;
+       g) Mudanças hidrológicas;
+       h) Transporte de sedimento e assoreamento de cursos d’água.
+         •   Meio Biótico:
+       a) Alteração ou supressão da vegetação existente;
+       b) Mudanças nos habitats e hábitos da fauna;
+       c) Alterações na diversidade e composição da fauna aquática e terrestre,
+          com destaque para as espécies protegidas por lei.
+         •   Meio Socioeconômico:
+       a) Mudança na vida diária da população residente próxima da obra;
+       b) Exposição da população aos riscos de acidentes;
+       c) Alterações na estrutura social e econômica locais em função da
+          população flutuante a ser empregada como mão-de-obra na
+          construção da barragem, considerando-se inclusive a desmobilização
+          com a conclusão da obra;
+       d) Perdas de áreas de agricultura, silvicultura e pastagens;
+       e) Aumento na demanda de bens e serviços com conseqüente elevação
+          dos preços;
+       f) Aumento no tráfego de veículos;
+       g) Mudanças no quadro de saúde com a incidência de novas doenças;
+       h) Interferência na infra-estrutura viária, linhas de transmissão e outras;
+       i) Interferência no    patrimônio    histórico,   cultural,   espeleológico   e
+           arqueológico;
+       j) Aumento da caça predatória;
+
+
+
+                                                                                xxxix
+       k) Interferências nos usos da água decorrentes de desvio do curso
+          d´água.
+5.1.3 Fase de Operação – corresponde ao período de funcionamento do
+   empreendimento, a partir do enchimento do reservatório.
+            •   Meio Físico:
+       a) Deplecionamento do reservatório;
+       b) Quantidade de água disponível para os diversos usos (doméstico,
+          industrial, agrícola) e sua distribuição temporal, considerando os
+          períodos críticos de operação;
+       c) Instabilidade das encostas marginais do reservatório;
+       d) Elevação do nível do lençol freático.
+            • Meio Biótico:
+       a) Afogamento, colonização e evasão da fauna silvestre;
+       b) Interrupção de rotas de migração de animais;
+       c) Alterações sobre o comportamento do meio biótico, (período de
+          reprodução, migração, e nichos ecológicos) no trecho a jusante em
+          função das variações do regime de vazões.
+
+            •   Meio Socioeconômico:
+
+       a) Conflitos de uso, considerando os já existentes e aqueles que poderão
+          surgir em decorrência das novas demandas viabilizadas com a
+          regularização da vazão;
+       b) Utilização das águas a montante da barragem (irrigação,
+          abastecimento humano, diluição de efluentes, dentre outros) que
+          afetem a qualidade das águas a jusante;
+       c) Alteração nas estruturas social, econômica, cultural, relações de
+          vizinhança e práticas cotidianas;
+       d) Crescimento demográfico;
+       e) Disponibilização de infra-estrutura e novos equipamentos;
+       f)       Proliferação de doenças endêmicas de veiculação hídrica.
+
+5.2 PONDERAÇÃO DOS IMPACTOS
+
+Os impactos previstos deverão ser ponderados positiva ou negativamente, de
+acordo com a importância, magnitude, duração, abrangência e reversibilidade,
+explicitando-se claramente os critérios adotados.
+
+6. PROGNÓSTICO AMBIENTAL
+
+
+
+
+                                                                             xl
+A partir de uma análise integrada devem ser elaborados quadros prospectivos,
+mostrando a evolução da qualidade ambiental para a região, nas hipóteses de
+implantação do empreendimento e de sua não realização.
+Considerar a existência de outros empreendimentos, implantados ou previstos, na
+bacia hidrográfica, contemplando os efeitos sinérgicos.
+
+7. MEDIDAS MITIGADORAS E COMPENSATÓRIAS
+
+Com base na previsão, descrição e análise dos impactos, relacionar as medidas
+para eliminação ou minimização dos impactos adversos; compensação daqueles
+que não poderão ser mitigados; e ainda, as medidas para maximização dos
+impactos positivos do projeto.
+Estas medidas serão apresentadas e classificadas quanto a:
+   a) Natureza: preventiva, corretiva, maximizadora ou compensatória;
+   b) Fase do empreendimento em que deverão ser adotadas: projeto,
+      implantação ou operação;
+   c) Fator ambiental a que se destina: físico, biótico ou socioeconômico;
+   d) Prazo de permanência de sua aplicação: curto, médio ou longo;
+   e) Custo;
+   f) Responsável pela sua execução.
+
+8. PLANO DE CONTROLE AMBIENTAL (PCA)
+
+Deverão ser detalhados os programas para avaliação sistemática da implantação
+e operação da barragem, visando acompanhar a evolução dos impactos previstos
+e a eficiência e eficácia das medidas mitigadoras, compensatórias e de
+valorização do projeto adotado. Os resultados obtidos permitirão identificar a
+necessidade de adoção de medidas complementares.
+A implementação das medidas, em especial aquelas vinculadas ao meio
+socioeconômico, deverá se dar com a participação efetiva da comunidade
+diretamente afetada, bem como dos parceiros institucionais identificados,
+adotando-se procedimentos de comunicação social, buscando-se, desta forma a
+inserção regional do empreendimento.
+Deverão ser apresentados, quando couber, os seguintes planos e programas,
+informando-se a fase do projeto à qual estão relacionados, o custo e o
+responsável pela sua implementação, devendo os mesmos estar integrados com o
+Plano de Obras.
+ A não apresentação de quaisquer dos planos e programas abaixo listados deverá
+ser devidamente justificada.
+Os planos e programas, elencados nos itens de a) até e) deverão ser
+contemplados no EIA/RIMA e os demais apresentados quando do requerimento
+da LI.
+
+
+                                                                             xli
+a) Plano de Desapropriação – indenização;
+b) Plano de Reassentamento Involuntário;
+c) Programa de Educação Ambiental: (i) comunidade local e (ii) trabalhadores
+   do empreendimento;
+d) Programa de Comunicação social;
+e) Programas de Compensação Socioambiental;
+f) Plano de Conservação do Entorno do Reservatório contendo no mínimo:
+      •   Definição da entidade gestora do reservatório e suas atribuições;
+      •   Ações para conscientização dos usuários da água;
+      •   Indicação das restrições quanto ao uso das águas do reservatório e
+          do seu entorno;
+      •   Projeto de gestão da Área de Preservação Permanente (APP) e
+          conservação das águas do reservatório, contemplando a
+          recuperação, uso e preservação de acordo com as diretrizes do
+          CONAMA, com incentivo à gestão participativa;
+      •   Regras de operação do reservatório;
+g) Programa de Controle dos Processos Erosivos e Assoreamento;
+h) Plano de Desmatamento e Limpeza da Bacia Hidráulica;
+i) Plano de Recuperação de Áreas Degradadas (PRAD), incluindo o
+   paisagismo;
+j) Plano de Resgate de Flora e Fauna;
+k) Programa de Gerenciamento de Resíduos Sólidos;
+l) Programa de Manejo dos Ecossistemas Aquáticos;
+m) Programa de Monitoramento da Qualidade da Água;
+n) Programa de Monitoramento dos Organismos Aquáticos;
+o) Programa de Condições e Meio Ambiente do Trabalho na Indústria da
+   Construção – PCMAT; Programa de Controle Médico e Saúde Ocupacional
+   (PCMSO);
+p) Programa de Salvamento do Patrimônio Arqueológico;
+q) Programa de Controle de Ruídos e Emissão de Material Particulado;
+r) Programa de desativação do canteiro de obras, obras complementares,
+   áreas de empréstimos, jazidas e bota-fora
+s) Plano de Ação Emergencial (PAE), conforme diretrizes do Manual de
+   Segurança e Inspeção de Barragens, publicado pelo Ministério da
+   Integração Nacional.
+
+
+
+
+                                                                              xlii
+9. RELATÓRIO DE IMPACTO AMBIENTAL (RIMA)
+
+O RIMA deverá conter a síntese do EIA apresentada em linguagem acessível,
+ilustrado por mapas, cartas, quadros, gráficos e demais técnicas de comunicação
+visual de modo que a sociedade, especialmente a população afetada pelo
+empreendimento, possa entender as vantagens e desvantagens do projeto, bem
+como as conseqüências ambientais de sua implementação.
+O RIMA deverá conter:
+   a) Objetivos e justificativas do projeto, sua relação e compatibilidade com as
+      políticas setoriais, planos e programas governamentais;
+   b) Descrição do projeto e suas alternativas tecnológicas e locacionais,
+      especificando para cada uma delas, a área de influência, as matérias-
+      primas a serem utilizadas, as fontes de energia, os procedimentos
+      operacionais, os prováveis efluentes líquidos, resíduos sólidos e emissões
+      atmosféricas, além da estimativa do número de empregos diretos e
+      indiretos a serem gerados;
+   c) Síntese do diagnóstico ambiental da área de influência do projeto;
+   d) Descrição dos prováveis impactos ambientais considerando as alternativas
+      de projeto e os horizontes de tempo de incidência dos impactos, indicando
+      os métodos, técnicas e critérios adotados para sua identificação,
+      quantificação e interpretação;
+   e) Caracterização da qualidade ambiental futura da área de influência,
+      comparando as alternativas de projeto e considerando ainda a hipótese da
+      sua não realização;
+   f) Descrição do efeito esperado das medidas maximizadoras dos benefícios
+      do projeto; das medidas mitigadoras dos impactos adversos, mencionando
+      aqueles que não poderão ser evitados e as correspondentes medidas
+      compensatórias a serem adotadas;
+   g) Planos e programas de monitoramento dos impactos;
+   h) Recomendação justificada quanto à alternativa mais favorável.
+
+10. BIBLIOGRAFIA
+
+Deverá ser apresentada de acordo com as normas da ABNT, de forma temática,
+ao final de cada volume do EIA.
+
+11. ANEXOS
+
+Todas as cartas, mapas, laudos e outros documentos referenciados no EIA
+deverão ser anexados e identificados ao final de cada volume ou em volume
+único.
+
+
+
+
+                                                                             xliii
+                                   ANEXO V
+
+
+
+    ROTEIRO DE CARACTERIZAÇÃO DO EMPREENDIMENTO PARA LI
+      BARRAGENS DE MÉDIO, GRANDE OU EXCEPCIONAL PORTE
+
+
+
+1. INFORMAÇÕES GERAIS
+
+  a) Nome ou Razão Social;
+  b) CGC ou CIC;
+  c) Endereço da sede do empreendimento com fax, telefone e e-mail;
+  d) Inscrição estadual (se pessoa jurídica);
+  e) Localização do empreendimento (distrito, município e UC);
+  f) Nome(s) do(s) responsável(is) pelo Projeto, com endereço, telefone, fax e
+     e-mail;
+  g) Nome(s) do(s) responsável(is) pelo Estudo Ambiental, com endereço,
+     telefone, fax e e-mail;
+  h) Relação da equipe técnica responsável pelo Estudo Ambiental (nome,
+     formação e registro profissional).
+
+2. CARACTERIZAÇÃO DO EMPREENDIMENTO
+
+  a) Síntese dos objetivos do empreendimento e sua justificativa em termos de
+     importância no contexto social da região e do município;
+  b) Localização do empreendimento, com delimitação da bacia hidrográfica, em
+     escala de 1:100.000, planta georreferenciada da bacia hidráulica, da Área
+     de Preservação Permanente (APP) e arranjo geral do projeto em escala
+     adequada;
+  c) Projeto básico, memoriais descritivos e de cálculos (resumido) do projeto da
+     barragem, descrevendo estrutura dos aliviadores, vazão máxima, vazão
+     regularizada, vazão de restituição, altura da barragem, cota operacional de
+     inundação; áreas da bacia hidráulica, da bacia hidrográfica e infra-estrutura
+     operacional necessária, detalhando:
+        •   Barragem: layout em escala adequada, considerações sobre o tipo,
+            adeqüabilidade do local, dimensionamento, seções típicas e suas
+            características (largura, comprimento e cota de coroamento,
+            inclinação dos taludes), altura máxima da barragem; detalhes
+            construtivos incluindo, especialmente, aspectos sobre o preparo das
+            fundações e ombreiras, sistema de drenagem interna e de controle
+            de percolação e proteção aos taludes, revestimento do coroamento;
+
+
+                                                                              xliv
+     •   Reservatório de acumulação: planta planialtimétrica em escala
+         adequada, características físicas (área do lago; capacidade de
+         armazenamento, níveis de operação, capacidade de atenuação de
+         cheias), área a ser desmatada para a formação do lago, dentre
+         outros;
+     •   Aliviadores: considerações sobre o tipo, cota da soleira vertente,
+         capacidade de escoamento, dimensionamento e considerações
+         sobre os aspectos construtivos;
+     •   Tomada d’água: considerações sobre o tipo, dimensionamento,
+         dispositivos de proteção (proteção contra corpos flutuantes e
+         sedimentos transportados pelo escoamento, dentre outros.), medidas
+         a serem adotadas para facilitar a realização de vistorias, manutenção
+         e eventuais reparos; considerações sobre os aspectos construtivos;
+     •   Conduto de descarga de fundo: finalidade, tipo, vazão mínima e
+         máxima a escoar, dimensionamento;
+     •   Desvio do rio: tipo e critérios de escolha da estrutura para desviar o
+         rio, localização, descarga do desvio, seqüência construtiva, seções
+         típicas das ensecadeiras, dentre outros;
+     •   Obras complementares: planta de localização em escala adequada
+         e projeto das obras complementares (obras de acesso e controle de
+         entrada aos locais das obras; edificações para residência do pessoal
+         permanente; controle e operação tais como: rede viária, guarita,
+         estacionamento interno, casa dos operadores, dentre outros) e área
+         a ser desmatada;
+     •   Canteiro de obras e alojamento com Plano de Desativação:
+         planta de localização; dimensões e atividades, instalações (água,
+         soluções para disposição de esgotos sanitários e destinação dos
+         resíduos sólidos), locais de armazenamento (materiais e
+         equipamentos), centrais de britagem e de concreto, dentre outros;
+     •   Áreas de empréstimos e jazidas: caracterização, localização e
+         regularização ambiental das áreas para dar suporte às obras (pedra,
+         areia, argila e cascalho) incluindo cálculo dos volumes necessários e
+         quantidades disponíveis e área e ser desmatada com descrição da
+         tipologia vegetacional;
+     •   Áreas de bota-fora: localização; caracterização; plano de utilização;
+         área a ser desmatada, com descrição da tipologia vegetacional; e
+         regularização ambiental das áreas de bota-fora, quando couber;
+     •   Projeto de paisagismo.
+d) Plano de obras e respectivo cronograma físico associado com os
+   programas ambientais;
+
+
+
+
+                                                                            xlv
+   e) Quantificação e especificações da mão-de-obra a ser empregada na
+      implantação do projeto;
+   f) Localização em escala adequada, descrição e dimensionamento, das
+      interferências em obras existentes ou projetadas (ferrovias, linhas de
+      transmissão de energia, gasodutos, vias, cemitérios, áreas agrícolas, dentre
+      outras) ou localidades existentes.
+   g) Outras informações necessárias à perfeita compreensão do projeto e seus
+      impactos.
+
+4. ASPECTOS GERAIS NA ÁREA DE INFLUÊNCIA DO EMPREENDIMENTO
+
+Apresentar em escala adequada os limites geográficos das áreas de influência
+direta e indireta do empreendimento, aprovadas na LL, bem como as Áreas de
+Preservação Permanente (APP), as Unidades de Conservação (UC) e suas zonas
+de amortecimento.
+3.1. Caracterização Ambiental
+Síntese do diagnóstico ambiental apresentado para requerimento da LL.
+
+5. DETALHAMENTO DO PCA
+
+Deverão ser apresentados os seguintes planos e programas, informando-se a fase
+do projeto à qual estão relacionados, custos, documentação comprobatória da
+garantia de recursos para sua execução e o responsável pela sua implementação,
+devendo os mesmos estar integrados com o Plano de Obras e o Plano de
+Conservação do Entorno do Reservatório.
+ A não apresentação de quaisquer dos planos e programas abaixo listados deverá
+ser devidamente justificada.
+   a) Plano de Conservação do Entorno do Reservatório contendo no mínimo:
+         •   Definição da entidade gestora do reservatório e suas atribuições;
+         •   Ações para conscientização dos usuários da água;
+         •   Indicação das restrições quanto ao uso das águas do reservatório e
+             do seu entorno;
+         •   Projeto de gestão da Área de Preservação Permanente (APP) e
+             conservação das águas do reservatório, contemplando a
+             recuperação, uso e preservação de acordo com as diretrizes do
+             CONAMA, com incentivo à gestão participativa;
+         •   Regras de operação do reservatório;
+   b) Programa de Controle dos Processos Erosivos e Assoreamento;
+   c) Plano de Desmatamento e Limpeza da Bacia Hidráulica;
+   d) Plano de Recuperação de Áreas Degradadas (PRAD), incluindo o
+      paisagismo;
+
+
+                                                                                 xlvi
+e) Plano de Resgate de Flora e Fauna;
+f) Programa de Gerenciamento de Resíduos Sólidos;
+g) Programa de Manejo dos Ecossistemas Aquáticos;
+h) Programa de Monitoramento da Qualidade da Água;
+i) Programa de Monitoramento dos Organismos Aquáticos;
+j) Programa de Condições e Meio Ambiente do Trabalho na Indústria da
+   Construção – PCMAT; Programa de Controle Médico e Saúde Ocupacional
+   (PCMSO);
+k) Programa de Salvamento do Patrimônio Arqueológico;
+l) Programa de Controle de Ruídos e Emissão de Material Particulado;
+m) Programa de desativação do canteiro de obras, obras complementares,
+   áreas de empréstimos, jazidas e bota-fora;
+n) Plano de Ação Emergencial (PAE)
+
+
+
+
+                                                                       xlvii
+                                    ANEXO VI
+
+    ROTEIRO DE CARACTERIZAÇÃO DO EMPREENDIMENTO PARA LO
+      BARRAGENS DE MÉDIO, GRANDE OU EXCEPCIONAL PORTE
+
+1. INFORMAÇÕES GERAIS
+
+   a) Nome ou Razão Social;
+   b) CGC ou CIC;
+   c) Endereço da sede do empreendimento com fax, telefone e e-mail;
+   d) Inscrição estadual (se pessoa jurídica);
+   e) Localização do empreendimento (distrito, município e UC);
+   f) Nome(s) do(s) responsável(is) pelo Projeto, com endereço, telefone, fax e
+      e-mail;
+   g) Nome(s) do(s) responsável(is) pelo Estudo Ambiental, com endereço,
+      telefone, fax e e-mail;
+   h) Relação da equipe técnica responsável pelo Estudo Ambiental (nome,
+      formação e registro profissional).
+
+2. CARACTERIZAÇÃO DO EMPREENDIMENTO
+
+Apresentar, quando couber, as alterações de projeto conforme condicionantes da
+LI.
+
+6. IMPLEMENTAÇÃO DO PCA
+
+Apresentar os relatórios de implementação dos planos e programas desenvolvidos
+em cumprimento aos condicionantes da LL e da LI:
+   a) Plano de Conservação do Entorno do Reservatório;
+   b) Plano de Ação Emergencial (PAE), segundo as diretrizes do Manual de
+      Segurança e Inspeção de Barragens, publicado pelo Ministério da
+      Integração Nacional;
+   c) Programa de Controle dos Processos Erosivos e Assoreamento;
+   d) Programa de Manejo dos Ecossistemas Aquáticos;
+   e) Programa de Monitoramento da Qualidade da Água;
+   f) Programa de Monitoramento dos Organismos Aquáticos;
+   g) Plano de Desapropriação – indenização;
+   h) Programa de Reassentamento Ínvoluntário;
+   i) Plano de Desmatamento e Limpeza da Bacia Hidráulica;
+
+
+
+
+                                                                          xlviii
+j) Plano de Recuperação de Áreas Degradadas (PRAD), incluindo o
+   paisagismo;
+k) Plano de Resgate de Flora e Fauna;
+l) Programa de Educação Ambiental: (i) comunidade local e (ii) trabalhadores
+   do empreendimento;
+m) Programa de Comunicação Social;
+n) Programa de Gerenciamento de Resíduos Sólidos;
+o) Programa de Condições e Meio Ambiente do Trabalho na Indústria da
+   Construção (PCMAT);
+p) Programa de Controle Médico e Saúde Ocupacional (PCMSO);
+q) Programas de Compensação Socioambiental;
+r) Programa de Salvamento do Patrimônio Arqueológico;
+s) Programa de Controle de Ruídos e Emissão de Material Particulado.
+t) Programa de desmobilização das obras, contemplando:
+      ^ Desmobilização do Canteiro de obras: relatar e apresentar registro
+        fotográfico das ações de desativação das atividades e instalações
+        (água, disposição de esgotos sanitários e destinação dos resíduos
+        sólidos), locais de armazenamento (materiais e equipamentos),
+        centrais de britagem e de concreto, interferências com obras já
+        existentes, dentre outros, e descrição das ações de recuperação
+        ambiental;
+      ^ obras complementares: relatar e apresentar registro fotográfico
+        das ações de desmobilização e recuperação das áreas utilizadas
+        para acesso à obra; edificações para residência do pessoal
+        permanente; guarita, estacionamento interno, casa dos operadores,
+        dentre outros e recuperação ambiental;
+      ^ Áreas de empréstimos e jazidas: balanço final dos volumes de
+        movimentação de material mineralógico utilizados nas obras (pedra,
+        areia, argila e cascalho) e regularização ambiental, se couber;
+      ^ Áreas de bota-fora: relatar e apresentar registro fotográfico das
+        áreas de bota-fora com a seqüência da implementação do plano de
+        utilização; registro de recebimento, regularização ambiental
+        atualizada do responsável pela área e avaliação da área a ser
+        desmatada, se couber;
+
+
+
+
+                                                                        xlix
+

@@ -1,0 +1,173 @@
+                                            INVENTÁRIO FLORESTAL
+
+O Inventário Florestal trata dos métodos para se obter informações a respeito da cobertura vegetal e exprime
+características qualitativas e quantitativas de espécies distribuídas em florestas. Portanto, o Inventário consiste na
+aplicação de técnicas de medição para se obter informações das espécies existentes numa determinada área.
+
+O Inventário Florestal por amostragem é o método mais apropriado de obtenção das estimativas dos parâmetros
+de uma comunidade ou população. Sendo que a comunidade é definida como um conjunto de populações
+interagindo no mesmo ambiente e população é definida como um conjunto de indivíduos da mesma espécie,
+habitantes de uma mesma área que apresentam características semelhantes. A amostra, por sua vez, representa
+um conjunto de elementos extraído de uma comunidade ou população fundamentando-se em métodos estatísticos.
+
+O INEMA poderá autorizar a exploração total ou parcial do volume de produto florestal estimado no Inventário
+Florestal, após a análise processual e inspeção técnica, quando couber.
+
+Para situações não previstas neste Anexo, o INEMA definirá os critérios técnicos para a realização do Inventário
+Florestal, conforme o objetivo do mesmo. Para a realização do Inventário Florestal deve-se considerar:
+
+a) um erro máximo de 10% (dez por cento) para uma probabilidade de 95% (noventa e cinco por cento) quando
+este for realizado em florestas plantadas (nativa ou exótica);
+
+b) um erro máximo de 20% (vinte por cento) para uma probabilidade de 90% (noventa por cento) quando o objetivo
+for a Aprovação do Plano de Manejo Florestal Sustentável;
+
+c) um erro máximo admitido de 10 % (dez por cento) para uma probabilidade de 90 % (noventa por cento) quando
+o objetivo for a Autorização de Supressão de Vegetação Nativa.
+
+1. TIPOS DE INVENTÁRIOS
+
+1.1. Inventário Florestal Temporário/Convencional - utilizado para a obtenção do estoque de volume atual de
+madeira, para requerimento dos seguintes atos administrativos:
+
+a) Autorização de Supressão de Vegetação Nativa;
+
+b) Registro de Exploração ou Corte de Florestas Plantadas;
+
+c) Aprovação de Exploração ou Corte de Floresta Plantada;
+
+d) Reconhecimento da Estimativa Volumétrica de Produção (em casos de florestas em ponto de corte sem
+inventário anterior).
+
+1.2. Inventário Florestal Contínuo - utilizado para verificar o incremento médio anual da floresta, para requerimento
+dos seguintes atos administrativos:
+
+a) Reconhecimento da Estimativa Volumétrica de Produção;
+
+b) Aprovação de Plano de Manejo Florestal Sustentável.
+
+2. DADOS DO INVENTÁRIO
+
+2.1 IDENTIFICAÇÃO
+
+2.1.1 - Propriedade (denominação, endereço).
+
+2.1.2 - Proprietário, representante legal e procurador (nome, identidade, CPF ou CNPJ, endereço, telefone e e-
+mail).
+
+2.1.3 - Responsável técnico pela elaboração/execução (nome, identidade, profissão, CPF ou CNPJ, endereço,
+telefone, e-mail, CREA e ART).
+2.2 AMOSTRAGEM
+
+2.2.1 - Descrição do sistema de amostragem utilizado.
+
+2.2.2 - Definição das unidades amostrais (dimensão, forma, área, coordenadas geográficas, diâmetro mínimo
+adotado e as parcelas temporárias ou permanentes). Demarcar com pelo menos quatro piquetes de madeira
+pintados na extremidade superior com tinta de fácil visualização. Na Caatinga e no Cerrado sugere-se áreas entre
+400 e 600 m².
+
+2.2.3 - Nível de abordagem (avaliação das árvores vivas e mortas e da regeneração dentro dos limites da unidade
+amostral). Em cada nível pode ser feita a divisão da unidade amostral em sub-amostras e respectivo detalhamento.
+Exemplo: nível 1: indivíduos de DAP acima de 4,0 cm, nível 2: indivíduo de DAP abaixo de 4,0 cm. O nível 2 de
+detalhamento pode ser utilizado na avaliação da regeneração da(s) parcela(s) permanente(s).
+
+2.2.4 - Apresentar planilhas de campo das parcelas, contendo o nome científico e comum, diâmetro ou
+circunferência, altura total e/ ou comercial, área basal e volume.
+
+2.2.5 - Descrição do material e equipamentos utilizados.
+
+2.3 ANÁLISE ESTATÍSTICA
+
+2.3.1 - Estimativa da volumetria por unidade amostral em m³ por hectare.
+
+2.3.2 - Variância (m³/ha)².
+
+2.3.3 - Desvio padrão (m³/ha).
+
+2.3.4 - Erro padrão da média (m³/ha).
+
+2.3.5 - Volume médio (m³/ha).
+
+2.3.6 - Coeficiente de variação (%).
+
+2.3.7 - Intensidade da amostra (n).
+
+2.3.8 - Cálculo do erro de amostragem (E%).
+
+2.3.9 - Intervalo de confiança para a média e população.
+
+2.3.10 - Valor de t de Student: t(1-_%; n-1GL).
+
+2.3.11 – Estimativa mínima confiável(m³): t ( 1-2_%; n-1 GL)
+
+2.3.12 - Outros.
+
+2.4 RELAÇÕES VOLUMÉTRICAS UTILIZADAS
+
+2.4.1 - Relações volumétricas para florestas plantadas a) Método de Cubagem Rigorosa utilizado e apresentação
+dos dados. b) Método utilizado para estimar o volume (equação de volume e/ou taper). c) Método utilizado para
+estimar as alturas (equação hipsométrica).
+
+2.4.2 - Relações volumétricas para vegetação nativa a) Método de Cubagem Rigorosa utilizado e apresentação
+dos dados. b) Método utilizado para estimar o volume (equação de volume). Citar literatura.
+
+2.4.3 - Em casos específicos, poderão ser aceitos, com base em critérios técnicos apresentados pelo interessado e
+analisados pelo INEMA, a utilização do fator de forma.
+
+2.5 RESULTADOS DO INVENTÁRIO
+
+2.5.1 - Estimativas para vegetação nativa
+a) Relação das espécies que serão suprimidas com seus respectivos nomes comum e científico, família e grupo de
+uso. Para Plano de Manejo Florestal Sustentável também devem ser relacionadas às espécies remanescentes.
+
+b) Quadro com densidades, dominâncias e freqüências absolutas e relativas, índice de valor de importância das
+espécies em ordem decrescente de densidade relativa (no caso de Plano de Manejo Florestal Sustentável).
+
+c) Relação de produtos originados e respectivos volumes discriminados por espécie.
+
+2.5.2 – Resultados do Inventário para florestas plantadas
+
+a) Quadro com material genético (semente/clone), ano do plantio, espaçamento, área plantada (ha):
+
+          Material genético          Área do plantio        Espaçamento (m x m)        Área plantada (ha)
+
+
+
+b) Quadro contendo unidade amostral, diâmetro médio, altura média e volume(m³/ha):
+
+          Unidade amostral         Diâmetro médio (cm)        Altura média (m)          Volume (m³/ha)
+
+
+
+c) Quadro contendo nº do talhão, área (ha), volume médio (m³/ha) e produção (m³/ha):
+
+                Talhão                  Área (ha)           Volume médio (m³/ha)       Produção (m³/ha)
+
+
+
+2.5.3 - Inventário de floresta plantada para Reconhecimento da Estimativa Volumétrica de Produção
+
+A comprovação do incremento previsto no projeto deve ser realizada no final do 4° ano após o plantio através de
+Inventário Florestal.
+
+O Inventário Florestal para comprovação do incremento previsto no projeto pode ser realizado através da
+introdução de parcelas permanentes (Inventário Florestal Contínuo) a partir dos 12 (doze) meses de idade. As
+parcelas devem ser medidas anualmente até os 48º (quadragésimo oitavo) mês, a fim de avaliar o incremento
+corrente anual e garantir também informações sobre o estoque de madeira além das condições da floresta
+relacionadas ao campo silvicultural e manejo empregado.
+
+O Inventário Contínuo servirá para apurar informações como: espaçamento inicial, número de árvores inicial, área
+basal inicial, volume, altura, DAP, que devem ser informados por classe de diâmetro por unidade de área (hectare).
+As características qualitativas devem ser avaliadas como: falhas no plantio, mortalidade, árvore quebrada,
+bifurcada ou atacada por pragas.
+
+Os dados devem ser coletados e anotados em formulários apropriados onde os mesmos serão compilados e as
+informações pertinentes serão apresentadas em formato de tabelas e gráficos.
+
+2.5.3.1 - Quadro contendo idade (meses), classe de diâmetro (cm), numero de árvores (n/ha), área basal (m²/ha),
+volume por classe de diâmetro (m³/ha), incremento corrente anual – ICA e incremento médio anual – IMA
+(m³/ha/ano) para inventários contínuos.
+
+       Idade         Classe de        Número de          Área basal    Volume            ICA           IMA
+      (meses)      diâmetro (cm)     árvores (n/ha)       (m²/ha)      (m³/ha)       (m³/ha/ano)   (m³/ha/ano)
+

@@ -75,3 +75,9 @@ Os CSV usam `;` como separador e codificação UTF-8 com BOM, então abrem diret
 3. As abas não repetem processos: cada processo concluído recebe a marca `eco_ok:<processo>` no `localStorage`. As fichas ficam no IndexedDB `eco_seia`.
 
 Se o `localStorage` tiver sido limpo, recrie a lista a partir de `coletor/lista_processos_oeste_b36.txt` (Oeste, primeiro) e `coletor/lista_processos_bahia_resto_b36.txt` (restante da Bahia).
+
+## Modelos e normas oficiais do INEMA (`modelos_inema/`)
+
+79 arquivos baixados do site do INEMA em 11/11/2026: formulários de outorga e florestais (ASV), modelos de declaração, formulários do CEFIR/SEIA e normas técnicas e portarias. Estão em `outorga/`, `florestal_asv/`, `licenciamento/`, `cefir_seia/`, `modelos/` e `normas_portarias/`. A lista com título e link de origem fica em `indice.json`, e `_texto/` guarda a versão em texto de cada um, para busca.
+
+O checklist oficial (Portaria INEMA 11.292/2016 + IN 03/2022 Urucuia + IN SEMA/INEMA 01/2021) está em `checklists/checklist_oficial_inema.md`.

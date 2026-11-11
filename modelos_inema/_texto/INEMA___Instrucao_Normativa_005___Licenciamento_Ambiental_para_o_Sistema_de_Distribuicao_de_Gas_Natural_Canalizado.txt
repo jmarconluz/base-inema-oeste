@@ -1,0 +1,681 @@
+                                                                              Salvador, Bahia – Terça-Feira,
+                                                                                      16 de Agosto de 2022
+                                                                                        Ano CVI – Nº 23.480
+
+
+
+
+                    INSTRUÇÃO NORMATIVA Nº 005 DE 15 DE AGOSTO DE 2022
+
+Dispõe sobre o Licenciamento Ambiental para o Sistema de Distribuição de Gás Natural
+Canalizado no Estado da Bahia e dá outras providências.
+
+A DIRETORA GERAL DO INSTITUTO DO MEIO AMBIENTE E RECURSOS HÍDRICOS - INEMA, no
+uso de suas atribuições conferidas pelos incisos I e X do Art. 106 da Lei Estadual nº 12.212/2011 e
+consoante Lei Estadual nº 10.431/2006, com alterações trazidas pela Lei Estadual nº 12.377/2011,
+regulamentada pelo Decreto nº 14.024/2012.
+
+
+Considerando a necessidade de estabelecer critérios e padronizar os procedimentos
+administrativos para o licenciamento ambiental do Sistema de Distribuição de Gás Natural
+Canalizado no Estado da Bahia, resolve:
+
+
+Art. 1º. Estabelecer os critérios, definições e procedimentos aplicáveis ao licenciamento
+ambiental do Sistema de Distribuição de Gás Natural (SDGN) Canalizado no Estado da Bahia, bem
+como definir responsabilidades e fornecer subsídios para a adequação do licenciamento
+ambiental destes empreendimentos, com vistas a otimizar e aprimorar a formação dos processos
+administrativos e a sua análise técnica no âmbito do INEMA.
+
+
+      CAPÍTULO I DAS DEFINIÇÕES
+
+
+Art. 2º. Para fins de aplicação desta Instrução Normativa - IN, são adotadas as seguintes
+definições:
+
+
+I.       Gás Natural (GN): Mistura de hidrocarbonetos combustíveis gasosos leves, com
+predominância de metano, extraído diretamente a partir de reservatórios petrolíferos ou
+gaseíferos;
+II.        Gás Canalizado: O gás natural e os demais gases combustíveis ou biocombustíveis, cuja
+mistura ao gás natural é permitida, nas especificações definidas pela Agência Nacional do
+Petróleo, Gás Natural e Biocombustíveis – ANP, e que venham a ser comercializados por meio do
+Sistema de Distribuição;
+III.        Gasoduto: Duto destinado à movimentação e à conexão de fontes de suprimento, para
+o transporte de gás natural e os demais gases combustíveis oubiocombustíveis;
+IV.         Sistema de Distribuição de Gás Natural (SDGN): Sistema composto por Redes
+Primárias, Redes Secundárias, Ramais de Serviços, Estação de Odorização, Instalações e
+Equipamentos associados (dutos, válvulas, compressores, separadores, reservatórios e outros),
+projetado especialmente para a distribuição contínua e segura do gás natural, desde a Estação de
+Transferência de Custódia até os consumidores finais;
+V.          Ponto de Entrega (PE): Conjunto de equipamentos e acessórios (pertencentes à
+supridora) instalados nas Estações de Transferência de Custódia (ETC) de gás natural da
+supridora para a distribuidora;
+VI.         Estação de Transferência de Custódia (ETC): Conjunto de instalações, equipamentos e
+sistema de medição, destinado a receber o gás natural oriundo de uma Unidade de
+Processamento de Gás Natural (UPGN) ou de um Ponto deEntrega;
+VII.         Rede Primária (RP): Também denominada Linha Tronco, composta de tubulações,
+válvulas e demais componentes que se inicia na Estação de Transferência de Custódia (ETC) e
+geralmente interliga-se com a Rede Secundária;
+VIII.        Rede Secundária (RS): Conjunto de tubulações e válvulas, que derivam daRede Primária
+e termina nas caixas de válvulas para distribuição junto aos consumidores;
+IX.         Ramais: Trecho de tubulação que deriva geralmente da Rede Secundária e termina na
+Estação de Medição e Redução de Pressão (EMRP) instalada pela concessionária nas unidades
+usuárias;
+X.          Estação de Medição e Redução de Pressão (EMRP): Equipamento do sistema de
+distribuição de gás canalizado, com a finalidade de medir e totalizar o volume de gás consumido
+pelo usuário, bem como regular e limitar a pressãode entrega do gás;
+XI.         Estação de Redução de Pressão (ERP): Equipamento do sistema de distribuição de gás
+canalizado, com a finalidade de reduzir e limitar a pressão do gás para a linha imediatamente à
+jusante;
+
+XII.        Unidades de Compressão e Distribuição de Gás Natural Comprimido: Conjunto de
+instalações fixas que comprimem o Gás Natural e o disponibiliza para a distribuição através de
+Veículos Transportadores;
+XIII.        Método Não Destrutivo (MND): Técnica de assentamento subterrâneo da tubulação
+previamente montada, sem abertura de vala, podendo utilizar a perfuração horizontal ou a
+execução de furo direcional;
+XIV.          Furo Direcional (FD): Denomina-se a forma de instalação de dutos, normalmente em
+PEAD ou aço, sem a escavação da superfície;
+XV.       Método Destrutivo (MD): Método tradicional que utiliza a escavação de valas a céu
+aberto para a instalação de redes subterrâneas, por meio de escavação manual ou mecânica.
+XVI.       Faixa de Domínio: Conjunto de áreas declaradas de utilidade pública, necessárias
+para implantação de estradas ou rodovias e seus dispositivos operacionais, bem como instalações
+de infraestruturas a exemplo de dutos, fios,cabos, tubos, construções, postes e ferrovias;
+XVII.      Faixa de Servidão: Faixa de área, com largura determinada, declarada de utilidade
+pública para fins de instituir servidão administrativa e destinadas à construção e passagem de
+dutos, linhas de transmissão, adutoras, entre outros, podendo a concessionária praticar todos os
+atos de construção, manutenção, conservação e inspeção de seus ativos;
+XVIII.       Zona Industrial Consolidada: Trata-se da região definida em Plano Diretor Municipal
+ou documento equivalente como área de uso e ocupação do solo para fins industriais;
+XIX.       Programa de Gerenciamento de Riscos (PGR): Aplicação sistemática de políticas de
+gerenciamento, procedimentos e práticas de análises, avaliação e controle dos riscos para
+empreendimentos que processam, produzem, armazenam, transportam ou, de alguma forma,
+utilizam as substâncias que possam representar potencial de dano à integridade física de
+pessoas, com o objetivo de proteger os funcionários, o público em geral, o meio ambiente e as
+instalações, evitando a interrupção do processo;
+XX.       Plano de Contingência: Conjunto de procedimentos e ações que visam à integração
+dos diversos planos de emergências setoriais, bem como a definição dos recursos, materiais e
+equipamentos complementares para a prevenção, controle e combate à emergência.
+
+XXI.        Plano de Emergência: Conjunto de medidas que determinam e estabelecem as
+responsabilidades setoriais e as ações a serem desencadeadas imediatamente após um acidente,
+bem como definem os recursos humanos, materiais e equipamentos adequados à prevenção,
+controle e combate à emergência.
+XXII.       Unidade Regional: É um conjunto das Estações de Transferência de Custódia (ETC´s),
+das Redes Primárias, Secundárias e os Ramais, conectados entre si, assim definidas para fins de
+licenciamento ambiental, como base de planejamento territorial para distribuição de gás natural
+canalizado, no Estado daBahia.
+
+
+                                          CAPÍTULO II
+                DA APLICABILIDADE E DO ENQUADRAMENTO DAS ATIVIDADES
+
+
+Art. 3º. Estão sujeitos às exigências desta Instrução Normativa os empreendimentos e atividades
+  relacionados ao Sistema de Distribuição de Gás Natural, conforme disposto no Anexo IV do
+  Regulamento da Lei nº 10.431/2006, aprovado pelo Decreto no 14.024/2012 e suas alterações,
+  classificados nos Grupos e Subgrupos, como segue:
+
+
+  I.      Grupo D4: Transporte de Substâncias Através de Dutos
+
+
+a) Subgrupo D4.1 Dutos de Petróleo Cru (Oleodutos), de Petróleo Refinado, Gasolina, Derivados de
+  Petróleo, Gases, Produtos Químicos Diversos e Minérios, cuja unidade de medida equivale a
+  Extensão do Duto, medido em Km.
+
+
+  II.     Grupo E1: Produção, Compressão, Estocagem e Distribuição de Gás Natural e GLP
+
+
+  a)      Subgrupo E1.2: Estação de Compressão e Distribuição de Gás Natural, cuja unidade de
+  medida equivale a Capacidade Instalada em m3/h.
+  b)      Subgrupo E1.3: Estação de Custódia (Ponto de Entrega), cuja unidade de medida
+  equivale a Vazão em m3/dia.
+
+
+                                            CAPÍTULO III
+          DAS ESTAÇÕES DE TRANSFERÊNCIA DE CUSTÓDIA E DAS UNIDADESREGIONAIS
+
+
+  Art. 4º As Estações de Transferência de Custódia (ETC´s), destinadas a entregar o gás natural para a
+  concessionária estadual, compreendem o conjunto de empreendimentos similares e vizinhos,
+  instalados regionalmente, para distribuição do gás canalizado no Estado da Bahia, conforme
+  definidas no AnexoI desta Instrução Normativa.
+
+
+  § 1º Para fins de licenciamento ambiental, as ETC´s descritas no Anexo I destaInstrução Normativa
+  e outras que porventura venham ser instaladas, bem como as Redes Primárias, Secundárias e os
+  Ramais conectados entre si, se configuram como Unidade Regional, base de planejamento para
+  distribuição degás natural canalizado, e serão objeto de licenciamento conjunto.
+
+
+  § 2º A Unidade Regional descrita no parágrafo anterior poderá ser composta de duas ou mais
+  ETC´s, considerando a conexão das Redes de Distribuição associadas as mesmas e o território dos
+  municípios envolvidos.
+
+
+  § 3º As Unidades Regionais, assim denominadas para fins de licenciamento ambiental,
+  encontram-se relacionadas no Anexo II dessa Instrução Normativa, associando os territórios dos
+municípios e as respectivas Estações de Transferência de Custódia (ETC).
+
+
+§ 4º Os Anexos I e II deverão ser revisados periodicamente, sempre que necessário.
+
+                                  CAPÍTULO IV
+DOS CRITÉRIOS PARA O LICENCIAMENTO AMBIENTAL DOS SISTEMASDE DISTRIBUIÇÃO DE GÁS
+                                             NATURAL
+
+
+Art. 5º. Em consonância com o § 1º do art. 146 do Regulamento a Lei nº 10.431/2006, aprovado
+pelo Decreto n° 14.024/2012 e suas alterações, as licenças poderão ser concedidas de forma
+conjunta para segmento produtivo, empreendimentos similares, vizinhos ou integrantes de polos
+industriais, agrícolas, turísticos, entre outros, desde que definida a responsabilidade legal pelo
+conjunto de empreendimentos ou atividades.
+
+
+Art. 6º. O licenciamento ambiental do Sistema de Distribuição de Gás Natural canalizado terá a
+Unidade Regional como base de planejamento territorial, objeto de Licença de Operação (LO)
+única, renovável periodicamente, compreendendo todo o sistema de distribuição a ela associada,
+as Redes Primárias, Secundárias e Ramais de atendimento aos clientes.
+
+
+§ 1º O licenciamento Ambiental da Rede Primária (RP) que compõe a mesma Unidade Regional
+seguirá o rito normal de licenciamento, com a Licença Prévia (LP), Licença de Instalação (LI) e
+respectiva Licença de Operação (LO).
+
+
+§ 2º A Licença Prévia (LP) e a Licença de Instalação (LI), descritas no parágrafo anterior, poderão
+ser concedidas concomitantemente, em ato único, no qual se aprova a viabilidade ambiental,
+localização e concepção e se autoriza a implantação do empreendimento ou atividade, quando:
+
+I.     a área pretendida para a implantação do empreendimento ou atividade já tenha sido
+declarada como apta para tal finalidade, por instrumento de planejamento e gestão territorial
+ambiental, tais como zoneamento ambiental, dentre outros, alternativamente;
+
+II.     apresentar rigidez locacional.
+
+§ 3º A rigidez locacional descrita no inciso II do § 2°, aplica-se, dentre outros casos, quando a área
+prevista para a implantação da rede de distribuição de gás natural esteja inserida em distrito
+industrial, polo industrial, faixa de domínio ou faixa de servidão, existentes.
+
+
+§ 4º As Redes Secundárias (RS) serão objeto de Licença de Alteração (LA), excetuando as
+hipóteses previstas nos incisos I e II do Art. 12, que serão objeto de emissão de Carta de
+Inexigibilidade de licenciamento ambiental.
+
+
+§ 5º A validade da Licença de Alteração (LA) expedida para as Redes Secundárias (RS) deverá
+coincidir com a validade da Licença de Operação (LO) da Unidade Regional, devendo integrar a
+mesma quando da sua renovação.
+
+
+§ 6º As atividades relacionadas à execução do empreendimento, como canteirode obras, áreas de
+bota-fora e afins, deverão ser regularizadas previamente no âmbito municipal, com exceção dos
+canteiros itinerantes os quais deverão ser descritos no processo de licenciamento da
+Distribuidora de gás natural.
+
+
+Art. 7º. As atividades relacionadas à supressão de vegetação, intervenção emÁrea de Preservação
+Permanente (APP) e/ou Outorga de Intervenção em corpo hídrico, se for o caso, serão objeto de
+procedimento autorizativo próprio, que deverão ser requeridos na fase de implantação ou
+alteração do empreendimento, em processo de licenciamento único.
+
+
+Art. 8º. O licenciamento ambiental de atividades relacionadas aos Sistemas de Distribuição de Gás
+Natural Canalizado, para fins de análise técnica, considerará dentre outros parâmetros, a maior
+pressão nominal do projeto, a extensão do gasoduto e a vazão de projeto do empreendimento e
+a relação direta dessas variáveis com o grau de risco do empreendimento.
+
+
+Art. 9º. Para fins de licenciamento ambiental, o enquadramento das Estações de Recebimento e
+Distribuição de Gás Natural, montadas em Skid, em local fixo, que recebe o gás via modal
+Rodoviário, será baseado na capacidade instalada de processamento de gás (m3/h) das Estações.
+
+Parágrafo único. As linhas que partem desse skid serão consideradas Redes Secundárias, desde
+que façam parte integrante da distribuição da empresa de gás canalizado, e interligada a uma
+caixa de válvulas de atendimento a clientes, que seguirá o rito de Redes Secundárias; caso essa
+interligação seja direta com o cliente, será considerada como Ramal e será caso de inexigibilidade
+do requerimento do licenciamento ambiental, nos termos e condições desta Instrução
+Normativa.
+
+
+                                           Seção I
+                  Da Formalização dos Processos de Licenciamento Ambiental
+
+
+Art. 10. O licenciamento ambiental das atividades relacionadas à Distribuição de Gás Natural
+Canalizado, deverão observar os critérios estabelecidos a seguir, salvo nas hipóteses de
+        inexigibilidade de licenciamento ambiental, estabelecidos nessa Instrução Normativa.
+
+
+        § 1º A formalização dos processos para requerimento dos Atos Administrativos pertinentes
+        observará os documentos e estudos constantes da Portaria INEMA n° 11.292/2016 e suas
+        atualizações, podendo o INEMA solicitar estudos e projetos complementares, de acordo com a
+        fase, local e a modalidade que seráutilizada na execução da obra de instalação do gasoduto.
+
+
+        § 2º Os projetos de engenharia e os estudos ambientais que vierem a compor o processo de
+        licenciamento ou autorização ambiental deverão ser acompanhadosde:
+        I.      Cópia em formato digital (*.pdf e shapefile (SHP, SHX e DBF)), dos projetos geométricos,
+        georreferenciados com base na Instrução Normativa N° 01 de 24/08/2021, contendo a indicação
+        de áreas sensíveis, Áreas de Preservação Permanente (APP), e outras, tais como travessias de
+        rios, rodovias, comunidades, linha férrea, e compartilhamento comoutras empresas.
+
+
+        II.     Cópia em formato digital (*.pdf) dos estudos e projetos ambientais.
+
+
+        III.      Anotação de Responsabilidade Técnica (ART) do(s) profissional(ais) responsável(is)
+        pela elaboração dos projetos e dos estudos.
+
+
+                                                  Seção II
+                 Dos Planos e Programas Exigidos nos Processos de LicenciamentoAmbiental
+
+        Art. 11. Deverão ser elaborados e apresentados pelo requerente os seguintes Planos e
+        Programas, acompanhados da devida Anotação de Responsabilidade Técnica (ART), observando
+        as normativas aprovadas pelo INEMA, quando for o caso, e as respectivas fases do
+        empreendimento (localização, implantação e operação).
+
+
+  I.            Programa de Gerenciamento de Risco (PGR);
+  II.           Plano de Emergência Ambiental (PEA);
+ III.           Plano de Contingência (PC);
+ IV.             Plano de Inspeção e Manutenção periódica do Sistema de Proteção Catódica;
+  V.            Programa de Inspeção e Manutenção de Faixa;
+ VI.             Plano de Manutenção de Válvulas e Equipamentos;
+VII.             Componente de Educação Ambiental;
+VIII.             Programa de Comunicação Social (PCS);
+ IX.             Plano de Afugentamento, Resgate e Soltura de Fauna;
+ X.              Plano de Gerenciamento de Resíduos Sólidos (PGRS);
+XI.               Plano de Gerenciamento de Resíduos da Construção Civil (PGRCC);
+XII.              Plano de Recuperação de Área Degradada (PRAD).
+
+
+       §1º O Programa de Gerenciamento de Risco (PGR) deverá seguir o modelo especificado na
+       Norma Técnica NT-01/2017 e seus Anexos, aprovado pela Resolução CEPRAM 4.578/2017, que
+       dispõe sobre o Gerenciamento de Riscos Acidentais para Substâncias Perigosas no Estado da
+       Bahia.
+
+
+       §2º Em caso de situação de Emergência Ambiental, independente do que consta no PGR, a
+       empresa deverá atender o que preconiza os procedimentos adotados na Norma Técnica NT-
+       001/2021, aprovada pela Resolução CEPRAM nº 4.854/2021.
+
+
+       §3º O Componente de Educação Ambiental deverá ser elaborado com base na Resolução
+       CEPRAM n° 4.610/2018 e suas alterações, que estabelece diretrizespara a Educação Ambiental na
+       Regulação Ambiental.
+
+
+
+                                                    Seção III
+             Dos casos de inexigibilidade de Licenciamento Ambiental, por meio de protocolo de
+                                                 requerimento
+
+
+       Art. 12. Poderão ser casos de inexigibilidade de licenciamento ambiental, desde que mediante
+       requerimento de carta de inexigibilidade ao INEMA, as seguintes atividades:
+
+
+       I        - Redes Secundárias com pressão inferior ou igual a 10 kgf/cm², que derivam de uma rede
+       já licenciada e com a Licença de Operação (LO) válida, que forem implantadas em áreas
+       antropizadas, áreas urbanas e/ou em zonas industriais.
+
+
+       II       - Redes Secundárias a serem instaladas em faixas de domínio, faixas de servidão e/ou
+       leitos carroçáveis, desde que estas atividades estejam devidamente licenciadas, e com
+       manifestação favorável dos responsáveis pelasfaixas de servidão e/ou de domínio.
+
+
+       III       - Os Ramais de atendimento a clientes, que partem da caixa de válvulas da Rede
+       Secundária (RS), localizados em área urbana consolidada, área industrial e/ou em área rural,
+       desde que não haja supressão de vegetação.
+§ 1º O requerimento ao INEMA deverá ser feito através de ofício protocolado neste órgão,
+assinado por representante legal da empresa, juntamente com o Memorial Descritivo da
+atividade a ser realizada, projeto básico acompanhado da ART do responsável e justificativas
+fundamentadas para a inexigibilidade do licenciamento.
+
+
+§ 2º Além dos documentos previstos no parágrafo anterior, ficará a critério do INEMA, a
+solicitação da apresentação de informações e documentação complementares para fundamentar
+o seu opinativo técnico quanto à dispensa dolicenciamento.
+
+§ 3º A inexigibilidade do requerimento do Licenciamento Ambiental nos termos desta Instrução
+Normativa, não exime o titular de obter as demais autorizações/anuências cabíveis, tais como
+Autorização de Supressão de Vegetação (ASV), Autorização de Manejo de Fauna (AMF) e Outorga
+de Recursos Hídricos, assim como a obtenção de Alvarás e atendimento a outras exigências
+ambientais.
+
+
+§ 4º O INEMA poderá, caso entenda necessário, realizar vistoria técnica visando à validação das
+Cartas de Inexigibilidade do requerimento do Licenciamento Ambiental.
+
+
+§ 5º A inexigibilidade do licenciamento não permite, em nenhuma hipótese, a prática de
+atividades poluidoras e/ou degradadoras sem os devidos controles ambientais, nem tampouco a
+ocupação de áreas inapropriadas segundo os preceitos legais e as normas técnicas aplicáveis, nem
+isenta o empreendedor daresponsabilidade e penalização legal sobre a prática destas atividades.
+
+
+§ 6º O INEMA poderá cancelar a inexigibilidade de Licenciamento, caso sejam constatadas,
+através de fiscalização ambiental ou denúncias apresentadas por terceiros, evidências de que a
+atividade apresentou impacto ambiental significativo e/ou não atendeu as devidas normas
+técnicas de segurança e meioambiente.
+
+
+§ 7º Caso o empreendimento e/ou atividade sujeita à inexigibilidade de licenciamento seja
+detentora de licença ambiental de qualquer natureza, o titular poderá, à época da sua
+renovação, formalizar e submeter junto ao INEMA a solicitação da inegixibilidade de
+licenciamento, nos termos dessa Instrução Normativa.
+
+
+§ 8º A concessionária responsável pelos serviços de distribuição de gás naturalque tenha redes de
+distribuição contempladas pela Inexigibilidade de licenciamento, nos termos dessa Instrução
+Normativa, deverá apresentar ao INEMA, anualmente, no âmbito do RTGA, o relatório descritivo
+que apresente o crescimento e evolução da rede de distribuição e arquivo digital (*.pdf e
+shapefile) referente à consolidação do estágio atualizado do sistema de distribuição de gás
+natural.
+
+§ 9º O INEMA poderá emitir carta de inexigibilidade de licenciamento ambiental para outras
+atividades, além das listadas nesta Instrução Normativa, mediante justificativa técnica
+apresentada pelo detentor do empreendimento, através de requerimento embasado feito pelo
+interessado, acompanhado de Memorial Descritivo e Projeto Básico.
+
+
+
+                                           Seção IV
+ Dos casos de inexigibilidade de Licenciamento Ambiental, por meio de declaração no Sistema
+                                             SEIA
+
+
+Art. 13. Considera-se inexigível o licenciamento ambiental das atividades referentes à
+manutenção periódica do Sistema de Distribuição de Gás Natural, observando o disposto neste
+instrumento, a exemplo de:
+
+
+I.         Manutenção em Redes Primárias e Secundárias, para troca de trechos, a serem feitas em
+travessias de corpos hídricos, ferrovias, rodovias, dutovias e redes elétricas de baixa e média
+tensão, dentro da faixa de domínio ou servidão, desde que estas atividades sejam realizadas na
+modalidade não destrutiva, através de furo direcional, e com manifestação favorável dos
+responsáveis pelasfaixas de servidão e/ou de domínio;
+
+
+II.         Manutenção nas Redes Primárias e Secundárias para realização de trepanações em
+linhas em operação;
+
+
+III.       Manutenção para troca de válvulas e equipamentos em Ponto de Entrega e Ponto de
+Recebimento, devidamente licenciado;
+
+
+IV.         Manutenção corretiva ou preventiva de equipamentos em Estação de Gás;
+
+
+V.         Instalação e remoção de marcos, placas, capinas e aceiros para limpeza de área e
+correção de processos erosivos.
+
+
+§ 1º A Declaração de Inexigibilidade de Licenciamento Ambiental será emitida por meio do
+Sistema SEIA, sendo o declarante responsável por todas as informações prestadas para a sua
+emissão.
+§ 2º As atividades de manutenção e recuperação de estruturas quepossam potencialmente causar
+danos ambientais às Áreas de Preservação Permanente – APPs deverão ser precedidas da
+competente DIAP – Declaração de Intervenção em Área de Preservação Permanente, a ser
+realizada junto ao INEMA através do sistema eletrônico SEIA.
+
+
+                                         CAPÍTULO V
+                            DOS CRITÉRIOS E CONTROLES AMBIENTAIS
+
+
+Art. 14. As atividades passíveis ou não passíveis da inexigibilidade do licenciamento ambiental
+deverão obrigatoriamente atender aos seguintes critérios e controles ambientais:
+
+
+I.         Requerer a competente Autorização de Supressão de Vegetação (ASV) e Autorização de
+Manejo de Fauna (AMF) junto ao INEMA ou ao órgão ambiental municipal, quando couber, em
+caso de necessidade de supressão de vegetação;
+
+
+II.        Efetuar a competente Declaração de Intervenção em Área de Preservação Permanente –
+DIAP quando necessário;
+
+
+III.       Possuir Certidão de Dispensa de Outorga ou Portaria de Outorga de Recursos Hídricos,
+caso realizem ou pretendam realizar intervenções em recursos hídricos, conforme normatização
+vigente;
+
+
+IV.         Dispor de Plano de Emergências (PE), Plano de Contingências e Plano de
+Gerenciamento de Riscos (PGR) contemplando todas as ações necessárias à prevenção e pronto
+atendimento a acidentes envolvendo o Sistema de Distribuição de Gás Natural (SDGN), tais como
+estações de redução, redes e ramais de serviço, equipamentos e instalações.
+
+
+V.         Assegurar a recuperação, estabilidade geotécnica e o nivelamento topográfico das áreas
+impactadas pelo traçado das redes de distribuição;
+
+
+VI.         Realizar o completo gerenciamento de todos os resíduos sólidos gerados, domésticos
+e/ou industriais, com adequado recolhimento, acondicionamento, armazenamento e destinação,
+mantendo no empreendimento, ou no canteiro de obras, se houver, os comprovantes de
+destinação desses resíduos para fins defiscalização e controle do órgão ambiental;
+
+VII.         Implantar medidas eficazes no caso de uso de produtos perigosos ou geração de
+resíduos perigosos, como óleos, graxas, areia contaminada, tintas, solventes e outros, realizando
+o manuseio em área coberta e com piso impermeabilizado, dotada de estrutura de contenção,
+separação e coleta;
+
+
+VIII.     Adotar o controle ambiental necessário para minimizar a emissão de gasese ruídos por
+equipamentos, máquinas e veículos, bem como a geração de material particulado, garantindo a
+eficiência necessária, sem ocasionartranstorno ao bem-estar e à saúde da população;
+
+
+IX.      Realizar medidas eficazes quanto ao aporte de sedimentos para os cursos d’água
+transpostos e margeados pelo empreendimento utilizando barreiras de siltagem ou outra
+proposta que apresente igual ou maior eficácia, conforme as características locais;
+
+
+X.      Adotar medidas de segurança em relação ao tráfego de veículos, pedestres e ciclistas e
+nos pontos de apoio logístico ao empreendimento;
+
+
+XI.      Realizar comunicação, prévia ao início das obras, para a comunidade na área direta da
+intervenção, apresentando as atividades a serem realizadas, fazendo os devidos esclarecimentos
+e mantendo canal de comunicação aberto, para posteriores questionamentos;
+
+
+XII.      Instalar as estruturas aparentes das redes de gás canalizado priorizando locais de baixo
+adensamento populacional ou de equipamentos sociais, devendo ser fixada placa de identificação
+com nome da concessionária e telefone para comunicação em situações de emergências;
+
+
+XIII.     Requerer das empresas e áreas fornecedoras de insumos (jazidas, usinas de asfalto,
+fábricas de pré-moldados etc.) envolvidas na implantação ou operação da atividade
+comprovação de regularização ambiental, mantendo-se uma cópia das licenças ou declarações de
+inexigibilidade de licenciamento disponíveis na área em que estão sendo executadas as
+atividades;
+
+
+XIV.          Realizar sinalização horizontal e vertical em toda extensão da rede de distribuição,
+conforme melhor prática de segurança disponível;
+
+
+XV.       Desativar os canteiros de obras e demais estruturas de apoio ao final da respectiva
+obra, bem como promover a recuperação das áreas impactadas de acordo com projeto de
+recuperação específico;
+
+
+XVI.          Realizar o tratamento e destinação adequada dos efluentes domésticos conforme as
+Normas ABNT NBR 7.229/93 e 13.969/97 (e suas atualizações), ou promover destinação
+comprovada para sistema de coleta e tratamento público com anuência da concessionária local
+de saneamento;
+
+
+XVII.       Não realizar lançamento in natura de qualquer tipo de efluente em corpo receptor,
+seja recurso hídrico ou solo;
+
+
+XVIII.       Quando for o caso, dispor de tanques aéreos para armazenamento de combustível e
+com capacidade máxima total de até 15.000 (quinze mil) litros, dotados de bacia de contenção e
+demais mecanismos de controle e segurança estabelecidos nas Normas ABNT NBR 15.461/2007 e
+17.505/2015, observandosuas atualizações;
+
+
+XIX.        Dotar o sistema de abastecimento veicular, caso exista, de bacia de contenção, pátio
+com piso impermeabilizado, dotado de canaletas laterais direcionadas a um sistema separador
+de água e óleo devidamente dimensionado;
+
+
+XX.       Obter previamente as anuências dos proprietários dos terrenos em que se inserem as
+obras, mantendo cópias disponíveis para fins de fiscalização;
+
+
+XXI.        Manter cópia da Licença ou Carta de Inexigibilidade de licenciamento disponível no
+escritório/canteiro da obra, em local visível, durante a execução da atividade, para consulta e
+apresentação às equipes de fiscalização.
+
+§ 1º Deverá ser comunicado imediatamente ao INEMA quando da impossibilidade do uso da
+técnica do furo direcional, em trechos já previstos para a passagem do gasoduto com o uso de
+métodos não destrutivos, apresentando relatórios técnicos que comprovem as tentativas
+realizadas de uso desta técnica e as providências a serem tomadas, quanto ao uso alternativo de
+métodos destrutivos, visando à redução e/ou prevenção de impactos ambientais.
+
+
+§ 2º As obras associadas a instalação dos gasodutos deverão ser acompanhadas por profissional
+legalmente habilitado, com formação na área ambiental, observando o disposto nesta Instrução
+Normativa, de modo a garantir a adequada gestão ambiental do empreendimento e o
+cumprimento dos condicionantes estabelecidos no licenciamento ambiental da atividade.
+
+
+                                 CAPÍTULO VI
+ DA REGULARIZAÇÃO AMBIENTAL DAS PROPRIEDADES RURAISEXISTENTES NO TRAÇADO DO
+                                 GASODUTO
+
+Art. 15. Deverá ser apresentado ao INEMA, quando do requerimento da Licença de Instalação (LI),
+a atualização sobre as anuências de todos os proprietários por onde passa a diretriz do gasoduto,
+incluindo as empresas que compartilhamou cruzam a faixa de servidão.
+
+
+§ 1º A concessionária de distribuição de gás canalizado deverá informar ao INEMA o nome
+completo dos proprietários dos imóveis rurais, o CPF (ou CNPJ para o caso de pessoa jurídica) e
+endereço para correspondência daqueles que não estão cadastrados no Cadastro Estadual
+Florestal de Imóveis Rurais (CEFIR).
+
+
+§ 2º A apresentação das informações contidas no parágrafo anterior se faz necessária, para que
+o INEMA notifique os proprietários/posseiros que ainda não realizaram a sua inscrição no CEFIR.
+
+
+§ 3º Deverá ser apresentada ao INEMA a comprovação da demanda judicial destinada aos
+proprietários/posseiros que não aderiram ao acordo quanto ao valor da indenização para a
+instituição   da   faixa   de    servidão   (e/ou       são   propriedades   com   documentação
+incompleta/irregular) para juntada ao respectivo processo de licenciamento ambiental.
+
+
+§ 4º Nos casos de obras declaradas pelo poder público como de Utilidade Pública deverá ser
+apresentado ao INEMA o respectivo instrumento legal para integrar o processo de licenciamento
+ambiental da atividade.
+
+
+                                       CAPÍTULO VII
+                           DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 16. Os processos em tramitação no INEMA cuja formalização do requerimento de licença
+tenha sido protocolada antes da publicação desta Instrução Normativa deverão adequar-se ao
+disposto nesse instrumento, no quefor pertinente.
+
+
+Art. 17. O não cumprimento do disposto nesta Instrução Normativa sujeitará os infratores à
+aplicação das penalidades e sanções previstas em lei.
+
+
+Art. 18. As concessionárias distribuidoras deverão manter atualizados os cadastros de suas redes
+de distribuição, para fins de fiscalização ambiental e, quando necessário, disponibilizá-los às
+demais concessionárias de serviços públicos de modo a orientar as novas construções
+subterrâneas.
+
+
+Art. 19. Os casos omissos nesta Instrução Normativa serão resolvidos em Atos Administrativos
+específicos a serem expedidos pela Diretoria Geral do INEMA.
+Art. 20. Esta Instrução Normativa entrará em vigor na data de sua publicação.
+
+
+                          DANIELLA TEIXEIRA FERNADES DE ARAÚJO
+                                    Diretora Geral em Exercício
+                                                 ANEXO I
+
+
+        Estação de Transferência de Custódia (ETC): Conjunto de instalações, equipamentos e sistema
+        de medição, destinado a receber o gás natural oriundode uma Unidade de Processamento de Gás
+        Natural (UPGN) ou de um Ponto deEntrega, assim denominadas:
+
+
+I.                ETC - Mapele (Simões Filho)
+II.               ETC - Camaçari
+III.              ETC - Mata de São João
+IV.               ETC - Candeias (São Francisco do Conde)
+V.                ETC - Madeira (Candeias)
+VI.               ETC - Catu (Pojuca)
+VII.              ETC - Itabuna
+VIII.             ETC - Eunápolis
+IX.               ETC - Mucuri
+X.                ETC - Itagibá
+                                            ANEXO II
+
+
+Unidade Regional: Refere-se ao conjunto das Estações de Transferência de Custódia (ETC´s),
+Redes Primárias, Secundárias e os Ramais, conectados entre si, com base de planejamento
+territorial para distribuição de gás natural canalizado, assim denominadas para fins de
+licenciamento ambiental:
+
+
+Unidade Regional I – Compreende as redes de distribuição e suas instalações complementares,
+localizadas nos municípios de Salvador, Simões Filho e Lauro de Freitas, e que recebem ou
+venham a receber o gás natural proveniente da Estação de Transferência de Custódia (ETC)
+Mapele.
+
+
+Unidade Regional II – Compreende as redes de distribuição e suas instalações complementares,
+localizadas nos municípios de Camaçari, Dias D’Ávila e Mata de São João, e que recebem ou
+venham a receber ogás natural proveniente da ETC Camaçari e da ETC Mata de São João.
+
+
+Unidade Regional III – Compreende as redes de distribuição e suas instalações complementares,
+localizadas nos municípios de Candeias, São Francisco do Conde, São Sebastião do Passé, Santo
+Amaro, Amélia Rodrigues e Feira de Santana, e que recebem ou venham a receber o gás natural
+proveniente da ETC Candeias, ETC Madeira e da Unidade de Descompressão em Humildes.
+
+
+Unidade Regional IV – Compreende as redes de distribuição e suas instalações complementares,
+localizadas nos municípios de Pojuca, Catu e Alagoinhas, e que recebem ou venham a receber o
+gás natural proveniente da ETC Catu.
+
+
+Unidade Regional V – Compreende as redes de distribuição e suas instalações complementares,
+localizadas nos municípios de Itabuna e Ilhéus, e que recebem ou venham a receber o gás
+natural proveniente daETC Itabuna.
+
+
+Unidade Regional VI – Compreende as redes de distribuição e suas instalações complementares,
+localizadas nos municípios de Eunápolis e Porto Seguro, e que recebem ou venham a receber o
+gás natural proveniente da ETC Eunápolis.
+
+
+Unidade Regional VII – Compreende as redes de distribuição e suas instalações complementares,
+localizadas no município de Mucuri, e que recebem ou venham a receber o gás natural
+proveniente da ETC Mucuri.
+
+
+Unidade Regional VIII – Compreende as redes de distribuição e suas instalações
+complementares, localizadas nos municípios de Itagibá, Aiquara, Itagi, Jequié, Lafaiete Coutinho,
+Maracás, Iramaia, Barra da Estiva, Contendas do Sincorá, Tanhaçu, Aracatu e Brumado, e que
+recebem ou venham a receber o gás natural proveniente da Estação de Transferência de
+Custódia – ETC Itagibá.
+
