@@ -18,10 +18,10 @@ coletor/coletor_doe.js        coletor que roda no navegador, na página do DOOL 
 scripts/processar.py          gera as tabelas e o GeoJSON a partir dos arquivos brutos
 dados/brutos/                 doe_inema_AAAA.json – saída do coletor, um arquivo por ano
 dados/bahia/portarias_bahia.csv / .json   todos os atos da Bahia, com texto integral
-dados/bahia/pontos_outorga_asv_bahia.geojson   coordenadas publicadas na Bahia (QGIS)
+dados/bahia/pontos_outorga_bahia.geojson / pontos_asv_bahia.geojson   coordenadas publicadas na Bahia (QGIS), separadas por outorga e ASV
 dados/oeste/portarias_oeste.csv          atos do Oeste com o texto integral da portaria
 dados/oeste/portarias_oeste.json         idem, em JSON
-dados/oeste/pontos_outorga_asv_oeste.geojson   coordenadas publicadas (poços, captações), para o QGIS
+dados/oeste/pontos_outorga_oeste.geojson / pontos_asv_oeste.geojson   idem, só Oeste
 dados/resumo.md               números da base por ano e por município
 ```
 
