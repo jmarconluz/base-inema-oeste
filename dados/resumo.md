@@ -20,12 +20,14 @@ Total de atos (Bahia): **11293** · Oeste Baiano: **2965** · pontos georreferen
 
 | Tipo | Atos |
 |---|---|
-| Poço (captação subterrânea) | 3879 |
-| Captação superficial | 2501 |
-| Não identificado | 1006 |
+| Poço (captação subterrânea) | 3873 |
+| Captação superficial | 2830 |
+| Transferência de titularidade (sem dado técnico) | 472 |
+| Não identificado | 137 |
 | Barramento | 124 |
+| Poço + captação superficial | 41 |
+| Alteração de outorga (sem dado técnico) | 39 |
 | Lançamento de efluentes | 12 |
-| Poço + captação superficial | 6 |
 
 Pontos georreferenciados na Bahia: **7444**
 
