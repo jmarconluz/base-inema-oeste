@@ -1,18 +1,52 @@
-// Trabalhador paralelo do SEIA (várias abas da consulta pública ao mesmo tempo, sem repetir processos).
-// Pré-requisitos no localStorage da origem sistema.seia.ba.gov.br:
-//   eco_lista  -> JSON [{processo, regiao}] (lista completa)
-//   eco_ok:<processo> -> '1' quando o processo já foi indexado por qualquer aba
-// Cada aba grava suas fichas no IndexedDB 'eco_seia' com a chave própria (ex.: 'fichas_w2').
-// Uso: SEIAW.iniciar({ chave: 'fichas_w2', ordem: 'desc' })   // ou { ordem: 'asc', inicio: 5000 }
+// Trabalhador paralelo do SEIA (consulta pública, HTTPS, logado). Várias abas, sem repetir processos.
+// localStorage (origem sistema.seia.ba.gov.br):
+//   eco_lista          -> JSON [{processo, regiao}]
+//   eco_ok:<processo>  -> '1' quando indexado;   eco_dl:<processo> -> '1' quando a cópia (zip) foi baixada
+// IndexedDB 'eco_seia': fichas por aba (chave própria, ex.: 'fichas_w2').
+// Com {baixar:true}, baixa cada processo como SEIA_<processo>.zip (pasta interna com os PDFs + processo.json).
+// Uso: eval(localStorage.getItem('eco_code')); SEIAW.iniciar({ chave:'fichas_w2', ordem:'desc', baixar:true })
 window.SEIAW = (function () {
   const sleep = ms => new Promise(r => setTimeout(r, ms));
   const $ = id => document.getElementById(id);
   const tx = el => (el ? el.textContent : '').replace(/\s+/g, ' ').trim();
+  const san = s => s.replace(/[\\/:*?"<>|]+/g, '_').replace(/\s+/g, ' ').trim().slice(0, 120);
   const livre = () => !(window.jQuery && jQuery.active > 0);
-  const state = { rodando: false, feitos: 0, docs: 0, naoEncontrados: 0, erros: [], atual: null };
-  const fichas = new Map(); let chave = 'fichas_w';
-  const ok = p => { try { return localStorage.getItem('eco_ok:' + p) === '1'; } catch (e) { return false; } };
-  const marcar = p => { try { localStorage.setItem('eco_ok:' + p, '1'); } catch (e) { } };
+  const state = { rodando: false, feitos: 0, docs: 0, zips: 0, bytes: 0, naoEncontrados: 0, erros: [], atual: null };
+  const fichas = new Map(); let chave = 'fichas_w', baixarZip = false;
+  const tem = (pre, p) => { try { return localStorage.getItem(pre + p) === '1'; } catch (e) { return false; } };
+  const marcar = (pre, p) => { try { localStorage.setItem(pre + p, '1'); } catch (e) { } };
+
+  // ---- ZIP (método "store", nomes UTF-8) ----
+  const CRC = (() => { const t = new Uint32Array(256); for (let n = 0; n < 256; n++) { let c = n; for (let k = 0; k < 8; k++) c = c & 1 ? 0xEDB88320 ^ (c >>> 1) : c >>> 1; t[n] = c >>> 0; } return t; })();
+  function crc32(u8) { let c = 0xFFFFFFFF; for (let i = 0; i < u8.length; i++) c = CRC[(c ^ u8[i]) & 0xFF] ^ (c >>> 8); return (c ^ 0xFFFFFFFF) >>> 0; }
+  function zip(entradas) {
+    const enc = new TextEncoder(); const partes = []; const central = []; let off = 0;
+    const d = new Date(); const dt = ((d.getFullYear() - 1980) << 9) | ((d.getMonth() + 1) << 5) | d.getDate(); const tm = (d.getHours() << 11) | (d.getMinutes() << 5) | (d.getSeconds() >> 1);
+    for (const e of entradas) {
+      const nome = enc.encode(e.nome); const dados = e.dados; const crc = crc32(dados);
+      const lh = new DataView(new ArrayBuffer(30));
+      lh.setUint32(0, 0x04034b50, true); lh.setUint16(4, 20, true); lh.setUint16(6, 0x0800, true); lh.setUint16(8, 0, true);
+      lh.setUint16(10, tm, true); lh.setUint16(12, dt, true); lh.setUint32(14, crc, true); lh.setUint32(18, dados.length, true); lh.setUint32(22, dados.length, true);
+      lh.setUint16(26, nome.length, true); lh.setUint16(28, 0, true);
+      partes.push(lh.buffer, nome, dados);
+      const ch = new DataView(new ArrayBuffer(46));
+      ch.setUint32(0, 0x02014b50, true); ch.setUint16(4, 20, true); ch.setUint16(6, 20, true); ch.setUint16(8, 0x0800, true); ch.setUint16(10, 0, true);
+      ch.setUint16(12, tm, true); ch.setUint16(14, dt, true); ch.setUint32(16, crc, true); ch.setUint32(20, dados.length, true); ch.setUint32(24, dados.length, true);
+      ch.setUint16(28, nome.length, true); ch.setUint32(42, off, true);
+      central.push(ch.buffer, nome);
+      off += 30 + nome.length + dados.length;
+    }
+    const tamCentral = central.reduce((s, b) => s + (b.byteLength || b.length), 0);
+    const fim = new DataView(new ArrayBuffer(22));
+    fim.setUint32(0, 0x06054b50, true); fim.setUint16(8, entradas.length, true); fim.setUint16(10, entradas.length, true);
+    fim.setUint32(12, tamCentral, true); fim.setUint32(16, off, true);
+    return new Blob([...partes, ...central, fim.buffer], { type: 'application/zip' });
+  }
+  function salvarArquivo(blob, nome) {
+    const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = nome; document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(() => URL.revokeObjectURL(a.href), 120000);
+  }
+
   async function esperar(cond, ms = 60000, passo = 200) { const t0 = Date.now(); while (Date.now() - t0 < ms) { try { const v = cond(); if (v) return v; } catch (e) { } await sleep(passo); } throw new Error('tempo esgotado'); }
   async function idb(op, k, v) {
     const db = await new Promise((res, rej) => { const r = indexedDB.open('eco_seia', 1); r.onupgradeneeded = () => r.result.createObjectStore('kv'); r.onsuccess = () => res(r.result); r.onerror = () => rej(r.error); });
@@ -45,28 +79,54 @@ window.SEIAW = (function () {
     const atos = []; if (p) for (const tb of p.querySelectorAll('table')) { const ths = [...tb.querySelectorAll('thead th')].map(tx); if (ths[0] === 'Nome do ato ambiental') for (const tr of tb.querySelectorAll('tbody tr')) { const td = [...tr.querySelectorAll('td')].map(tx); if (td[0]) atos.push({ ato: td[0], tipologia: td[1], status: td[2] }); } }
     return { atos, dados_texto: p ? p.innerText.replace(/[ \t]+/g, ' ').slice(0, 2500) : null };
   }
-  function docs(painel, origem) { const out = []; if (!painel) return out; for (const inp of painel.querySelectorAll('input[type=image][title="Download"]')) { const td = [...inp.closest('tr').querySelectorAll('td')].map(tx); out.push({ origem, descricao: td[0] || '', arquivo: td[1] || '', tamanho: td[2] || '', gravado_em: td[3] || '', usuario: td[4] || '' }); } return out; }
+  function docs(painel, origem) { const out = []; if (!painel) return out; for (const inp of painel.querySelectorAll('input[type=image][title="Download"]')) { const td = [...inp.closest('tr').querySelectorAll('td')].map(tx); out.push({ origem, descricao: td[0] || '', arquivo: td[1] || '', tamanho: td[2] || '', gravado_em: td[3] || '', usuario: td[4] || '', campo: inp.name }); } return out; }
+  async function baixarDoc(d) {
+    const form = $('formDetalharProcesso'); const fd = new URLSearchParams(new FormData(form)); fd.set(d.campo + '.x', '5'); fd.set(d.campo + '.y', '5');
+    let r; for (let k = 0; k < 3; k++) { try { r = await fetch(form.action, { method: 'POST', body: fd, headers: { 'Content-Type': 'application/x-www-form-urlencoded' } }); if (r.ok) break; } catch (e) { } await sleep(3000 * (k + 1)); }
+    if (!r || !r.ok) throw new Error('download falhou: ' + d.arquivo);
+    if (/text\/html/i.test(r.headers.get('content-type') || '')) throw new Error('SESSAO? resposta HTML em ' + d.arquivo);
+    return new Uint8Array(await r.arrayBuffer());
+  }
   async function processar(item) {
     const proc = item.processo; state.atual = proc;
-    if (!(await abrir(proc))) { fichas.set(proc, { processo: proc, regiao: item.regiao, encontrado: false }); state.naoEncontrados++; marcar(proc); return; }
+    if (!(await abrir(proc))) { fichas.set(proc, { processo: proc, regiao: item.regiao, encontrado: false }); state.naoEncontrados++; marcar('eco_ok:', proc); marcar('eco_dl:', proc); return; }
     const dg = dados(await aba('Atos e Dados Gerais'));
     const ds = docs(await aba('Docs de Formação'), 'formacao').concat(docs(await aba('Docs Apensados'), 'apensado'));
     state.docs += ds.length;
-    fichas.set(proc, { processo: proc, regiao: item.regiao || 'OESTE', encontrado: true, ...dg, documentos: ds, baixado: false, coletado_em: new Date().toISOString() });
-    marcar(proc);
+    let baixado = false;
+    if (baixarZip) {
+      const pasta = san(proc.replace(/\//g, '_')); const entradas = []; let n = 1;
+      for (const d of ds) {
+        try { const u8 = await baixarDoc(d); d.bytes = u8.length; d.nome_local = String(n).padStart(2, '0') + ' - ' + san(d.arquivo || 'documento.pdf'); entradas.push({ nome: pasta + '/' + d.nome_local, dados: u8 }); state.bytes += u8.length; }
+        catch (e) { d.erro = e.message; state.erros.push(proc + ': ' + e.message); if (/SESSAO/.test(e.message)) throw e; }
+        n++;
+      }
+      const ficha = { processo: proc, regiao: item.regiao, ...dg, documentos: ds.map(({ campo, ...x }) => x), baixado_em: new Date().toISOString() };
+      entradas.push({ nome: pasta + '/processo.json', dados: new TextEncoder().encode(JSON.stringify(ficha, null, 1)) });
+      salvarArquivo(zip(entradas), 'SEIA_' + pasta + '.zip'); state.zips++; baixado = true; marcar('eco_dl:', proc);
+      await sleep(800);
+    }
+    fichas.set(proc, { processo: proc, regiao: item.regiao || 'OESTE', encontrado: true, ...dg, documentos: ds.map(({ campo, ...x }) => x), baixado, coletado_em: new Date().toISOString() });
+    marcar('eco_ok:', proc);
   }
   async function iniciar(op = {}) {
     if (state.rodando) return 'já rodando';
-    chave = op.chave || chave; const ordem = op.ordem || 'asc';
-    const v = await idb('get', chave).catch(() => null); if (v) for (const f of JSON.parse(v)) fichas.set(f.processo, f);
+    chave = op.chave || chave; baixarZip = !!op.baixar; const ordem = op.ordem || 'asc';
+    const v = await idb('get', chave).catch(() => null); if (v) for (const f of JSON.parse(v)) if (!f.outraAba) fichas.set(f.processo, f);
     const lista = JSON.parse(localStorage.getItem('eco_lista') || '[]');
     let idx = ordem === 'desc' ? lista.length - 1 : (op.inicio || 0);
     state.rodando = true; state.inicio = new Date().toISOString(); state.total = lista.length;
     while (state.rodando && idx >= 0 && idx < lista.length) {
-      const item = lista[idx]; idx += ordem === 'desc' ? -1 : 1;
-      if (ok(item.processo) || fichas.has(item.processo)) continue;
-      try { await processar(item); } catch (e) { state.erros.push(item.processo + ': ' + e.message); if (/SESSAO/.test(e.message)) { state.parouPor = e.message; break; } await sleep(3000); }
-      state.feitos++; if (state.feitos % 10 === 0) await salvar().catch(() => { });
+      const item = lista[idx]; idx += ordem === 'desc' ? -1 : 1; state.idx = idx;
+      const feito = baixarZip ? tem('eco_dl:', item.processo) : (tem('eco_ok:', item.processo) || fichas.has(item.processo));
+      if (feito) continue;
+      // reserva o processo para esta aba (evita que duas abas baixem o mesmo); reservas com mais de 20 min expiram
+      const rs = Number(localStorage.getItem('eco_rs:' + item.processo) || 0);
+      if (rs && Date.now() - rs < 20 * 60000) continue;
+      try { localStorage.setItem('eco_rs:' + item.processo, String(Date.now())); } catch (e) { }
+      try { await processar(item); } catch (e) { state.erros.push(item.processo + ': ' + e.message); try { localStorage.removeItem('eco_rs:' + item.processo); } catch (_) { } if (/SESSAO/.test(e.message)) { state.parouPor = e.message; break; } await sleep(3000); }
+      try { localStorage.removeItem('eco_rs:' + item.processo); } catch (_) { }
+      state.feitos++; if (state.feitos % 5 === 0) await salvar().catch(() => { });
     }
     await salvar().catch(() => { }); state.rodando = false; state.fim = new Date().toISOString(); return state;
   }
