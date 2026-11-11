@@ -1,0 +1,125 @@
+"""Gera as tabelas da base a partir dos arquivos brutos do coletor.
+
+Entrada : dados/brutos/doe_inema_AAAA.json  (um por ano, saída do coletor/coletor_doe.js)
+Saídas  : dados/bahia/portarias_bahia.csv        – todos os atos de ASV e outorga da Bahia (sem texto integral)
+          dados/oeste/portarias_oeste.csv        – só o Oeste Baiano (com texto integral)
+          dados/oeste/portarias_oeste.json       – idem, em JSON
+          dados/oeste/pontos_outorga_asv_oeste.geojson – coordenadas (poços, captações, áreas) para abrir no QGIS
+          dados/resumo.md                         – números gerais da base
+
+Uso: python scripts/processar.py
+"""
+import csv
+import glob
+import json
+import os
+import re
+from collections import Counter, defaultdict
+
+RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BRUTOS = os.path.join(RAIZ, "dados", "brutos")
+
+CAMPOS = ["chave", "tipo", "categoria", "acao", "portaria_num", "data_portaria", "data_publicacao", "ano", "processo",
+          "requerente", "tipo_pessoa", "municipio", "municipios_citados", "oeste", "finalidade", "area_ha",
+          "volume_lenhoso_m3", "validade", "modalidade", "bacia", "vazao_m3_dia", "horas_dia", "fazenda",
+          "coordenadas", "n_pontos", "link_doe", "edicao_id", "materia_id"]
+
+DMS = re.compile(
+    r"Lat\.?\s*(-?\d{1,2})\s*[°º]\s*(\d{1,2})\s*['’′]\s*([\d.,]+)?\s*[\"”″]?\s*([SN])?"
+    r".{0,15}?Long\.?\s*(-?\d{1,3})\s*[°º]\s*(\d{1,2})\s*['’′]\s*([\d.,]+)?\s*[\"”″]?\s*([WO])?",
+    re.I,
+)
+
+
+def dms_para_graus(g, m, s, hemi, negativo_padrao=True):
+    v = abs(float(g)) + float(m) / 60 + (float(s.replace(",", ".")) if s else 0) / 3600
+    if hemi:
+        return -v if hemi.upper() in ("S", "W", "O") else v
+    return -v if negativo_padrao else v  # Bahia: latitude Sul e longitude Oeste
+
+
+def pontos(coord_txt):
+    out = []
+    for m in DMS.finditer(coord_txt or ""):
+        try:
+            lat = dms_para_graus(m.group(1), m.group(2), m.group(3), m.group(4))
+            lon = dms_para_graus(m.group(5), m.group(6), m.group(7), m.group(8))
+        except (ValueError, TypeError):
+            continue
+        if -19 < lat < -8 and -47 < lon < -37:  # dentro da Bahia
+            out.append((round(lon, 6), round(lat, 6)))
+    return out
+
+
+def carregar():
+    regs = {}
+    for f in sorted(glob.glob(os.path.join(BRUTOS, "doe_inema_*.json"))):
+        with open(f, encoding="utf-8") as fh:
+            for r in json.load(fh):
+                regs[r["chave"]] = r
+    return list(regs.values())
+
+
+MUN_CANON = {"Luis Eduardo Magalhães": "Luís Eduardo Magalhães", "Muquém de São Francisco": "Muquém do São Francisco"}
+
+
+def preparar(r):
+    r = dict(r)
+    if r.get("municipio") in MUN_CANON:
+        r["municipio"] = MUN_CANON[r["municipio"]]
+    cat, _, acao = (r.get("tipo") or "").partition(" - ")
+    r["categoria"], r["acao"] = cat, acao
+    r["ano"] = (r.get("data_publicacao") or "")[:4]
+    r["n_pontos"] = len(pontos(r.get("coordenadas")))
+    return r
+
+
+def salvar_csv(caminho, regs, campos):
+    os.makedirs(os.path.dirname(caminho), exist_ok=True)
+    with open(caminho, "w", encoding="utf-8-sig", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=campos, extrasaction="ignore", delimiter=";")
+        w.writeheader()
+        for r in regs:
+            w.writerow({k: ("" if r.get(k) is None else r.get(k)) for k in campos})
+
+
+def main():
+    regs = sorted((preparar(r) for r in carregar()), key=lambda r: (r["data_publicacao"] or "", r["portaria_num"] or ""))
+    oeste = [r for r in regs if r.get("oeste")]
+
+    salvar_csv(os.path.join(RAIZ, "dados", "bahia", "portarias_bahia.csv"), regs, CAMPOS)
+    salvar_csv(os.path.join(RAIZ, "dados", "oeste", "portarias_oeste.csv"), oeste, CAMPOS + ["texto"])
+    with open(os.path.join(RAIZ, "dados", "oeste", "portarias_oeste.json"), "w", encoding="utf-8") as fh:
+        json.dump(oeste, fh, ensure_ascii=False, indent=1)
+
+    feats = []
+    for r in oeste:
+        for i, (lon, lat) in enumerate(pontos(r.get("coordenadas"))):
+            props = {k: r.get(k) for k in CAMPOS if k not in ("coordenadas",)}
+            props["ponto"] = i + 1
+            feats.append({"type": "Feature", "geometry": {"type": "Point", "coordinates": [lon, lat]}, "properties": props})
+    with open(os.path.join(RAIZ, "dados", "oeste", "pontos_outorga_asv_oeste.geojson"), "w", encoding="utf-8") as fh:
+        json.dump({"type": "FeatureCollection", "name": "pontos_outorga_asv_oeste",
+                   "crs": {"type": "name", "properties": {"name": "urn:ogc:def:crs:EPSG::4674"}}, "features": feats},
+                  fh, ensure_ascii=False)
+
+    # resumo
+    por_ano = defaultdict(Counter)
+    for r in regs:
+        por_ano[r["ano"]][("Oeste " if r.get("oeste") else "Demais ") + r["categoria"]] += 1
+    mun = Counter(r["municipio"] for r in oeste if r.get("municipio"))
+    cats = ["Oeste ASV", "Oeste OUTORGA", "Demais ASV", "Demais OUTORGA"]
+    linhas = ["# Resumo da base", "", f"Total de atos (Bahia): **{len(regs)}** · Oeste Baiano: **{len(oeste)}** · "
+              f"pontos georreferenciados no Oeste: **{len(feats)}**", "",
+              "| Ano | " + " | ".join(cats) + " |", "|---|" + "---|" * len(cats)]
+    for a in sorted(por_ano):
+        linhas.append(f"| {a} | " + " | ".join(str(por_ano[a][c]) for c in cats) + " |")
+    linhas += ["", "## Municípios do Oeste com mais atos", "", "| Município | Atos |", "|---|---|"]
+    linhas += [f"| {m} | {n} |" for m, n in mun.most_common(20)]
+    with open(os.path.join(RAIZ, "dados", "resumo.md"), "w", encoding="utf-8") as fh:
+        fh.write("\n".join(linhas) + "\n")
+    print(f"Bahia: {len(regs)} | Oeste: {len(oeste)} | pontos: {len(feats)}")
+
+
+if __name__ == "__main__":
+    main()
