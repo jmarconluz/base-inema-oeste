@@ -1,6 +1,6 @@
 # Resumo da base
 
-Total de atos (Bahia): **11293** · Oeste Baiano: **2965** · pontos georreferenciados no Oeste: **2048**
+Total de atos (Bahia): **11293** · Oeste Baiano: **2965** · pontos georreferenciados no Oeste: **2050**
 
 | Ano | Oeste ASV | Oeste OUTORGA | Demais ASV | Demais OUTORGA |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ Total de atos (Bahia): **11293** · Oeste Baiano: **2965** · pontos georreferen
 | Alteração de outorga (sem dado técnico) | 39 |
 | Lançamento de efluentes | 12 |
 
-Pontos georreferenciados na Bahia: **7444**
+Pontos georreferenciados na Bahia: **7473** · Oeste: outorga **1995**, ASV **55**
 
 ## Municípios do Oeste com mais atos
 

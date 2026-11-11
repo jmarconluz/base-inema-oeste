@@ -140,17 +140,13 @@ def main():
             json.dump({"type": "FeatureCollection", "name": os.path.basename(nome)[:-8],
                        "crs": {"type": "name", "properties": {"name": "urn:ogc:def:crs:EPSG::4674"}}, "features": fs}, fh, ensure_ascii=False)
         return fs
-    feats_ba = geo(regs, os.path.join(RAIZ, "dados", "bahia", "pontos_outorga_asv_bahia.geojson"))
-    feats = []
-    for r in oeste:
-        for i, (lon, lat) in enumerate(pontos(r.get("coordenadas"))):
-            props = {k: r.get(k) for k in CAMPOS if k not in ("coordenadas",)}
-            props["ponto"] = i + 1
-            feats.append({"type": "Feature", "geometry": {"type": "Point", "coordinates": [lon, lat]}, "properties": props})
-    with open(os.path.join(RAIZ, "dados", "oeste", "pontos_outorga_asv_oeste.geojson"), "w", encoding="utf-8") as fh:
-        json.dump({"type": "FeatureCollection", "name": "pontos_outorga_asv_oeste",
-                   "crs": {"type": "name", "properties": {"name": "urn:ogc:def:crs:EPSG::4674"}}, "features": feats},
-                  fh, ensure_ascii=False)
+    eh_asv = lambda r: "ASV" in (r.get("categoria") or "")
+    eh_out = lambda r: "OUTORGA" in (r.get("categoria") or "")
+    feats_ba = geo([r for r in regs if eh_out(r)], os.path.join(RAIZ, "dados", "bahia", "pontos_outorga_bahia.geojson"))
+    feats_ba += geo([r for r in regs if eh_asv(r)], os.path.join(RAIZ, "dados", "bahia", "pontos_asv_bahia.geojson"))
+    feats_oe_out = geo([r for r in oeste if eh_out(r)], os.path.join(RAIZ, "dados", "oeste", "pontos_outorga_oeste.geojson"))
+    feats_oe_asv = geo([r for r in oeste if eh_asv(r)], os.path.join(RAIZ, "dados", "oeste", "pontos_asv_oeste.geojson"))
+    feats = feats_oe_out + feats_oe_asv
 
     # resumo
     tipos_out = Counter(r["tipo_outorga"] for r in regs if r["tipo_outorga"])
@@ -166,7 +162,7 @@ def main():
         linhas.append(f"| {a} | " + " | ".join(str(por_ano[a][c]) for c in cats) + " |")
     linhas += ["", "## Outorgas por tipo (Bahia)", "", "| Tipo | Atos |", "|---|---|"]
     linhas += [f"| {k} | {v} |" for k, v in tipos_out.most_common()]
-    linhas += ["", f"Pontos georreferenciados na Bahia: **{len(feats_ba)}**"]
+    linhas += ["", f"Pontos georreferenciados na Bahia: **{len(feats_ba)}** · Oeste: outorga **{len(feats_oe_out)}**, ASV **{len(feats_oe_asv)}**"]
     linhas += ["", "## Municípios do Oeste com mais atos", "", "| Município | Atos |", "|---|---|"]
     linhas += [f"| {m} | {n} |" for m, n in mun.most_common(20)]
     with open(os.path.join(RAIZ, "dados", "resumo.md"), "w", encoding="utf-8") as fh:
