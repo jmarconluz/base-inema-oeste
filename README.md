@@ -86,7 +86,7 @@ O checklist oficial (Portaria INEMA 11.292/2016 + IN 03/2022 Urucuia + IN SEMA/I
 
 O app só deixa o navegador baixar vários arquivos seguidos logo depois que a aba é recarregada. Por isso:
 
-1. **Abas de coleta** (4 abas na consulta pública do SEIA) rodam `coletor/seia_worker.js` com `baixar:true`. Cada processo vira um zip (PDFs + `processo.json`) que fica numa fila do navegador (IndexedDB `eco_fila`). A coleta pausa sozinha se a fila passar de 8 GB.
+1. **Abas de coleta** (8 abas na consulta pública do SEIA) rodam `coletor/seia_worker.js` com `baixar:true` (hoje são 8 abas: fichas_d1 a fichas_d8, com início em 0, 668, 1335, 2003, 2670, 4630, 6589 e 8550). Cada processo vira um zip (PDFs + `processo.json`) que fica numa fila do navegador (IndexedDB `eco_fila`). A coleta pausa sozinha se a fila passar de 8 GB.
    - `eval(localStorage.getItem('eco_code')); SEIAW.iniciar({chave:'fichas_d1', ordem:'asc', inicio:0, baixar:true})`; as outras abas usam `fichas_d2`, `fichas_d3` e `fichas_d4`, com `inicio` em 1335, 2670 e 6589.
 2. **Aba bomba**: o Claude recarrega a aba e roda `eval(localStorage.getItem('eco_bomba')); await BOMBA.disparar()` (`coletor/bomba_seia.js`). A fila desce como `SEIA_lote_*.zip` no C:, sem pedir confirmação.
 3. **Drenagem** (`coletor/drenar.py`): copia os lotes para a nuvem e separa um zip por processo. Grava em `E:\Downloads\processos\<processo>\<processo>.zip`. Zips acima de 23 MB vão em volumes `.zip.001`, `.002`… (o 7-Zip abre pelo `.001`). Depois `BOMBA.confirmar(...)` tira os itens da fila, e o lote no C: é trocado por um marcador de poucos bytes.
