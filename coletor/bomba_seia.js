@@ -40,9 +40,13 @@ window.BOMBA = (function () {
   async function disparar(maxLotes = 3, maxTam = 2.4e8) {
     const ag = Date.now();
     const its = (await todos()).filter(x => { const d = Number(localStorage.getItem('eco_disp:' + x.nome) || 0); return !d || ag - d > 20 * 60000; }).sort((a, b) => a.ts - b.ts);
-    const grupos = []; let g = [], t = 0;
-    for (const x of its) { if (g.length && t + x.tam > maxTam) { grupos.push(g); g = []; t = 0; if (grupos.length >= maxLotes) break; } g.push(x); t += x.tam; }
-    if (g.length && grupos.length < maxLotes) grupos.push(g);
+    // empacota em ordem de chegada, encaixando itens menores onde ainda couber (menos lotes = menos downloads)
+    const grupos = [], tams = [];
+    for (const x of its) {
+      let k = tams.findIndex(t => t + x.tam <= maxTam);
+      if (k < 0) { if (grupos.length >= maxLotes) continue; grupos.push([]); tams.push(0); k = grupos.length - 1; }
+      grupos[k].push(x); tams[k] += x.tam;
+    }
     const blobs = [];
     for (let k = 0; k < grupos.length; k++) {
       const ent = []; for (const x of grupos[k]) ent.push({ nome: x.nome, dados: new Uint8Array(await x.blob.arrayBuffer()) });
