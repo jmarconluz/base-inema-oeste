@@ -19,7 +19,7 @@ from collections import Counter, defaultdict
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BRUTOS = os.path.join(RAIZ, "dados", "brutos")
 
-CAMPOS = ["chave", "tipo", "categoria", "acao", "portaria_num", "data_portaria", "data_publicacao", "ano", "processo",
+CAMPOS = ["chave", "tipo", "categoria", "acao", "tipo_outorga", "portaria_num", "data_portaria", "data_publicacao", "ano", "processo",
           "requerente", "tipo_pessoa", "municipio", "municipios_citados", "oeste", "finalidade", "area_ha",
           "volume_lenhoso_m3", "validade", "modalidade", "bacia", "vazao_m3_dia", "horas_dia", "fazenda",
           "coordenadas", "n_pontos", "link_doe", "edicao_id", "materia_id"]
@@ -63,6 +63,36 @@ def carregar():
 MUN_CANON = {"Luis Eduardo Magalhães": "Luís Eduardo Magalhães", "Muquém de São Francisco": "Muquém do São Francisco"}
 
 
+SUBTERRANEA = re.compile(r"capta[çc][ãa]o\s+subterr|po[çc]os?\b|aqu[íi]fero|tubular", re.I)
+SUPERFICIAL = re.compile(r"capta[çc][ãa]o\s+superficial|\b(rio|riacho|c[óo]rrego|ribeir[ãa]o|vereda|lagoa|represa|reservat[óo]rio|a[çc]ude)\b", re.I)
+
+
+def tipo_outorga(r):
+    """Classifica a outorga: poço (subterrânea), captação superficial, barramento, lançamento ou outros."""
+    if "OUTORGA" not in (r.get("tipo") or ""):
+        return ""
+    mod = (r.get("modalidade") or "").lower()
+    t = r.get("texto") or ""
+    art = t[t.upper().find("RESOLVE"):][:3000] if "RESOLVE" in t.upper() else t[:3000]
+    if mod.startswith("subterr"):
+        base = "Poço (captação subterrânea)"
+    elif mod.startswith("superficial"):
+        base = "Captação superficial"
+    elif "lan" in mod and "efluente" in mod:
+        return "Lançamento de efluentes"
+    elif mod in ("barragem", "barramento"):
+        return "Barramento"
+    elif SUBTERRANEA.search(art) and not re.search(r"capta[çc][ãa]o\s+superficial", art, re.I):
+        base = "Poço (captação subterrânea)"
+    elif SUPERFICIAL.search(art):
+        base = "Captação superficial"
+    else:
+        return "Não identificado"
+    if re.search(r"capta[çc][ãa]o\s+subterr", art, re.I) and re.search(r"capta[çc][ãa]o\s+superficial", art, re.I):
+        return "Poço + captação superficial"
+    return base
+
+
 def preparar(r):
     r = dict(r)
     if r.get("municipio") in MUN_CANON:
@@ -71,6 +101,7 @@ def preparar(r):
     r["categoria"], r["acao"] = cat, acao
     r["ano"] = (r.get("data_publicacao") or "")[:4]
     r["n_pontos"] = len(pontos(r.get("coordenadas")))
+    r["tipo_outorga"] = tipo_outorga(r)
     return r
 
 
@@ -87,11 +118,25 @@ def main():
     regs = sorted((preparar(r) for r in carregar()), key=lambda r: (r["data_publicacao"] or "", r["portaria_num"] or ""))
     oeste = [r for r in regs if r.get("oeste")]
 
-    salvar_csv(os.path.join(RAIZ, "dados", "bahia", "portarias_bahia.csv"), regs, CAMPOS)
+    salvar_csv(os.path.join(RAIZ, "dados", "bahia", "portarias_bahia.csv"), regs, CAMPOS + ["texto"])
+    with open(os.path.join(RAIZ, "dados", "bahia", "portarias_bahia.json"), "w", encoding="utf-8") as fh:
+        json.dump(regs, fh, ensure_ascii=False)
     salvar_csv(os.path.join(RAIZ, "dados", "oeste", "portarias_oeste.csv"), oeste, CAMPOS + ["texto"])
     with open(os.path.join(RAIZ, "dados", "oeste", "portarias_oeste.json"), "w", encoding="utf-8") as fh:
         json.dump(oeste, fh, ensure_ascii=False, indent=1)
 
+    def geo(lista, nome):
+        fs = []
+        for r in lista:
+            for i, (lon, lat) in enumerate(pontos(r.get("coordenadas"))):
+                props = {k: r.get(k) for k in CAMPOS if k not in ("coordenadas",)}
+                props["ponto"] = i + 1
+                fs.append({"type": "Feature", "geometry": {"type": "Point", "coordinates": [lon, lat]}, "properties": props})
+        with open(nome, "w", encoding="utf-8") as fh:
+            json.dump({"type": "FeatureCollection", "name": os.path.basename(nome)[:-8],
+                       "crs": {"type": "name", "properties": {"name": "urn:ogc:def:crs:EPSG::4674"}}, "features": fs}, fh, ensure_ascii=False)
+        return fs
+    feats_ba = geo(regs, os.path.join(RAIZ, "dados", "bahia", "pontos_outorga_asv_bahia.geojson"))
     feats = []
     for r in oeste:
         for i, (lon, lat) in enumerate(pontos(r.get("coordenadas"))):
@@ -104,6 +149,7 @@ def main():
                   fh, ensure_ascii=False)
 
     # resumo
+    tipos_out = Counter(r["tipo_outorga"] for r in regs if r["tipo_outorga"])
     por_ano = defaultdict(Counter)
     for r in regs:
         por_ano[r["ano"]][("Oeste " if r.get("oeste") else "Demais ") + r["categoria"]] += 1
@@ -114,6 +160,9 @@ def main():
               "| Ano | " + " | ".join(cats) + " |", "|---|" + "---|" * len(cats)]
     for a in sorted(por_ano):
         linhas.append(f"| {a} | " + " | ".join(str(por_ano[a][c]) for c in cats) + " |")
+    linhas += ["", "## Outorgas por tipo (Bahia)", "", "| Tipo | Atos |", "|---|---|"]
+    linhas += [f"| {k} | {v} |" for k, v in tipos_out.most_common()]
+    linhas += ["", f"Pontos georreferenciados na Bahia: **{len(feats_ba)}**"]
     linhas += ["", "## Municípios do Oeste com mais atos", "", "| Município | Atos |", "|---|---|"]
     linhas += [f"| {m} | {n} |" for m, n in mun.most_common(20)]
     with open(os.path.join(RAIZ, "dados", "resumo.md"), "w", encoding="utf-8") as fh:

@@ -16,6 +16,19 @@ Total de atos (Bahia): **11293** · Oeste Baiano: **2965** · pontos georreferen
 | 2025 | 100 | 134 | 299 | 341 |
 | 2026 | 21 | 88 | 194 | 338 |
 
+## Outorgas por tipo (Bahia)
+
+| Tipo | Atos |
+|---|---|
+| Poço (captação subterrânea) | 3879 |
+| Captação superficial | 2501 |
+| Não identificado | 1006 |
+| Barramento | 124 |
+| Lançamento de efluentes | 12 |
+| Poço + captação superficial | 6 |
+
+Pontos georreferenciados na Bahia: **7444**
+
 ## Municípios do Oeste com mais atos
 
 | Município | Atos |
