@@ -1,0 +1,243 @@
+                                                                  Salvador, Bahia - Quinta-Feira,
+                                                                             21 de Julho de 2022
+                                                                             Ano CVI – Nº 23.462
+
+
+
+
+              INSTRUÇÃO NORMATIVA Nº 004 DE 20 DE JULHO DE 2022
+
+Dispõe sobre procedimentos administrativos e critérios técnicos para perfuração de
+poços tubulares para fins de exploração de água subterrânea e análise preliminar para
+solicitação de Outorga de Direito de Uso de Água Subterrânea e Renovação da Outorga
+de Direito de Uso de Água Subterrânea no sistema aquífero Marizal/São Sebastião na
+região de domínio do Polo Industrial de Camaçari e entorno, no Estado da Bahia.
+
+
+A DIRETORIA GERAL DO INSTITUTO DO MEIO AMBIENTE E RECURSOS HÍDRICOS -
+INEMA, no uso das suas atribuições legais e regimentais que lhe são conferidas pelos
+Art. 15, I, alínea “d” do Decreto Estadual nº 8.247 de 08 de maio de 2002 e Art. 52,
+inciso XXVII, da Lei Estadual nº 11.612 de 08 de outubro de 2009, e,
+CONSIDERANDO o Art. 26, inciso I da Constituição Federal de 1988 estabelece que as
+águas superficiais e subterrâneas incluem-se entre os bens dos Estados;
+CONSIDERANDO a Lei Estadual nº 11.612/09; o Art. 24, inciso III, que a qualquer
+tempo, o outorgante poderá revisar autorizações emitidas, podendo ser suspensa
+parcial ou totalmente, bem como ser extinta, nas hipóteses dos arts. 19 e 20 da Lei nº
+11.612/09 e dos arts. 24 e 25 da Resolução CNRH nº 16/2001;
+CONSIDERANDO a Resolução CONERH nº 96, de 25 de fevereiro de 2014, que
+estabelecem diretrizes e critérios gerais para a outorga do direito de uso dos recursos
+hídricos de domínio do Estado da Bahia;
+CONSIDERANDO a Portaria INEMA nº 11.292 de 13 de fevereiro de 2016, que define os
+documentos e estudos necessários para requerimento junto ao INEMA dos atos
+administrativos para regularidade ambiental de empreendimentos e atividades no
+Estado da Bahia;
+CONSIDERANDO o disposto na Portaria INEMA nº 21.953 de 07 de dezembro de 2020;
+Considerando a Portaria INEMA nº 22.181, de 28 de janeiro 2021, que estabelece
+critérios para implantação de sistema de medição para monitoramento dos usos e
+intervenções em recursos hídricos visando à adoção de medidas de controle no estado
+da Bahia;
+CONSIDERANDO que a exploração das águas subterrâneas pode implicar redução da
+capacidade de armazenamento dos aquíferos, redução dos volumes disponíveis nos
+corpos de água superficiais e modificações dos fluxos naturais nos aqüíferos e,
+CONSIDERANDO que o Polo Industrial de Camaçari (PIC) está disposto sobre um
+aquífero sedimentar de grande importância econômica e social para as indústrias e
+comunidades do entorno, o aquífero São Sebastião;
+RESOLVE:
+Art. 1º. Estabelecer procedimentos e critérios técnicos a serem observados na análise
+do pedido de manifestação prévia de perfuração de poços tubulares para fins de
+explotação de água subterrânea no sistema aquífero Marizal/São Sebastião, na região
+de domínio da Poligonal do Zoneamento de Recursos Hídricos Subterrâneos do Polo
+Industrial de Camaçari, Anexo I dessa normativa, cuja área mede 405.189.869,998 m2,
+inserida no quadrante de coordenadas geográficas 12º 32’ 31,7” à 12º 47’ 08,8”, de
+latitude S e 38º 07’ 39,3” à 38º 23’ 53,8” de longitude W.
+
+
+Art. 2º. Esta Instrução Normativa também regulamenta a apresentação de uma
+avaliação prévia, juntamente aos documentos necessários à instrução dos processos
+de outorga e renovação de outorga de recursos hídricos, em complementação à
+documentação listada no anexo IV da Portaria INEMA no. 11.292, de 13 de fevereiro de
+2016, na região de domínio da Poligonal do Zoneamento de Recursos Hídricos
+Subterrâneos do Polo Industrial de Camaçari
+§ 1º A apresentação de uma avaliação prévia deverá ser apresentada pelo usuário
+mediante resposta de Notificação a ser emitida pelo INEMA;
+
+
+                               CAPÍTULO I - DAS DEFINIÇÕES
+
+
+Art. 3º. Para fins de aplicação de Instrução Normativa são adotadas as seguintes
+definições:
+I - Captação de água - retirada da água de um manancial, que pode ser superficial ou
+subterrâneo;
+II - Recursos hídricos subterrâneos - as águas que se localizam no subsolo, preenchendo
+os poros das rochas granulares, cavernas ou rochas solúveis, fraturas fissuras ou fendas
+das rochas cristalinas.
+III – Outorga de Direito de Uso de Recursos Hídricos- ato administrativo, de autorização,
+mediante o qual o poder público outorgante faculta ao outorgado previamente ou
+mediante o direito de uso de recursos hídricos, por prazo determinado, nos termos e
+nas condições expressas no respectivo ato, consideradas as legislações vigentes (CNRH,
+20011).
+IV – Modelo de Fluxo Numérico Regional do PIC (MFNR) - Modelo de fluxo numérico
+regional, desenvolvido pela CETREL em 2003, com a finalidade de simular as condições
+de fluxo subterrâneo da área do polo industrial e entorno. É atualizado a cada quatro
+anos, com a finalidade de auxiliar na revisão do Zoneamento Hídrico de Águas
+Subterrâneas do PIC e utilizado como ferramenta na análise técnica das condições de
+operação de poços de produção na região, interferência entre capturas e rebaixamento.
+V – Zoneamento de Recursos Hídricos Subterrâneos do PIC –Tem a função de mapear
+elementos geográficos, dentre outros critérios como qualidade da água, estratégias
+
+1
+CNRH – Conselho Nacional de Recursos Hídricos. Resolução nº. 16, de 8 de maio de 2001:
+Estabelece critérios gerais para a outorga de direito de uso dos recursos hídricos. 2001.
+sociais e econômicas e separar áreas com similaridades nos aspectos mencionados. Na
+área do PIC, o Zoneamento Hídrico (Anexo 1) está suportado pela condicionante II.3e da
+Portaria INEMA nº 16.507 de 13 de julho de 2018;
+VI – COFIC - Comitê de Fomento Industrial de Camaçari é uma associação empresarial
+privada, que representa mais de 90 empresas no Polo Industrial de Camaçari e em suas
+áreas de influência, em diferentes segmentos como: químico/petroquímico,
+automotivo, celulose solúvel, metalurgia do cobre, têxtil, fertilizantes, pneus, energia
+eólico, fármacos, bebidas e serviços.
+
+
+                          CAPÍTULO II – DA APLICABILIDADE
+
+
+Art. 4º. Estão sujeitos às exigências desta Instrução os usuários dos recursos hídricos
+subterrâneos, dentro da área de abrangência do Mapa de Zoneamento de Recursos
+Hídricos do PIC;
+
+
+§ 1o. Essa instrução normativa não se aplica aos usuários com vazão outorgada inferior
+a 150 m3/dia, a exceção daqueles usuários instalados dentro dos limites da Zona
+Hídrica 04, a qual não é passível de explotação de água subterrânea por riscos de
+contaminação por atividades industriais, ainda que em vazões pouco significativas.
+
+
+                       CAPÍTULO III - DOS CRITÉRIOS TÉCNICOS
+Art. 5º. Para efeito desta Instrução Normativa, considerando procedimentos e critérios
+técnicos a serem observados na análise do pedido de manifestação prévia de
+perfuração de poços tubulares para fins de explotação de água subterrânea no sistema
+aquífero Marizal/São Sebastião, ficam definidas as seguintes premissas:
+
+
+a) Consulta Prévia ao “Mapa de Zoneamento de Recursos Hídricos do PIC”,
+   atualizado a cada 4 anos, conforme preconiza a Portaria INEMA n° 16.507/2018
+   (Licença de Operação do Polo - LO), para verificação da condição de localização
+   proposta para a perfuração do poço.
+
+b) Para as Zonas Hídricas em que há restrição de uso de água subterrânea, os usuários
+   deverão apresentar “Avaliação Prévia da Condição de Localização Proposta para a
+   Perfuração do Poço”, a ser emitido pelo COFIC, juntamente com a documentação
+   requerida pelo INEMA.
+
+
+c) Para as Zonas Hídricas em que há restrição de uso de água subterrânea, a Embasa
+   deverá apresentar “Avaliação Prévia” baseada em modelagem, em substituição ao
+   documento mencionado na alínea “b”, indicando a viabilidade do projeto tendo
+   emvista o Zoneamento Hídrico existente, juntamente com a documentação
+   requerida pelo INEMA.
+d) A vazão a ser outorgada fica condicionada à consulta às disponibilidades
+   atualizadas no processo de avaliação das vazões requeridas
+
+
+e) As Avaliações Prévias mencionados no item b serão sempre solicitados ao usuário,
+   através de emissão de notificação pelo INEMA.
+
+Art. 6º. Deferido o pedido, será emitida autorização para perfuração de poço tubular,
+com prazo de vigência de 01 (um) ano, podendo, a critério do INEMA ser prorrogado
+por igual período, desde que devidamente justificado pelo autorizado.
+
+
+§ 1º A autorização para perfuração de poço tubular não confere direito de uso de
+recursos hídricos;
+
+
+§ 2º O pedido de prorrogação de prazo para perfuração de poço tubular, deverá ser
+submetido à apreciação do INEMA com antecedência mínima de 60 (sessenta dias).
+
+
+Art. 7º. Autorizada a perfuração do poço tubular, o respectivo projeto de perfuração e
+construção não poderá ser alterado sem que as modificações sejam apresentadas e
+aprovadas pelo INEMA, mediante abertura de novo processo.
+
+
+Art. 8º. Os demais procedimentos administrativos a serem observados na formalização
+do pedido de manifestação prévia de perfuração de poços seguem o disposto na
+Portaria INEMA nº 11.292 de 13 de fevereiro de 2016.
+
+
+Art. 9º. Para efeito desta Instrução Normativa, considerando procedimentos e critérios
+técnicos a serem observados nos pedidos de outorga e renovação da outorga de
+direito de uso de água subterrânea na área de abrangência do Polo Industrial de
+Camaçari, ficam definidas as seguintes premissas:
+
+
+f) Consulta Prévia ao “Mapa de Zoneamento de Recursos Hídricos do PIC”,
+   atualizado a cada 4 anos, conforme preconiza a Portaria INEMA n° 16.507/2018
+   (Licença de Operação do Polo - LO), quanto as restrições de uso.
+
+g) Para as Zonas Hídricas em que há restrição de uso de água subterrânea, os usuários
+   deverão apresentar Avaliação Prévia para Outorga ou Renovação de Outorga”, a
+   ser emitido pelo COFIC, juntamente com a documentação requerida pelo INEMA
+   através de emissão de Notificação de Prazo.
+
+
+h) Para as Zonas Hídricas em que há restrição de uso de água subterrânea, a Embasa
+   deverá apresentar “Avaliação Prévia” baseada em modelagem, em substituição ao
+   documento mencionado na alínea “g”, indicando a viabilidade de seu projeto
+   tendo em vista o Zoneamento Hídrico existente.
+i) A vazão a ser outorgada fica condicionada à consulta às disponibilidades
+   atualizadas no processo de avaliação das vazões requeridas.
+
+j) Atender aos critérios estabelecidos para implantação de sistema de medição para
+   monitoramento dos usos e intervenções em recursos hídricos visando à adoção de
+   medidas de controle no estado da Bahia, como definido pela Portaria INEMA No.
+   22.181 de 22 de janeiro de 2021.
+
+k) Apresentar Perfil Construtivo/Litológico do poço tubular com Anotações de
+   Responsabilidade Técnica – ART.
+
+l) Apresentar Ensaio de Bombeamento do poço tubular com Anotações de
+   Responsabilidade Técnica – ART.
+
+m) Apresentar análise físico-química e bacteriológica da água do poço, conforme
+   normas da Portaria GM/MS no. 888, de 4 de maio de 2021, que dispõe sobre os
+   procedimentos de controle e vigilância da qualidade da água para consumo
+   humano e seu padrão de potabilidade.
+
+Art. 10º. Para que a ferramenta de zoneamento esteja permanentemente atualizada,
+ficou estabelecido que o INEMA informará semestralmente à entidade gestora da
+ferramenta, todas as informações relativas à concessão, alteração e cancelamento de
+Outorgas cuja vazão seja superior a 150 m³/dia.
+Art. 11º. Fica estabelecido que o processo dessa normativa deve seguir o fluxo
+indicado no Anexo II deste documento, considerando as premissas descritas nos
+artigos 1º. ao 10º.
+Art. 12º. Os anexos desta Instrução Normativa, compostos do Anexo I: Zoneamento
+de Recursos Hídricos Subterrâneos do PIC e Anexo II: Fluxograma de Processo para
+Pedidos de Perfuração de Poços e Outorga / Renovação de Outorga na Área de
+abrangência do Zoneamento de Recursos Hídricos Subterrâneos do Polo Industrial De
+Camaçari E Entorno, estão disponíveis no sítio eletrônico do INEMA
+(www.inema.ba.gov.br);
+
+Art. 13º. Esta Instrução Normativa entra em vigor na data de sua publicação.
+
+DANIELLA TEIXEIRA FERNANDES DE ARAÚJO
+Diretora Geral em Exercício
+ANEXO I – ZONEAMENTO DE RECURSOS HÍDRICOS SUBTERRÂNEOS DO PIC (CETREL, 2019)
+ANEXO II – FLUXOGRAMA DE PROCESSO PARA PEDIDOS DE PERFURAÇÃO DE POÇOS
+    E OUTORGA / RENOVAÇÃO DE OUTORGA NA ÁREA DE ABRANGÊNCIA DO
+ ZONEAMENTO DE RECURSOS HÍDRICOS SUBTERRÂNEOS DO POLO INDUSTRIAL DE
+                         CAMAÇARI E ENTORNO
+
+
+
+
+  Figura 1.Fluxograma para Pedidos de Perfuração de Poços na área do Zoneamento
+                            Hídrico Subterrâneo do PIC
+
+
+
+
+Figura 2.Fluxograma para Pedidos de Outorga / Renovação de Outorga de Poços na área
+                     do Zoneamento Hídrico Subterrâneo do PIC
+

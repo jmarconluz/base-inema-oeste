@@ -1,0 +1,481 @@
+                                                                     Salvador, Bahia-Sábado
+                                                                     2 de Novembro de 2019
+                                                                                     o
+                                                                        Ano · CIV · N 22.776
+
+
+PORTARIA INEMA Nº 19.452 DE 31 DE OUTUBRO DE 2019. Estabelece critérios para
+implantação de sistema de medição para monitoramento dos usos e intervenções em
+recursos hídricos visando à adoção de medidas de controle no estado da Bahia.
+
+A Diretora Geral do INSTITUTO DO MEIO AMBIENTE E RECURSOS HÍDRICOS - INEMA
+no exercício das competências que lhe foram delegadas pela Lei nº 12.212, de 04 de maio
+de 2011, e, em especial, pelo art. 106, e
+
+CONSIDERANDO o art. 12 da Lei nº 9.433, de 08 de janeiro de 1997, que institui a Política
+Nacional de Recursos Hídricos e que determina os usos de recursos hídricos sujeitos a
+outorga pelo Poder Público;
+
+CONSIDERANDO o art. 18 da Lei Estadual nº 11.612 de 08 de outubro de 2009, que
+dispõe sobre a Política Estadual de Recursos Hídricos e o Sistema Estadual de
+Gerenciamento de Recursos Hídricos no estado da Bahia, que determina os usos de
+recursos hídricos sujeitos a outorga pelo Poder Público;
+
+CONSIDERANDO a Resolução nº 96, de 25 de fevereiro de 2014, do Conselho Estadual
+de Recursos Hídricos - CONERH, que estabelece as diretrizes e critérios gerais para a
+outorga do direito de uso dos recursos hídricos de domínio do Estado da Bahia, e dá outras
+providências;
+
+CONSIDERANDO a Portaria INEMA nº 11.292, de 13 de fevereiro de 2016, e suas
+alterações, definem, entre outros, critérios para concessão de outorgas no estado da Bahia.
+
+CONSIDERANDO a Portaria INEMA nº 17.651, de 11 de janeiro de 2019, que altera a
+Portaria nº 11.292, de 13/02/2016, no que se refere aos procedimentos de renovação de
+outorga de direito de uso de recursos hídricos.
+
+CONSIDERANDO a Portaria INEMA n° 17.280, de 19 de novembro de 2018, que dispõe
+sobre critérios técnicos referentes à outorga de lançamento de efluentes, estabelece metas
+progressivas de melhoria da qualidade da água para fins de outorga para lançamento de
+efluentes;
+
+CONSIDERANDO a Instrução Normativa nº 01, de 27 de fevereiro de 2007, da
+Superintendência de Recursos Hídricos do Estado da Bahia, que dispõe sobre a emissão
+de outorga de direito de uso dos recursos hídricos de domínio do Estado da Bahia, assim
+como a sua renovação, ampliação, alteração, transferência, revisão, suspensão e extinção,
+e dá outras providências;
+
+CONSIDERANDO a Instrução Normativa nº 15 de 18 de março de 2010, que dispõe sobre
+procedimentos administrativos e critérios técnicos para perfuração de poços tubulares para
+fins de exploração de água subterrânea no aquífero Urucuia de domínio do Estado da
+Bahia;
+
+CONSIDERANDO a necessidade de maior controle e monitoramento dos usos,
+principalmente nos períodos de estiagem, para aprimoramento das ações de gestão;
+
+CONSIDERANDO a necessidade de qualificar e fortalecer a fiscalização do uso dos
+recursos hídricos outorgados;
+
+                                         RESOLVE:
+
+Art. 1º. Ficam estabelecidos os critérios para implantação de sistema de medição para
+monitoramento dos usos e intervenções em recursos hídricos visando à adoção de
+medidas de controle no estado da Bahia.
+
+Art. 2°. Para fins desta Portaria entende-se por:
+
+I - Intervenções consuntivas: intervenções que promovem a subtração de água interferindo
+diretamente na disponibilidade hídrica local, tais como: captação em corpo de água;
+derivação em corpo de água; captação em lagos formados por meio de barramentos com
+ou sem regularização de vazão; captação de água subterrânea por meio de poço tubular;
+captação de água subterrânea para fins de rebaixamento de nível; e captação em nascente
+ou surgência.
+
+II - Barramento com regularização de vazão e/ou de amortecimento de cheias: estrutura
+construída transversalmente a um curso de água, alterando as condições naturais de
+escoamento, tendo como uma de suas finalidades o controle a regularização das vazões
+liberadas a jusante por meio de estruturas controladoras de descargas,
+
+III - Sistema de medição de vazão: conjunto de instalações, equipamentos, acessórios,
+instrumentos e dispositivos que registram e permitem o monitoramento dos volumes
+retirados e tempo de seu funcionamento ou método de medição de vazões, todos com
+eficiência técnica devidamente comprovada para os fins a que se destinam ao controle
+estabelecido por esta portaria.
+
+IV - Sistema de medição de nível: conjunto de instalações, equipamentos, acessórios,
+instrumentos e dispositivos que registram e permitem o monitoramento dos níveis de água
+nos reservatórios ou os níveis estático e dinâmico de um poço tubular, com eficiência
+técnica devidamente comprovada.
+
+V - Poço Tubular: perfuração vertical, cilíndrica, revestida com material em PVC aditivado
+ou em aço, em forma de tubos e filtros, para captar água subterrânea de aquífero existente
+na crosta terrestre.
+
+VI. Nível Estático (NE): nível da superfície livre da água dentro do poço tubular, medida a
+partir da superfície do terreno, quando o poço não está sendo bombeado e o nível de água
+for considerado em repouso.
+
+VII. Nível Dinâmico (ND): nível do lençol d’água dentro do poço, medido a partir da
+superfície do terreno, quando o poço está sob-regime de bombeamento e o nível de água
+for considerado em equilíbrio dinâmico.
+Art. 3°. A instalação do sistema de medição deverá ser realizada individualmente para
+cada intervenção em recursos hídricos.
+
+                                      CAPÍTULO I
+
+                                  Águas Superficiais
+
+Art. 4º. Na implantação de intervenções consuntivas em águas superficiais com vazão
+outorgada superior a 129,6 m³/dia (para fins de abastecimento humano) e superior a 43,2
+m³/dia (demais usos) deverá ser instalado sistema de medição de vazão.
+
+Art. 5º. Nas intervenções do tipo barramento com regularização de vazão e/ou para
+controle de cheias fica obrigada a instalação de sistema de medição de vazão para
+monitoramento do fluxo a ser mantido imediatamente à jusante do barramento (por
+extravazamento e liberação para jusante). Da mesma forma, deverão ser instalados
+equipamentos para medição de vazão à montante do reservatório, e situadas em local que
+não sofram interferência do nível de água do reservatório, em qualquer condição e que não
+existam aportes de afluentes expressivos entre a estação e o reservatório. Deverão ser
+instalados também equipamentos que permitam registrar cotas do nível de água no
+reservatório.
+
+Art. 6º. Nas intervenções consuntivas outorgadas, localizadas em área onde já tenham
+sido registrados conflitos, deverá ser instalado sistema de medição com equipamentos que
+permitam aferir os indicadores adequados de vazão retiradas e período de retiradas,
+independentemente da vazão outorgada.
+
+Art. 7º. Na implantação de intervenções em águas superficiais, para fins de lançamento de
+esgotos e demais efluentes sólidos, líquidos ou gasosos, tratados ou não em corpos
+d’água, com finalidade de diluição, transporte ou disposição final, deverá ser instalado
+sistema de medição de vazão e de qualidade (para os parâmetros definidos na portaria de
+outorga) na entrada e na saída da Estação de Tratamento de Esgoto (ETE) ou à montante
+do ponto de lançamento, no caso da inexistência de ETE.
+
+Art. 8º. Na implantação de intervenções não consuntivas em águas superficiais, para fins
+de aproveitamento hidrelétrico deverá ser instalado sistema de medição de vazão na
+entrada e na saída do Trecho de Vazão Reduzida (TRV).
+
+                                      CAPÍTULO II
+
+                                 Águas Subterrâneas
+
+Art. 9º. É obrigatória a instalação de sistema de medição de vazão nas captações de
+águas subterrâneas por meio de poços tubulares, para vazão outorgada superior a 129,6
+m³/dia (para fins de abastecimento humano) e superior a 43,2 m³/dia (demais usos).
+
+Art. 10º. As captações de águas subterrâneas, para vazão outorgada superior a 129,6
+m³/dia (para fins de abastecimento humano) e superior a 43,2 m³/dia (demais usos), por
+meio de poços tubulares deverão ser dotadas de dispositivos que permitam a coleta de
+água para monitoramento de qualidade (em caso de uso para abastecimento / consumo
+humano) e medições de nível estático e dinâmico.
+§ 1º. O dispositivo para coleta de água deverá ser instalado após o sistema de medição de
+vazão, com diâmetro não superior a ½ (meia) polegada.
+
+§ 2º. Para medição do nível d’água deverá ser instalada tubulação auxiliar de diâmetro
+interno de, no mínimo, ½ (meia) polegada em toda a extensão da tubulação adutora e
+presa a esta.
+
+Art. 11º. Nos poços tubulares instalados em data anterior à publicação desta Portaria é
+obrigatória, no momento da renovação da outorga de direito de uso dos recursos hídricos
+ou quando solicitado pelo órgão, a instalação de dispositivos que permitam a coleta de
+água e medição de nível.
+
+Art. 12. A instalação e o monitoramento de dispositivos de controle de vazão captada,
+tempo de captação e níveis de água subterrânea a que se refere essa Portaria, utilizados
+em sistemas de rebaixamento de nível d’água para fins de mineração e remediação de
+áreas contaminadas, serão definidos por critério técnico estabelecido quando da concessão
+da outorga de direito de uso de recursos hídricos.
+
+                                     CAPÍTULO III
+
+                                    Monitoramento
+
+Art. 13. Nas intervenções consuntivas em águas superficiais deverão ser efetuadas
+medições, diariamente, das vazões captadas e do tempo de captação, observado o
+disposto no art. 4º.
+
+§ 1°. Para vazões outorgadas de até 900 m³/dia, poderão ser utilizados sistemas de
+medição de vazão analógicos com registros feitos de forma manual, armazenando estes
+dados em formato de planilhas, conforme modelo apresentado no Anexo I.
+
+§ 2°. Para vazões outorgadas entre 900 m³/dia e 9.000 m³/dia deverão ser utilizados
+sistemas de medição de vazão, dotados de capacidade de registrar também o tempo de
+bombeamento e módulo de armazenamento automático dos registros das vazões
+captadas, conforme modelo apresentado no Anexo II.
+
+§ 3°. Para vazões acima de 9.000 m³/dia deverão ser utilizados sistemas de medição de
+vazão, dotados de capacidade de registrar também o tempo de bombeamento e módulo de
+armazenamento automático dos registros das vazões captadas e com sistema de
+telemetria capaz de enviar as informações para o banco de dados do INEMA, conforme
+modelo apresentado no Anexo II.
+
+§ 4°. A autoridade outorgante poderá, a partir de avaliação técnica, bem como de
+condições particulares de localização e acesso, estabelecer periodicidade diferente das
+definidas nesta Portaria.
+
+Art. 14. Nas intervenções consuntivas em águas subterrâneas deverão ser efetuadas
+medições, diariamente, das vazões captadas, do tempo de captação, assim como do nível
+d’água do poço tubular, observado o disposto no art. 9º.
+
+§ 1°. Para vazões outorgadas de até 900 m³/dia, poderão ser utilizados sistemas de
+medição de vazão e de nível estático e dinâmico analógicos com registros feitos de forma
+manual, armazenando estes dados em formato de planilhas, conforme modelo apresentado
+no Anexo III.
+
+§ 2°. Para vazões outorgadas entre 900 m³/dia e 9.000 m³/dia deverão ser utilizados
+sistemas de medição de vazão e de nível estático e dinâmico, dotados de capacidade de
+registrar também o tempo de bombeamento e módulo de armazenamento automático dos
+registros de nível d’água do poço tubular, conforme modelo apresentado no Anexo IV.
+
+§ 3°. Para vazões acima de 9.000 m³/dia deverão ser utilizados sistemas de medição de
+vazão e de nível estático e dinâmico, dotados de horímetro e módulo de armazenamento
+automático dos registros do nível d’água do poço tubular, e com sistema de telemetria
+capaz de enviar as informações para o banco de dados do INEMA, conforme modelo
+apresentado no Anexo IV.
+
+§ 4°. A autoridade outorgante poderá, a partir de avaliação técnica, bem como de
+condições particulares de localização e acesso, estabelecer periodicidade diferente das
+definidas nesta Portaria.
+
+Art. 15. Nas intervenções do tipo barramento com regularização de vazão e/ou
+amortecimento de cheias, deverão ser efetuadas medições, diariamente, volume residual
+liberado para jusante e da cota do nível d’água do barramento.
+
+§ 1°. Para reservatórios com volume inferior a 1.000.000 m3 poderão ser utilizados
+sistemas de medição com registros feitos de forma manual, armazenando estes dados na
+forma de planilhas, armazenando estes dados em formato de planilhas, conforme modelo
+apresentado no Anexo V.
+
+§ 2°. Para reservatórios com volume superior a 1.000.000 m3 e inferior a 10.000.000 m3
+deverão ser utilizados sistemas de medição com módulo de armazenamento automático
+dos registros das informações, conforme modelo apresentado no Anexo V.
+
+§ 3°. Para reservatórios com volume superior a 1.000.000 m3 e inferior a 10.000.000 m3
+deverão ser utilizados sistemas de medição, dotados de módulo de armazenamento
+automático dos registros das vazões captadas e com sistema de telemetria capaz de enviar
+as informações para o banco de dados do INEMA, armazenando estes dados em formato
+de planilhas, conforme modelo apresentado no Anexo V.
+
+Art. 16. Nas intervenções em águas superficiais, para fins de lançamento de esgotos e
+demais efluentes sólidos, líquidos ou gasosos, tratados ou não, em corpos d’água, com
+finalidade de diluição, transporte ou disposição final, deverão ser efetuadas medições,
+diariamente, das vazões na entrada e na saída da ETE. Poderão ser utilizados sistemas de
+medição analógicos com registros feitos de forma manual, armazenando estes dados em
+formato de planilhas, conforme modelo apresentado no Anexo VI.
+
+Parágrafo único. Os parâmetros de qualidade a serem monitorados, assim como a
+periodicidade de análise deverão ser seguidos conforme estabelecido na Portaria de
+outorga.
+
+Art. 17. Nas intervenções não consultivas em águas superficiais, para fins de
+aproveitamento hidrelétrico, deverão ser efetuadas medições, diariamente, das vazões na
+entrada e na saída do TRV. Poderão ser utilizados sistemas de medição analógicos com
+registros feitos de forma manual, armazenando estes dados em formato de planilhas,
+conforme modelo apresentado no Anexo VII.
+
+Art. 18. Para vazões iguais ou superiores a 900 m3/dia, o sistema de medição deverá ser
+tecnicamente aplicável ao meio de captação e possuir Anotação de Responsabilidade
+Técnica – ART.
+
+Art. 19. O sistema de medição deverá ser instalado próximo ao ponto de captação /
+lançamento, salvo justificativa técnica em contrário, bem como estar em local de livre
+acesso e antes de qualquer estrutura que possa causar interferência na medição.
+
+Art. 20. O usuário deverá garantir livre acesso de representantes do INEMA, ou entidade
+por ele delegada, ao sistema de medição, bem como disponibilizar pessoa capacitada para
+realizar as medições no momento da fiscalização, seguindo o mesmo procedimento das
+medições estabelecidas nesta Portaria.
+
+Art. 21. O sistema de medição adotado pelo usuário deverá possuir capacidade de aferição
+in loco pelo INEMA, ou entidade por ele delegada, dos valores de vazões
+captadas/lançadas, dos níveis d’água, tempo de captação/lançamento e fluxos residuais.
+
+Parágrafo único. O usuário deverá disponibilizar todos os recursos necessários para a
+aferição in loco dos registros.
+
+Art. 22. Os dados de monitoramento deverão ser apresentados à autoridade outorgante
+conforme definido em portaria de outorga, no momento da renovação da outorga de direito
+de uso dos recursos hídricos, nas ações de fiscalização ou quando solicitado pelo órgão.
+
+Art. 23. As despesas de instalação, manutenção, leitura, monitoramento, registro e
+transmissão de informações, assim como quaisquer outras relativas ao sistema de medição
+serão custeadas pelo usuário, que será também responsável pela segurança e
+inviolabilidade dos equipamentos e pela veracidade das informações prestadas ao INEMA.
+Todos os dados gerados são públicos.
+
+                                        CAPÍTULO IV
+
+                                           Prazos
+
+Art. 24. Para as captações superficiais com vazão outorgada superior a 129,6 m³/dia (para
+fins de abastecimento humano) e superior a 43,2 m³/dia (demais usos) em data anterior à
+publicação desta Portaria, aplicam-se os seguintes prazos para instalação de sistema de
+medição de vazão solicitado:
+
+I - Captações superiores a 9.000 m³/dia: 60 (sessenta) dias;
+
+II - Captações superiores a 900 m³/dia e até 9.000 m³/dia: 90 (noventa) dias; e
+
+III - Captações até 900 m³/dia: 120 (cento e vinte) dias.
+
+Art. 25. Para as intervenções consuntivas em data anterior à publicação desta Portaria, fica
+estabelecido o prazo de 60 (sessenta) dias para instalação de sistema de medição
+solicitado.
+Art. 26. Para as captações subterrâneas por meio de poços tubulares, outorgadas em data
+anterior à publicação desta Portaria, aplicam-se os seguintes prazos para instalação de
+sistema de medição solicitado:
+
+I - Captações superiores a 9.000 m³/dia: 60 (sessenta) dias;
+
+II - Captações superiores a 900 m³/dia e até 9.000 m³/dia: 90 (noventa) dias; e
+
+III - Captações até 900 m³/dia: 120 (cento e vinte) dias.
+
+Art. 27. Para realização do monitoramento previsto nos artigos 5º, 7° e 8° fica estabelecido
+o prazo de 120 (cento e vinte) dias para instalação do sistema de medição.
+
+
+
+                                        CAPÍTULO V
+
+                                    Disposições Finais
+
+Art. 28. O outorgado deverá manter atualizados os dados cadastrais no SEIA (Sistema
+Estadual de Informações Ambientais e de Recursos Hídricos) para o envio de
+correspondência e solicitação de informações referentes à Outorga, seja por meio físico ou
+digital.
+
+Art. 29. Esta Portaria entra em vigor na data de sua publicação.
+
+MÁRCIA CRISTINA TELLES DE ARAÚJO LIMA
+Diretora Geral
+                                          ANEXO I
+
+Formato dos dados que devem constar das de planilha para coleta manual de dados
+                         para vazões de até 900 m³/dia
+
+
+
+Data     Hora Volume (m³)
+
+dd/mm/aaaa     hh:mm        xxxxxxx
+
+19/02/2019     17:00 0000521
+
+20/02/2019     17:00 0000532
+
+21/02/2019     17:00 0000540
+
+
+
+                                          ANEXO II
+
+  Formato dos dados que devem constar da de planilha para coleta de dados para
+                           vazões acima 900 m³/dia.
+
+Programação do equipamento para coleta de dados no seguinte formato (separado por
+ponto e vírgula)
+
+ddmmaaaa;hhmm;xxxxxxxxxxx;t,t
+
+ddmmaaaa = data da medida
+
+hhmm = hora e minuto da medida
+
+xxxxxxxxxx= leitura do medidor em m³
+
+t,t = leitura do horímetro em horas, com uma casa decimal (dados da última hora)
+
+
+
+                                       ANEXO III:
+
+Formato dos dados que devem constar da planilha para coleta manual de dados para
+                           vazões de até 900 m³/dia
+
+Data     Hora Volume (m³) NE (m)           ND (m)
+
+dd/mm/aaaa     hh:mm        xxxxxxx        xxxx xxxx
+
+19/02/2019     08:00 0000521       11,2
+
+19/02/2019     18:00 0000532               55,3
+
+20/02/2019     08:00 0000532       11,1
+
+20/02/2019     18:00 0000540               54,2
+Observação: Devem ser feitas ao menos duas medias por dia do nível e do volume, uma
+antes do início do funcionamento do conjunto elevatório, para registro do nível estático, e
+outra no final para registro do nível dinâmico. As cotas dos níveis, estático e dinâmico,
+deverão levar em conta a cota de instalação do poço, cota esta devidamente
+georreferenciada de acordo com determinações do INEMA.
+
+
+
+                                         ANEXO IV
+
+  Formato dos dados que devem constar da de planilha para coleta de dados para
+                           vazões acima 900 m³/dia.
+
+Programação do equipamento para coleta de dados no seguinte formato (separado por
+ponto e vírgula)
+
+Para medição da vazão: ddmmaaaa;hhmm;xxxxxxxxxxx;t,t
+
+ddmmaaaa = data da medida
+
+hhmm = hora e minuto da medida
+
+xxxxxxxxxx= leitura do medidor em m³
+
+t,t = leitura do horímetro em horas, com uma casa decimal (dados da última hora)
+
+
+
+Para medição do nível: ddmmaaaa;hhmm;nnnnn;t,t
+
+ddmmaaaa = data da medida
+
+hhmm = hora e minuto da medida
+
+nnnnn= leitura do medidor em m
+
+t,t = leitura do horímetro em horas, com uma casa decimal (dados da última hora)
+
+Observação: Devem ser feitas ao menos duas medias por dia do nível e do volume, uma
+antes do início do funcionamento do conjunto elevatório, para registro do nível estático, e
+outra no final para registro do nível dinâmico.
+                                      ANEXO V
+
+  Formato dos dados que devem constar da planilha para coleta manual de dados
+
+Data     Hora Volume liberado para jusante (m³)   Cota do nível d’água no
+reservatório (m)
+
+dd/mm/aaaa    hh:mm        xxxxxxx       xxxx
+
+19/02/2019    17:00 0000521      116,5
+
+20/02/2019    17:00 0000532      117,0
+
+21/02/2019    17:00 0000540      117,3
+
+22/02/2019    17:00 0000548      117,5
+
+
+
+
+                                      ANEXO VI
+
+  Formato dos dados que devem constar da planilha para coleta manual de dados
+
+Data    Hora Volume na entrada da ETE (m³) Volume na saída da ETE (m³)
+
+dd/mm/aaaa    hh:mm        xxxxxxx       xxxx
+
+19/02/2019    17:00 0000521      0000520
+
+20/02/2019    17:00 0000532      0000531
+
+21/02/2019    17:00 0000540      0000539
+
+22/02/2019    17:00 0000548      0000547
+
+
+
+
+                                     ANEXO VII
+
+  Formato dos dados que devem constar da planilha para coleta manual de dados
+
+Data    Hora Volume na entrada do TVR (m³) Volume na saída do TVR (m³)
+
+dd/mm/aaaa    hh:mm        xxxxxxx       xxxx
+
+19/02/2019    17:00 0000521      0000520
+
+20/02/2019    17:00 0000532      0000531
+
+21/02/2019    17:00 0000540      0000539
+
+22/02/2019    17:00 0000548      0000547
+

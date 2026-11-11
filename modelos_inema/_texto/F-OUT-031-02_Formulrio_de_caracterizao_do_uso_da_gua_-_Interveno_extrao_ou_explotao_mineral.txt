@@ -1,0 +1,90 @@
+
+
+FORMULÁRIO DE CARACTERIZAÇÃO DO USO DA ÁGUA - INTERVENÇÃO EXTRAÇÃO/EXPLOTAÇÃO MINERAL
+Interessado/Cliente:
+Nome do manancial (rio, riacho, córrego)
+
+
+Bacia Hidrográfica
+
+
+Município /Cidade
+
+
+R.P.G.A.
+
+
+Finalidade
+Características da extração
+
+       LEITO SECO
+
+       DRAGAGEM
+
+Mineral extraído:
+
+Duração da intervenção:
+
+Período da intervenção:	
+
+Volume total a ser retirado (m3):
+
+Volume diário a ser retirado (m3/d):
+
+Peso do material a ser retirado (ton):
+
+Área da lavra (ha):
+
+Extensão do trecho alterado ou utilizado (m):
+
+Largura do trecho (m):
+
+Profundidade da escavação (m):
+
+Período diário de dragagem (h/d):
+
+Vazão captada na dragagem (m3/d):
+
+Vazão de lançamento no manancial (m3/d):
+
+Coordenadas
+Datum:
+
+Fonte das coordenadas:
+        GPS
+      
+        MAPA
+
+Coordenadas - Início da intervenção
+
+Latitude: 
+
+Longitude: 
+
+
+Coordenadas - Final da intervenção
+
+Latitude: 
+
+Longitude:
+
+
+Coordenadas - Lançamento do efluente no manancial:
+
+Latitude: 
+
+Longitude:
+
+
+
+Descrição do tratamento do efluente (antes do lançamento no curso d'água:
+Observações
+
+
+
+
+
+Técnico Responsável:		
+
+Tel:
+Obs.: Apresentar informações, projetos e estudos específicos, conforme estabelecido na relação de documentação.

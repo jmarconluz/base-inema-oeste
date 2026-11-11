@@ -1,0 +1,244 @@
+                                                                     Salvador, Bahia - Quarta-Feira
+                                                                             25 de Agosto de 2021
+                                                                                Ano CV - No 23.236
+
+
+INSTRUÇÃO NORMATIVA SEMA/INEMA Nº 01 DE 24 DE AGOSTO DE 2021. Define os
+critérios para produção, apresentação, disponibilização e uso de dados e Informações
+Georreferenciadas, na Secretaria do Meio Ambiente – SEMA e no Instituto do Meio
+Ambiente e Recursos Hídricos – INEMA
+
+A SECRETARIA DO MEIO AMBIENTE E O INSTITUTO DO MEIO AMBIENTE E RECURSOS
+HÍDRICOS, no uso de suas atribuições, considerando o regulamento da Lei nº 10.431/2006,
+aprovado pelo Decreto Estadual nº 14.024/2012, Decreto Estadual nº 15.180/2014,
+Decreto Estadual nº 15.682/2014 e Decreto Estadual nº 16.219/2015, resolvem:
+
+
+                                        CAPÍTULO I
+
+                                        DO OBJETO
+Art. 1º - Estabelecer os critérios que deverão ser seguidos para produção, apresentação,
+disponibilização e uso de dados geoespaciais, para todo e qualquer procedimento técnico
+no âmbito dos recursos hídricos e ambientais que requeiram a utilização de informações
+georreferenciadas na SEMA e no INEMA.
+
+                                        CAPÍTULO II
+                                      DAS DEFINIÇÕES
+
+Art. 2º - Para os efeitos desta Instrução Normativa são adotadas as seguintes definições:
+
+I - Base de dados estruturados: são aqueles dados organizados e representados com uma
+estrutura rígida, a qual foi previamente planejada (modelagem conceitual, lógica e física)
+para armazená-los, por exemplo, em um banco de dados, que é a representação mais típica
+e comum de dados estruturados;
+II - Coordenadas geográficas: ponto na superfície terrestre que é determinado pela sua
+latitude e longitude, e, considerando a forma esférica do planeta, é representada por
+valores angulares em graus (°), minutos (') e segundos ('');
+
+III - Coordenadas planas: sistema de coordenadas cartesianas ou métricas que se baseia na
+escolha de dois eixos perpendiculares, usualmente horizontal e vertical, cuja intersecção é
+denominada origem, estabelecida como base para a localização de qualquer ponto no
+plano;
+
+IV – Coordenadas UTM (Universal Transversa de Mercator): sistema de coordenadas
+métricas (m), baseado no plano cartesiano (eixo x,y) utilizado para medir distâncias e
+determinar a posição de objetos;
+V - Dados em estrutura matricial (Raster): representa dados espaciais que têm estrutura
+composta por uma matriz com linhas e colunas, na qual cada célula, denominada de pixel,
+apresenta um valor que pode indicar uma cor ou tom de cinza a ele atribuído. Esta matriz
+utiliza um sistema de coordenadas para a sua representação espacial. Esses arquivos
+podem ser provenientes de satélites orbitais, sensores embarcados em aeronaves
+tripuladas ou em, Aeronaves Remotamente Pilotadas (RPA), radar, dentre outros. Os dados
+raster geralmente são caracterizados por suas resoluções espacial/geométrica e temporal.
+
+VI - Dados primários: toda informação geoespacial gerada e obtida em campo ou utilizando
+imagem de satélite e fotografia aérea, tais como limite da área de estudo, limite do
+empreendimento, área de uso e ocupação, área de restrições legais de uso, área de
+restrições ambientais, dentre outros temas;
+
+VII - Documentos cartográficos: refere-se aos mapas, cartogramas e plantas que
+venham auxiliar na análise dos processos no âmbito do INEMA, tanto em formatos digitais
+quanto físicos;
+
+VIII - Escala cartográfica: relação ou proporção existente entre as distâncias lineares
+representadas no mapa e aquelas existentes no terreno, ou seja, na superfície real;
+
+IX- Informações georreferenciadas: são aquelas espacializadas, apresentadas no formato
+vetorial em representação geométrica, podendo ser ponto, linha ou polígono, em raster
+(imagem de satélite, ortofoto), ou através de documentação cartográfica (mapas,
+cartogramas, carta-imagem, plantas), sempre associadas a um Sistema de Referência
+Espacial (DATUM), permitindo a localização de objetos reais no espaço, especificamente
+em procedimentos técnicos ou atos autorizativos da SEMA e INEMA, referentes ao
+licenciamento ambiental, controle florestal, outorga de uso da água, e documentação
+técnica;
+
+X - Metadados: conjunto de informações descritivas sobre os dados, incluindo as
+características do seu levantamento, produção, qualidade e estrutura de armazenamento,
+essenciais para promover a sua documentação, integração e disponibilização;
+
+XI - Resolução espacial: refere-se ao tamanho do menor objeto que o sensor consegue
+distinguir no terreno e é determinada pelo tamanho do pixel da imagem, pois quanto
+menor o tamanho do pixel da imagem, maior a resolução espacial e melhor se enxerga e
+distingue os objetos na imagem; assim, se constitui na capacidade operacional de um
+sistema de sensoriamento remoto para produzir uma imagem nítida e bem definida,
+expressa em metros (resolução terrestre) ou em radianos (resolução do sensor);
+
+XII - Resolução temporal: indica o intervalo de tempo que o satélite leva para voltar a
+revisitar uma determinada área de interesse;
+
+XIII - Regras topológicas: são regras definidas em ambiente SIG para identificar, editar e
+validar a topologia das geometrias, como, por exemplo, sobreposição de polígonos, vazio
+entre polígonos adjacentes, cruzamento de linhas, conectividade de vértices de linhas;
+
+XIV - Dados geoespaciais vetoriais: são arquivos de vetores representados por primitivas
+geométricas dos tipos ponto, linha e polígono e que contêm a referência espacial, ou seja,
+são vetores localizados no espaço; podem ser no formato Shapefile, Feature Class
+(geodatabase), KML, KMZ, entre outros;
+
+XV - Sistema Geodésico de Referência: marco determinado por procedimentos geodésicos
+de alta precisão, que serve como ponto de referência para todos os levantamentos que
+venham a ser executados sobre uma determinada área do globo terrestre e que no Brasil,
+conforme a Resolução 01/02015, do Instituto Brasileiro de Geografia e Estatística (IBGE), o
+SIRGAS2000 (Sistema de Referência Geocêntrico para as Américas) é o sistema geodésico
+de referência oficial;
+
+XVI - Sistema de Coordenadas: referência para a localização de qualquer ponto na
+superfície terrestre, por meio de valores angulares (coordenadas esféricas) ou lineares
+(coordenadas planas) em um sistema de referência;
+
+XVII - Topologia: é a maneira pela qual são representadas as formas vetoriais de pontos,
+linhas e polígonos, para objetos em ambiente SIG, considerando a composição dessas
+feições, e garantindo as premissas reais e naturais destes objetos; por exemplo, duas
+poligonais de propriedade rural não podem estar sobrepostas, ao considerar que, na
+realidade, não existe sobreposição entre elas;
+
+XVIII - SIG WEB: plataforma de gerenciamento de dados geográficos que permite
+armazenar, analisar e manipular dados espaciais (geográficos) em ambiente Web, seja em
+redes corporativas (intranet) ou por meio da Internet.
+
+
+
+                               CAPÍTULO III
+ DAS INFORMAÇÕES GEORREFERENCIADAS APRESENTADAS OU UTILIZADAS PELO INEMA
+                              E PELA SEMA
+
+Art. 3º - As informações georreferenciadas apresentadas ao INEMA e à SEMA deverão
+atender aos seguintes critérios:
+
+I - Os dados vetoriais espaciais deverão ser entregues em formato shapefile, geodatabase
+ou em base de dados estruturados com sua modelagem definida em instrumentos
+específicos, tais como Termos de Referência, Acordos de Cooperação, Projetos e afins;
+
+II - Adotar o sistema geodésico SIRGAS 2000 - Sistema de Referência Geocêntrico para as
+Américas como oficial para as aplicações e/ou produtos geográficos produzidos pela SEMA
+e pelo INEMA;
+
+III - O levantamento em campo dos limites das áreas de interesse ambiental e área de uso
+pode ser realizado utilizando receptores GPS de navegação, GNSS de precisão (topográfico
+ou geodésico) ou estação total atentando-se às finalidades das atividades a serem
+desenvolvidas, considerando, eventualmente, as especificações técnicas definidas em
+Termos de Referência específicos e observando o inciso II deste artigo;
+
+IV - Aerolevantamentos em campo executado com Aeronaves Remotamente Pilotadas
+(RPA), conhecidas popularmente como drones, deverão obedecer, à Norma de Execução
+INCRA/DF nº 02 de 19 de Fevereiro de 2018, suas atualizações ou complementações para
+avaliação de produtos gerados para delimitação de imóveis, quando for caso, assim como
+todas as normas sobre registro do RPA, autorização e segurança de vôo vigentes;
+
+V - O processo de vetorização manual deverá utilizar imagem com resolução espacial
+compatível com a escala cartográfica do tema e ou feição mapeado;
+
+VI - Os arquivos vetoriais estruturados em linhas ou polígonos não devem apresentar
+inconsistências topológicas, tais como linhas inacabadas ou desconectadas, polígono
+aberto com nós desconectados, polígono interrompido e/ou incompleto, vértices cruzados,
+elemento duplicado, elemento coincidente, erro de fechamento de polígonos, elemento
+com vértices sobrepostos ou muito próximos;
+
+VII - As informações georreferenciadas devem ser generalizadas conforme escala de
+apresentação e de acordo com as geometrias de representação, ponto, linha ou polígono;
+
+Art. 4º - Os produtos georreferenciados elaborados pela unidade de geoprocessamento do
+INEMA contemplarão segmentos técnicos estratégicos e especializados:
+
+I - área de Produção de dados geoespaciais vetoriais, com foco em cartografia temática e
+produção de dados geoespaciais para meio ambiente e recursos hídricos;
+
+II - Produção de dados geoespaciais matriciais, com foco em aerolevantamento utilizando
+Aeronaves Remotamente Pilotadas – RPA, dando subsídio para a produção de dados
+vetoriais;
+
+III - Desenvolvimento de ações na área de Análise de Dados Geoespaciais, servindo de
+subsídio às áreas fim do INEMA, para licenciamento, fiscalização, monitoramento,
+biodiversidade e conservação;
+
+IV - Desenvolvimento de ações na área de Inovação Tecnológica e Gestão de Informações
+Geoespaciais no segmento de gestão de projetos de geoprocessamento.
+
+Art. 5º Os sistemas desenvolvidos ou utilizados pela SEMA e INEMA que produzem,
+acessam ou disponibilizam dados espaciais, ou que dispõem de ferramentas e
+funcionalidade com inteligência geográfica deverão atender aos dispositivos desta
+Instrução Normativa, visando garantir os critérios técnicos de qualidade da informação
+espacial.
+
+                              CAPÍTULO IV
+         DOS DOCUMENTOS CARTOGRÁFICOS PARA APRESENTAÇÃO AO INEMA
+
+Art. 6º - Os documentos cartográficos apresentados ao INEMA e à SEMA deverão atender
+aos critérios específicos para produção de cartogramas, mapas e plantas, conforme
+orientações técnicas estabelecidas no âmbito da Cartografia de Referência (Sistemática) e
+Cartografia Especial (Temática) com relação aos elementos constituintes do mapa e seus
+métodos de implantação, critérios qualitativos (eficácia, concisão e completude), bem
+como precisão e legibilidade.
+                                    CAPÍTULO V
+                             DO CADASTRO DE METADADOS
+
+Art. 7º - Os metadados de arquivos vetoriais, raster, serviços web, aplicativos ou
+documentação cartográfica deverão ser cadastrados para atender aos seguintes requisitos:
+
+
+I - todos os dados geoespaciais apresentados à SEMA e ao INEMA, assim como aqueles que
+são produzidos por estes órgãos devem possuir informações de seus metadados, e sua
+padronização deve estar de acordo com as orientações técnicas estabelecidas pela
+Comissão Estadual de Cartografia e Geoinformação (CECAR), do Estado da Bahia;
+
+II - as informações referentes ao conteúdo dos metadados geoespaciais devem ser
+apresentadas em conformidade com os padrões de publicação estabelecidos na
+Infraestrutura de Dados Espaciais do Estado da Bahia - IDE-BAHIA, que podem ser
+acessadas via o Geoportal da IDE-BAHIA, na web;
+
+Parágrafo único. O preenchimento do conteúdo de metadados geoespaciais tem como
+objetivo descrever as características, possibilidades e limitações de uso dos dados, através
+de informação estruturada e documentada, conforme Guia para Preenchimento de
+Metadados na Ferramenta GeoNetwork, disponível no site: geoportal.ide.ba.gov.br;
+
+                                    CAPÍTULO VI
+                             DO SIGWEB OFICIAL DO INEMA
+
+
+Art. 8º - O Geobahia é um SIGweb interligado a um banco de dados espacial (SGBD), que
+contém dados da política ambiental e dos recursos hídricos permitindo a consulta, a
+integração e a disponibilização de dados, possibilitando auxílio à análise técnica de
+procedimentos da administração pública na área ambiental.
+
+§ 1º As informações geoespaciais, serviços de dados, mapas e aplicativos SIG WEB, poderão
+ser publicados e ou integrados ao GEOBAHIA, para acesso pelos diversos órgãos e
+instituições da administração pública federal, estadual e municipal, universidades e
+sociedade;
+
+§ 2º Os dados geoespaciais, ferramentas ou serviços disponíveis no Geobahia adotarão
+critérios técnicos estabelecidos nesta Instrução Normativa visando garantir a acurácia
+posicional, temática e consistência de seus metadados salvaguardando a qualidade de
+todos os produtos disponibilizados.
+
+
+                                      CAPÍTULO VII
+                                 DAS DISPOSIÇÕES FINAIS
+
+Art. 9º - Esta Instrução Normativa entrará em vigor na data de sua publicação.
+Art. 10 - Revogam-se a Portaria IMA nº 13.950, de 31 de Dezembro de 2010, e a Instrução
+Normativa INGÁ nº 14, de 18 de Setembro de 2009, e demais disposições em contrário.
+
+
+MÁRCIA CRISTINA TELLES DE ARAÚJO LIMA
+Secretária do Meio Ambiente e Diretora Geral do INEMA
+

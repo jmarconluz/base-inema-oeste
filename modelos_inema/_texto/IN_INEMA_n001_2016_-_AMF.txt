@@ -1,0 +1,457 @@
+INSTRUÇÃO NORMATIVA Nº 001, DE 12 DE DEZEMBRO DE 2016. Dispõe sobre as diretrizes, critérios e
+procedimentos administrativos para autorizações ambientais para o manejo de fauna silvestre em processos de
+licenciamento ambiental, envolvendo o levantamento, salvamento e monitoramento de fauna silvestre e dá outras
+providências.
+
+A DIRETORA GERAL DO INSTITUTO DO MEIO AMBIENTE E RECURSOS HÍDRICOS - INEMA, no uso de suas
+atribuições conferidas pelos incisos I, IV, e X do art. 106 da Lei Estadual nº 12.212/2011 e consoante Lei Estadual nº
+10.431/2006, com alterações trazidas pela Lei Estadual nº 12.377/2011, regulamentada pelo Decreto nº 14.024/12,
+
+Considerando a necessidade de estabelecer critérios e padronizar os procedimentos administrativos de Autorização
+para Manejo de Fauna Silvestre em processos de Licenciamento Ambiental, visando à implementação das Políticas
+Ambientais de Meio Ambiente e de Proteção da Biodiversidade.
+
+RESOLVE:
+
+Art. 1º. Estabelecer as diretrizes, critérios e procedimentos para a solicitação de Autorização para Manejo de Fauna
+Silvestre no âmbito do Licenciamento Ambiental do Estado da Bahia, através do Levantamento, Salvamento e
+Monitoramento de Fauna Silvestre, em áreas de influência de empreendimentos e atividades consideradas efetivas ou
+potencialmente causadoras de impactos à fauna.
+
+                                                    CAPÍTULO I
+                                                  DAS DEFINIÇÕES
+
+Art. 2º. Para fins de aplicação desta Instrução Normativa são adotadas as seguintes definições:
+
+I - Afugentamento: Procedimento sistemático e pré-determinado, da atividade de Salvamento, que estimule a fuga dos
+espécimes faunísticos presentes na área diretamente afetada pelo empreendimento em direção à área a ser
+preservada.
+
+II - Autorização para Manejo de Fauna Silvestre (AMF): É o ato administrativo por meio do qual o órgão ambiental
+autoriza o manejo de fauna silvestre que se destine à realização de atividades de pesquisa científica, resgate,
+afugentamento, monitoramento, soltura, reintrodução, reabilitação e outras ações correlatas.
+
+III - Campanha: Conjunto de dias ou semanas em determinado período do ano, no qual é realizado o Estudo de Fauna
+Silvestre.
+
+IV - Captura: Deter, conter ou impedir, temporariamente, por meio químico ou mecânico, a movimentação de um animal,
+seguido de soltura.
+
+V - Coleta: Retirada de animais silvestres do seu habitat natural pela remoção do indivíduo ou de amostras biológicas.
+
+VI - Esforço Amostral: Análise estatística dos estudos de fauna que utiliza, no mínimo, três parâmetros associados ao
+tempo, tamanho da área e o número de unidades amostrais.
+
+VII - Estudos ambientais: Estudos apresentados como subsídio para a análise de licenças ou autorizações ou qualquer
+outro que permita mensurar, analisar, verificar os efeitos da interferência humana no ambiente.
+
+VIII - Fauna Silvestre Nativa: São todos aqueles animais pertencentes às espécies nativas, migratórias e quaisquer
+outras, aquáticas ou terrestres, que tenham todo ou parte de seu ciclo de vida ocorrendo dentro dos limites do território
+brasileiro, ou em águas jurisdicionais brasileiras.
+
+IX - Manejo de Fauna: Qualquer ação que implique em contenção, captura, coleta, manipulação e transporte de animais,
+ainda que haja devolução imediata dos mesmos à natureza.
+X - Material Biológico: organismos mortos ou partes destes pertencentes à fauna silvestre.
+
+XI - Plano para Manejo de Fauna Silvestre: Documento técnico exigido pelo órgão licenciador contendo a descrição dos
+materiais e métodos de manejo de fauna para a realização de estudos. Pode ser de três tipos: Plano para
+Levantamento, Salvamento e Monitoramento.
+
+XII - Plano para Levantamento ou Inventário de Fauna: Documento técnico contendo a descrição dos materiais e
+métodos de manejo a fim de obter informações sobre a composição e organização das assembléias de fauna na área
+diretamente afetada e nas áreas de influência direta e indireta do empreendimento.
+
+XIII - Plano para Salvamento de Fauna: Documento técnico contendo a descrição do conjunto de atividades
+coordenadas e pré-determinadas, executadas para retirar os animais da área diretamente afetada pelo
+empreendimento, através de afugentamento e/ou resgate, aplicando as técnicas de captura, coleta e soltura, por meio
+do remanejamento dos mesmos para áreas pré-estabelecidas.
+
+XIV - Plano para Monitoramento de Fauna: Documento técnico contendo a descrição dos materiais e métodos de
+manejo para a realização de estudo regular que permite a avaliação dos impactos da instalação e/ ou operação do
+empreendimento sobre a comunidade de fauna.
+
+XV – Ponto de Amostragem: Local exato da disposição de um artefato de captura e registro de fauna.
+
+XVI - Posto de Triagem de Animais Silvestres: Local temporário utilizado para o recebimento, triagem e atendimento
+veterinário de animais capturados na execução das atividades de manejo de fauna silvestre no Licenciamento
+Ambiental.
+
+XVII - Resgate de Fauna: Procedimento sistemático e pré-determinado, da atividade de Salvamento, onde os espécimes
+são retirados da área diretamente afetada pelo empreendimento, através da captura e coleta, e posteriormente soltos
+em áreas semelhantes ao ambiente de origem.
+
+XVIII - Sítio Amostral: Área dentro da poligonal do empreendimento onde são realizados os estudos de fauna através
+dos diversos métodos. Em um mesmo empreendimento, podem ter vários sítios.
+
+XIX - Soltura: Devolução dos espécimes de fauna previamente capturados, aos habitats originais ou similares.
+
+XX - Transporte de Fauna: Deslocamento no território nacional, na plataforma continental, no mar territorial ou na zona
+econômica exclusiva.
+
+                                             CAPÍTULO II
+                            DA AUTORIZAÇÃO PARA MANEJO DE FAUNA SILVESTRE
+
+Art. 3º. O Manejo da Fauna Silvestre realizado por empreendimentos e atividades sujeitas ao licenciamento ambiental
+estadual deverá ser previamente autorizado pelo INEMA através de Autorização para Manejo de Fauna Silvestre.
+
+§ 1º. A Autorização para Manejo de Fauna Silvestre será concedida ao empreendimento identificado no requerimento da
+referida autorização e não à empresa de consultoria que realizará o estudo.
+
+§ 2º. As AMF’s são intransferíveis.
+
+Art. 4º. A Autorização para Manejo de Fauna Silvestre para empreendimentos licenciados pelo órgão estadual, quando
+exigíveis, será parte componente do licenciamento ambiental, respeitada sua fase, e será concedida no respectivo ato
+autorizativo.
+
+§ 1º. Para realização de estudo que necessite manejar fauna e que não esteja vinculado ao licenciamento ambiental
+estadual, será necessária a formação do processo de AMF e sua concessão ocorrerá mediante certificado/portaria.
+§2º. Não é necessária Autorização para Manejo de Fauna Silvestre para os procedimentos de estudos de fauna
+realizados somente por meio de observação direta, registro fotográfico e/ ou gravação de som, no âmbito do
+licenciamento ambiental de empreendimentos, salvo nos casos em que houver manifestação diversa deste INEMA.
+
+Art. 5º. O INEMA poderá requerer estudos ambientais específicos para complementar as informações sobre os recursos
+faunísticos existentes em determinada região ou ecossistema, caso julgue necessário.
+
+Art. 6º. No âmbito do Licenciamento Ambiental Estadual serão considerados os seguintes planos de manejo de fauna
+silvestre:
+
+I – levantamento;
+
+II – salvamento;
+
+III – monitoramento.
+
+Art. 7º. As solicitações de Autorização para Manejo de Fauna Silvestre deverão ser requeridas perante o INEMA nas
+formas ou situações seguintes:
+
+§ 1º. Na Licença Prévia - LP, de empreendimentos não passíveis de EIA-RIMA, a AMF será vinculada ao processo de
+LP, contendo o Plano para Levantamento de Fauna Silvestre, conforme capítulo III desta Instrução Normativa. A
+autorização para a execução deste Plano será concedida através do respectivo ato autorizativo.
+
+§ 2º. Na Licença Prévia, de empreendimentos passíveis de EIA-RIMA, deve ser entregue o Plano para Levantamento de
+Fauna Silvestre conforme capítulo III desta IN, para compor o Termo de Referência - TR. A autorização para a execução
+deste Plano estará integrada ao respectivo TR.
+
+§ 3º. Na Licença de Instalação, que presumir supressão de vegetação e/ou enchimento de barragem, deve ser entregue
+o Plano para Salvamento de Fauna Silvestre conforme capítulo IV desta Instrução Normativa. A autorização para a
+execução deste Plano será concedida através do respectivo Ato Autorizativo.
+
+§ 4º. Na Licença de Operação, deverá ser entregue o Plano para Monitoramento de Fauna Silvestre, conforme capítulo
+V desta Instrução Normativa. A autorização para a execução deste Plano será concedida através do respectivo ato
+autorizativo.
+
+§ 5º. Na Licença de Alteração deverão ser entregues os Planos de Salvamento de Fauna Silvestre, quando couber, e de
+Monitoramento de Fauna Silvestre, conforme capítulos IV e V desta IN, respectivamente. A autorização para a execução
+destes Planos será concedida através do respectivo ato autorizativo.
+
+§ 6º. Na Licença Unificada, deverão ser entregues o resultado do Levantamento de Fauna Silvestre das Áreas de
+influência do empreendimento, com base em dados secundários, os Planos de Salvamento de Fauna Silvestre e
+Monitoramento de Fauna Silvestre conforme capítulos IV e V desta IN, respectivamente, quando couber. A autorização
+para a execução destes Planos será concedida através do respectivo ato autorizativo.
+
+§ 7º Na Licença de Regularização, deverão ser entregues o resultado do Levantamento de Fauna Silvestre das Áreas de
+influência do empreendimento, com base em dados secundários e o Plano de Salvamento de Fauna Silvestre ou de
+Monitoramento de Fauna Silvestre, conforme capítulo IV e V desta IN, respectivamente, de acordo com a fase que o
+empreendimento se encontra. A autorização para a execução destes Planos será concedida através do respectivo ato
+autorizativo.
+
+Art. 8º. A Autorização para Manejo de Fauna Silvestre terá seu prazo de validade de acordo com o respectivo ato
+autorizativo que esteja vinculada.
+Parágrafo único. Para Autorização para Manejo de Fauna Silvestre que não esteja vinculado à licença ambiental
+estadual, o prazo de validade será estipulado de acordo com seu plano de manejo de fauna apresentado.
+
+Art. 9º. O Plano para Manejo de Fauna Silvestre, depois de aprovado, não poderá ser alterado sem que as modificações
+sejam devidamente aprovadas pelo INEMA.
+
+Parágrafo único. Qualquer mudança na equipe executora dos Planos para Manejo de Fauna Silvestre deve ser
+comunicada antecipadamente ao INEMA.
+
+Art. 10. As autorizações ambientais destinadas a supressão de vegetação, concedidas pelo órgão competente da esfera
+municipal, não dispensa a obrigatoriedade da anuência e autorizações deste INEMA no que tange aos programas de
+proteção e manejo de fauna silvestre (levantamento, Salvamento e monitoramento de Fauna Silvestre), devendo ser
+obtida junto ao INEMA a Autorização para Manejo de Fauna Silvestre antes da execução das atividades relacionadas à
+supressão.
+
+Art. 11. O empreendimento deverá apresentar carta de aceite de instituição habilitada a receber animais que por ventura
+não possam ser devolvidos à natureza, em decorrência de alguma injúria advinda na execução do empreendimento,
+devendo este custear sua reabilitação até sua soltura.
+
+Art. 12. Quando o Plano de Manejo de Fauna Silvestre prever anilhamento, deverá ser apresentado registro ou
+autorização para anilhamento de aves, do Centro Nacional de Pesquisa e Conservação de Aves Silvestres – CEMAVE.
+
+Art. 13. Espécies exóticas capturadas durante os estudos não deverão ser introduzidas no ambiente natural e deverão
+ser destinadas de acordo com Plano para Manejo de Fauna Silvestre.
+
+Art. 14. Quando a área de Manejo de Fauna Silvestre estiver inserida em área de terceiros deverá ser apresentada
+Autorização do responsável legal, registrada em cartório.
+
+Parágrafo único. Caso esteja inserida em Unidade de Conservação, deverá ser apresentada Carta de Aceite do gestor.
+
+Art. 15. O material biológico coletado, quando for o caso, deverá ser depositado em coleção biológica científica, e estar
+prioritariamente dentro do Estado da Bahia e na região de ocorrência do empreendimento, devendo ser apresentada
+carta de aceite deste material pela instituição.
+
+
+                                               CAPÍTULO III
+                          DA AUTORIZAÇÃO PARA LEVANTAMENTO DA FAUNA SILVESTRE
+
+Art.16. A solicitação de Autorização para Levantamento de Fauna Silvestre deverá ocorrer anteriormente à execução
+dos estudos, mediante a apresentação do Plano para Levantamento de Fauna Silvestre, e a inexistência de tal
+solicitação poderá implicar a suspensão do trâmite do processo de licenciamento até a regularização da situação.
+
+Parágrafo único. Na ausência de levantamento prévio à implantação do empreendimento, o INEMA poderá exigir
+Levantamento alternativo em áreas de características semelhantes, próximas ao local de implantação, caso julgue
+necessário.
+
+Art. 17. O Plano para Levantamento de Fauna Silvestre deverá conter:
+
+§ 1º. Objetivos e justificativas.
+
+§ 2º. Descrição da área do empreendimento, com breve caracterização climática e condições meteorológicas, dando
+enfoque para o regime pluviométrico, temperatura, recursos hídricos e relevo local.
+§ 3º. Mapa das áreas de influência, contendo: imagem satélite ou fotografia aérea, limite do empreendimento, área
+diretamente afetada e as áreas de influência direta e indireta, no formato de arquivo PDF.
+
+§ 4º. Mapa de restrições ambientais, identificando: o limite empreendimento, destacando biomas, vegetação existente,
+hidrografia (corpos d’água permanentes e temporários), Áreas de Preservação Permanente (APP), Área de Reserva
+Legal, pontos de amostragem de fauna, áreas especialmente protegidas, no formato de arquivo PDF.
+
+§ 5º. Lista de espécies da fauna silvestre descritas para localidade ou região, preferencialmente com base em dados
+secundários, podendo-se utilizar de dados primários, para complementação dos estudos, informando as respectivas
+referências. Nesta lista deve constar o nome científico, o popular, a família, as espécies passíveis de serem utilizadas
+como indicadoras de qualidade ambiental, as de importância econômica e cinegética, as potencialmente invasoras ou de
+risco epidemiológico, as migratórias, a forma de registro, habitat e o status de Conservação segundo os dados da União
+Internacional para Conservação da Natureza – IUCN e o Livro Vermelho da Fauna Brasileira Ameaçada de Extinção,
+mais atual. Esta informação deve ser apresentada na forma de tabela.
+
+§ 6º. Descrição detalhada, para cada grupo taxonômico a ser avaliado, da metodologia que será utilizada. Esta
+descrição deve conter no mínimo, as seguintes informações:
+
+I - Quantidade de campanhas e periodicidade, tempo de duração de cada campanha de levantamento, informando a
+quantidade de dias no campo, os horários previstos de campo e o número de profissionais envolvidos em cada
+campanha;
+
+II - Esforço e eficiência amostral por sítio, campanha e método, para cada grupo taxonômico (horas, km,
+armadilhas/noite, h/m²), em cada fitofisionomia, contemplando a sazonalidade da área amostrada, parâmetros de
+riqueza e abundância das espécies, índice de diversidade e demais análises estatísticas pertinentes;
+
+III - Descrição detalhada dos equipamentos, materiais e petrechos que serão utilizados no levantamento, informando as
+quantidades, os tipos, os formatos, tamanhos, volumes e malhas, conforme o caso, bem como outras informações
+pertinentes;
+
+IV - Detalhamento dos métodos de captura e coleta, do delineamento amostral, do posicionamento das armadilhas ou
+redes, da composição das iscas, da periodicidade de revisão das armadilhas e/ou redes;
+
+V - Descrição dos procedimentos a serem adotados para os exemplares capturados ou coletados (vivos ou mortos),
+informando os critérios de identificação individual, registro e biometria, os métodos de marcação e soltura;
+
+VI - Indicar o destino dos espécimes de fauna que porventura não possam ser devolvidos a natureza, apresentando um
+parecer clínico com prontuário ou ficha clínica, de cada animal.
+
+§ 7º. Para a coleta de dados bioespeleológicos deverão ser amostradas todas as cavidades naturais presentes na ADA
+e AID, seguindo todo detalhamento descrito no parágrafo 6º deste artigo. As informações deverão ser apresentadas de
+maneira discriminada para cada cavidade natural. Deverá também, ser realizada análise de similaridade
+bioespeleológica e grau de relevância entre as cavidades naturais.
+
+§ 8º. Apresentação do cronograma físico das campanhas de amostragem de campo contemplando a sazonalidade das
+amostras.
+
+                                            CAPÍTULO IV
+                         DA AUTORIZAÇÃO PARA SALVAMENTO DA FAUNA SILVESTRE
+Art. 18. A concessão de autorização para realização de Salvamento de Fauna Silvestre na área do empreendimento e
+sua respectiva área de influência far-se-á mediante a apresentação do Plano para Salvamento de Fauna Silvestre e dos
+resultados obtidos no Plano para Levantamento de Fauna Silvestre.
+
+§ 1º. Para empreendimentos em que haja a necessidade de Posto de Triagem de Animais Silvestres, a autorização de
+salvamento só será emitida após sua implementação.
+
+§ 2º. Realizar treinamento específico em manejo de fauna silvestre para toda equipe que participar do salvamento de
+fauna, incluindo tratoristas, caminhoneiros, operadores de motosserras da empresa ou terceirizados, que deverá constar
+neste plano.
+
+Art. 19. A Autorização para Salvamento de Fauna Silvestre, que também concede a realização do transporte da fauna,
+tem validade somente no território do Estado da Bahia, sendo necessária autorização do órgão ambiental federal para o
+transporte interestadual de fauna.
+
+Parágrafo único: Para o transporte interestadual do material biológico coletado, não se faz necessária autorização do
+órgão ambiental federal.
+
+Art. 20. O Plano para Salvamento de Fauna deverá conter:
+
+§ 1º. Objetivos e justificativas.
+
+§ 2º. Descrição da área do empreendimento, com breve caracterização climática e condições meteorológicas, dando
+enfoque para o regime pluviométrico, temperatura, recursos hídricos e relevo local.
+
+§ 3º. Mapa das áreas de influência, contendo: imagem satélite ou fotografia aérea, limite do empreendimento, área
+diretamente afetada e as áreas de influência direta e indireta, no formato de arquivo PDF.
+
+§ 4º. Mapa de restrições ambientais, identificando: o limite empreendimento, destacando a área de salvamento da fauna,
+biomas, vegetação existente, hidrografia (corpos d’água permanentes e temporários), Áreas de Preservação
+Permanente (APP), Área de Reserva Legal, áreas especialmente protegidas, no formato de arquivo PDF.
+
+§ 5º. Mapa das áreas de soltura, contendo: imagem satélite ou fotografia aérea, a poligonal das áreas de soltura
+preestabelecidas com a descrição da caracterização de sua vegetação que deverá apresentar fisionomia semelhante à
+área que os espécimes foram capturados, no formato de arquivo PDF.
+
+§ 6º. Descrição da estrutura física, incluindo croqui das instalações relacionadas ao Plano para Salvamento de Fauna
+Silvestre, suas localizações e vias de acesso. Quando necessária, deverá estar prevista a instalação de posto de
+triagem, onde os animais ficarão temporariamente alojados.
+
+§ 7º. Lista de espécies da fauna silvestre descritas para localidade ou região, preferencialmente com base em dados
+obtidos no Levantamento de Fauna Silvestre, podendo-se utilizar de dados secundários, informando as respectivas
+referências. Nesta lista deve constar o nome científico, o popular, a família, as espécies passíveis de serem utilizadas
+como indicadoras de qualidade ambiental, as de importância econômica e cinegética, as potencialmente invasoras ou de
+risco epidemiológico, as migratórias, a forma de registro, habitat e o status de Conservação segundo os dados da União
+Internacional para Conservação da Natureza – IUCN e o Livro Vermelho da Fauna Brasileira Ameaçada de Extinção,
+mais atual. Esta informação deve ser apresentada na forma de tabela.
+
+§ 8º. Descrição detalhada, para cada grupo taxonômico a ser avaliado, da metodologia que será utilizada. Esta
+descrição deve conter no mínimo, as seguintes informações:
+
+I - Quantidade de dias e horários previstos no campo e o número de profissionais envolvidos;
+II - A equipe de profissionais envolvidos com o Salvamento de fauna silvestre deverá ser compatível com a área total do
+ambiente a ser suprimido e a velocidade da supressão ou regime de enchimento do reservatório;
+
+III - Definição da direção da supressão e/ ou do afugentamento da fauna silvestre para auxiliar na execução do
+salvamento, utilizando dispositivos que favoreçam a fuga espontânea da fauna;
+
+IV - Descrição detalhada dos equipamentos, materiais e petrechos que serão utilizados no salvamento, informando as
+quantidades, os tipos, os formatos, tamanhos, volumes e malhas, conforme o caso, bem como outras informações
+pertinentes;
+
+V - Detalhamento dos métodos de captura e coleta, do delineamento amostral, do posicionamento das armadilhas ou
+redes, da composição das iscas, da periodicidade de revisão das armadilhas e/ou redes;
+
+VI - Descrição dos procedimentos a serem adotados para os exemplares capturados ou coletados (vivos ou mortos),
+informando os critérios de identificação individual, registro e biometria, os métodos de marcação e soltura;
+
+VII - Indicar o destino dos espécimes de fauna que porventura não possam ser devolvidos a natureza, apresentando um
+parecer clínico com prontuário ou ficha clínica, de cada animal.
+
+§ 9º. Para salvamento bioespeleológico, deverão ser consideradas todas as cavidades naturais presentes na ADA e
+AID, seguindo o detalhamento descrito no parágrafo 8º deste artigo.
+
+
+§ 10. Apresentação do cronograma físico das campanhas de amostragem de campo contemplando a sazonalidade das
+amostras.
+
+                                            CAPÍTULO V
+                       DA AUTORIZAÇÃO PARA MONITORAMENTO DA FAUNA SILVESTRE
+
+
+Art. 21. A concessão de autorização para realização de monitoramento de fauna silvestre nas áreas preestabelecidas
+no Plano para Salvamento de Fauna Silvestre far-se-á mediante a apresentação do Plano para Monitoramento de Fauna
+Silvestre e dos resultados obtidos no Plano para Salvamento de Fauna Silvestre.
+
+Art. 22. O Plano para Monitoramento de Fauna Silvestre deverá conter:
+
+§ 1º. Objetivos e justificativas, incluindo a escolha dos grupos a serem monitorados.
+
+§ 2º. Descrição da área do empreendimento, com breve caracterização climática e condições meteorológicas, dando
+enfoque para o regime pluviométrico, temperatura, recursos hídricos e relevo local.
+
+§ 3º. Mapa das áreas de influência, contendo: imagem satélite ou fotografia aérea, limite do empreendimento, área
+diretamente afetada e as áreas de influência direta e indireta, no formato de arquivo PDF.
+
+§ 4º. Mapa de restrições ambientais, identificando: o limite empreendimento, destacando pontos de amostragem de
+fauna, biomas, vegetação existente, hidrografia (corpos d’água permanentes e temporários), Áreas de Preservação
+Permanente (APP), Área de Reserva Legal e as áreas especialmente protegidas presentes nas áreas de
+monitoramento, no formato de arquivo PDF.
+
+§ 5º. Seleção e justificativa de áreas controle para monitoramento da fauna silvestre. Nestas áreas não poderão ter
+ocorrido soltura de animais e o tamanho total das áreas controle a serem monitoradas deverá ser representativo,
+contemplando todas as fitofisionomias distribuídas ao longo de toda a área de influência do empreendimento.
+§ 6º. Apresentação dos resultados, a análise e discussão dos Estudos de Levantamento e Salvamento de Fauna
+Silvestre, enfatizando a lista de espécies e comparando-as para servir como parâmetro para o monitoramento. Nesta
+lista deve constar o nome científico, o popular, a família, as espécies passíveis de serem utilizadas como indicadoras de
+qualidade ambiental, as de importância econômica e cinegética, as potencialmente invasoras ou de risco
+epidemiológico, as migratórias, a forma de registro, habitat e o status de Conservação segundo os dados da União
+Internacional para Conservação da Natureza – IUCN e o Livro Vermelho da Fauna Brasileira Ameaçada de Extinção,
+mais atual. Esta informação deve ser apresentada na forma de tabela.
+
+§ 7º. Programas específicos de conservação e monitoramento para as espécies ameaçadas de extinção, contidas em
+lista oficial, registradas nas áreas de influência do empreendimento, consideradas como impactadas pelo
+empreendimento.
+
+§ 8º. Descrição detalhada, para cada grupo taxonômico a ser monitorado, da metodologia que será utilizada. Esta
+descrição deve conter no mínimo, as seguintes informações:
+
+I - Quantidade de campanhas e periodicidade, tempo de duração de cada campanha de monitoramento, informando a
+quantidade de dias no campo, os horários previstos de campo e o número de profissionais envolvidos em cada
+campanha;
+
+II - Esforço e eficiência amostral por sítio, campanha e método, para cada grupo taxonômico (horas, km,
+armadilhas/noite, h/m²), em cada fitofisionomia, contemplando a sazonalidade da área amostrada, parâmetros de
+riqueza e abundância das espécies, índice de diversidade e demais análises estatística pertinentes;
+
+III - Descrição detalhada dos equipamentos, materiais e petrechos que serão utilizados no monitoramento, informando
+as quantidades, os tipos, os formatos, tamanhos, volumes e malhas, conforme o caso, bem como outras informações
+pertinentes;
+
+IV - Detalhamento dos métodos de captura e coleta, do delineamento amostral, do posicionamento das armadilhas ou
+redes, da composição das iscas, da periodicidade de revisão das armadilhas e/ou redes;
+
+V - Descrição dos procedimentos a serem adotados para os exemplares capturados ou coletados (vivos ou mortos),
+informando os critérios de identificação individual, registro e biometria, os métodos de marcação e soltura;
+
+VI - Indicar o destino dos espécimes de fauna que porventura não possam ser devolvidos a natureza, apresentando um
+parecer, clínico com prontuário ou ficha clínica, de cada animal.
+
+§ 9º. Para o monitoramento bioespeleológico, deverão ser consideradas todas as cavidades naturais presentes na ADA
+e AID, seguindo o detalhamento descrito no parágrafo 8º deste artigo.
+
+§ 10. Apresentação do cronograma físico das campanhas de amostragem de campo contemplando a sazonalidade das
+amostras.
+
+Art. 23. Em caso de empreendimentos que contenham estruturas e equipamentos que minimizem o impacto sobre a
+fauna, deverá estar previsto o monitoramento desses para avaliar o seu funcionamento e eficiência.
+
+                                                    CAPÍTULO VI
+                                                DISPOSIÇÕES FINAIS
+
+Art. 24. Os Planos para Manejo de Fauna Silvestre deverão ser elaborados e executados por profissional habilitado.
+
+I - Quando o Plano para Manejo de Fauna Silvestre for elaborado por uma pessoa ou uma equipe e executado por outra,
+devem ser apresentadas as ART's dos responsáveis pela elaboração e pela execução;
+II - O Plano para Manejo de Fauna Silvestre deverão ser rubricados por página e assinados pelos responsáveis
+técnicos;
+
+III -Todos os membros da equipe técnica, responsáveis técnicos e coordenadores deverão apresentar Cadastro Técnico
+Federal – CTF e registro nos respectivos Conselhos de Classe.
+
+Art. 25. Os mapas deverão ser legíveis, com escalas, informações das origens dos dados e datas, respeitando as
+normas cartográficas vigentes.
+
+§ 1º. Os mapas apresentados deverão conter as Anotações de Responsabilidade Técnica (ART’s) dos profissionais
+responsáveis pela elaboração dos mesmos.
+
+Art. 26. A empresa de consultoria deverá apresentar o Cadastro Técnico Federal de Atividades e Instrumentos de
+Defesa Ambiental.
+
+Art. 27. O INEMA poderá exigir a presença de um médico veterinário ou um contrato com um serviço de medicina
+veterinária de acordo com a análise dos Planos apresentados.
+
+Art. 28. Todos os animais capturados em qualquer etapa do Manejo de Fauna Silvestre deverão ser identificados até o
+menor nível taxonômico possível.
+
+Art. 29. Autorização para Manejo de Fauna Silvestre deverá permanecer no local do estudo durante toda execução do
+projeto, devendo ser apresentada ao órgão fiscalizador sempre que for solicitado.
+
+Art. 30. Verificadas irregularidades ou ilicitudes praticadas na execução dos Planos para Manejo de Fauna Silvestre,
+além das penalidades impostas em lei, em especial Lei nº 9.605/98, o INEMA poderá proceder com a suspensão da
+Autorização para Manejo de Fauna Silvestre concedida.
+
+Art. 31. A qualquer momento da análise, o INEMA poderá solicitar outras informações ou documentos, caso julgue
+necessário.
+
+Art. 32. Os Planos para Manejo de Fauna Silvestre deverão atender o disposto nesta Instrução Normativa.
+
+Art. 33. Os casos omissos nesta Instrução Normativa serão resolvidos em Atos Administrativos específicos a serem
+expedidos pela Diretoria Geral do INEMA.
+
+Art. 34. Esta Instrução Normativa entra em vigor na data de sua publicação.
+
+                                   MÁRCIA CRISTINA TELLES DE ARAÚJO LIMA
+                                                Diretora Geral
+
