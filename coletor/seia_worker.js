@@ -42,9 +42,22 @@ window.SEIAW = (function () {
     fim.setUint32(12, tamCentral, true); fim.setUint32(16, off, true);
     return new Blob([...partes, ...central, fim.buffer], { type: 'application/zip' });
   }
-  function salvarArquivo(blob, nome) {
-    const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = nome; document.body.appendChild(a); a.click(); a.remove();
-    setTimeout(() => URL.revokeObjectURL(a.href), 120000);
+  // Em vez de baixar direto (o app bloqueia downloads em segundo plano), guarda o zip numa fila do
+  // IndexedDB ('eco_fila'). A aba "bomba" (bomba_seia.js) baixa a fila em lotes logo após recarregar.
+  function fila() { return new Promise((res, rej) => { const r = indexedDB.open('eco_fila', 1); r.onupgradeneeded = () => r.result.createObjectStore('q'); r.onsuccess = () => res(r.result); r.onerror = () => rej(r.error); }); }
+  async function salvarArquivo(blob, nome) {
+    const db = await fila();
+    await new Promise((res, rej) => { const t = db.transaction('q', 'readwrite'); t.objectStore('q').put({ nome, blob, tam: blob.size, ts: Date.now() }, nome); t.oncomplete = res; t.onerror = () => rej(t.error); });
+    db.close();
+    try { localStorage.setItem('eco_tot', String(Number(localStorage.getItem('eco_tot') || 0) + blob.size)); } catch (e) { }
+  }
+  // pausa enquanto houver muito arquivo esperando para ir do C: para o E: (padrão 8 GB na fila)
+  async function aguardarEspaco() {
+    for (;;) {
+      const tot = Number(localStorage.getItem('eco_tot') || 0), dren = Number(localStorage.getItem('eco_drenado') || 0);
+      const lim = Number(localStorage.getItem('eco_limite') || 8e9);
+      if (tot - dren < lim || !state.rodando) return; state.pausado = true; await sleep(30000);
+    }
   }
 
   async function esperar(cond, ms = 60000, passo = 200) { const t0 = Date.now(); while (Date.now() - t0 < ms) { try { const v = cond(); if (v) return v; } catch (e) { } await sleep(passo); } throw new Error('tempo esgotado'); }
@@ -84,7 +97,12 @@ window.SEIAW = (function () {
     const form = $('formDetalharProcesso'); const fd = new URLSearchParams(new FormData(form)); fd.set(d.campo + '.x', '5'); fd.set(d.campo + '.y', '5');
     let r; for (let k = 0; k < 3; k++) { try { r = await fetch(form.action, { method: 'POST', body: fd, headers: { 'Content-Type': 'application/x-www-form-urlencoded' } }); if (r.ok) break; } catch (e) { } await sleep(3000 * (k + 1)); }
     if (!r || !r.ok) throw new Error('download falhou: ' + d.arquivo);
-    if (/text\/html/i.test(r.headers.get('content-type') || '')) throw new Error('SESSAO? resposta HTML em ' + d.arquivo);
+    if (/text\/html/i.test(r.headers.get('content-type') || '')) {
+      state.htmlSeguidos = (state.htmlSeguidos || 0) + 1;
+      if (state.htmlSeguidos >= 8) throw new Error('SESSAO? 8 respostas HTML seguidas');
+      throw new Error('documento indisponível (HTML): ' + d.arquivo);
+    }
+    state.htmlSeguidos = 0;
     return new Uint8Array(await r.arrayBuffer());
   }
   async function processar(item) {
@@ -102,8 +120,14 @@ window.SEIAW = (function () {
         n++;
       }
       const ficha = { processo: proc, regiao: item.regiao, ...dg, documentos: ds.map(({ campo, ...x }) => x), baixado_em: new Date().toISOString() };
-      entradas.push({ nome: pasta + '/processo.json', dados: new TextEncoder().encode(JSON.stringify(ficha, null, 1)) });
-      salvarArquivo(zip(entradas), 'SEIA_' + pasta + '.zip'); state.zips++; baixado = true; marcar('eco_dl:', proc);
+      const json = { nome: pasta + '/processo.json', dados: new TextEncoder().encode(JSON.stringify(ficha, null, 1)) };
+      // processos grandes são divididos em partes de até ~300 MB (limite de cópia para o E:)
+      const partes = []; let atual = [json], tam = 0;
+      for (const e of entradas) { if (tam > 0 && tam + e.dados.length > 3e8) { partes.push(atual); atual = []; tam = 0; } atual.push(e); tam += e.dados.length; }
+      partes.push(atual);
+      for (let i = 0; i < partes.length; i++) await salvarArquivo(zip(partes[i]), 'SEIA_' + pasta + (partes.length > 1 ? '_parte' + (i + 1) : '') + '.zip');
+      state.zips++; baixado = true; marcar('eco_dl:', proc);
+      try { localStorage.setItem('eco_dlt:' + proc, String(Date.now()) + '|' + partes.length); } catch (e) { }
       await sleep(800);
     }
     fichas.set(proc, { processo: proc, regiao: item.regiao || 'OESTE', encontrado: true, ...dg, documentos: ds.map(({ campo, ...x }) => x), baixado, coletado_em: new Date().toISOString() });
@@ -114,9 +138,10 @@ window.SEIAW = (function () {
     chave = op.chave || chave; baixarZip = !!op.baixar; const ordem = op.ordem || 'asc';
     const v = await idb('get', chave).catch(() => null); if (v) for (const f of JSON.parse(v)) if (!f.outraAba) fichas.set(f.processo, f);
     const lista = JSON.parse(localStorage.getItem('eco_lista') || '[]');
-    let idx = ordem === 'desc' ? lista.length - 1 : (op.inicio || 0);
+    let idx = op.inicio != null ? op.inicio : (ordem === 'desc' ? lista.length - 1 : 0);
     state.rodando = true; state.inicio = new Date().toISOString(); state.total = lista.length;
     while (state.rodando && idx >= 0 && idx < lista.length) {
+      if (baixarZip) await aguardarEspaco(); state.pausado = false;
       const item = lista[idx]; idx += ordem === 'desc' ? -1 : 1; state.idx = idx;
       const feito = baixarZip ? tem('eco_dl:', item.processo) : (tem('eco_ok:', item.processo) || fichas.has(item.processo));
       if (feito) continue;
