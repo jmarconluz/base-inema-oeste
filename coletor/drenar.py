@@ -39,7 +39,7 @@ def preparar(lotes_js):
     open(MARCA, 'w', encoding='utf-8').write('Lote copiado para E:\\Downloads\\processos\\ (base INEMA Ecoplan).\n')
     grav, res = [], []
     for l in lotes:
-        src = os.path.join(UP, l['nome'])
+        src = os.path.join(UP, l.get('arquivo') or l['nome'])
         r = {'lote': l['nome'], 'ok': [], 'bytes': 0, 'ruins': []}
         try:
             lz = zipfile.ZipFile(src)
@@ -78,7 +78,7 @@ def preparar(lotes_js):
                     f.write(json.dumps(reg, ensure_ascii=False) + '\n')
             r['ok'].append(nome)
             r['bytes'] += len(dados)
-        grav.append({'stagedPath': MARCA, 'devicePath': C_DIR + l['nome']})
+        grav.append({'stagedPath': MARCA, 'devicePath': C_DIR + (l.get('arquivo') or l['nome'])})
         res.append(r)
         try: os.remove(src)
         except OSError: pass
