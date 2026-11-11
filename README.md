@@ -93,3 +93,11 @@ O app só deixa o navegador baixar vários arquivos seguidos logo depois que a a
 4. A ficha de cada processo baixado (atos, documentos, tamanhos e erros) vai para `dados/seia/fichas_download.jsonl`. É a base para filtrar os processos de melhor qualidade.
 
 Para retomar depois de fechar o app: reabrir as 4 abas de coleta com os comandos acima. O que já está na fila ou já foi gravado no E: não se repete.
+
+## Onde paramos (11/11/2026, 17:40)
+
+- **Já no E:**: 97 processos completos em `E:\Downloads\processos\<processo>\` (zip ou volumes `.zip.001`…). As fichas estão em `dados/seia/fichas_download.jsonl`.
+- **Coleta migrada para o Google Chrome** (extensão Claude in Chrome, "Browser 2"). O Chrome já tem permissão para downloads automáticos do SEIA e salva direto em `E:\Downloads`. No localStorage do Chrome já estão `eco_lista` (10.511 processos), `eco_code` (o worker baixa cada processo direto, sem fila), `eco_bomba` e as marcas `eco_dl` dos 108 já feitos.
+- **Problema em aberto**: no primeiro teste no Chrome, quase todos os processos voltaram como "não encontrado" (provavelmente a busca não terminava de carregar nas abas em segundo plano). As marcas foram desfeitas. **Amanhã, antes de abrir várias abas**: testar uma aba só, com ela visível; se a busca falhar, aumentar a espera em `abrir()` e conferir se a tabela de resultado apareceu antes de concluir "não encontrado".
+- A fila antiga do navegador interno do app (cerca de 80 processos, 3 GB, IndexedDB `eco_fila`) foi abandonada. Esses processos serão refeitos pelo Chrome.
+- Antes de fechar o app ou o Chrome, **clicar em "Sair" no SEIA**: o sistema aceita só uma sessão por vez.
