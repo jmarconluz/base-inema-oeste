@@ -5,8 +5,10 @@
 // IndexedDB 'eco_seia': fichas por aba (chave própria, ex.: 'fichas_w2').
 // Com {baixar:true}, baixa cada processo como SEIA_<processo>.zip (pasta interna com os PDFs + processo.json).
 // Uso: eval(localStorage.getItem('eco_code')); SEIAW.iniciar({ chave:'fichas_w2', ordem:'desc', baixar:true })
+// No Chrome (downloads automáticos liberados) cada processo vai direto para a pasta de downloads; cada busca de documento tem limite de 10 min (AbortSignal).
 window.SEIAW = (function () {
-  const sleep = ms => new Promise(r => setTimeout(r, ms));
+  // Temporizador num Web Worker: o Chrome freia setTimeout em abas de fundo, mas não os timers de workers.
+  const sleep = (() => { try { const w = new Worker(URL.createObjectURL(new Blob(['onmessage=e=>setTimeout(()=>postMessage(e.data.id),e.data.ms)'], { type: 'text/javascript' }))); const p = {}; let n = 0; w.onmessage = e => { const f = p[e.data]; delete p[e.data]; if (f) f(); }; return ms => new Promise(r => { const id = ++n; p[id] = r; w.postMessage({ id, ms }); }); } catch (e) { return ms => new Promise(r => setTimeout(r, ms)); } })();
   const $ = id => document.getElementById(id);
   const tx = el => (el ? el.textContent : '').replace(/\s+/g, ' ').trim();
   const san = s => s.replace(/[\\/:*?"<>|]+/g, '_').replace(/\s+/g, ' ').trim().slice(0, 120);
@@ -42,14 +44,13 @@ window.SEIAW = (function () {
     fim.setUint32(12, tamCentral, true); fim.setUint32(16, off, true);
     return new Blob([...partes, ...central, fim.buffer], { type: 'application/zip' });
   }
-  // Em vez de baixar direto (o app bloqueia downloads em segundo plano), guarda o zip numa fila do
-  // IndexedDB ('eco_fila'). A aba "bomba" (bomba_seia.js) baixa a fila em lotes logo após recarregar.
   function fila() { return new Promise((res, rej) => { const r = indexedDB.open('eco_fila', 1); r.onupgradeneeded = () => r.result.createObjectStore('q'); r.onsuccess = () => res(r.result); r.onerror = () => rej(r.error); }); }
+  // Chrome com downloads automáticos liberados: cada processo vai direto para a pasta de downloads (E:\\Downloads\\processos).
   async function salvarArquivo(blob, nome) {
-    const db = await fila();
-    await new Promise((res, rej) => { const t = db.transaction('q', 'readwrite'); t.objectStore('q').put({ nome, blob, tam: blob.size, ts: Date.now() }, nome); t.oncomplete = res; t.onerror = () => rej(t.error); });
-    db.close();
-    try { localStorage.setItem('eco_tot', String(Number(localStorage.getItem('eco_tot') || 0) + blob.size)); } catch (e) { }
+    const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = nome; document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(() => URL.revokeObjectURL(a.href), 45000);
+    try { localStorage.setItem('eco_arq:' + nome, blob.size + '|' + Date.now()); } catch (e) { }
+    await sleep(1500);
   }
   // pausa enquanto houver muito arquivo esperando para ir do C: para o E: (padrão 8 GB na fila)
   async function aguardarEspaco() {
@@ -78,9 +79,10 @@ window.SEIAW = (function () {
     inp.value = proc;
     // limpa o resultado anterior e só decide quando a tabela mostrar o processo OU a mensagem de "nenhum registro"
     const tab = $('conteudo:dataTableProcesso'); if (tab) tab.setAttribute('data-eco', 'velho');
+    const gr = $('growMsg'); if (gr) gr.innerHTML = '';
     await aguardarAjax(() => [...$('conteudo').querySelectorAll('button')].find(b => /Consultar/i.test(b.textContent)).click(), 'conteudo:dataTableProcesso');
     const achar = () => [...document.querySelectorAll('a[id*="dataTableProcesso"]')].find(a => a.textContent.trim() === proc);
-    const vazio = () => { const t = $('conteudo:dataTableProcesso'); return t && t.getAttribute('data-eco') !== 'velho' && /nenhum|não foram encontrad|nao foram encontrad/i.test(t.textContent); };
+    const vazio = () => /n[ãa]o foram encontrados registros/i.test(($('growMsg') || {}).textContent || '') && !(window.jQuery && jQuery.active > 0);
     const res = await esperar(() => achar() ? 'ok' : (vazio() ? 'vazio' : null), 45000, 300).catch(() => null);
     if (!res) throw new Error('busca sem resposta (tentar de novo depois)');
     const link = achar();
@@ -101,7 +103,7 @@ window.SEIAW = (function () {
   function docs(painel, origem) { const out = []; if (!painel) return out; for (const inp of painel.querySelectorAll('input[type=image][title="Download"]')) { const td = [...inp.closest('tr').querySelectorAll('td')].map(tx); out.push({ origem, descricao: td[0] || '', arquivo: td[1] || '', tamanho: td[2] || '', gravado_em: td[3] || '', usuario: td[4] || '', campo: inp.name }); } return out; }
   async function baixarDoc(d) {
     const form = $('formDetalharProcesso'); const fd = new URLSearchParams(new FormData(form)); fd.set(d.campo + '.x', '5'); fd.set(d.campo + '.y', '5');
-    let r; for (let k = 0; k < 3; k++) { try { r = await fetch(form.action, { method: 'POST', body: fd, headers: { 'Content-Type': 'application/x-www-form-urlencoded' } }); if (r.ok) break; } catch (e) { } await sleep(3000 * (k + 1)); }
+    let r; for (let k = 0; k < 3; k++) { try { r = await fetch(form.action, { method: 'POST', signal: AbortSignal.timeout(600000), body: fd, headers: { 'Content-Type': 'application/x-www-form-urlencoded' } }); if (r.ok) break; } catch (e) { } await sleep(3000 * (k + 1)); }
     if (!r || !r.ok) throw new Error('download falhou: ' + d.arquivo);
     if (/text\/html/i.test(r.headers.get('content-type') || '')) {
       state.htmlSeguidos = (state.htmlSeguidos || 0) + 1;
