@@ -94,10 +94,14 @@ O app só deixa o navegador baixar vários arquivos seguidos logo depois que a a
 
 Para retomar depois de fechar o app: reabrir as 4 abas de coleta com os comandos acima. O que já está na fila ou já foi gravado no E: não se repete.
 
-## Onde paramos (11/11/2026, 17:40)
+## Onde paramos (12/11/2026, 12:20)
 
-- **Já no E:**: 97 processos completos em `E:\Downloads\processos\<processo>\` (zip ou volumes `.zip.001`…). As fichas estão em `dados/seia/fichas_download.jsonl`.
-- **Coleta migrada para o Google Chrome** (extensão Claude in Chrome, "Browser 2"). O Chrome já tem permissão para downloads automáticos do SEIA e salva direto em `E:\Downloads`. No localStorage do Chrome já estão `eco_lista` (10.511 processos), `eco_code` (o worker baixa cada processo direto, sem fila), `eco_bomba` e as marcas `eco_dl` dos 108 já feitos.
-- **Problema em aberto**: no primeiro teste no Chrome, quase todos os processos voltaram como "não encontrado" (provavelmente a busca não terminava de carregar nas abas em segundo plano). As marcas foram desfeitas. **Amanhã, antes de abrir várias abas**: testar uma aba só, com ela visível; se a busca falhar, aumentar a espera em `abrir()` e conferir se a tabela de resultado apareceu antes de concluir "não encontrado".
-- A fila antiga do navegador interno do app (cerca de 80 processos, 3 GB, IndexedDB `eco_fila`) foi abandonada. Esses processos serão refeitos pelo Chrome.
-- Antes de fechar o app ou o Chrome, **clicar em "Sair" no SEIA**: o sistema aceita só uma sessão por vez.
+- **Coleta rodando no Google Chrome** (extensão Claude in Chrome, "Browser 2"), em 3 abas na consulta pública do SEIA, logado. Cada processo é salvo direto como `SEIA_<processo>.zip` na pasta de downloads do Chrome (`E:\Downloads`), sem clique.
+- **Andamento às 12:10**: 274 processos marcados como feitos (`eco_dl`), 171 arquivos `.zip`, cerca de 6 GB. Ritmo com 3 abas: cerca de 190 processos por hora.
+- **Abas e pontos de partida** (índice na `eco_lista`, 10.508 processos): c1 = 0 (oeste), c2 = 1.335, c3 = 2.667, c4 = 4.630, c5 = 6.589, c6 = 8.550. Rodando agora: c1 (índice ~24), c2 (~1.423), c3 (~2.718). **Paradas**: c4, c5 e c6 (retomar em 4.633, 6.592 e 8.565).
+- **Correções de hoje no coletor** (`coletor/seia_worker.js`, igual ao `eco_code` do Chrome): temporizador num Web Worker (o Chrome freia abas em segundo plano); "não encontrado" só com a mensagem do SEIA; download direto; arquivo liberado da memória em 45 s; limite de 10 min por documento.
+- **Processos pulados** (travaram, refazer depois): lista em `localStorage.eco_pulados` do Chrome. Hoje: `2025.001.002158/INEMA/LIC-02158`.
+- **Para retomar uma aba**: abrir a consulta pública e rodar `eval(localStorage.getItem('eco_code')); SEIAW.iniciar({chave:'fichas_cN', ordem:'asc', inicio:<índice>, baixar:true})`. O que já tem marca `eco_dl` não é baixado de novo.
+- Com 6 abas o Chrome travou (memória). Se for voltar a 6, desligar "Economia de memória" em Configurações → Desempenho.
+- 97 processos antigos (pipeline do navegador interno) estão em `E:\Downloads\processos\<processo>\`; fichas em `dados/seia/fichas_download.jsonl`.
+- Antes de fechar o Chrome, **clicar em "Sair" no SEIA**: o sistema aceita só uma sessão por vez.
