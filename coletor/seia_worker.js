@@ -172,6 +172,8 @@ window.SEIAW = (function () {
     const lista = JSON.parse(localStorage.getItem('eco_lista') || '[]');
     let idx = op.inicio != null ? op.inicio : (ordem === 'desc' ? lista.length - 1 : 0);
     state.rodando = true; state.inicio = new Date().toISOString(); state.total = lista.length;
+    // trava de disco: para a aba quando a soma dos zips baixados (eco_arq) passa de localStorage.eco_limite_disco (bytes)
+    (async () => { while (state.rodando) { const lim = Number(localStorage.getItem('eco_limite_disco') || 0); if (lim) { let t = 0; for (let i = 0; i < localStorage.length; i++) { const k = localStorage.key(i); if (k && k.startsWith('eco_arq:')) t += Number((localStorage.getItem(k) || '0').split('|')[0]) || 0; } state.totalBaixado = t; if (t > lim) { state.parouPor = 'limite de disco (' + Math.round(t / 1e9) + ' GB)'; state.rodando = false; break; } } await sleep(120000); } })();
     let volta = 1; const voltas = Math.max(1, op.voltas || 1); state.volta = 1; state.regiao = op.regiao || null;
     while (state.rodando) {
       if (idx < 0 || idx >= lista.length) { if (volta >= voltas) break; volta++; state.volta = volta; idx = ordem === 'desc' ? lista.length - 1 : 0; continue; }
