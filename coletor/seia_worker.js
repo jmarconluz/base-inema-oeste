@@ -76,8 +76,14 @@ window.SEIAW = (function () {
     const inp = $('conteudo:numeroProcesso'); if (!inp) throw new Error('SESSAO: deslogado?');
     for (const id of ['conteudo:numDocumento', 'conteudo:nome', 'conteudo:nomEmpreendimento']) if ($(id)) $(id).value = '';
     inp.value = proc;
+    // limpa o resultado anterior e só decide quando a tabela mostrar o processo OU a mensagem de "nenhum registro"
+    const tab = $('conteudo:dataTableProcesso'); if (tab) tab.setAttribute('data-eco', 'velho');
     await aguardarAjax(() => [...$('conteudo').querySelectorAll('button')].find(b => /Consultar/i.test(b.textContent)).click(), 'conteudo:dataTableProcesso');
-    const link = [...document.querySelectorAll('a[id*="dataTableProcesso"]')].find(a => a.textContent.trim() === proc);
+    const achar = () => [...document.querySelectorAll('a[id*="dataTableProcesso"]')].find(a => a.textContent.trim() === proc);
+    const vazio = () => { const t = $('conteudo:dataTableProcesso'); return t && t.getAttribute('data-eco') !== 'velho' && /nenhum|não foram encontrad|nao foram encontrad/i.test(t.textContent); };
+    const res = await esperar(() => achar() ? 'ok' : (vazio() ? 'vazio' : null), 45000, 300).catch(() => null);
+    if (!res) throw new Error('busca sem resposta (tentar de novo depois)');
+    const link = achar();
     if (!link) return false;
     await aguardarAjax(() => link.click(), 'formDetalharProcesso'); return true;
   }
