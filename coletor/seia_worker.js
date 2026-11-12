@@ -5,7 +5,8 @@
 // IndexedDB 'eco_seia': fichas por aba (chave própria, ex.: 'fichas_w2').
 // Com {baixar:true}, baixa cada processo como SEIA_<processo>.zip (pasta interna com os PDFs + processo.json).
 // Uso: eval(localStorage.getItem('eco_code')); SEIAW.iniciar({ chave:'fichas_w2', ordem:'desc', baixar:true })
-// No Chrome (downloads automáticos liberados) cada processo vai direto para a pasta de downloads; cada busca de documento tem limite de 10 min (AbortSignal).
+// No Chrome (downloads automáticos liberados) cada processo vai direto para a pasta de downloads. Documentos: 2 em paralelo por aba
+// (localStorage.eco_par), até 3 tentativas, cada uma cortada após 90 s sem receber dados.
 window.SEIAW = (function () {
   // Temporizador num Web Worker: o Chrome freia setTimeout em abas de fundo, mas não os timers de workers.
   const sleep = (() => { try { const w = new Worker(URL.createObjectURL(new Blob(['onmessage=e=>setTimeout(()=>postMessage(e.data.id),e.data.ms)'], { type: 'text/javascript' }))); const p = {}; let n = 0; w.onmessage = e => { const f = p[e.data]; delete p[e.data]; if (f) f(); }; return ms => new Promise(r => { const id = ++n; p[id] = r; w.postMessage({ id, ms }); }); } catch (e) { return ms => new Promise(r => setTimeout(r, ms)); } })();
@@ -103,15 +104,32 @@ window.SEIAW = (function () {
   function docs(painel, origem) { const out = []; if (!painel) return out; for (const inp of painel.querySelectorAll('input[type=image][title="Download"]')) { const td = [...inp.closest('tr').querySelectorAll('td')].map(tx); out.push({ origem, descricao: td[0] || '', arquivo: td[1] || '', tamanho: td[2] || '', gravado_em: td[3] || '', usuario: td[4] || '', campo: inp.name }); } return out; }
   async function baixarDoc(d) {
     const form = $('formDetalharProcesso'); const fd = new URLSearchParams(new FormData(form)); fd.set(d.campo + '.x', '5'); fd.set(d.campo + '.y', '5');
-    let r; for (let k = 0; k < 3; k++) { try { r = await fetch(form.action, { method: 'POST', signal: AbortSignal.timeout(600000), body: fd, headers: { 'Content-Type': 'application/x-www-form-urlencoded' } }); if (r.ok) break; } catch (e) { } await sleep(3000 * (k + 1)); }
-    if (!r || !r.ok) throw new Error('download falhou: ' + d.arquivo);
-    if (/text\/html/i.test(r.headers.get('content-type') || '')) {
-      state.htmlSeguidos = (state.htmlSeguidos || 0) + 1;
-      if (state.htmlSeguidos >= 8) throw new Error('SESSAO? 8 respostas HTML seguidas');
-      throw new Error('documento indisponível (HTML): ' + d.arquivo);
+    // até 3 tentativas; cada uma é cortada se ficar 90 s sem receber dados ou passar de 30 min
+    let ultErro = null;
+    for (let k = 0; k < 3; k++) {
+      const ac = new AbortController(); const t0 = Date.now(); let ult = Date.now(), fim = false;
+      (async () => { while (!fim) { await sleep(5000); if (fim) break; if (Date.now() - ult > 90000 || Date.now() - t0 > 1800000) { ac.abort(); break; } } })();
+      try {
+        const r = await fetch(form.action, { method: 'POST', signal: ac.signal, body: fd, headers: { 'Content-Type': 'application/x-www-form-urlencoded' } });
+        ult = Date.now();
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        if (/text\/html/i.test(r.headers.get('content-type') || '')) {
+          state.htmlSeguidos = (state.htmlSeguidos || 0) + 1;
+          if (state.htmlSeguidos >= 8) throw new Error('SESSAO? 8 respostas HTML seguidas');
+          throw new Error('documento indisponível (HTML): ' + d.arquivo);
+        }
+        const rd = r.body.getReader(); const pedacos = []; let tot = 0;
+        for (;;) { const { done, value } = await rd.read(); if (done) break; pedacos.push(value); tot += value.length; ult = Date.now(); }
+        fim = true; state.htmlSeguidos = 0;
+        const u8 = new Uint8Array(tot); let o = 0; for (const p of pedacos) { u8.set(p, o); o += p.length; }
+        return u8;
+      } catch (e) {
+        fim = true; ultErro = e;
+        if (/SESSAO|HTML/.test((e && e.message) || '')) throw e;
+        await sleep(3000 * (k + 1));
+      }
     }
-    state.htmlSeguidos = 0;
-    return new Uint8Array(await r.arrayBuffer());
+    throw new Error('download falhou (' + ((ultErro && (ultErro.message || ultErro.name)) || '?') + '): ' + d.arquivo);
   }
   async function processar(item) {
     const proc = item.processo; state.atual = proc;
@@ -122,11 +140,17 @@ window.SEIAW = (function () {
     let baixado = false;
     if (baixarZip) {
       const pasta = san(proc.replace(/\//g, '_')); const entradas = []; let n = 1;
-      for (const d of ds) {
-        try { const u8 = await baixarDoc(d); d.bytes = u8.length; d.nome_local = String(n).padStart(2, '0') + ' - ' + san(d.arquivo || 'documento.pdf'); entradas.push({ nome: pasta + '/' + d.nome_local, dados: u8 }); state.bytes += u8.length; }
-        catch (e) { d.erro = e.message; state.erros.push(proc + ': ' + e.message); if (/SESSAO/.test(e.message)) throw e; }
-        n++;
-      }
+      // baixa os documentos em paralelo (padrão 2 por aba; ajustável em localStorage.eco_par)
+      const PAR = Math.max(1, Number(localStorage.getItem('eco_par') || 2)); const res = new Array(ds.length); let prox = 0, sessao = null;
+      await Promise.all(Array.from({ length: Math.min(PAR, ds.length) }, async () => {
+        while (prox < ds.length && !sessao) {
+          const i = prox++; const d = ds[i];
+          try { const u8 = await baixarDoc(d); d.bytes = u8.length; d.nome_local = String(i + 1).padStart(2, '0') + ' - ' + san(d.arquivo || 'documento.pdf'); res[i] = { nome: pasta + '/' + d.nome_local, dados: u8 }; state.bytes += u8.length; }
+          catch (e) { d.erro = e.message; state.erros.push(proc + ': ' + e.message); if (/SESSAO/.test(e.message)) sessao = e; }
+        }
+      }));
+      if (sessao) throw sessao;
+      for (const x of res) if (x) entradas.push(x);
       const ficha = { processo: proc, regiao: item.regiao, ...dg, documentos: ds.map(({ campo, ...x }) => x), baixado_em: new Date().toISOString() };
       const json = { nome: pasta + '/processo.json', dados: new TextEncoder().encode(JSON.stringify(ficha, null, 1)) };
       // processos grandes são divididos em partes de até ~300 MB (limite de cópia para o E:)
