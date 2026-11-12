@@ -108,7 +108,7 @@ window.SEIAW = (function () {
     let ultErro = null;
     for (let k = 0; k < 3; k++) {
       const ac = new AbortController(); const t0 = Date.now(); let ult = Date.now(), fim = false;
-      (async () => { while (!fim) { await sleep(5000); if (fim) break; if (Date.now() - ult > 90000 || Date.now() - t0 > 1800000) { ac.abort(); break; } } })();
+      (async () => { while (!fim) { await sleep(5000); if (fim) break; try { localStorage.setItem('eco_rs:' + state.atual, String(Date.now())); } catch (e) { } if (Date.now() - ult > 90000 || Date.now() - t0 > 1800000) { ac.abort(); break; } } })();
       try {
         const r = await fetch(form.action, { method: 'POST', signal: ac.signal, body: fd, headers: { 'Content-Type': 'application/x-www-form-urlencoded' } });
         ult = Date.now();
@@ -172,9 +172,12 @@ window.SEIAW = (function () {
     const lista = JSON.parse(localStorage.getItem('eco_lista') || '[]');
     let idx = op.inicio != null ? op.inicio : (ordem === 'desc' ? lista.length - 1 : 0);
     state.rodando = true; state.inicio = new Date().toISOString(); state.total = lista.length;
-    while (state.rodando && idx >= 0 && idx < lista.length) {
-      if (baixarZip) await aguardarEspaco(); state.pausado = false;
+    let volta = 1; const voltas = Math.max(1, op.voltas || 1); state.volta = 1; state.regiao = op.regiao || null;
+    while (state.rodando) {
+      if (idx < 0 || idx >= lista.length) { if (volta >= voltas) break; volta++; state.volta = volta; idx = ordem === 'desc' ? lista.length - 1 : 0; continue; }
       const item = lista[idx]; idx += ordem === 'desc' ? -1 : 1; state.idx = idx;
+      if (op.regiao && item.regiao !== op.regiao) continue;
+      if (baixarZip) await aguardarEspaco(); state.pausado = false;
       const feito = baixarZip ? tem('eco_dl:', item.processo) : (tem('eco_ok:', item.processo) || fichas.has(item.processo));
       if (feito) continue;
       // reserva o processo para esta aba (evita que duas abas baixem o mesmo); reservas com mais de 20 min expiram
