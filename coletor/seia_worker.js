@@ -104,11 +104,11 @@ window.SEIAW = (function () {
   function docs(painel, origem) { const out = []; if (!painel) return out; for (const inp of painel.querySelectorAll('input[type=image][title="Download"]')) { const td = [...inp.closest('tr').querySelectorAll('td')].map(tx); out.push({ origem, descricao: td[0] || '', arquivo: td[1] || '', tamanho: td[2] || '', gravado_em: td[3] || '', usuario: td[4] || '', campo: inp.name }); } return out; }
   async function baixarDoc(d) {
     const form = $('formDetalharProcesso'); const fd = new URLSearchParams(new FormData(form)); fd.set(d.campo + '.x', '5'); fd.set(d.campo + '.y', '5');
-    // até 3 tentativas; cada uma é cortada se ficar 90 s sem receber dados ou passar de 30 min
+    // até 3 tentativas; cada uma é cortada se ficar 90 s sem receber dados ou se, depois de 5 min, a média ficar abaixo de 10 KB/s
     let ultErro = null;
     for (let k = 0; k < 3; k++) {
-      const ac = new AbortController(); const t0 = Date.now(); let ult = Date.now(), fim = false;
-      (async () => { while (!fim) { await sleep(5000); if (fim) break; try { localStorage.setItem('eco_rs:' + state.atual, String(Date.now())); } catch (e) { } if (Date.now() - ult > 90000 || Date.now() - t0 > 1800000) { ac.abort(); break; } } })();
+      const ac = new AbortController(); const t0 = Date.now(); let ult = Date.now(), fim = false, recebido = 0;
+      (async () => { while (!fim) { await sleep(5000); if (fim) break; try { localStorage.setItem('eco_rs:' + state.atual, String(Date.now())); } catch (e) { } if (Date.now() - ult > 90000 || (Date.now() - t0 > 300000 && recebido / ((Date.now() - t0) / 1000) < 10000)) { ac.abort(); break; } } })();
       try {
         const r = await fetch(form.action, { method: 'POST', signal: ac.signal, body: fd, headers: { 'Content-Type': 'application/x-www-form-urlencoded' } });
         ult = Date.now();
@@ -119,7 +119,7 @@ window.SEIAW = (function () {
           throw new Error('documento indisponível (HTML): ' + d.arquivo);
         }
         const rd = r.body.getReader(); const pedacos = []; let tot = 0;
-        for (;;) { const { done, value } = await rd.read(); if (done) break; pedacos.push(value); tot += value.length; ult = Date.now(); }
+        for (;;) { const { done, value } = await rd.read(); if (done) break; pedacos.push(value); tot += value.length; recebido = tot; ult = Date.now(); state.ultimoDado = ult; }
         fim = true; state.htmlSeguidos = 0;
         const u8 = new Uint8Array(tot); let o = 0; for (const p of pedacos) { u8.set(p, o); o += p.length; }
         return u8;
