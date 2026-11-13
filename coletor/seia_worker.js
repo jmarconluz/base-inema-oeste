@@ -150,6 +150,8 @@ window.SEIAW = (function () {
         }
       }));
       if (sessao) throw sessao;
+      if (ds.length && !res.some(Boolean)) throw new Error('nenhum documento baixado');
+      { const falhas = ds.filter(d => d.erro).length; if (falhas) try { localStorage.setItem('eco_inc:' + proc, falhas + '/' + ds.length); } catch (e) { } }
       for (const x of res) if (x) entradas.push(x);
       const ficha = { processo: proc, regiao: item.regiao, ...dg, documentos: ds.map(({ campo, ...x }) => x), baixado_em: new Date().toISOString() };
       const json = { nome: pasta + '/processo.json', dados: new TextEncoder().encode(JSON.stringify(ficha, null, 1)) };
@@ -165,6 +167,7 @@ window.SEIAW = (function () {
     fichas.set(proc, { processo: proc, regiao: item.regiao || 'OESTE', encontrado: true, ...dg, documentos: ds.map(({ campo, ...x }) => x), baixado, coletado_em: new Date().toISOString() });
     marcar('eco_ok:', proc);
   }
+  async function esperarSEIA() { while (state.rodando) { try { const r = await fetch(location.pathname, { cache: 'no-store', signal: AbortSignal.timeout(20000) }); if (r.ok) return true; } catch (e) { } await sleep(60000); } return false; }
   async function iniciar(op = {}) {
     if (state.rodando) return 'já rodando';
     chave = op.chave || chave; baixarZip = !!op.baixar; const ordem = op.ordem || 'asc';
@@ -177,6 +180,7 @@ window.SEIAW = (function () {
     // trava de disco: para a aba quando a soma dos zips baixados (eco_arq) passa de localStorage.eco_limite_disco (bytes)
     (async () => { while (state.rodando) { const lim = Number(localStorage.getItem('eco_limite_disco') || 0); if (lim) { let t = 0; for (let i = 0; i < localStorage.length; i++) { const k = localStorage.key(i); if (k && k.startsWith('eco_arq:')) t += Number((localStorage.getItem(k) || '0').split('|')[0]) || 0; } state.totalBaixado = t; if (t > lim) { state.parouPor = 'limite de disco (' + Math.round(t / 1e9) + ' GB)'; state.rodando = false; break; } } await sleep(120000); } })();
     let volta = 1; const voltas = Math.max(1, op.voltas || 1); state.volta = 1; state.regiao = op.regiao || null;
+    let seguidas = 0, idxSerie = 0, aposVolta = false;
     while (state.rodando) {
       if (idx < 0 || idx >= lista.length) { if (volta >= voltas) break; volta++; state.volta = volta; idx = ordem === 'desc' ? lista.length - 1 : 0; continue; }
       const item = lista[idx]; idx += ordem === 'desc' ? -1 : 1; state.idx = idx;
@@ -188,7 +192,16 @@ window.SEIAW = (function () {
       const rs = Number(localStorage.getItem('eco_rs:' + item.processo) || 0);
       if (rs && Date.now() - rs < 20 * 60000) continue;
       try { localStorage.setItem('eco_rs:' + item.processo, String(Date.now())); } catch (e) { }
-      try { await processar(item); } catch (e) { state.erros.push(item.processo + ': ' + e.message); try { localStorage.removeItem('eco_rs:' + item.processo); } catch (_) { } if (/SESSAO/.test(e.message)) { state.parouPor = e.message; break; } await sleep(3000); }
+      let falhou = null;
+      try { await processar(item); } catch (e) { falhou = e; state.erros.push(item.processo + ': ' + e.message); try { localStorage.removeItem('eco_rs:' + item.processo); } catch (_) { } if (/SESSAO/.test(e.message)) { state.parouPor = e.message; break; } await sleep(3000); }
+      if (falhou && /busca sem resposta/.test(falhou.message)) {
+        if (++seguidas === 1) idxSerie = idx - (ordem === 'desc' ? -1 : 1);
+        if (seguidas >= 4) {
+          seguidas = 0; idx = idxSerie; state.idx = idx;
+          if (aposVolta) { state.parouPor = 'SEIA voltou, mas a busca continua falhando (recarregar a aba ou fazer login)'; break; }
+          state.pausado = 'SEIA fora do ar desde ' + new Date().toLocaleTimeString('pt-BR'); await esperarSEIA(); state.pausado = false; aposVolta = true; continue;
+        }
+      } else if (!falhou) { seguidas = 0; aposVolta = false; }
       try { localStorage.removeItem('eco_rs:' + item.processo); } catch (_) { }
       state.feitos++; if (state.feitos % 5 === 0) await salvar().catch(() => { });
     }
