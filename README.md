@@ -94,7 +94,9 @@ O app só deixa o navegador baixar vários arquivos seguidos logo depois que a a
 
 Para retomar depois de fechar o app: reabrir as 4 abas de coleta com os comandos acima. O que já está na fila ou já foi gravado no E: não se repete.
 
-## Onde paramos (12/11/2026, 14:40)
+## Onde paramos (13/11/2026, 07:10)
+
+- **Situação às 07:10 de 13/11**: SEIA fora do ar desde ~23:55 de 12/11 (sistema.seia.ba.gov.br e www.seia.ba.gov.br recusam conexão; internet e site do INEMA ok). As 3 abas estão em pausa automática e retomam sozinhas: c1 a partir do índice 454, c2 de 1.704, c3 de 3.566 (voltas:2). **Feito até a queda: 2.997 processos (Oeste: 2.044 de 2.667), 85 GB.**
 
 - **Escopo: toda a Bahia** (10.508 processos: 2.667 do Oeste nos índices 0–2.666 da `eco_lista` e 7.841 do resto da Bahia nos índices 2.667–10.507).
 - **Coleta rodando no Google Chrome** (extensão Claude in Chrome, "Browser 2"), em 3 abas na consulta pública do SEIA, logado. Cada processo é salvo direto como `SEIA_<processo>.zip` na pasta de downloads do Chrome (`E:\Downloads`), sem clique.
