@@ -180,7 +180,7 @@ window.SEIAW = (function () {
     // trava de disco: para a aba quando a soma dos zips baixados (eco_arq) passa de localStorage.eco_limite_disco (bytes)
     (async () => { while (state.rodando) { const lim = Number(localStorage.getItem('eco_limite_disco') || 0); if (lim) { let t = 0; for (let i = 0; i < localStorage.length; i++) { const k = localStorage.key(i); if (k && k.startsWith('eco_arq:')) t += Number((localStorage.getItem(k) || '0').split('|')[0]) || 0; } state.totalBaixado = t; if (t > lim) { state.parouPor = 'limite de disco (' + Math.round(t / 1e9) + ' GB)'; state.rodando = false; break; } } await sleep(120000); } })();
     let volta = 1; const voltas = Math.max(1, op.voltas || 1); state.volta = 1; state.regiao = op.regiao || null;
-    let seguidas = 0, idxSerie = 0, aposVolta = false;
+    let seguidas = 0, ultimoOk = (Object.keys(localStorage).find(k => k.startsWith('eco_dlt:')) || '').slice(8) || null;
     while (state.rodando) {
       if (idx < 0 || idx >= lista.length) { if (volta >= voltas) break; volta++; state.volta = volta; idx = ordem === 'desc' ? lista.length - 1 : 0; continue; }
       const item = lista[idx]; idx += ordem === 'desc' ? -1 : 1; state.idx = idx;
@@ -192,16 +192,15 @@ window.SEIAW = (function () {
       const rs = Number(localStorage.getItem('eco_rs:' + item.processo) || 0);
       if (rs && Date.now() - rs < 20 * 60000) continue;
       try { localStorage.setItem('eco_rs:' + item.processo, String(Date.now())); } catch (e) { }
-      let falhou = null;
+      let falhou = null; const nf0 = state.naoEncontrados;
       try { await processar(item); } catch (e) { falhou = e; state.erros.push(item.processo + ': ' + e.message); try { localStorage.removeItem('eco_rs:' + item.processo); } catch (_) { } if (/SESSAO/.test(e.message)) { state.parouPor = e.message; break; } await sleep(3000); }
       if (falhou && /busca sem resposta/.test(falhou.message)) {
-        if (++seguidas === 1) idxSerie = idx - (ordem === 'desc' ? -1 : 1);
-        if (seguidas >= 4) {
-          seguidas = 0; idx = idxSerie; state.idx = idx;
-          if (aposVolta) { state.parouPor = 'SEIA voltou, mas a busca continua falhando (recarregar a aba ou fazer login)'; break; }
-          state.pausado = 'SEIA fora do ar desde ' + new Date().toLocaleTimeString('pt-BR'); await esperarSEIA(); state.pausado = false; aposVolta = true; continue;
-        }
-      } else if (!falhou) { seguidas = 0; aposVolta = false; }
+        // testa o SEIA na hora: fora do ar → pausa e tenta este processo de novo; login → para; no ar → falha só deste processo
+        let estado = 'ok'; try { const r = await fetch(location.pathname, { cache: 'no-store', signal: AbortSignal.timeout(20000) }); if (!r.ok) estado = 'fora'; else if (/login/i.test(r.url)) estado = 'login'; } catch (e) { estado = 'fora'; }
+        if (estado === 'login') { state.parouPor = 'a sessão do SEIA caiu (fazer login e recarregar a aba)'; break; }
+        if (estado === 'fora') { idx = idx - (ordem === 'desc' ? -1 : 1); state.idx = idx; state.pausado = 'SEIA fora do ar desde ' + new Date().toLocaleTimeString('pt-BR'); await esperarSEIA(); state.pausado = false; seguidas = 0; continue; }
+        if (++seguidas >= 3) { seguidas = 0; let buscaOk = false; if (ultimoOk) { try { buscaOk = await abrir(ultimoOk); } catch (e) { } } if (!buscaOk) { state.parouPor = 'a busca do SEIA não está funcionando (recarregar a aba)'; break; } }
+      } else if (!falhou) { seguidas = 0; if (state.naoEncontrados === nf0) ultimoOk = item.processo; }
       try { localStorage.removeItem('eco_rs:' + item.processo); } catch (_) { }
       state.feitos++; if (state.feitos % 5 === 0) await salvar().catch(() => { });
     }
