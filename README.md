@@ -94,9 +94,10 @@ O app só deixa o navegador baixar vários arquivos seguidos logo depois que a a
 
 Para retomar depois de fechar o app: reabrir as 4 abas de coleta com os comandos acima. O que já está na fila ou já foi gravado no E: não se repete.
 
-## Onde paramos (13/11/2026, 07:10)
+## Onde paramos (13/11/2026, 08:45)
 
-- **Situação às 07:10 de 13/11**: SEIA fora do ar desde ~23:55 de 12/11 (sistema.seia.ba.gov.br e www.seia.ba.gov.br recusam conexão; internet e site do INEMA ok). As 3 abas estão em pausa automática e retomam sozinhas: c1 a partir do índice 454, c2 de 1.704, c3 de 3.566 (voltas:2). **Feito até a queda: 2.997 processos (Oeste: 2.044 de 2.667), 85 GB.**
+- **13/11 manhã**: o SEIA ficou fora do ar de ~23:55 de 12/11 até ~08:10 de 13/11 e voltou exigindo login; o Chrome também reiniciou de madrugada. Às 08:32 o usuário entrou e religuei as 3 abas (c1 a partir do índice 1.018, c2 de 1.704, c3 de 3.566; voltas:2). Feito até então: 2.997 processos (Oeste 2.044/2.667), 85 GB.
+- **Coletor (08:45)**: quando uma busca não responde, ele testa o SEIA na hora — fora do ar → pausa e tenta o mesmo processo quando voltar; tela de login → para com `state.parouPor` (fazer login e recarregar a aba); SEIA no ar → é falha só daquele processo (fica para a 2ª volta). Depois de 3 falhas seguidas com o SEIA no ar, testa a busca com o último processo que deu certo; se nem ele funcionar, para (recarregar a aba). Alguns processos falham sempre na busca (ex.: 2023.001.011092, 2022.001.007164, 2022.001.007209, 2022.001.008781) — investigar depois.
 
 - **Escopo: toda a Bahia** (10.508 processos: 2.667 do Oeste nos índices 0–2.666 da `eco_lista` e 7.841 do resto da Bahia nos índices 2.667–10.507).
 - **Coleta rodando no Google Chrome** (extensão Claude in Chrome, "Browser 2"), em 3 abas na consulta pública do SEIA, logado. Cada processo é salvo direto como `SEIA_<processo>.zip` na pasta de downloads do Chrome (`E:\Downloads`), sem clique.
