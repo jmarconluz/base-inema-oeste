@@ -1,0 +1,3338 @@
+[
+{
+"codigo_ibge": 2900108,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Seabra",
+"nome": "Abaíra",
+"regiao_imediata": "Brumado",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2900207,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Paulo Afonso",
+"nome": "Abaré",
+"regiao_imediata": "Paulo Afonso",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2900306,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Alagoinhas",
+"nome": "Acajutiba",
+"regiao_imediata": "Alagoinhas",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2900355,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Ribeira do Pombal",
+"nome": "Adustina",
+"regiao_imediata": "Cícero Dantas",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2900405,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Água Fria",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2900504,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Livramento do Brumado",
+"nome": "Érico Cardoso",
+"regiao_imediata": "Brumado",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2900603,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Aiquara",
+"regiao_imediata": "Jequié",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2900702,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Alagoinhas",
+"nome": "Alagoinhas",
+"regiao_imediata": "Alagoinhas",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2900801,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Porto Seguro",
+"nome": "Alcobaça",
+"regiao_imediata": "Teixeira de Freitas",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2900900,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Almadina",
+"regiao_imediata": "Ilhéus ¿ Itabuna",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2901007,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Amargosa",
+"regiao_imediata": "Santo Antônio de Jesus",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2901106,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Catu",
+"nome": "Amélia Rodrigues",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2901155,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Irecê",
+"nome": "América Dourada",
+"regiao_imediata": "Irecê",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2901205,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Vitória da Conquista",
+"nome": "Anagé",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2901304,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Seabra",
+"nome": "Andaraí",
+"regiao_imediata": "Itaberaba",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2901353,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Senhor do Bonfim",
+"nome": "Andorinha",
+"regiao_imediata": "Senhor do Bonfim",
+"regiao_intermediaria": "Juazeiro"
+},
+{
+"codigo_ibge": 2901403,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Cotegipe",
+"nome": "Angical",
+"regiao_imediata": "Barreiras",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2901502,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Anguera",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2901601,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Ribeira do Pombal",
+"nome": "Antas",
+"regiao_imediata": "Cícero Dantas",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2901700,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Antônio Cardoso",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2901809,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Senhor do Bonfim",
+"nome": "Antônio Gonçalves",
+"regiao_imediata": "Senhor do Bonfim",
+"regiao_intermediaria": "Juazeiro"
+},
+{
+"codigo_ibge": 2901908,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Alagoinhas",
+"nome": "Aporá",
+"regiao_imediata": "Alagoinhas",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2901957,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Apuarema",
+"regiao_imediata": "Jequié",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2902005,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Brumado",
+"nome": "Aracatu",
+"regiao_imediata": "Brumado",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2902054,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Alagoinhas",
+"nome": "Araçás",
+"regiao_imediata": "Alagoinhas",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2902104,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Serrinha",
+"nome": "Araci",
+"regiao_imediata": "Serrinha",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2902203,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Alagoinhas",
+"nome": "Aramari",
+"regiao_imediata": "Alagoinhas",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2902252,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Arataca",
+"regiao_imediata": "Camacan",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2902302,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Santo Antônio de Jesus",
+"nome": "Aratuípe",
+"regiao_imediata": "Nazaré ¿ Maragogipe",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2902401,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Aurelino Leal",
+"regiao_imediata": "Ilhéus ¿ Itabuna",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2902500,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Barreiras",
+"nome": "Baianópolis",
+"regiao_imediata": "Barreiras",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2902609,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Itaberaba",
+"nome": "Baixa Grande",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2902658,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Ribeira do Pombal",
+"nome": "Banzaê",
+"regiao_imediata": "Ribeira do Pombal",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2902708,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Barra",
+"nome": "Barra",
+"regiao_imediata": "Xique-Xique ¿ Barra",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2902807,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Seabra",
+"nome": "Barra da Estiva",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2902906,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Vitória da Conquista",
+"nome": "Barra do Choça",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2903003,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Irecê",
+"nome": "Barra do Mendes",
+"regiao_imediata": "Irecê",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2903102,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Barra do Rocha",
+"regiao_imediata": "Ipiaú",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2903201,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Barreiras",
+"nome": "Barreiras",
+"regiao_imediata": "Barreiras",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2903235,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Irecê",
+"nome": "Barro Alto",
+"regiao_imediata": "Irecê",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2903276,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Serrinha",
+"nome": "Barrocas",
+"regiao_imediata": "Serrinha",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2903300,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Barro Preto",
+"regiao_imediata": "Ilhéus ¿ Itabuna",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2903409,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Belmonte",
+"regiao_imediata": "Eunápolis - Porto Seguro",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2903508,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Vitória da Conquista",
+"nome": "Belo Campo",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2903607,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Serrinha",
+"nome": "Biritinga",
+"regiao_imediata": "Serrinha",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2903706,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Vitória da Conquista",
+"nome": "Boa Nova",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2903805,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Itaberaba",
+"nome": "Boa Vista do Tupim",
+"regiao_imediata": "Itaberaba",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2903904,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Bom Jesus da Lapa",
+"nome": "Bom Jesus da Lapa",
+"regiao_imediata": "Bom Jesus da Lapa",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2903953,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Vitória da Conquista",
+"nome": "Bom Jesus da Serra",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2904001,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Seabra",
+"nome": "Boninal",
+"regiao_imediata": "Seabra",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2904050,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Seabra",
+"nome": "Bonito",
+"regiao_imediata": "Irecê",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2904100,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Boquira",
+"nome": "Boquira",
+"regiao_imediata": "Bom Jesus da Lapa",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2904209,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Boquira",
+"nome": "Botuporã",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2904308,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Brejões",
+"regiao_imediata": "Santo Antônio de Jesus",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2904407,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Cotegipe",
+"nome": "Brejolândia",
+"regiao_imediata": "Barreiras",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2904506,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Boquira",
+"nome": "Brotas de Macaúbas",
+"regiao_imediata": "Xique-Xique ¿ Barra",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2904605,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Brumado",
+"nome": "Brumado",
+"regiao_imediata": "Brumado",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2904704,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Buerarema",
+"regiao_imediata": "Ilhéus ¿ Itabuna",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2904753,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Barra",
+"nome": "Buritirama",
+"regiao_imediata": "Xique-Xique ¿ Barra",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2904803,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Vitória da Conquista",
+"nome": "Caatiba",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2904852,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Santo Antônio de Jesus",
+"nome": "Cabaceiras do Paraguaçu",
+"regiao_imediata": "Cruz das Almas",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2904902,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Santo Antônio de Jesus",
+"nome": "Cachoeira",
+"regiao_imediata": "Cruz das Almas",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2905008,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Guanambi",
+"nome": "Caculé",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2905107,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Jacobina",
+"nome": "Caém",
+"regiao_imediata": "Jacobina",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2905156,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Vitória da Conquista",
+"nome": "Caetanos",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2905206,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Guanambi",
+"nome": "Caetité",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2905305,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Irecê",
+"nome": "Cafarnaum",
+"regiao_imediata": "Irecê",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2905404,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Valença",
+"nome": "Cairu",
+"regiao_imediata": "Valença",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2905503,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Jacobina",
+"nome": "Caldeirão Grande",
+"regiao_imediata": "Jacobina",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2905602,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Camacan",
+"regiao_imediata": "Camacan",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2905701,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Salvador",
+"nome": "Camaçari",
+"regiao_imediata": "Salvador",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2905800,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Valença",
+"nome": "Camamu",
+"regiao_imediata": "Valença",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2905909,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Juazeiro",
+"nome": "Campo Alegre de Lourdes",
+"regiao_imediata": "Juazeiro",
+"regiao_intermediaria": "Juazeiro"
+},
+{
+"codigo_ibge": 2906006,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Senhor do Bonfim",
+"nome": "Campo Formoso",
+"regiao_imediata": "Senhor do Bonfim",
+"regiao_intermediaria": "Juazeiro"
+},
+{
+"codigo_ibge": 2906105,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Santa Maria da Vitória",
+"nome": "Canápolis",
+"regiao_imediata": "Santa Maria da Vitoria",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2906204,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Irecê",
+"nome": "Canarana",
+"regiao_imediata": "Irecê",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2906303,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Canavieiras",
+"regiao_imediata": "Camacan",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2906402,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Serrinha",
+"nome": "Candeal",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2906501,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Salvador",
+"nome": "Candeias",
+"regiao_imediata": "Salvador",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2906600,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Guanambi",
+"nome": "Candiba",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2906709,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Vitória da Conquista",
+"nome": "Cândido Sales",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2906808,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Euclides da Cunha",
+"nome": "Cansanção",
+"regiao_imediata": "Euclides da Cunha",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2906824,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Euclides da Cunha",
+"nome": "Canudos",
+"regiao_imediata": "Euclides da Cunha",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2906857,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Serrinha",
+"nome": "Capela do Alto Alegre",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2906873,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Jacobina",
+"nome": "Capim Grosso",
+"regiao_imediata": "Jacobina",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2906899,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Brumado",
+"nome": "Caraíbas",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2906907,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Porto Seguro",
+"nome": "Caravelas",
+"regiao_imediata": "Teixeira de Freitas",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2907004,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Entre Rios",
+"nome": "Cardeal da Silva",
+"regiao_imediata": "Alagoinhas",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2907103,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Bom Jesus da Lapa",
+"nome": "Carinhanha",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2907202,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Juazeiro",
+"nome": "Casa Nova",
+"regiao_imediata": "Juazeiro",
+"regiao_intermediaria": "Juazeiro"
+},
+{
+"codigo_ibge": 2907301,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Santo Antônio de Jesus",
+"nome": "Castro Alves",
+"regiao_imediata": "Cruz das Almas",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2907400,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Barreiras",
+"nome": "Catolândia",
+"regiao_imediata": "Barreiras",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2907509,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Catu",
+"nome": "Catu",
+"regiao_imediata": "Salvador",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2907558,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Boquira",
+"nome": "Caturama",
+"regiao_imediata": "Brumado",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2907608,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Irecê",
+"nome": "Central",
+"regiao_imediata": "Irecê",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2907707,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Paulo Afonso",
+"nome": "Chorrochó",
+"regiao_imediata": "Paulo Afonso",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2907806,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Ribeira do Pombal",
+"nome": "Cícero Dantas",
+"regiao_imediata": "Cícero Dantas",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2907905,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Ribeira do Pombal",
+"nome": "Cipó",
+"regiao_imediata": "Ribeira do Pombal",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2908002,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Coaraci",
+"regiao_imediata": "Ilhéus ¿ Itabuna",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2908101,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Santa Maria da Vitória",
+"nome": "Cocos",
+"regiao_imediata": "Santa Maria da Vitoria",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2908200,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Conceição da Feira",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2908309,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Santo Antônio de Jesus",
+"nome": "Conceição do Almeida",
+"regiao_imediata": "Cruz das Almas",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2908408,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Serrinha",
+"nome": "Conceição do Coité",
+"regiao_imediata": "Conceição do Coité",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2908507,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Conceição do Jacuípe",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2908606,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Entre Rios",
+"nome": "Conde",
+"regiao_imediata": "Alagoinhas",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2908705,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Brumado",
+"nome": "Condeúba",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2908804,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Seabra",
+"nome": "Contendas do Sincorá",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2908903,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Coração de Maria",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2909000,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Brumado",
+"nome": "Cordeiros",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2909109,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Santa Maria da Vitória",
+"nome": "Coribe",
+"regiao_imediata": "Santa Maria da Vitoria",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2909208,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Jeremoabo",
+"nome": "Coronel João Sá",
+"regiao_imediata": "Jeremoabo",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2909307,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Santa Maria da Vitória",
+"nome": "Correntina",
+"regiao_imediata": "Santa Maria da Vitoria",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2909406,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Cotegipe",
+"nome": "Cotegipe",
+"regiao_imediata": "Barreiras",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2909505,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Cravolândia",
+"regiao_imediata": "Jequié",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2909604,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Alagoinhas",
+"nome": "Crisópolis",
+"regiao_imediata": "Alagoinhas",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2909703,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Cotegipe",
+"nome": "Cristópolis",
+"regiao_imediata": "Barreiras",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2909802,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Santo Antônio de Jesus",
+"nome": "Cruz das Almas",
+"regiao_imediata": "Cruz das Almas",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2909901,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Juazeiro",
+"nome": "Curaçá",
+"regiao_imediata": "Juazeiro",
+"regiao_intermediaria": "Juazeiro"
+},
+{
+"codigo_ibge": 2910008,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Vitória da Conquista",
+"nome": "Dário Meira",
+"regiao_imediata": "Ipiaú",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2910057,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Salvador",
+"nome": "Dias d'Ávila",
+"regiao_imediata": "Salvador",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2910107,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Livramento do Brumado",
+"nome": "Dom Basílio",
+"regiao_imediata": "Brumado",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2910206,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Santo Antônio de Jesus",
+"nome": "Dom Macedo Costa",
+"regiao_imediata": "Santo Antônio de Jesus",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2910305,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Elísio Medrado",
+"regiao_imediata": "Santo Antônio de Jesus",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2910404,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Itapetinga",
+"nome": "Encruzilhada",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2910503,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Entre Rios",
+"nome": "Entre Rios",
+"regiao_imediata": "Alagoinhas",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2910602,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Entre Rios",
+"nome": "Esplanada",
+"regiao_imediata": "Alagoinhas",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2910701,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Euclides da Cunha",
+"nome": "Euclides da Cunha",
+"regiao_imediata": "Euclides da Cunha",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2910727,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Porto Seguro",
+"nome": "Eunápolis",
+"regiao_imediata": "Eunápolis - Porto Seguro",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2910750,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Ribeira do Pombal",
+"nome": "Fátima",
+"regiao_imediata": "Cícero Dantas",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2910776,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Bom Jesus da Lapa",
+"nome": "Feira da Mata",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2910800,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Feira de Santana",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2910859,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Senhor do Bonfim",
+"nome": "Filadélfia",
+"regiao_imediata": "Senhor do Bonfim",
+"regiao_intermediaria": "Juazeiro"
+},
+{
+"codigo_ibge": 2910909,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Firmino Alves",
+"regiao_imediata": "Ilhéus ¿ Itabuna",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2911006,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Floresta Azul",
+"regiao_imediata": "Ilhéus ¿ Itabuna",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2911105,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Barreiras",
+"nome": "Formosa do Rio Preto",
+"regiao_imediata": "Barreiras",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2911204,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Gandu",
+"regiao_imediata": "Ipiaú",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2911253,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Serrinha",
+"nome": "Gavião",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2911303,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Irecê",
+"nome": "Gentio do Ouro",
+"regiao_imediata": "Xique-Xique ¿ Barra",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2911402,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Paulo Afonso",
+"nome": "Glória",
+"regiao_imediata": "Paulo Afonso",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2911501,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Gongogi",
+"regiao_imediata": "Ipiaú",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2911600,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Santo Antônio de Jesus",
+"nome": "Governador Mangabeira",
+"regiao_imediata": "Cruz das Almas",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2911659,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Brumado",
+"nome": "Guajeru",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2911709,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Guanambi",
+"nome": "Guanambi",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2911808,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Porto Seguro",
+"nome": "Guaratinga",
+"regiao_imediata": "Eunápolis - Porto Seguro",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2911857,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Ribeira do Pombal",
+"nome": "Heliópolis",
+"regiao_imediata": "Cícero Dantas",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2911907,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Itaberaba",
+"nome": "Iaçu",
+"regiao_imediata": "Itaberaba",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2912004,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Guanambi",
+"nome": "Ibiassucê",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2912103,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Ibicaraí",
+"regiao_imediata": "Ilhéus ¿ Itabuna",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2912202,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Seabra",
+"nome": "Ibicoara",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2912301,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Vitória da Conquista",
+"nome": "Ibicuí",
+"regiao_imediata": "Ilhéus ¿ Itabuna",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2912400,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Irecê",
+"nome": "Ibipeba",
+"regiao_imediata": "Irecê",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2912509,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Boquira",
+"nome": "Ibipitanga",
+"regiao_imediata": "Bom Jesus da Lapa",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2912608,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Itaberaba",
+"nome": "Ibiquera",
+"regiao_imediata": "Itaberaba",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2912707,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Ibirapitanga",
+"regiao_imediata": "Ilhéus ¿ Itabuna",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2912806,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Porto Seguro",
+"nome": "Ibirapuã",
+"regiao_imediata": "Teixeira de Freitas",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2912905,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Ibirataia",
+"regiao_imediata": "Ipiaú",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2913002,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Boquira",
+"nome": "Ibitiara",
+"regiao_imediata": "Seabra",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2913101,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Irecê",
+"nome": "Ibititá",
+"regiao_imediata": "Irecê",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2913200,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Barra",
+"nome": "Ibotirama",
+"regiao_imediata": "Xique-Xique ¿ Barra",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2913309,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Serrinha",
+"nome": "Ichu",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2913408,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Guanambi",
+"nome": "Igaporã",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2913457,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Valença",
+"nome": "Igrapiúna",
+"regiao_imediata": "Valença",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2913507,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Vitória da Conquista",
+"nome": "Iguaí",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2913606,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Ilhéus",
+"regiao_imediata": "Ilhéus ¿ Itabuna",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2913705,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Alagoinhas",
+"nome": "Inhambupe",
+"regiao_imediata": "Alagoinhas",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2913804,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Ipecaetá",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2913903,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Ipiaú",
+"regiao_imediata": "Ipiaú",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2914000,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Ipirá",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2914109,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Boquira",
+"nome": "Ipupiara",
+"regiao_imediata": "Xique-Xique ¿ Barra",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2914208,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Irajuba",
+"regiao_imediata": "Jequié",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2914307,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Iramaia",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2914406,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Irecê",
+"nome": "Iraquara",
+"regiao_imediata": "Seabra",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2914505,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Irará",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2914604,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Irecê",
+"nome": "Irecê",
+"regiao_imediata": "Irecê",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2914653,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Porto Seguro",
+"nome": "Itabela",
+"regiao_imediata": "Eunápolis - Porto Seguro",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2914703,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Itaberaba",
+"nome": "Itaberaba",
+"regiao_imediata": "Itaberaba",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2914802,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Itabuna",
+"regiao_imediata": "Ilhéus ¿ Itabuna",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2914901,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Itacaré",
+"regiao_imediata": "Ilhéus ¿ Itabuna",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2915007,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Seabra",
+"nome": "Itaeté",
+"regiao_imediata": "Itaberaba",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2915106,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Itagi",
+"regiao_imediata": "Jequié",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2915205,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Itagibá",
+"regiao_imediata": "Ipiaú",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2915304,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Porto Seguro",
+"nome": "Itagimirim",
+"regiao_imediata": "Eunápolis - Porto Seguro",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2915353,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Barra",
+"nome": "Itaguaçu da Bahia",
+"regiao_imediata": "Irecê",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2915403,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Itaju do Colônia",
+"regiao_imediata": "Ilhéus ¿ Itabuna",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2915502,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Itajuípe",
+"regiao_imediata": "Ilhéus ¿ Itabuna",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2915601,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Porto Seguro",
+"nome": "Itamaraju",
+"regiao_imediata": "Teixeira de Freitas",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2915700,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Itamari",
+"regiao_imediata": "Ipiaú",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2915809,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Itapetinga",
+"nome": "Itambé",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2915908,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Catu",
+"nome": "Itanagra",
+"regiao_imediata": "Salvador",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2916005,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Porto Seguro",
+"nome": "Itanhém",
+"regiao_imediata": "Teixeira de Freitas",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2916104,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Salvador",
+"nome": "Itaparica",
+"regiao_imediata": "Nazaré ¿ Maragogipe",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2916203,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Itapé",
+"regiao_imediata": "Ilhéus ¿ Itabuna",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2916302,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Itapebi",
+"regiao_imediata": "Eunápolis - Porto Seguro",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2916401,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Itapetinga",
+"nome": "Itapetinga",
+"regiao_imediata": "Itapetinga",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2916500,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Ribeira do Pombal",
+"nome": "Itapicuru",
+"regiao_imediata": "Alagoinhas",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2916609,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Itapitanga",
+"regiao_imediata": "Ilhéus ¿ Itabuna",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2916708,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Itaquara",
+"regiao_imediata": "Jequié",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2916807,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Itapetinga",
+"nome": "Itarantim",
+"regiao_imediata": "Itapetinga",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2916856,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Itatim",
+"regiao_imediata": "Cruz das Almas",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2916906,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Itiruçu",
+"regiao_imediata": "Jequié",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2917003,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Senhor do Bonfim",
+"nome": "Itiúba",
+"regiao_imediata": "Senhor do Bonfim",
+"regiao_intermediaria": "Juazeiro"
+},
+{
+"codigo_ibge": 2917102,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Itapetinga",
+"nome": "Itororó",
+"regiao_imediata": "Itapetinga",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2917201,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Brumado",
+"nome": "Ituaçu",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2917300,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Valença",
+"nome": "Ituberá",
+"regiao_imediata": "Valença",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2917334,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Guanambi",
+"nome": "Iuiu",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2917359,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Santa Maria da Vitória",
+"nome": "Jaborandi",
+"regiao_imediata": "Santa Maria da Vitoria",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2917409,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Guanambi",
+"nome": "Jacaraci",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2917508,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Jacobina",
+"nome": "Jacobina",
+"regiao_imediata": "Jacobina",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2917607,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Jaguaquara",
+"regiao_imediata": "Jequié",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2917706,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Senhor do Bonfim",
+"nome": "Jaguarari",
+"regiao_imediata": "Senhor do Bonfim",
+"regiao_intermediaria": "Juazeiro"
+},
+{
+"codigo_ibge": 2917805,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Santo Antônio de Jesus",
+"nome": "Jaguaripe",
+"regiao_imediata": "Nazaré ¿ Maragogipe",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2917904,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Entre Rios",
+"nome": "Jandaíra",
+"regiao_imediata": "Alagoinhas",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2918001,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Jequié",
+"regiao_imediata": "Jequié",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2918100,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Jeremoabo",
+"nome": "Jeremoabo",
+"regiao_imediata": "Jeremoabo",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2918209,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Jiquiriçá",
+"regiao_imediata": "Santo Antônio de Jesus",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2918308,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Jitaúna",
+"regiao_imediata": "Jequié",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2918357,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Irecê",
+"nome": "João Dourado",
+"regiao_imediata": "Irecê",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2918407,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Juazeiro",
+"nome": "Juazeiro",
+"regiao_imediata": "Juazeiro",
+"regiao_intermediaria": "Juazeiro"
+},
+{
+"codigo_ibge": 2918456,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Porto Seguro",
+"nome": "Jucuruçu",
+"regiao_imediata": "Teixeira de Freitas",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2918506,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Irecê",
+"nome": "Jussara",
+"regiao_imediata": "Irecê",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2918555,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Jussari",
+"regiao_imediata": "Camacan",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2918605,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Seabra",
+"nome": "Jussiape",
+"regiao_imediata": "Brumado",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2918704,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Lafaiete Coutinho",
+"regiao_imediata": "Jequié",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2918753,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Guanambi",
+"nome": "Lagoa Real",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2918803,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Laje",
+"regiao_imediata": "Santo Antônio de Jesus",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2918902,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Porto Seguro",
+"nome": "Lajedão",
+"regiao_imediata": "Teixeira de Freitas",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2919009,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Itaberaba",
+"nome": "Lajedinho",
+"regiao_imediata": "Itaberaba",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2919058,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Lajedo do Tabocal",
+"regiao_imediata": "Jequié",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2919108,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Serrinha",
+"nome": "Lamarão",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2919157,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Irecê",
+"nome": "Lapão",
+"regiao_imediata": "Irecê",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2919207,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Salvador",
+"nome": "Lauro de Freitas",
+"regiao_imediata": "Salvador",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2919306,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Seabra",
+"nome": "Lençóis",
+"regiao_imediata": "Seabra",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2919405,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Guanambi",
+"nome": "Licínio de Almeida",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2919504,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Livramento do Brumado",
+"nome": "Livramento de Nossa Senhora",
+"regiao_imediata": "Brumado",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2919553,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Barreiras",
+"nome": "Luís Eduardo Magalhães",
+"regiao_imediata": "Barreiras",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2919603,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Itaberaba",
+"nome": "Macajuba",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2919702,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Itapetinga",
+"nome": "Macarani",
+"regiao_imediata": "Itapetinga",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2919801,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Boquira",
+"nome": "Macaúbas",
+"regiao_imediata": "Bom Jesus da Lapa",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2919900,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Paulo Afonso",
+"nome": "Macururé",
+"regiao_imediata": "Paulo Afonso",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2919926,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Salvador",
+"nome": "Madre de Deus",
+"regiao_imediata": "Salvador",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2919959,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Brumado",
+"nome": "Maetinga",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2920007,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Itapetinga",
+"nome": "Maiquinique",
+"regiao_imediata": "Itapetinga",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2920106,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Itaberaba",
+"nome": "Mairi",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2920205,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Guanambi",
+"nome": "Malhada",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2920304,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Brumado",
+"nome": "Malhada de Pedras",
+"regiao_imediata": "Brumado",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2920403,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Vitória da Conquista",
+"nome": "Manoel Vitorino",
+"regiao_imediata": "Jequié",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2920452,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Cotegipe",
+"nome": "Mansidão",
+"regiao_imediata": "Barreiras",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2920502,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Maracás",
+"regiao_imediata": "Jequié",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2920601,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Santo Antônio de Jesus",
+"nome": "Maragogipe",
+"regiao_imediata": "Nazaré ¿ Maragogipe",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2920700,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Valença",
+"nome": "Maraú",
+"regiao_imediata": "Ilhéus ¿ Itabuna",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2920809,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Marcionílio Souza",
+"regiao_imediata": "Itaberaba",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2920908,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Mascote",
+"regiao_imediata": "Camacan",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2921005,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Catu",
+"nome": "Mata de São João",
+"regiao_imediata": "Salvador",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2921054,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Guanambi",
+"nome": "Matina",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2921104,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Porto Seguro",
+"nome": "Medeiros Neto",
+"regiao_imediata": "Teixeira de Freitas",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2921203,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Jacobina",
+"nome": "Miguel Calmon",
+"regiao_imediata": "Jacobina",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2921302,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Milagres",
+"regiao_imediata": "Santo Antônio de Jesus",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2921401,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Jacobina",
+"nome": "Mirangaba",
+"regiao_imediata": "Jacobina",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2921450,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Vitória da Conquista",
+"nome": "Mirante",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2921500,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Euclides da Cunha",
+"nome": "Monte Santo",
+"regiao_imediata": "Euclides da Cunha",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2921609,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Barra",
+"nome": "Morpará",
+"regiao_imediata": "Xique-Xique ¿ Barra",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2921708,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Jacobina",
+"nome": "Morro do Chapéu",
+"regiao_imediata": "Irecê",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2921807,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Guanambi",
+"nome": "Mortugaba",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2921906,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Seabra",
+"nome": "Mucugê",
+"regiao_imediata": "Seabra",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2922003,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Porto Seguro",
+"nome": "Mucuri",
+"regiao_imediata": "Teixeira de Freitas",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2922052,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Irecê",
+"nome": "Mulungu do Morro",
+"regiao_imediata": "Irecê",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2922102,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Itaberaba",
+"nome": "Mundo Novo",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2922201,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Santo Antônio de Jesus",
+"nome": "Muniz Ferreira",
+"regiao_imediata": "Santo Antônio de Jesus",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2922250,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Barra",
+"nome": "Muquém do São Francisco",
+"regiao_imediata": "Xique-Xique ¿ Barra",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2922300,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Santo Antônio de Jesus",
+"nome": "Muritiba",
+"regiao_imediata": "Cruz das Almas",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2922409,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Mutuípe",
+"regiao_imediata": "Santo Antônio de Jesus",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2922508,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Santo Antônio de Jesus",
+"nome": "Nazaré",
+"regiao_imediata": "Nazaré ¿ Maragogipe",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2922607,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Valença",
+"nome": "Nilo Peçanha",
+"regiao_imediata": "Valença",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2922656,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Euclides da Cunha",
+"nome": "Nordestina",
+"regiao_imediata": "Conceição do Coité",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2922706,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Vitória da Conquista",
+"nome": "Nova Canaã",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2922730,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Serrinha",
+"nome": "Nova Fátima",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2922755,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Nova Ibiá",
+"regiao_imediata": "Ipiaú",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2922805,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Nova Itarana",
+"regiao_imediata": "Santo Antônio de Jesus",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2922854,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Seabra",
+"nome": "Nova Redenção",
+"regiao_imediata": "Itaberaba",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2922904,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Ribeira do Pombal",
+"nome": "Nova Soure",
+"regiao_imediata": "Ribeira do Pombal",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2923001,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Porto Seguro",
+"nome": "Nova Viçosa",
+"regiao_imediata": "Teixeira de Freitas",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2923035,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Boquira",
+"nome": "Novo Horizonte",
+"regiao_imediata": "Seabra",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2923050,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Ribeira do Pombal",
+"nome": "Novo Triunfo",
+"regiao_imediata": "Jeremoabo",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2923100,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Ribeira do Pombal",
+"nome": "Olindina",
+"regiao_imediata": "Ribeira do Pombal",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2923209,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Boquira",
+"nome": "Oliveira dos Brejinhos",
+"regiao_imediata": "Xique-Xique ¿ Barra",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2923308,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Ouriçangas",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2923357,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Jacobina",
+"nome": "Ourolândia",
+"regiao_imediata": "Jacobina",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2923407,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Guanambi",
+"nome": "Palmas de Monte Alto",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2923506,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Seabra",
+"nome": "Palmeiras",
+"regiao_imediata": "Seabra",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2923605,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Livramento do Brumado",
+"nome": "Paramirim",
+"regiao_imediata": "Brumado",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2923704,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Bom Jesus da Lapa",
+"nome": "Paratinga",
+"regiao_imediata": "Bom Jesus da Lapa",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2923803,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Ribeira do Pombal",
+"nome": "Paripiranga",
+"regiao_imediata": "Cícero Dantas",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2923902,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Pau Brasil",
+"regiao_imediata": "Camacan",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2924009,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Paulo Afonso",
+"nome": "Paulo Afonso",
+"regiao_imediata": "Paulo Afonso",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2924058,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Serrinha",
+"nome": "Pé de Serra",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2924108,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Pedrão",
+"regiao_imediata": "Alagoinhas",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2924207,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Jeremoabo",
+"nome": "Pedro Alexandre",
+"regiao_imediata": "Jeremoabo",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2924306,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Seabra",
+"nome": "Piatã",
+"regiao_imediata": "Seabra",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2924405,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Juazeiro",
+"nome": "Pilão Arcado",
+"regiao_imediata": "Juazeiro",
+"regiao_intermediaria": "Juazeiro"
+},
+{
+"codigo_ibge": 2924504,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Guanambi",
+"nome": "Pindaí",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2924603,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Senhor do Bonfim",
+"nome": "Pindobaçu",
+"regiao_imediata": "Senhor do Bonfim",
+"regiao_intermediaria": "Juazeiro"
+},
+{
+"codigo_ibge": 2924652,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Pintadas",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2924678,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Valença",
+"nome": "Piraí do Norte",
+"regiao_imediata": "Ipiaú",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2924702,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Brumado",
+"nome": "Piripá",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2924801,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Jacobina",
+"nome": "Piritiba",
+"regiao_imediata": "Jacobina",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2924900,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Planaltino",
+"regiao_imediata": "Jequié",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2925006,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Vitória da Conquista",
+"nome": "Planalto",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2925105,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Vitória da Conquista",
+"nome": "Poções",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2925204,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Catu",
+"nome": "Pojuca",
+"regiao_imediata": "Salvador",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2925253,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Jacobina",
+"nome": "Ponto Novo",
+"regiao_imediata": "Senhor do Bonfim",
+"regiao_intermediaria": "Juazeiro"
+},
+{
+"codigo_ibge": 2925303,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Porto Seguro",
+"nome": "Porto Seguro",
+"regiao_imediata": "Eunápolis - Porto Seguro",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2925402,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Itapetinga",
+"nome": "Potiraguá",
+"regiao_imediata": "Itapetinga",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2925501,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Porto Seguro",
+"nome": "Prado",
+"regiao_imediata": "Teixeira de Freitas",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2925600,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Irecê",
+"nome": "Presidente Dutra",
+"regiao_imediata": "Irecê",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2925709,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Brumado",
+"nome": "Presidente Jânio Quadros",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2925758,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Valença",
+"nome": "Presidente Tancredo Neves",
+"regiao_imediata": "Valença",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2925808,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Euclides da Cunha",
+"nome": "Queimadas",
+"regiao_imediata": "Conceição do Coité",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2925907,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Euclides da Cunha",
+"nome": "Quijingue",
+"regiao_imediata": "Euclides da Cunha",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2925931,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Jacobina",
+"nome": "Quixabeira",
+"regiao_imediata": "Jacobina",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2925956,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Rafael Jambeiro",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2926004,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Juazeiro",
+"nome": "Remanso",
+"regiao_imediata": "Juazeiro",
+"regiao_intermediaria": "Juazeiro"
+},
+{
+"codigo_ibge": 2926103,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Serrinha",
+"nome": "Retirolândia",
+"regiao_imediata": "Conceição do Coité",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2926202,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Barreiras",
+"nome": "Riachão das Neves",
+"regiao_imediata": "Barreiras",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2926301,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Serrinha",
+"nome": "Riachão do Jacuípe",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2926400,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Guanambi",
+"nome": "Riacho de Santana",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2926509,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Ribeira do Pombal",
+"nome": "Ribeira do Amparo",
+"regiao_imediata": "Ribeira do Pombal",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2926608,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Ribeira do Pombal",
+"nome": "Ribeira do Pombal",
+"regiao_imediata": "Ribeira do Pombal",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2926657,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Itapetinga",
+"nome": "Ribeirão do Largo",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2926707,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Seabra",
+"nome": "Rio de Contas",
+"regiao_imediata": "Brumado",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2926806,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Brumado",
+"nome": "Rio do Antônio",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2926905,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Livramento do Brumado",
+"nome": "Rio do Pires",
+"regiao_imediata": "Brumado",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2927002,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Alagoinhas",
+"nome": "Rio Real",
+"regiao_imediata": "Alagoinhas",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2927101,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Paulo Afonso",
+"nome": "Rodelas",
+"regiao_imediata": "Paulo Afonso",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2927200,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Itaberaba",
+"nome": "Ruy Barbosa",
+"regiao_imediata": "Itaberaba",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2927309,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Santo Antônio de Jesus",
+"nome": "Salinas da Margarida",
+"regiao_imediata": "Nazaré ¿ Maragogipe",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2927408,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Salvador",
+"nome": "Salvador",
+"regiao_imediata": "Salvador",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2927507,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Santa Bárbara",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2927606,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Jeremoabo",
+"nome": "Santa Brígida",
+"regiao_imediata": "Paulo Afonso",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2927705,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Porto Seguro",
+"nome": "Santa Cruz Cabrália",
+"regiao_imediata": "Eunápolis - Porto Seguro",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2927804,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Santa Cruz da Vitória",
+"regiao_imediata": "Ilhéus ¿ Itabuna",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2927903,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Santa Inês",
+"regiao_imediata": "Jequié",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2928000,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Serrinha",
+"nome": "Santaluz",
+"regiao_imediata": "Conceição do Coité",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2928059,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Santa Luzia",
+"regiao_imediata": "Camacan",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2928109,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Santa Maria da Vitória",
+"nome": "Santa Maria da Vitória",
+"regiao_imediata": "Santa Maria da Vitoria",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2928208,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Santa Maria da Vitória",
+"nome": "Santana",
+"regiao_imediata": "Barreiras",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2928307,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Santanópolis",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2928406,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Cotegipe",
+"nome": "Santa Rita de Cássia",
+"regiao_imediata": "Barreiras",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2928505,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Santa Terezinha",
+"regiao_imediata": "Cruz das Almas",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2928604,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Santo Antônio de Jesus",
+"nome": "Santo Amaro",
+"regiao_imediata": "Salvador",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2928703,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Santo Antônio de Jesus",
+"nome": "Santo Antônio de Jesus",
+"regiao_imediata": "Santo Antônio de Jesus",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2928802,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Santo Estêvão",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2928901,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Barreiras",
+"nome": "São Desidério",
+"regiao_imediata": "Barreiras",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2928950,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Serrinha",
+"nome": "São Domingos",
+"regiao_imediata": "Conceição do Coité",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2929008,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Santo Antônio de Jesus",
+"nome": "São Félix",
+"regiao_imediata": "Cruz das Almas",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2929057,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Santa Maria da Vitória",
+"nome": "São Félix do Coribe",
+"regiao_imediata": "Santa Maria da Vitoria",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2929107,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Santo Antônio de Jesus",
+"nome": "São Felipe",
+"regiao_imediata": "Cruz das Almas",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2929206,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Salvador",
+"nome": "São Francisco do Conde",
+"regiao_imediata": "Salvador",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2929255,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Irecê",
+"nome": "São Gabriel",
+"regiao_imediata": "Irecê",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2929305,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "São Gonçalo dos Campos",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2929354,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "São José da Vitória",
+"regiao_imediata": "Ilhéus ¿ Itabuna",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2929370,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Jacobina",
+"nome": "São José do Jacuípe",
+"regiao_imediata": "Jacobina",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2929404,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "São Miguel das Matas",
+"regiao_imediata": "Santo Antônio de Jesus",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2929503,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Catu",
+"nome": "São Sebastião do Passé",
+"regiao_imediata": "Salvador",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2929602,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Santo Antônio de Jesus",
+"nome": "Sapeaçu",
+"regiao_imediata": "Cruz das Almas",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2929701,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Alagoinhas",
+"nome": "Sátiro Dias",
+"regiao_imediata": "Alagoinhas",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2929750,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Santo Antônio de Jesus",
+"nome": "Saubara",
+"regiao_imediata": "Salvador",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2929800,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Jacobina",
+"nome": "Saúde",
+"regiao_imediata": "Jacobina",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2929909,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Seabra",
+"nome": "Seabra",
+"regiao_imediata": "Seabra",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2930006,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Guanambi",
+"nome": "Sebastião Laranjeiras",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2930105,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Senhor do Bonfim",
+"nome": "Senhor do Bonfim",
+"regiao_imediata": "Senhor do Bonfim",
+"regiao_intermediaria": "Juazeiro"
+},
+{
+"codigo_ibge": 2930154,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Bom Jesus da Lapa",
+"nome": "Serra do Ramalho",
+"regiao_imediata": "Bom Jesus da Lapa",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2930204,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Juazeiro",
+"nome": "Sento Sé",
+"regiao_imediata": "Juazeiro",
+"regiao_intermediaria": "Juazeiro"
+},
+{
+"codigo_ibge": 2930303,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Santa Maria da Vitória",
+"nome": "Serra Dourada",
+"regiao_imediata": "Barreiras",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2930402,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Serra Preta",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2930501,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Serrinha",
+"nome": "Serrinha",
+"regiao_imediata": "Serrinha",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2930600,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Jacobina",
+"nome": "Serrolândia",
+"regiao_imediata": "Jacobina",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2930709,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Salvador",
+"nome": "Simões Filho",
+"regiao_imediata": "Salvador",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2930758,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Bom Jesus da Lapa",
+"nome": "Sítio do Mato",
+"regiao_imediata": "Bom Jesus da Lapa",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2930766,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Jeremoabo",
+"nome": "Sítio do Quinto",
+"regiao_imediata": "Jeremoabo",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2930774,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Juazeiro",
+"nome": "Sobradinho",
+"regiao_imediata": "Juazeiro",
+"regiao_intermediaria": "Juazeiro"
+},
+{
+"codigo_ibge": 2930808,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Irecê",
+"nome": "Souto Soares",
+"regiao_imediata": "Seabra",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2930907,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Cotegipe",
+"nome": "Tabocas do Brejo Velho",
+"regiao_imediata": "Barreiras",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2931004,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Brumado",
+"nome": "Tanhaçu",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2931053,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Boquira",
+"nome": "Tanque Novo",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2931103,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Tanquinho",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2931202,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Valença",
+"nome": "Taperoá",
+"regiao_imediata": "Valença",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2931301,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Itaberaba",
+"nome": "Tapiramutá",
+"regiao_imediata": "Jacobina",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2931350,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Porto Seguro",
+"nome": "Teixeira de Freitas",
+"regiao_imediata": "Teixeira de Freitas",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2931400,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Feira de Santana",
+"nome": "Teodoro Sampaio",
+"regiao_imediata": "Alagoinhas",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2931509,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Serrinha",
+"nome": "Teofilândia",
+"regiao_imediata": "Serrinha",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2931608,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Teolândia",
+"regiao_imediata": "Ipiaú",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2931707,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Catu",
+"nome": "Terra Nova",
+"regiao_imediata": "Salvador",
+"regiao_intermediaria": "Salvador"
+},
+{
+"codigo_ibge": 2931806,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Brumado",
+"nome": "Tremedal",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2931905,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Euclides da Cunha",
+"nome": "Tucano",
+"regiao_imediata": "Ribeira do Pombal",
+"regiao_intermediaria": "Paulo Afonso"
+},
+{
+"codigo_ibge": 2932002,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Euclides da Cunha",
+"nome": "Uauá",
+"regiao_imediata": "Juazeiro",
+"regiao_intermediaria": "Juazeiro"
+},
+{
+"codigo_ibge": 2932101,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Jequié",
+"nome": "Ubaíra",
+"regiao_imediata": "Santo Antônio de Jesus",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2932200,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Ubaitaba",
+"regiao_imediata": "Ilhéus ¿ Itabuna",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2932309,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Ubatã",
+"regiao_imediata": "Ipiaú",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2932408,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Irecê",
+"nome": "Uibaí",
+"regiao_imediata": "Irecê",
+"regiao_intermediaria": "Irecê"
+},
+{
+"codigo_ibge": 2932457,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Senhor do Bonfim",
+"nome": "Umburanas",
+"regiao_imediata": "Jacobina",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2932507,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Una",
+"regiao_imediata": "Camacan",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2932606,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Guanambi",
+"nome": "Urandi",
+"regiao_imediata": "Guanambi",
+"regiao_intermediaria": "Guanambi"
+},
+{
+"codigo_ibge": 2932705,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Uruçuca",
+"regiao_imediata": "Ilhéus ¿ Itabuna",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2932804,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Seabra",
+"nome": "Utinga",
+"regiao_imediata": "Itaberaba",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2932903,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Valença",
+"nome": "Valença",
+"regiao_imediata": "Valença",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2933000,
+"mesorregiao": "Nordeste Baiano",
+"microrregiao": "Serrinha",
+"nome": "Valente",
+"regiao_imediata": "Conceição do Coité",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2933059,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Itaberaba",
+"nome": "Várzea da Roça",
+"regiao_imediata": "Feira de Santana",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2933109,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Jacobina",
+"nome": "Várzea do Poço",
+"regiao_imediata": "Jacobina",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2933158,
+"mesorregiao": "Centro Norte Baiano",
+"microrregiao": "Jacobina",
+"nome": "Várzea Nova",
+"regiao_imediata": "Jacobina",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2933174,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Santo Antônio de Jesus",
+"nome": "Varzedo",
+"regiao_imediata": "Santo Antônio de Jesus",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2933208,
+"mesorregiao": "Metropolitana de Salvador",
+"microrregiao": "Salvador",
+"nome": "Vera Cruz",
+"regiao_imediata": "Nazaré ¿ Maragogipe",
+"regiao_intermediaria": "Santo Antônio de Jesus"
+},
+{
+"codigo_ibge": 2933257,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Porto Seguro",
+"nome": "Vereda",
+"regiao_imediata": "Teixeira de Freitas",
+"regiao_intermediaria": "Ilhéus ¿ Itabuna"
+},
+{
+"codigo_ibge": 2933307,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Vitória da Conquista",
+"nome": "Vitória da Conquista",
+"regiao_imediata": "Vitória da Conquista",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2933406,
+"mesorregiao": "Centro Sul Baiano",
+"microrregiao": "Seabra",
+"nome": "Wagner",
+"regiao_imediata": "Itaberaba",
+"regiao_intermediaria": "Feira de Santana"
+},
+{
+"codigo_ibge": 2933455,
+"mesorregiao": "Extremo Oeste Baiano",
+"microrregiao": "Cotegipe",
+"nome": "Wanderley",
+"regiao_imediata": "Barreiras",
+"regiao_intermediaria": "Barreiras"
+},
+{
+"codigo_ibge": 2933505,
+"mesorregiao": "Sul Baiano",
+"microrregiao": "Ilhéus-Itabuna",
+"nome": "Wenceslau Guimarães",
+"regiao_imediata": "Ipiaú",
+"regiao_intermediaria": "Vitória da Conquista"
+},
+{
+"codigo_ibge": 2933604,
+"mesorregiao": "Vale São-Franciscano da Bahia",
+"microrregiao": "Barra",
+"nome": "Xique-Xique",
+"regiao_imediata": "Xique-Xique ¿ Barra",
+"regiao_intermediaria": "Irecê"
+}
+]
