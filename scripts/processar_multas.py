@@ -58,7 +58,11 @@ CPF_RE = re.compile(r'(?<!\d)\d{3}\s*\.\s*\d{3}\s*\.\s*\d{3}\s*-\s*\d{2}(?!\d)|(
 
 
 def mascara(t):
-    return CPF_RE.sub(lambda m: (m.group(1) or '') + '***.***.***-**', t or '')
+    # CPF, RG e CNH (regra única da base: scripts/privacidade.py)
+    import sys
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from privacidade import mascara as _m
+    return _m(t or '')
 
 
 def normaliza(t):

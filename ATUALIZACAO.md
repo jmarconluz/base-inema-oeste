@@ -11,7 +11,7 @@ mão). Escreva tudo em português. Se uma etapa falhar, registre o motivo e siga
   fechado), não insista: avise o usuário e encerre.
 - Nunca digitar senha nem fazer login; nunca contornar captcha, bloqueio ou termos de uso; não mexer no Chrome do
   usuário (lá pode estar rodando a coleta do SEIA) nem no SEIA.
-- O repositório é público: CPF sempre mascarado; nenhum dado de cliente aqui.
+- O repositório é público: CPF, RG e CNH sempre mascarados (`scripts/privacidade.py`); nenhum dado de cliente aqui.
 - Não invente número, data nem norma. Não apague arquivos existentes.
 
 ## 0. Preparar
@@ -118,8 +118,8 @@ passe ao próximo na semana seguinte.
 ## 6. Conferir e publicar
 
 ```bash
-# nenhum CPF aberto nos arquivos alterados (deve imprimir 0):
-git diff --name-only | grep -E '\.(csv|md|json)$' | xargs -r grep -cP '(?<!\d)\d{3}\.\d{3}\.\d{3}-\d{2}(?!\d)' | awk -F: '{s+=$2} END {print s+0}'
+# mascara CPF, RG e CNH em todos os arquivos de dados (idempotente) e confere: a 2ª linha tem de dizer 0
+python scripts/privacidade.py --aplicar && python scripts/privacidade.py --conferir | tail -1
 git add -A && git commit -m "Atualização semanal AAAA-MM-DD: <resumo>" && git push origin HEAD:main
 git status && git log origin/main -1 --oneline
 ```

@@ -9,6 +9,8 @@ Saídas  : dados/bahia/portarias_bahia.csv        – todos os atos de ASV e out
 
 Uso: python scripts/processar.py
 """
+import sys
+sys.path.insert(0, __import__("os").path.dirname(__import__("os").path.abspath(__file__)))
 import csv
 import glob
 import json
@@ -52,11 +54,13 @@ def pontos(coord_txt):
 
 
 def carregar():
+    # dados pessoais (CPF, RG, CNH) mascarados: o repositório é público
+    from privacidade import mascara
     regs = {}
     for f in sorted(glob.glob(os.path.join(BRUTOS, "doe_inema_*.json"))):
         with open(f, encoding="utf-8") as fh:
             for r in json.load(fh):
-                regs[r["chave"]] = r
+                regs[r["chave"]] = {k: (mascara(v) if isinstance(v, str) else v) for k, v in r.items()}
     return list(regs.values())
 
 

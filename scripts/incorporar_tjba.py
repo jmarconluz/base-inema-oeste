@@ -5,6 +5,8 @@ Uso:
     python scripts/incorporar_tjba.py /tmp/pacotes/tjba.json [outro.json ...]
 """
 import json, os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from privacidade import mascara
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ACERVO = os.path.join(RAIZ, 'juridico', 'jurisprudencia', 'tjba', 'tjba_inema_multas.json')
@@ -20,6 +22,8 @@ def main():
     for arq in sys.argv[1:]:
         for d in json.load(open(arq, encoding='utf-8')):
             d['link_inteiro_teor'] = LINK + d['hash']
+            for k in ('ementa', 'trechos'):
+                d[k] = mascara(d.get(k) or '')
             ant = idx.get(d['hash'])
             if ant is None:
                 idx[d['hash']] = d; novos += 1
