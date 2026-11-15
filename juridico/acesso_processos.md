@@ -4,6 +4,8 @@ Resposta curta: **sim, é possível**, mas o caminho depende de quem pede e de o
 O DOE publica só o resumo (edital, homologação, decisão do CEPRAM). Votos, pareceres, relatórios de fiscalização e
 mapas ficam no processo.
 
+> **Achado em 15/11/2026:** autos antigos do INEMA em fase de recurso já aparecem nas pautas da CT Recursal do CEPRAM com número de processo SEI. Exemplo publicado: "Processo: 046.0525.2025.0016581-40 (AUTO DE INFRAÇÃO Nº 2015-002591/TEC/AIMU-0229)", na pauta da 2ª Reunião Extraordinária da CT Recursal de 20/10/2026 (https://www.ba.gov.br/meioambiente/sites/site-sema/files/2026-10/Pauta%20da%202%C2%AA%20Reuni%C3%A3o%20Extraordin%C3%A1ria%20da%20CT%20Recursal%2020.10.pdf). Ou seja: para autos em recurso, procure o número SEI na pauta da CT Recursal e peça vista/cópia por ele no SEI Bahia.
+
 ## Base legal do acesso
 
 - **Lei 10.650/2003** — órgãos do SISNAMA devem dar acesso a documentos, expedientes e processos administrativos sobre
