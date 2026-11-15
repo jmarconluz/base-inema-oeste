@@ -20,8 +20,10 @@ window.LEX = {
     const t = (main.textContent || '').replace(/ /g, ' ').replace(/[ \t]+/g, ' ').replace(/ *\n[ \n]*/g, '\n').trim();
     return { url, titulo: (doc.title || '').trim(), chars: t.length, texto: t };
   },
+  // Cabeçalho institucional do Planalto (muda de formato sem mudar a norma): fica fora do hash (igual ao Python).
+  canon(t) { return t.replace(/^Presid[êe]ncia da Rep[úu]blica\n(?:Casa Civil\n)?(?:Subchefia|Secretaria Especial) para Assuntos Jur[íi]dicos\n/, ''); },
   async hash(t) {
-    const b = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(t));
+    const b = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(this.canon(t)));
     return [...new Uint8Array(b)].map(x => x.toString(16).padStart(2, '0')).join('');
   },
   async verificar(urls) {

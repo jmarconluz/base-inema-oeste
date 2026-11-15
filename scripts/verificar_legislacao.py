@@ -31,8 +31,16 @@ def ler(f):
     return (m.group(1) if m else None), cab, corpo
 
 
+# Cabeçalho institucional do Planalto (muda de formato sem mudar a norma): fica fora do hash.
+CAB_PLANALTO = re.compile(r'^Presid[êe]ncia da Rep[úu]blica\n(?:Casa Civil\n)?(?:Subchefia|Secretaria Especial) para Assuntos Jur[íi]dicos\n')
+
+
+def canon(t):
+    return CAB_PLANALTO.sub('', t)
+
+
 def sha(t):
-    return hashlib.sha256(t.encode('utf-8')).hexdigest()
+    return hashlib.sha256(canon(t).encode('utf-8')).hexdigest()
 
 
 def gerar_hashes():

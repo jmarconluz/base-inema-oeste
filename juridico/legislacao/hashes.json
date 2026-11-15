@@ -50,13 +50,13 @@
  {
   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6514.htm",
   "arquivo": "juridico/legislacao/federal/d6514.txt",
-  "sha256": "e3880b01cc9b9163730365a86767c7fa2c4e9fbcf93d337298a10f371dd03783",
+  "sha256": "512c392af35ffab6a398b38cf95ad624eed2c83ee8b985f773f429eb470f443f",
   "chars": 122536
  },
  {
   "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6660.htm",
   "arquivo": "juridico/legislacao/federal/d6660.txt",
-  "sha256": "40704e529898f82ae433b0a42f975fa127c5b653d428b40eaa9d0938deae8c14",
+  "sha256": "85a4567d5b96605b247ad31d2e683596eabbe9e0e66c17baff753818b012e584",
   "chars": 49777
  },
  {
@@ -74,19 +74,19 @@
  {
   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11428.htm",
   "arquivo": "juridico/legislacao/federal/l11428.txt",
-  "sha256": "def1d07ac7f8fab8200b239170b55ba439cf1851fc0896cefd4eec024dd83820",
+  "sha256": "94581b258ee9d00167b227dd148f0c487b852bf045f9d1d586689fd7efb37278",
   "chars": 28721
  },
  {
   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm",
   "arquivo": "juridico/legislacao/federal/l12527.txt",
-  "sha256": "96b256dab6ce207b7ec26fdbacccdf0010bb527ae6b6cb739a77e4c4da8021b4",
+  "sha256": "cbe34335b488ccb9e79fc0274a671791f5faff9c71a8afc4326db388b510bb9e",
   "chars": 41564
  },
  {
   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651.htm",
   "arquivo": "juridico/legislacao/federal/l12651.txt",
-  "sha256": "a5f22fc3cb270fbed946b269ede5b3ef887e6530da0a8cfccd7b3c32d0a06333",
+  "sha256": "ed909f98aa7351831301bf109474d14745a91208e56c94a2871e5daba977d5f5",
   "chars": 116626
  },
  {
@@ -140,7 +140,7 @@
  {
   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
   "arquivo": "juridico/legislacao/federal/lcp123.txt",
-  "sha256": "8028c749c007cc4a4f725183cb0adb8fe04e5a192cad5b50ba488bf56cb2dd00",
+  "sha256": "01ce531eaf26b0a8f7839605df8b5b9e7561d2788867c4edc95ab0591cd31c5d",
   "chars": 226597
  },
  {
