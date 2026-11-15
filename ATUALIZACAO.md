@@ -27,7 +27,8 @@ SHA=$(git rev-parse HEAD); mkdir -p /tmp/pacotes
   max_results 64) e leia a skill `built-in-browser`, se estiver na lista.
 - `tabs_context`: reaproveite abas que já estejam nos sites; senão `tabs_create` + `navigate`.
 - Sites já liberados no navegador embutido: `dool.egba.ba.gov.br`, `jurisprudencia.tjba.jus.br`,
-  `www.legislabahia.ba.gov.br`, `www.planalto.gov.br`, `dadosabertos.ibama.gov.br` e o blob de dados abertos do IBAMA.
+  `www.legislabahia.ba.gov.br`, `www.planalto.gov.br`, `dadosabertos.ibama.gov.br`, o blob de dados abertos do IBAMA
+  e `dadosabertos.web.stj.jus.br`.
   Site novo precisa ser liberado pelo usuário: numa execução agendada não fique esperando a liberação — registre
   "aguardando liberação de <site> no navegador" em `juridico/PENDENCIAS.md`, peça a liberação no resumo e siga.
 - Os coletores são carregados no navegador direto do GitHub, no commit `SHA` (sem copiar código à mão):
@@ -105,9 +106,16 @@ administrativo ambiental (Bahia e federal). Norma nova relevante entra no acervo
 `juridico/legislacao/<federal|bahia>/` com o cabeçalho `Fonte: <url>` + linha `(Texto vigente: ...)` + linha em
 branco + texto extraído com `LEX.preparar`; depois `python scripts/verificar_legislacao.py hashes`.
 
-## 4. IBAMA (só na primeira execução do mês)
+## 4. IBAMA e STJ (só na primeira execução do mês)
 
-Siga `scripts/ibama_navegador.md` (autos de infração e termos de embargo da Bahia e resumo do Brasil).
+IBAMA: siga `scripts/ibama_navegador.md` (autos de infração e termos de embargo da Bahia e resumo do Brasil).
+
+STJ: numa aba em `https://dadosabertos.web.stj.jus.br/dataset/`, carregue `coletor/coletor_stj.js` e rode
+`await STJ.colher(undefined, '<AAAAMM01 do mês anterior>')` (só os arquivos mensais novos) e `await STJ.temas()`;
+depois `await STJ.preparar()` e `STJ.parte(i)`; decodifique e rode `python scripts/incorporar_stj.py
+/tmp/pacotes/stj.json` e `python scripts/indexar_stj.py`. Se surgir tema repetitivo ambiental novo ou mudar a situação
+de um já listado (ex.: Tema 1.447 julgado), atualize a seção 11 de `juridico/teses_defesa.md`. Não use a pesquisa
+scon.stj.jus.br para coleta (tem verificação contra robôs).
 
 ## 5. Expansão da base (1 item por execução, até ~40 minutos)
 

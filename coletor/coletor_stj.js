@@ -15,7 +15,7 @@ window.STJ = {
   // normas cuja citação no espelho torna o acórdão relevante (código usado pelo STJ nas referências legislativas)
   NORMAS: ['LEI:009605', 'DEC:006514', 'DEL:006514', 'DEC:003179', 'DEL:003179', 'LEI:009873', 'LEI:012651',
     'LEI:004771', 'LCP:000140', 'LEI:006938'],
-  AMB: /ambient|florest|ibama|icmbio|desmat|supress[ãa]o de vegeta|reserva legal|preserva[çc][ãa]o permanente|unidade de conserva|recursos h[íi]dricos|outorga|fauna|flora|polui/i,
+  AMB: /ambient|florest|ibama|icmbio|desmat|supress[ãa]o de vegeta|reserva legal|preserva[çc][ãa]o permanente|unidade de conserva|recursos h[íi]dricos|fauna|flora|polui/i,
   SANC: /multa|infra[çc][ãa]o|auto de|embargo|interdi|san[çc][ãa]o|prescri|poder de pol[íi]cia|termo de (ajustamento|compromisso)|licen[çc]|responsabilidade administrativa/i,
   store: new Map(),
   log: [],
@@ -27,7 +27,7 @@ window.STJ = {
   motivo(x) {
     const refs = this.refs(x).join(' | ');
     if (this.NORMAS.some(n => refs.includes(n))) return 'norma';
-    if (/LEG:EST/.test(refs) && /UF:BA|BAHIA/i.test(refs)) return 'norma_ba';
+    if (/LEG:EST/.test(refs) && /UF:BA|BAHIA/i.test(refs) && this.AMB.test([x.ementa, x.teseJuridica].join(' '))) return 'norma_ba';
     const t = [x.ementa, x.teseJuridica, x.termosAuxiliares, x.informacoesComplementares].join(' ');
     if (this.AMB.test(t) && this.SANC.test(t)) return 'ementa';
     return null;

@@ -14,6 +14,9 @@ interdições do INEMA, do IBAMA e de municípios, com foco no Oeste Baiano.
 | `acesso_processos.md` | como obter a cópia integral dos processos (SEIA, SEI Bahia, LAI, IBAMA) + modelos de pedido |
 | `legislacao/artigos_chave.md` | texto integral dos artigos usados nas teses (federal e Bahia) |
 | `legislacao/federal/`, `legislacao/bahia/` | texto vigente completo das leis e decretos (Planalto e Casa Civil-BA) |
+| `jurisprudencia/stj/indice_temas.md` | STJ: 62 temas repetitivos com assunto ambiental (tese firmada) e 3.895 acórdãos ambientais separados por tema de defesa |
+| `jurisprudencia/stj/stj_acordaos_ambientais.json` | os 3.895 acórdãos do STJ (1990–2026; 1ª e 2ª Turmas, 1ª Seção e Corte Especial): ementa, tese, normas citadas, link da consulta processual — fonte: Portal de Dados Abertos do STJ |
+| `jurisprudencia/stj/temas_repetitivos_ambientais.csv` | os temas repetitivos e precedentes qualificados ambientais, do CSV oficial do STJ |
 | `jurisprudencia/tjba/indice_temas.md` | decisões do TJBA separadas por tema de defesa (prescrição, nulidade, competência, autoria, embargo, valor da multa, conversão, execução fiscal, demora do órgão), com link do inteiro teor |
 | `jurisprudencia/tjba/tjba_inema_multas.json` | 1.263 decisões do 2º grau do TJBA (INEMA, multa ambiental, IBAMA, CEPRAM, SEMA, Lei 10.431, Decreto 14.024, Lei 12.209, Lei 9.605, Decreto 6.514...): ementa, trechos, link do inteiro teor |
 | `PENDENCIAS.md` | o que ainda falta pesquisar (fundamentos do CEPRAM, STJ, TRF1, normas do INEMA...); a atualização semanal avança um item por vez |
@@ -45,6 +48,9 @@ Toda semana uma tarefa agendada segue o roteiro de `ATUALIZACAO.md` (raiz do rep
   varredura completa uma vez por mês.
 - **Leis:** `coletor/coletor_lex.js` compara o texto vigente no Planalto e na Casa Civil-BA com
   `legislacao/hashes.json`; mudança vira registro em `legislacao/ALTERACOES.md` e revisão das teses.
+- **STJ:** uma vez por mês, `coletor/coletor_stj.js` no Portal de Dados Abertos do STJ (só os arquivos mensais novos),
+  `scripts/incorporar_stj.py` e `scripts/indexar_stj.py`. A pesquisa scon.stj.jus.br tem verificação contra robôs e
+  não é usada para coleta.
 - **IBAMA:** uma vez por mês, `coletor/coletor_ibama.js` (ver `scripts/ibama_navegador.md`).
 - **Expansão:** um item de `PENDENCIAS.md` por semana.
 

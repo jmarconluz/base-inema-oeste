@@ -71,6 +71,11 @@ Ordem prática de análise: **1) prazos → 2) prescrição → 3) nulidades do 
   administrativos a partir da fase de notificação", com reabertura do prazo de defesa.
 - **Prova:** AR devolvido/ausente, endereço correto constante do próprio processo ou do CEFIR/SEIA, edital publicado só
   no DOE.
+- **Mostre o prejuízo concreto.** No Tema 1.329 (repetitivo, acórdão publicado, RE pendente), o STJ decidiu que, no
+  processo federal do Decreto 6.514, a intimação por edital para alegações finais (redação original do art. 122,
+  parágrafo único) só anula os atos seguintes se a parte demonstrar efetivo prejuízo para a defesa, inclusive antes do
+  pagamento da multa. Por prudência, use o mesmo raciocínio no processo estadual: diga o que a defesa deixou de
+  fazer (prova, alegação, desconto por pagamento) por causa do vício.
 
 ### 2.2 Auto sem os requisitos obrigatórios — Forte/Média
 
@@ -124,6 +129,12 @@ Ordem prática de análise: **1) prazos → 2) prescrição → 3) nulidades do 
   (AgInt nos EDcl no REsp 1.967.742/PR, rel. Min. Regina Helena Costa, j. 24/10/2022, citado pelo TJMT).
 - **Atenção:** a obrigação de **reparar o dano** acompanha o imóvel (Súmula 623 do STJ) — a multa não.
 - **Uso direto na due diligence/corretagem:** o comprador herda o passivo de recuperação, não a multa.
+
+- **Cuidado com a confusão entre multa e reparação:** a obrigação de **reparar** o dano ambiental acompanha o imóvel.
+  No Tema 1.204 (repetitivo, trânsito em julgado), o STJ fixou que as obrigações ambientais são *propter rem* e podem
+  ser exigidas do proprietário ou possuidor atual, de qualquer dos anteriores ou de ambos; fica isento o alienante
+  cujo direito real cessou antes do dano, se não concorreu para ele. Já a **multa** é pessoal (3.1). Na compra de
+  fazenda, a multa não passa, mas o passivo de recuperação passa.
 
 ### 3.3 Autuação só por imagem de satélite — Média
 
@@ -227,6 +238,27 @@ conversão **dentro do prazo de defesa** para garantir o maior desconto.
   Útil para a parte de licenciamento da Ecoplan.
 
 ---
+
+## 11. Precedentes obrigatórios do STJ (temas repetitivos)
+
+Conferidos em 15/11/2026 no CSV oficial de precedentes qualificados do Portal de Dados Abertos do STJ (lista completa em
+`jurisprudencia/stj/temas_repetitivos_ambientais.csv`; acórdãos por tema em `jurisprudencia/stj/indice_temas.md`).
+Repetitivo vincula juízes e tribunais (CPC, art. 927, III); para o órgão ambiental, serve de forte argumento.
+
+| Tema | O que o STJ fixou (resumo fiel) | Situação | Uso na defesa |
+|---|---|---|---|
+| 146 | Cobrança da multa ambiental prescreve em 5 anos (Decreto 20.910/1932, por isonomia, à falta de regra específica) | Trânsito em julgado | A favor — multa estadual/municipal na execução (seção 1.4) |
+| 147 | A prescrição da cobrança só começa com o vencimento do crédito sem pagamento | Trânsito em julgado | Define o termo inicial (seção 1.4) |
+| 324 a 327 | Federal (Lei 9.873): 5 anos para constituir o crédito, contados da infração; se permanente ou continuada, de quando cessou; interrompem a notificação (inclusive por edital), ato inequívoco de apuração, decisão condenatória recorrível e tentativa de conciliação | Trânsito em julgado | IBAMA: conferir as datas no processo (seção 1.3) e se o órgão tratou a infração como permanente (prazo contado de quando cessou) |
+| 328 | Federal: 3 anos para concluir o processo administrativo ("prescrição intercorrente") | Trânsito em julgado | A favor — IBAMA (seção 1.3) |
+| 329 a 331 | Federal: a execução prescreve em 5 anos contados do fim do processo administrativo; lista as causas de interrupção | Trânsito em julgado | A favor — execução fiscal do IBAMA (seção 9) |
+| 1.159 | A multa ambiental da Lei 9.605 **não depende** de advertência prévia | Trânsito em julgado | **Contra** — não alegue nulidade por falta de advertência; peça a conversão em advertência pelos arts. 267 e 269 do Decreto 14.024 (seção 7) |
+| 1.204 | Obrigações ambientais (reparação) são *propter rem* | Trânsito em julgado | Contra o comprador quanto à reparação; não alcança a multa (seção 3.2) |
+| 1.293 | Lei 9.873, art. 1º, §1º (intercorrente de 3 anos) vale para infração aduaneira não tributária | Trânsito em julgado | Reforça a aplicação ampla da intercorrente federal |
+| 1.294 | O Decreto 20.910 não serve para reconhecer prescrição intercorrente em processos estaduais e municipais, nem por analogia | Acórdão publicado; RE pendente | Na Bahia, use a lei estadual (Lei 12.209, art. 109, §1º — seção 1.2), não o Decreto 20.910 |
+| 1.329 | Decreto 6.514: edital para alegações finais só anula os atos seguintes se houver prejuízo efetivo comprovado | Acórdão publicado; RE pendente | Mostre o prejuízo concreto (seção 2.1) |
+| 1.036 e 1.043 | Apreensão do instrumento da infração não depende de uso exclusivo ou habitual; o dono do veículo não tem direito a ser fiel depositário (cabe à Administração decidir) | Trânsito em julgado | Contra — em apreensão, discuta prova e proporcionalidade, não o uso habitual |
+| 1.447 | Afetado: definir se a conversão da multa em medidas alternativas é decisão discricionária do órgão, com controle judicial só de legalidade | Afetado (sem tese) | Acompanhar — afeta pedidos judiciais de conversão (seção 8) |
 
 ## Pendências desta versão (próximas atualizações)
 
