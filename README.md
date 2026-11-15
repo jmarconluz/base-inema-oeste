@@ -1,5 +1,12 @@
 # Base INEMA – Bahia (foco no Oeste Baiano)
 
+> **Novo (14/11/2026): base de multas e base jurídica de defesa**
+> - `multas/bahia_doe/` — autos de infração, notificações, homologações, decisões do CEPRAM e conversões de multa
+>   publicados no DOE-BA de nov/2016 a nov/2026 (15.117 autuados, 847 decisões do CEPRAM, 156 favoráveis).
+> - `multas/ibama/` — autos e embargos do IBAMA na Bahia (com polígonos) e resumo do Brasil.
+> - `juridico/` — teses de defesa, checklist, precedentes do CEPRAM, modelos de peças, guia de acesso aos processos,
+>   legislação federal e da Bahia em texto integral e jurisprudência do TJBA. Comece por `juridico/README.md`.
+
 Base de atos autorizativos do **INEMA** publicados no **Diário Oficial do Estado da Bahia (DOE-BA)** nos últimos 10 anos (nov/2016 a nov/2026):
 
 - **Autorização de Supressão de Vegetação Nativa (ASV)**
