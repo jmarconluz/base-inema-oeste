@@ -26,6 +26,10 @@ SHA=$(git rev-parse HEAD); mkdir -p /tmp/pacotes
 - Carregue as ferramentas do navegador embutido de uma vez (ToolSearch com `mcp__remote-devices__Claude_Browser__`,
   max_results 64) e leia a skill `built-in-browser`, se estiver na lista.
 - `tabs_context`: reaproveite abas que já estejam nos sites; senão `tabs_create` + `navigate`.
+- Sites já liberados no navegador embutido: `dool.egba.ba.gov.br`, `jurisprudencia.tjba.jus.br`,
+  `www.legislabahia.ba.gov.br`, `www.planalto.gov.br`, `dadosabertos.ibama.gov.br` e o blob de dados abertos do IBAMA.
+  Site novo precisa ser liberado pelo usuário: numa execução agendada não fique esperando a liberação — registre
+  "aguardando liberação de <site> no navegador" em `juridico/PENDENCIAS.md`, peça a liberação no resumo e siga.
 - Os coletores são carregados no navegador direto do GitHub, no commit `SHA` (sem copiar código à mão):
 
 ```js
