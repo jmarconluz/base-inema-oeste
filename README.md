@@ -1,11 +1,14 @@
 # Base INEMA – Bahia (foco no Oeste Baiano)
 
-> **Novo (14/11/2026): base de multas e base jurídica de defesa**
-> - `multas/bahia_doe/` — autos de infração, notificações, homologações, decisões do CEPRAM e conversões de multa
->   publicados no DOE-BA de nov/2016 a nov/2026 (15.117 autuados, 847 decisões do CEPRAM, 156 favoráveis).
-> - `multas/ibama/` — autos e embargos do IBAMA na Bahia (com polígonos) e resumo do Brasil.
-> - `juridico/` — teses de defesa, checklist, precedentes do CEPRAM, modelos de peças, guia de acesso aos processos,
->   legislação federal e da Bahia em texto integral e jurisprudência do TJBA. Comece por `juridico/README.md`.
+> **Base de multas e base jurídica de defesa** — atualizada toda segunda-feira ([roteiro](ATUALIZACAO.md))
+>
+> - [Roteiro para analisar um auto de infração](juridico/checklist_analise_auto.md)
+> - [Teses de defesa, com lei e decisões conferidas](juridico/teses_defesa.md)
+> - [156 vitórias no CEPRAM](juridico/precedentes_cepram.md), de 847 recursos julgados
+> - [Decisões do TJBA por tema](juridico/jurisprudencia/tjba/indice_temas.md) (1.263 decisões)
+> - [Como pedir cópia integral dos processos](juridico/acesso_processos.md) e [modelos de defesa e recurso](juridico/modelos_pecas.md)
+> - [Números da base de multas do DOE-BA](multas/bahia_doe/resumo.md) (15.117 autuados, 2016–2026) e [dados do IBAMA](multas/ibama/README.md)
+> - [Índice completo da base jurídica](juridico/README.md) e [o que ainda está sendo pesquisado](juridico/PENDENCIAS.md)
 
 Base de atos autorizativos do **INEMA** publicados no **Diário Oficial do Estado da Bahia (DOE-BA)** nos últimos 10 anos (nov/2016 a nov/2026):
 
