@@ -8,7 +8,12 @@
 //   MUL.rodar('2016-11-14', '2026-11-14');      // coleta (da data mais recente para a mais antiga; pula datas já feitas)
 //   await MUL.status();                         // andamento
 //   await MUL.exportar({ano: 2025, parte: 0});  // devolve o ano em JSON gzip+base64, em partes de 200 mil caracteres
-// Para retomar depois de recarregar a aba: eval(localStorage.getItem('eco_mul_code')); MUL.rodar(...)
+//   await MUL.p({desde: '2026-11-08'}, 0);       // só as matérias publicadas a partir da data, ENXUTAS (só os trechos
+//                                                // de fiscalização), em envelope {chave, parte, partes, n, dados, pad}
+//                                                // com enchimento '#' até 120 mil caracteres: o resultado do
+//                                                // javascript_tool fica grande e vai para arquivo, sem poluir a conversa.
+//                                                // Depois: python scripts/decodificar_partes.py + scripts/incorporar_doe.py
+// Para retomar depois de recarregar a aba: injete de novo este arquivo inteiro (ele é a versão de referência).
 window.MUL = (function () {
   const sleep = ms => new Promise(r => setTimeout(r, ms));
   const strip = h => h.replace(/<style[\s\S]*?<\/style>/gi, '').replace(/<br\s*\/?>/gi, '\n')
@@ -147,5 +152,44 @@ window.MUL = (function () {
   }
   async function datas() { return (await all('datas')).sort((a, b) => a.data.localeCompare(b.data)); }
 
-  return { rodar, parar, status, exportar, datas, processarData, state, RELEVANTE, PASTA };
+  // Mantém só os blocos da matéria que tratam de fiscalização (editais, portarias, resoluções, termos, extratos,
+  // decisões e avisos que casam com RELEVANTE); os demais blocos viram '[...]'.
+  function enxugar(t) {
+    const partes = t.split(/\n(?=(?:EDITAL\s+DE\s+NOTIFICA|EDITAL\s*\n|PORTARIA\s*(?:INEMA\s*)?N|RESOLU[ÇC][ÃA]O|TERMO\s+DE\s+COMPROMISSO|EXTRATO|DECIS[ÃA]O|AVISO))/);
+    return partes.filter(p => RELEVANTE.test(p)).join('\n[...]\n');
+  }
+
+  // Exporta as matérias ENXUTAS (filtros opcionais: ano 'AAAA' e/ou desde 'AAAA-MM-DD'), gzip+base64, em partes.
+  async function exportarEnxuto(op = {}) {
+    const ano = op.ano ? String(op.ano) : null; const desde = op.desde || null;
+    const parte = op.parte || 0; const tam = op.tam || 200000;
+    const chave = 'doe_enx_' + (ano || 'tudo') + (desde ? '_desde_' + desde : '');
+    window.__mulExp = window.__mulExp || {};
+    if (!window.__mulExp[chave] || parte === 0) {
+      const sel = (await all('materias')).filter(r => (!ano || r.data.startsWith(ano)) && (!desde || r.data >= desde))
+        .sort((a, b) => (a.data + a.mid).localeCompare(b.data + b.mid))
+        .map(r => Object.assign({}, r, { texto: enxugar(r.texto), chars_original: r.texto.length }));
+      const gz = await new Response(new Blob([JSON.stringify(sel)]).stream().pipeThrough(new CompressionStream('gzip'))).arrayBuffer();
+      const u8 = new Uint8Array(gz); let bin = '';
+      for (let i = 0; i < u8.length; i += 0x8000) bin += String.fromCharCode.apply(null, u8.subarray(i, i + 0x8000));
+      window.__mulExp[chave] = { b64: btoa(bin), n: sel.length, chars: sel.reduce((s, r) => s + r.texto.length, 0),
+        datas: [...new Set(sel.map(r => r.data))].sort() };
+    }
+    const e = window.__mulExp[chave]; const partes = Math.ceil(e.b64.length / tam) || 1;
+    return { chave, ano, desde, parte, partes, n: e.n, chars: e.chars, datas: e.datas.length,
+      primeira: e.datas[0] || null, ultima: e.datas[e.datas.length - 1] || null, dados: e.b64.slice(parte * tam, (parte + 1) * tam) };
+  }
+
+  // Igual a exportarEnxuto, com enchimento '#' até 120 mil caracteres (resultado grande => vai para arquivo).
+  // Aceita p(2025, 0) (ano) ou p({desde: '2026-11-08'}, 0).
+  async function p(filtro, parte = 0) {
+    const op = (filtro && typeof filtro === 'object') ? Object.assign({}, filtro) : { ano: filtro };
+    op.parte = parte; op.tam = op.tam || 200000;
+    const r = await exportarEnxuto(op);
+    const falta = 120000 - r.dados.length;
+    if (falta > 0) r.pad = '#'.repeat(falta);
+    return r;
+  }
+
+  return { rodar, parar, status, exportar, exportarEnxuto, enxugar, p, datas, processarData, state, RELEVANTE, PASTA };
 })();
