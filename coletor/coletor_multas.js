@@ -6,6 +6,7 @@
 //
 // Uso (console da página do DOOL):
 //   MUL.rodar('2016-11-14', '2026-11-14');      // coleta (da data mais recente para a mais antiga; pula datas já feitas)
+//   MUL.rodar('2026-11-01', '2026-11-16', 3, true); // refaz o intervalo mesmo que já coletado (atualização semanal)
 //   await MUL.status();                         // andamento
 //   await MUL.exportar({ano: 2025, parte: 0});  // devolve o ano em JSON gzip+base64, em partes de 200 mil caracteres
 //   await MUL.p({desde: '2026-11-08'}, 0);       // só as matérias publicadas a partir da data, ENXUTAS (só os trechos
@@ -104,7 +105,9 @@ window.MUL = (function () {
   }
 
   // Coleta de um intervalo de datas (AAAA-MM-DD), da mais recente para a mais antiga.
-  async function rodar(inicio, fim, workers = 3) {
+  // forcar = true refaz também as datas já coletadas (útil na atualização semanal: pega edição que saiu atrasada
+  // ou matéria publicada depois da primeira leitura do dia; as matérias são gravadas por id, sem duplicar).
+  async function rodar(inicio, fim, workers = 3, forcar = false) {
     if (state.rodando) return 'já está rodando';
     state.rodando = true; state.inicio = new Date().toISOString(); state.fim = null; state.erros = [];
     try { navigator.locks.request('eco_vivo_multas', () => new Promise(() => { })); } catch (e) { }
@@ -112,7 +115,7 @@ window.MUL = (function () {
     const datas = [];
     for (let d = new Date(fim + 'T12:00:00'); d >= new Date(inicio + 'T12:00:00'); d.setDate(d.getDate() - 1)) {
       const s = d.toISOString().slice(0, 10);
-      if (d.getDay() !== 0 && !feitas.has(s)) datas.push(s);
+      if (d.getDay() !== 0 && (forcar || !feitas.has(s))) datas.push(s);
     }
     state.total = datas.length; state.feitas = 0;
     let idx = 0;

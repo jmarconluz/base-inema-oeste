@@ -14,7 +14,9 @@ interdições do INEMA, do IBAMA e de municípios, com foco no Oeste Baiano.
 | `acesso_processos.md` | como obter a cópia integral dos processos (SEIA, SEI Bahia, LAI, IBAMA) + modelos de pedido |
 | `legislacao/artigos_chave.md` | texto integral dos artigos usados nas teses (federal e Bahia) |
 | `legislacao/federal/`, `legislacao/bahia/` | texto vigente completo das leis e decretos (Planalto e Casa Civil-BA) |
-| `jurisprudencia/tjba/tjba_inema_multas.json` | 682 decisões do TJBA que citam INEMA, multa ambiental, IBAMA ou CEPRAM (ementa, trechos, link do inteiro teor) |
+| `jurisprudencia/tjba/indice_temas.md` | decisões do TJBA separadas por tema de defesa (prescrição, nulidade, competência, autoria, embargo, valor da multa, conversão, execução fiscal, demora do órgão), com link do inteiro teor |
+| `jurisprudencia/tjba/tjba_inema_multas.json` | 1.263 decisões do 2º grau do TJBA (INEMA, multa ambiental, IBAMA, CEPRAM, SEMA, Lei 10.431, Decreto 14.024, Lei 12.209, Lei 9.605, Decreto 6.514...): ementa, trechos, link do inteiro teor |
+| `PENDENCIAS.md` | o que ainda falta pesquisar (fundamentos do CEPRAM, STJ, TRF1, normas do INEMA...); a atualização semanal avança um item por vez |
 
 Bases de dados relacionadas (fora desta pasta):
 
@@ -34,12 +36,17 @@ Normas e formulários do INEMA: `modelos_inema/` (raiz do repositório).
 
 ## Como a base se atualiza
 
-- **Diário Oficial (multas, CEPRAM, conversões):** `coletor/coletor_multas.js` no navegador, só as datas novas;
-  depois `python scripts/processar_multas.py` e `python scripts/gerar_precedentes_cepram.py`.
-- **IBAMA:** `coletor/coletor_ibama.js` (ver `scripts/ibama_navegador.md`).
-- **TJBA:** `coletor/coletor_tjba.js` (API pública do portal de jurisprudência).
-- **Leis:** baixar de novo a página do Planalto/legislabahia e comparar (`git diff`).
-- Uma tarefa agendada repete isso periodicamente e registra as novidades no histórico do repositório.
+Toda semana uma tarefa agendada segue o roteiro de `ATUALIZACAO.md` (raiz do repositório):
+
+- **Diário Oficial (multas, CEPRAM, conversões):** `coletor/coletor_multas.js` no navegador refaz os últimos 10 dias
+  e exporta só as matérias novas; `scripts/incorporar_doe.py` (mascara CPF), `processar_multas.py` e
+  `gerar_precedentes_cepram.py` refazem as tabelas.
+- **TJBA:** `coletor/coletor_tjba.js` (`TJ.novas`), `scripts/incorporar_tjba.py` e `scripts/indexar_tjba.py`;
+  varredura completa uma vez por mês.
+- **Leis:** `coletor/coletor_lex.js` compara o texto vigente no Planalto e na Casa Civil-BA com
+  `legislacao/hashes.json`; mudança vira registro em `legislacao/ALTERACOES.md` e revisão das teses.
+- **IBAMA:** uma vez por mês, `coletor/coletor_ibama.js` (ver `scripts/ibama_navegador.md`).
+- **Expansão:** um item de `PENDENCIAS.md` por semana.
 
 ## Limites
 
