@@ -54,11 +54,11 @@ TIPOS = {
     'NOTH': 'Notificação', 'FISC': 'Fiscalização', 'DEN': 'Denúncia', 'EMER': 'Emergência',
 }
 
-CPF_RE = re.compile(r'\b\d{3}\.\d{3}\.\d{3}\s*-\s*\d{2}\b|\b\d{3}\s?\d{3}\s?\d{3}\s?-\s?\d{2}\b')
+CPF_RE = re.compile(r'(?<!\d)\d{3}\s*\.\s*\d{3}\s*\.\s*\d{3}\s*-\s*\d{2}(?!\d)|(?<!\d)\d{3}\s?\d{3}\s?\d{3}\s?-\s?\d{2}(?!\d)|(?<=CPF)(\s*(?:n[º°o]\.?)?\s*:?\s*)\d{11}(?!\d)')
 
 
 def mascara(t):
-    return CPF_RE.sub('***.***.***-**', t or '')
+    return CPF_RE.sub(lambda m: (m.group(1) or '') + '***.***.***-**', t or '')
 
 
 def normaliza(t):
@@ -181,6 +181,7 @@ def parse_edital(ato, base, linhas):
         hom = re.search(r'em\s+(\d{1,2}/\d{1,2}/\d{4})\s*,?\s*foi\s+homologad[oa]', corpo, re.I)
         val = re.search(r'valor\s+(?:original\s+)?(?:de\s+)?R\$\s*([\d\.]+,\d{2})', corpo, re.I)
         atu = re.search(r'atualizad[oa]\s+(?:em|para)\s+R\$\s*([\d\.]+,\d{2})', corpo, re.I)
+        dva = re.search(r'D[ÍI]VIDA\s+ATIVA\s+(?:no\s+dia|em)\s+(\d{1,2}/\d{1,2}/\d{4})', corpo, re.I)
         desc = descricao(corpo)
         const = (re.search(r'(?:constatad[ao]|realizad[ao]|verificad[ao]|ocorrid[ao]|fiscaliza[çc][ãa]o)[^"”]{0,350}?(?:dia|em|data\s+de)\s+(\d{1,2}[/\.]\d{1,2}[/\.]\d{4})', corpo, re.I)
                  or re.search(r'(?:no\s+dia|na\s+data\s+de)\s+(\d{1,2}[/\.]\d{1,2}[/\.]\d{4})', desc or ''))
@@ -211,6 +212,7 @@ def parse_edital(ato, base, linhas):
             data_homologacao=data_iso(hom.group(1)) if hom else None,
             valor_rs=num(val.group(1)) if val else None,
             valor_atualizado_rs=num(atu.group(1)) if atu else None,
+            data_divida_ativa=data_iso(dva.group(1)) if dva else None,
             data_constatacao=data_iso(const.group(1)) if const else None,
             area_ha=num(area.group(1)) if area else None,
             municipio=mun, oeste=eh_oeste(mun),
@@ -355,7 +357,7 @@ def main():
         vistos.add(k); ed2.append(l)
     editais = ed2
     grava('autos_editais.csv', editais, ['data_publicacao', 'fase', 'processo', 'sigla', 'tipo_ato', 'autuado', 'tipo_doc', 'documento',
-                                         'valor_rs', 'valor_atualizado_rs', 'data_homologacao', 'data_constatacao', 'municipio', 'oeste', 'area_ha', 'coordenadas',
+                                         'valor_rs', 'valor_atualizado_rs', 'data_divida_ativa', 'data_homologacao', 'data_constatacao', 'municipio', 'oeste', 'area_ha', 'coordenadas',
                                          'prazo', 'edital_motivo', 'auto_ibama', 'processo_ibama', 'descricao', 'texto'] + comuns[1:])
     grava('cepram_recursos.csv', cep, ['data_publicacao', 'numero', 'data_resolucao', 'orgao', 'processo', 'sigla', 'tipo_ato', 'resultado',
                                        'decisao', 'motivos', 'autuado', 'tipo_doc', 'documento', 'municipio', 'oeste', 'valor_rs', 'dispositivo'] + comuns[1:])

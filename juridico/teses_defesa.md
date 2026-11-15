@@ -136,10 +136,15 @@ Ordem prática de análise: **1) prazos → 2) prescrição → 3) nulidades do 
 
 ## 4. Competência e duplicidade
 
-### 4.1 Órgão licenciador prevalece — Média/Forte
+### 4.1 Órgão licenciador prevalece — Média
 
 - Cabe ao órgão que licencia/autoriza a atividade lavrar o auto; os demais podem fiscalizar, mas prevalece o auto do
   licenciador (LC 140/2011, art. 17, caput e §3º; Decreto BA 14.024, art. 240 e §3º).
+- **Limite fixado pelo STF (ADI 4.757/DF, Plenário, rel. Min. Rosa Weber, j. 12/12/2022):** a prevalência não impede a
+  atuação supletiva de outro ente quando houver omissão ou insuficiência da fiscalização do órgão licenciador. O STJ
+  (2025) aplicou esse entendimento para manter multa do IBAMA sobre atividade licenciada por outro órgão. Por isso a
+  tese funciona melhor quando o licenciador **já agiu** sobre o mesmo fato (auto, notificação, TC) — aí a
+  duplicidade fica clara.
 - **Uso:** atividade licenciada pelo município (LC 140, art. 9º) autuada pelo INEMA, ou licenciada pelo INEMA autuada
   pelo IBAMA. Em agravo contra autos do INEMA, o TJBA entendeu que a alegação de competência exclusiva do município
   exige exame aprofundado da LC 140 e do Decreto 14.024 e negou a liminar — ou seja, a tese precisa vir com prova
