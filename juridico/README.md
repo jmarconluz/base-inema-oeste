@@ -3,6 +3,17 @@
 Montada em 14/11/2026 para a Ecoplan Consultoria Ambiental. Serve para analisar e defender multas, embargos e
 interdições do INEMA, do IBAMA e de municípios, com foco no Oeste Baiano.
 
+## Busca na base unificada
+
+Para achar tudo o que existe sobre um assunto (leis por artigo, STJ, temas repetitivos, TJBA, CEPRAM, termos de
+compromisso, editais do DOE, teses e guias):
+
+```bash
+python scripts/montar_conglomerado.py                 # uma vez (gera base/conglomerado.sqlite, fora do git)
+python scripts/buscar.py "prescrição intercorrente"   # ou um número de processo: 2019-012345/TEC/AIMU
+python scripts/buscar.py '"intimação por edital"' --fonte tema,stj,tjba --n 10
+```
+
 ## Comece por aqui
 
 | Arquivo | Para quê |

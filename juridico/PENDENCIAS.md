@@ -1,12 +1,18 @@
-# Expansão da base jurídica — itens em aberto
+# Base ambiental unificada (Brasil, foco na Bahia) — plano e pendências
 
-A atualização semanal (`ATUALIZACAO.md`, etapa 5) pega o **primeiro item em aberto**, trabalha nele por até ~40
-minutos e registra aqui o que fez. Item que depender de login, captcha ou decisão do usuário fica "bloqueado", com o
-motivo. Regras: só fonte oficial ou decisão conferida no inteiro teor; nada de número ou norma sem fonte; CPF
-mascarado; o repositório é público.
+Pedido do usuário em 15/11/2026: um conglomerado da base ambiental do Brasil, com foco na Bahia, para apresentar a
+melhor defesa possível quando chegar uma multa. A base unificada com busca já existe (item A): `python
+scripts/montar_conglomerado.py` e `python scripts/buscar.py "termos"`.
+
+**Ordem de trabalho** (a tarefa diária de 16 a 22/11 e a semanal pegam o primeiro item em aberto nesta ordem):
+11 → 1 → 5 → 2 → 10 → 4 → 6 → 13 → 12 → 7 → 8 → 9. Cada execução: até ~40 minutos por item, só fonte oficial ou
+decisão conferida no inteiro teor, nada de número ou norma sem fonte, CPF mascarado (repositório público), registro do
+que foi feito na coluna "Registro" e `python scripts/montar_conglomerado.py` ao final para conferir que a base monta.
+Item que depender de login, captcha, verificação contra robôs ou decisão do usuário: "bloqueado", com o motivo.
 
 | # | Item | Situação | Registro |
 |---|---|---|---|
+| A | **Base unificada com busca** (leis por artigo, STJ, temas repetitivos, TJBA, CEPRAM, termos de compromisso, editais do DOE, teses e guias) | feito | 15/11/2026: `scripts/montar_conglomerado.py` gera `base/conglomerado.sqlite` (23.461 trechos; fora do git) e `scripts/buscar.py` faz a busca com a fonte de cada trecho |
 | 1 | **Fundamentos das 156 decisões favoráveis do CEPRAM**: achar as atas/pautas da Câmara Técnica Recursal no site da SEMA/CEPRAM (ou no DOE) e registrar, por resolução, o fundamento da decisão (prescrição, notificação, prova, dosimetria...) em `juridico/precedentes_cepram.md` | aberto | 15/11/2026: fontes localizadas. (a) Página "Pautas, Atas e Resultados CEPRAM" (https://www.ba.gov.br/meioambiente/43/pautas-atas-e-resultados-cepram): 392 PDFs, entre eles 33 atas do plenário (2024–2026); (b) pautas da CT Recursal em https://www.ba.gov.br/meioambiente/sites/site-sema/files/AAAA-MM/Pauta NNª Reunião ... CT Recursal.pdf (achadas da 50ª, de 2021, à 83ª, de 06/10/2026, e extraordinárias), com tipo do auto, valor, município, fato gerador, pedido, relator, histórico e "Voto do Relator". O site abre no navegador embutido (já liberado); o ambiente de nuvem não alcança. Falta extrair o texto dos PDFs (o navegador não tem leitor de PDF embutido: trazer os arquivos para o ambiente e usar pdftotext) e casar com as resoluções. |
 | 2 | **TJBA × art. 109 da Lei 12.209/2011 em multa do INEMA**: ler no inteiro teor as decisões do tema "Prescrição" de `jurisprudencia/tjba/indice_temas.md` e citar em `teses_defesa.md` (seção 1) as que aplicam o prazo a multa ambiental, com número, órgão, data e link | aberto | |
 | 3 | **STJ por tema** | feito | 15/11/2026: a pesquisa scon.stj.jus.br tem verificação contra robôs; coleta feita pelo Portal de Dados Abertos do STJ — 3.895 acórdãos ambientais (1990–2026) e 62 temas repetitivos em `jurisprudencia/stj/`; temas 146, 147, 324–331, 1.159, 1.204, 1.293, 1.294, 1.329, 1.036/1.043 e 1.447 na seção 11 de `teses_defesa.md`. Falta: ler os acórdãos-chave de cada tema e citá-los nas seções 1 a 10 |
@@ -16,3 +22,7 @@ mascarado; o repositório é público.
 | 7 | **SEIA (consulta pública, sem login)**: testar se o nº TEC/AIMU dos editais abre a ficha do processo de fiscalização; se abrir, documentar em `acesso_processos.md`. Usar só o navegador embutido; não mexer no Chrome (coleta do SEIA) | aberto | |
 | 8 | **Multas municipais do Oeste** (Barreiras, Luís Eduardo Magalhães, São Desidério, Formosa do Rio Preto, Correntina): achar os diários oficiais dos municípios e ver se publicam autos/editais ambientais; se sim, propor coletor | aberto | |
 | 9 | **Outros estados (fronteira agrícola)**: decisões dos conselhos e tribunais de TO, PI, MA e GO sobre prescrição e nulidade de multa ambiental, para reforço por analogia | aberto | |
+| 10 | **STF**: repercussão geral e controle concentrado em matéria ambiental (ex.: Tema 999 — reparação do dano ambiental; ADIs do Código Florestal; ADC 42; ADI 4.757), com tese e situação, em `jurisprudencia/stf/`; usar canal oficial de dados ou páginas sem verificação contra robôs | aberto | |
+| 11 | **Legislação complementar no acervo** (com `scripts/verificar_legislacao.py hashes`): Lei 9.784/1999, Decreto 20.910/1932, Lei 6.830/1980, a instrução normativa conjunta MMA/IBAMA/ICMBio vigente do processo sancionador (conferir número e vigência no DOU), Resolução CONAMA 237/1997; Bahia: Lei 11.612/2009 (recursos hídricos), resolução do CEPRAM que institui a CT Recursal (Res. 5.240/2024 e ajustes) e regimento do CEPRAM | aberto | |
+| 12 | **IBAMA**: dados de julgamento dos autos (se o portal de dados abertos publicar) e embargos do ICMBio | aberto | |
+| 13 | **Roteiro de defesa e calculadora de prazos**: `juridico/roteiro_defesa.md` (o que pedir ao cliente, ordem de análise, como usar a busca) e `scripts/prazos.py` (prescrição da Lei 12.209, art. 109; intercorrente; Lei 9.873; Súmula 467), testada contra exemplos | aberto | |

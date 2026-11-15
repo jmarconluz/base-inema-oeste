@@ -125,10 +125,13 @@ passe ao próximo na semana seguinte.
 
 ## 6. Conferir e publicar
 
+Monte a base unificada para conferir que tudo continua legível: `python scripts/montar_conglomerado.py` (o arquivo
+gerado fica fora do git).
+
 ```bash
 # mascara CPF, RG e CNH em todos os arquivos de dados (idempotente) e confere: a 2ª linha tem de dizer 0
 python scripts/privacidade.py --aplicar && python scripts/privacidade.py --conferir | tail -1
-git add -A && git commit -m "Atualização semanal AAAA-MM-DD: <resumo>" && git push origin HEAD:main
+git add -A && git commit -m "Atualização semanal AAAA-MM-DD: <resumo>" && git pull --rebase origin main && git push origin HEAD:main
 git status && git log origin/main -1 --oneline
 ```
 
