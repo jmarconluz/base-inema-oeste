@@ -28,7 +28,9 @@ SHA=$(git rev-parse HEAD); mkdir -p /tmp/pacotes
 - `tabs_context`: reaproveite abas que já estejam nos sites; senão `tabs_create` + `navigate`.
 - Sites já liberados no navegador embutido: `dool.egba.ba.gov.br`, `jurisprudencia.tjba.jus.br`,
   `www.legislabahia.ba.gov.br`, `www.planalto.gov.br`, `dadosabertos.ibama.gov.br`, o blob de dados abertos do IBAMA
-  `dadosabertos.web.stj.jus.br` e `www.ibama.gov.br` (página de legislação do IBAMA).
+  `dadosabertos.web.stj.jus.br`, `www.ibama.gov.br` (página de legislação do IBAMA), `www.ba.gov.br` (site da SEMA:
+  pautas da CT Recursal), `gestor.meioambiente.ba.gov.br` (Consulta de Publicações da SEMA: resoluções do CEPRAM em PDF)
+  e `conama.mma.gov.br` (resoluções do CONAMA). Ainda não liberado: `www.in.gov.br` (DOU).
   Site novo precisa ser liberado pelo usuário: numa execução agendada não fique esperando a liberação — registre
   "aguardando liberação de <site> no navegador" em `juridico/PENDENCIAS.md`, peça a liberação no resumo e siga.
 - Os coletores são carregados no navegador direto do GitHub, no commit `SHA` (sem copiar código à mão):
@@ -127,6 +129,18 @@ scon.stj.jus.br para coleta (tem verificação contra robôs).
 Pegue o primeiro item em aberto de `juridico/PENDENCIAS.md`, trabalhe nele e registre ali o que foi feito (data,
 resultado, arquivos). Item que depender de login, captcha ou decisão do usuário: marque "bloqueado" com o motivo e
 passe ao próximo na semana seguinte.
+
+### Pautas da CT Recursal do CEPRAM (fato gerador e voto do relator)
+
+Numa aba em `https://www.ba.gov.br/meioambiente/404/pautas-da-camara-tecnica-recursal`, carregue
+`coletor/coletor_pdf.js` e rode `await PDF.pacote(PDF.links().map(x => x.url).filter(<só os novos>), 'pdf_ct_<rótulo>')`;
+depois `PDF.parte(0)`, `PDF.parte(1)`... (480 mil caracteres por parte; o canal do navegador corta acima de ~500 mil).
+Os já baixados estão em `multas/cepram_pautas/pdfs_baixados.json`. Na nuvem: `python scripts/decodificar_partes.py
+/tmp/pacotes <arquivos>`, grave os PDFs (campo `b64`) numa pasta e rode `python scripts/extrair_pautas_ct.py <pasta>
+<urls.json>` (acumula em `multas/cepram_pautas/pautas_ct_recursal.json.gz` e refaz `juridico/cepram_votos_relator.md`).
+Resoluções do CEPRAM em PDF: Consulta de Publicações (`gestor.meioambiente.ba.gov.br/Consultas/ConsultaPublicacao/`,
+GET com `texto`, `colegiado=COL_CEPRAM`, `tipoPublicacao=24`); as resoluções em `legislacao/bahia/resolucao-cepram-*`
+vêm de lá e são conferidas à mão (o `LEX.verificarRepo` não lê PDF).
 
 ## 6. Conferir e publicar
 

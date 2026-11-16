@@ -761,6 +761,32 @@ I - não poderá inscrever o débito na Dívida Ativa ou adotar quaisquer outras
 
 II - cumprirá de imediato a decisão judicial, de acordo com orientação contida em parecer de força executória elaborado pelo órgão de execução da Procuradoria-Geral Federal, e juntará o respectivo comprovante nos autos.
 
+## Resolução CONAMA 237/1997 (licenciamento ambiental)
+
+Texto integral em `legislacao/federal/conama_237_1997.txt` (arquivo oficial do CONAMA, baixado em 16/11/2026). Útil em autos por "operar sem licença" ou "descumprir condicionante": prazos de análise, renovação tempestiva e motivação para suspender ou cancelar licença. Competência para licenciar: ler com a LC 140/2011.
+
+Art. 14. O órgão ambiental competente poderá estabelecer prazos de análise diferenciados para cada modalidade de licença (LP, LI e LO), em função das peculiaridades da atividade ou empreendimento, bem como para a formulação de exigências complementares, desde que observado o prazo máximo de 6 (seis) meses a contar do ato de protocolar o requerimento até seu deferimento ou indeferimento, ressalvados os casos em que houver EIA/RIMA e/ou audiência pública, quando o prazo será de até 12 (doze) meses.
+
+Art. 18, § 4º A renovação da Licença de Operação (LO) de uma atividade ou empreendimento deverá ser requerida com antecedência mínima de 120 (cento e vinte) dias da expiração de seu prazo de validade, fixado na respectiva licença, ficando este automaticamente prorrogado até a manifestação definitiva do órgão ambiental competente.
+
+Art. 19. O órgão ambiental competente, mediante decisão motivada, poderá modificar os condicionantes e as medidas de controle e adequação, suspender ou cancelar uma licença expedida, quando ocorrer: I - violação ou inadequação de quaisquer condicionantes ou normas legais; II - omissão ou falsa descrição de informações relevantes que subsidiaram a expedição da licença; III - superveniência de graves riscos ambientais e de saúde.
+
+## CEPRAM — Regimento Interno e Câmara Técnica Recursal (recurso contra multa do INEMA)
+
+Textos em `legislacao/bahia/resolucao-cepram-4318-2013-regimento-interno.txt`, `resolucao-cepram-5239-2024-regimento.txt`, `resolucao-cepram-5240-2024-ct-recursal.txt` e `resolucao-cepram-5280-2025.txt` (PDFs da Consulta de Publicações da SEMA, https://gestor.meioambiente.ba.gov.br/Consultas/ConsultaPublicacao/, baixados em 16/11/2026; 5.239, 5.240 e 5.280 extraídos por OCR — conferir a letra no PDF antes de citar entre aspas).
+
+Res. 5.240/2024, art. 1º: a CT Recursal julga "em última instância administrativa os recursos interpostos face aos autos de infração homologados" pelo órgão executor (INEMA). Parágrafo único: decisão não unânime vai ao Plenário do CEPRAM e só produz efeitos depois de confirmada.
+
+Res. 5.240/2024, art. 4º, § 3º: processos distribuídos aos relatores por sorteio público na sessão anterior ao julgamento; § 7º (redação da Res. 5.280/2025): votos enviados com antecedência mínima de 03 dias úteis da reunião; § 8º: adiamento do voto uma única vez.
+
+Res. 5.240/2024, art. 5º, § 4º: o recorrente pode fazer **sustentação oral por até 10 minutos**, inscrevendo-se até **48 horas antes** da sessão por correio eletrônico à Secretaria Executiva; § 5º: pode permanecer para esclarecimentos; § 6º: processo com sustentação oral vira "Processo com Destaque" (o voto do relator é lido antes da sustentação).
+
+Res. 5.240/2024, arts. 8º a 12: incompatibilidade de membro que advogue em autos de infração do INEMA; impedimento (ex.: quem lavrou o auto, parente até 3º grau, quem prestou consultoria ao recorrente) e suspeição (amigo íntimo/inimigo, credor/devedor), que podem ser **arguidos por qualquer interessado** (art. 11).
+
+Res. 5.240/2024, art. 14: relator ou quem pediu vista pode pedir **diligência** para obter informações; art. 6º: o Registro do Resultado das Deliberações é publicado no site da SEMA.
+
+Regimento (Res. 4.318/2013, com a Res. 5.239/2024), art. 18: pareceres e decisões das Câmaras Técnicas vão à Plenária, "à exceção das decisões unânimes proferidas pela Câmara Técnica Recursal" sobre penalidades do INEMA.
+
 ## Lei BA 12.209/2011 (processo administrativo)
 
 Art. 1º - Esta Lei dispõe sobre o processo administrativo no âmbito da Administração direta e das entidades da Administração indireta regidas pelo regime de direito público, do Estado da Bahia, visando, em especial, à proteção dos direitos dos administrados e ao mais justo e célere cumprimento dos fins da Administração.

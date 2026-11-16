@@ -1,0 +1,617 @@
+Fonte: https://gestor.meioambiente.ba.gov.br/ArquivosSistemas/SistemaPublicacao/Arquivos/2951/ANEXO_1417460354547cba82d0088.pdf
+Título da página: Resolução CEPRAM nº 4.318, de 11/07/2013 — aprova o Regimento Interno do CEPRAM; DOE de 16/08/2013 (nº 21.211). Ficha: https://gestor.meioambiente.ba.gov.br/Consultas/ConsultaPublicacao/publicacao.php?publicacao_id=2951
+(Texto vigente: texto original publicado no DOE, extraído em 16/11/2026. Alterações conhecidas na Consulta de Publicações da SEMA (busca "regimento", CEPRAM, tipo Resolução): Res. CEPRAM nº 5.239/2024 deu nova redação aos arts. 17, 18 e ao § 2º do art. 45 — decisões unânimes da CT Recursal não vão ao Plenário. Ver resolucao-cepram-5239-2024-regimento.txt. A matéria da CT Recursal está na Res. 5.240/2024.)
+
+Salvador, Bahia · Sexta-feira
+16 de Agosto de 2013
+Ano · XCVII · No 21.211
+
+RESOLUÇÃO CEPRAM N.º 4.318 DE 11 DE JULHO DE 2013
+Aprova o Regimento Interno do
+Conselho Estadual de Meio Ambiente –
+CEPRAM.
+O CONSELHO ESTADUAL DE MEIO AMBIENTE - CEPRAM, no uso de suas
+atribuições, e tendo em vista as disposições da Lei Estadual nº 12.212, de 04 de maio de
+2011 e da Lei Estadual nº 10.431, de 20 de dezembro de 2006, regulamentada pelo
+Decreto nº 14.024, de 06 de junho de 2012, e suas alterações,
+RESOLVE
+Art. 1º - Aprovar o Regimento Interno do Conselho Estadual de Meio Ambiente CEPRAM, órgão colegiado, integrante da estrutura organizacional da Secretaria
+Estadual do Meio Ambiente - SEMA, com funções de natureza consultiva, normativa,
+deliberativa e recursal, na forma do Anexo que integra esta Resolução.
+Art. 2º - Esta Resolução entra em vigor na data de sua publicação.
+Art. 3º - Revogam-se as Resoluções nº 2.992, de 19 de julho de 2002, nº 3.545, de 20
+de janeiro de 2006 e nº 3.814, de 20 de dezembro de 2007.
+
+EUGÊNIO SPENGLER
+Presidente do CEPRAM
+
+REGIMENTO INTERNO DO CONSELHO ESTADUAL DE MEIO AMBIENTE
+- CEPRAM
+CAPITULO I
+DA FINALIDADE E COMPETÊNCIA
+Art.1° - O Conselho Estadual de Meio Ambiente - CEPRAM, criado nos termos da Lei
+Estadual nº 3.163, de 04 de outubro de 1973, disciplinado pela Lei Estadual nº 10.431,
+de 20 de dezembro de 2006, regulamentada pelo Decreto nº 14.024, de 06 de junho de
+2012, e suas alterações, órgão superior do Sistema Estadual do Meio Ambiente SISEMA, com funções de natureza consultiva, normativa, deliberativa e recursal, tem
+por finalidade apoiar o planejamento e acompanhamento da Política Estadual de Meio
+Ambiente e de Proteção da Biodiversidade e das diretrizes governamentais voltadas
+para o meio ambiente, a biodiversidade e a definição de normas e padrões relacionados
+à preservação e conservação dos recursos naturais, competindo-lhe:
+I - estabelecer diretrizes complementares para a implementação da Política Estadual de
+Meio Ambiente e de Proteção à Biodiversidade;
+II - aprovar o Plano Estadual de Meio Ambiente e de Proteção à Biodiversidade e o
+Plano Estadual de Unidades de Conservação e suas alterações;
+III - manifestar-se sobre planos, programas, políticas e projetos dos órgãos e entidades
+do Poder Público Estadual, que possam interferir na preservação, conservação e
+melhoria do meio ambiente;
+IV - estabelecer diretrizes, normas, critérios e padrões relativos ao uso, controle e
+manutenção da qualidade do meio ambiente, observados os que forem estabelecidos
+pelo Conselho Nacional do Meio Ambiente - CONAMA;
+V - estabelecer diretrizes, normas e critérios para o licenciamento ambiental;
+VI - propor áreas prioritárias para conservação no território do Estado;
+
+VII - aprovar os Planos de Manejo de Unidades de Conservação e suas atualizações,
+ouvidos os respectivos conselhos gestores;
+VIII - propor temas prioritários para a pesquisa aplicada à conservação e ao uso
+sustentável dos recursos naturais;
+IX - estabelecer diretrizes sobre cooperação técnica entre o Estado e os municípios para
+o exercício da competência comum de proteção ao meio ambiente;
+X - avocar, mediante ato devidamente motivado, aprovado por maioria simples, para se
+manifestar sobre licenças ambientais;
+XI - articular-se com o Conselho Estadual de Recursos Hídricos - CONERH, a
+Comissão Interinstitucional de Educação Ambiental - CIEA, o Fórum Baiano de
+Mudanças Climáticas e Biodiversidade – FBMCBio e os demais colegiados ambientais;
+XII - recomendar a perda ou restrição de incentivos e de benefícios fiscais, concedidos
+pelo Poder Público, em caráter geral ou condicional, e a perda ou suspensão de
+participação em linhas de financiamento em estabelecimentos públicos de crédito;
+XIII - definir os critérios para a aplicação dos recursos do Fundo de Recursos para o
+Meio Ambiente- FERFA;
+XIV - decidir, mediante ato devidamente motivado, aprovado por maioria simples dos
+seus membros, em grau de recurso, como última instância administrativa, sobre as
+penalidades administrativas impostas pelos órgãos executores da Política Estadual de
+Meio Ambiente e de Proteção à Biodiversidade, bem como sobre as decisões da
+Comissão do Cadastro de Estadual de Entidades Ambientalistas - CEEA.
+XV - elaborar e aprovar o seu Regimento Interno e respectivas alterações;
+XVI - decidir, mediante ato devidamente motivado, aprovado por maioria simples dos
+seus membros, em grau de recurso, como última instância administrativa, sobre o
+licenciamento ambiental e as penalidades administrativas impostas pelos órgãos
+executores da Política Estadual de Meio Ambiente e de Proteção à Biodiversidade, bem
+como sobre as decisões da Comissão do Cadastro Estadual de Entidades Ambientalistas
+– CEEA;
+XVII – definir as atividades ou empreendimentos que causem ou possam causar
+impacto ambiental de âmbito local, conforme previsão contida na alínea “a”, inciso
+XIV, art. 9º da Lei Complementar nº 140, de 08 de dezembro de 2011.
+
+CAPÍTULO II
+
+DA ORGANIZAÇÃO DO CONSELHO
+SEÇÃO I
+DA COMPOSIÇÃO
+Art.2º - O CEPRAM será paritário e tripartite, composto por:
+I - 11 (onze) representantes do Poder Público, sendo 07 (sete) do governo estadual, 01
+(um) de governo municipal, 02 (dois) da Assembléia Legislativa da Bahia e 01 (um) do
+governo federal;
+II - 11 (onze) representantes da Sociedade Civil, sendo 06 (seis) Organizações Não
+Governamentais – ONG’s ambientalistas, 05(cinco) representantes de: sindicatos de
+trabalhadores rurais e urbanos, comunidades quilombolas, povos indígenas e
+universidades;
+III - 11 (onze) representantes do setor empresarial, sendo 01 (um) de entidade de
+representação profissional.
+§1º - Qualquer cidadão poderá participar das reuniões do CEPRAM com direito a voz e
+sem direito a voto.
+§2º - Os conselheiros do CEPRAM serão nomeados por ato do Chefe do Poder
+Executivo do Estado em até 90 (noventa) dias do início do seu mandato, permanecendo
+os conselheiros nomeados anteriormente, até a posse de seus sucessores.
+§3º - A representação da sociedade civil e do setor empresarial será escolhida entre seus
+pares, nos termos de edital de convocação aprovado pelo CEPRAM, e terão mandato de
+02 (dois) anos, sendo permitida a recondução por igual período.
+§4º - A recondução que trata o §3º deste artigo, ocorrerá na hipótese de caso fortuito ou
+força maior, devidamente motivada, mediante aprovação de maioria qualificada da
+plenária do Conselho.
+§5º - Na hipótese de reeleição, as entidades apresentarão apenas a ata da eleição da
+diretoria em exercício e a indicação de seus representantes, na qualidade de titular ou de
+suplente.
+§6º - Cada conselheiro contará com até 02 (dois) suplentes para substituí-lo em suas
+ausências e impedimentos, sem prejuízo da indicação de outros representantes junto às
+Câmaras Técnicas e Grupos de Trabalho de que faça parte.
+§7º - Quando possível, e preferencialmente, será observada a distribuição dos
+representantes pelos 03 (três) principais biomas do Estado.
+
+§8º - Poderão ser convidados pelo CEPRAM representantes de outros órgãos do
+Governo do Estado, de entidades federais e municipais, especialistas, bem como
+representantes dos diversos segmentos interessados, para, sem direito a voto,
+participarem de suas reuniões.
+§9º - Os conselheiros tomarão posse perante o Presidente do CEPRAM na primeira
+reunião do Colegiado que se realizar após as respectivas nomeações.
+§10 - Caso haja algum atraso ou impedimento para que ocorra o processo eleitoral para
+a renovação dos conselheiros dentro do prazo previsto, o mandato dos membros do
+biênio deverá ser prorrogado até a conclusão do processo eleitoral.
+
+SEÇÃO II
+DA ESTRUTURA
+Art.3º - O CEPRAM tem a seguinte estrutura:
+I - Presidência;
+II - Secretaria Executiva;
+III - Plenária;
+IV - Câmaras Técnicas.
+
+SEÇÃO III
+DA PRESIDÊNCIA
+Art.4º – O CEPRAM será presidido pelo Secretário do Meio Ambiente.
+Art.5º – À Presidência compete dirigir os trabalhos, bem como coordenar,
+supervisionar, orientar e avaliar as atividades do Conselho.
+Art.6º - Cabe ao Presidente:
+I - representar o CEPRAM em juízo e fora dele;
+II - convocar e presidir as reuniões da Plenária;
+III – conceder o uso da palavra durante as reuniões do Conselho, bem como resolver as
+questões de ordem que forem suscitadas;
+
+IV - encaminhar e submeter à votação as matérias a serem decididas pela Plenária,
+intervindo na ordem dos trabalhos ou suspendendo-os sempre que necessário;
+V - submeter à apreciação da Plenária, propostas de normas para proteção ambiental,
+que lhe forem encaminhadas;
+VI - votar como conselheiro cabendo-lhe o voto de qualidade;
+VII - assinar as atas de reunião, depois de lidas e aprovadas, bem como as deliberações
+do Conselho e os atos relativos ao seu cumprimento;
+VIII - retirar processos de pauta ou convertê-los, justificadamente, em diligência;
+IX - fazer cumprir as decisões da Plenária;
+X - despachar o expediente;
+XI - decidir, “ad referendum” do colegiado, os casos de urgência ou inadiáveis, dando
+ciência aos conselheiros até 48 horas após a decisão, bem como conceder, com base em
+parecer da Secretaria Executiva, prorrogação de prazos impostos pelo CEPRAM,
+submetendo sua decisão à apreciação da Plenária na reunião seguinte;
+XII - adotar as providências administrativas necessárias ao andamento dos processos;
+XIII – propor ao colegiado, no início de cada ano, o Calendário Anual de Reuniões;
+XIV - propor a criação de Grupos de Trabalho e de Câmaras Técnicas;
+XV - delegar competências;
+XVI - fazer cumprir o Regimento Interno;
+XVII - exercer as demais competências constantes deste Regimento.
+
+SEÇÃO IV
+DA SECRETARIA EXECUTIVA
+Art.7º - Caberá à Secretaria do Meio Ambiente exercer a Secretaria Executiva do
+CEPRAM.
+Art.8º - Cabe à Secretaria Executiva:
+I - participar, sem direito a voto, das reuniões do colegiado;
+
+II - Informar os órgãos e entidades do SISEMA sobre as diretrizes e deliberações
+aprovadas pelo CEPRAM relacionadas à execução da Política de Meio Ambiente e de
+Proteção à Biodiversidade do Estado da Bahia;
+III - submeter à apreciação do CEPRAM, propostas de normas técnicas para proteção
+ambiental que elaborar ou que lhe forem encaminhadas pelos conselheiros ou por outros
+órgãos e entidades do SISEMA;
+IV - secretariar as reuniões do colegiado, lavrando as respectivas atas e prestando as
+informações solicitadas ou que julgar convenientes, sobre os processos ou matérias em
+pauta;
+V - solicitar aos conselheiros, no curso da reunião, os esclarecimentos necessários à
+correta lavratura da ata;
+VI - colher as assinaturas dos conselheiros em procedimento próprio;
+VII - receber as correspondências e prepará-las para despacho do Presidente;
+VIII - redigir, sob a forma de Resolução, ou instrumento compatível as decisões
+adotadas pelo colegiado, arquivando, quando for o caso, os respectivos processos;
+IX - providenciar a publicação das decisões do colegiado no Sistema Estadual de
+Informações Ambientais e de Recursos Hídricos - SEIA e no Diário Oficial do Estado,
+quando couber;
+X - cumprir e fazer cumprir as atribuições constantes deste Regimento e aquelas
+deliberadas pelo Presidente ou pela Plenária;
+XI - remeter matérias aos Grupos de Trabalho e às Câmaras Técnicas;
+XII – elaborar relatórios anuais de atividades do Conselho;
+XIII – elaborar a pauta das reuniões para aprovação do Presidente, redigir suas atas e
+respectivos expedientes para convocação, inclusive das Câmaras Técnicas e Grupos de
+Trabalho;
+XIV – acompanhar a freqüência dos conselheiros, dos membros das Câmaras Técnicas e
+dos Grupos de Trabalho;
+XV – Prestar os esclarecimentos solicitados pelos Conselheiros;
+XVI – zelar pelo apoio efetivo à participação dos conselheiros da sociedade civil nas
+reuniões plenárias e de câmaras técnicas, ordinárias e extraordinárias, conforme previsto
+no artigo 55 deste Regimento.
+
+SEÇÃO V
+DA PLENÁRIA
+Art.9º - Compete à Plenária:
+I- apreciar, discutir e votar, quando couber, as matérias submetidas ao CEPRAM ou que
+sejam de sua iniciativa;
+II- apreciar e deliberar quanto à homologação dos atos da Presidência, quando
+praticados "ad referendum";
+III- aprovar a criação de Grupos de Trabalho e de Câmaras Técnicas;
+IV – aprovar o calendário anual de reuniões do Colegiado;
+V- exercer as demais atribuições que lhe forem conferidas por este Regimento;
+VI- aprovar o Regimento Interno deste Conselho e suas alterações.
+Art.10 - Compete aos Conselheiros:
+I - participar das reuniões ordinárias e extraordinárias, justificando oficialmente as faltas
+ou impedimentos ocorridos;
+II - relatar os processos que lhes forem distribuídos;
+III - discutir e votar a matéria constante da pauta;
+IV – pedir vista de qualquer processo, antes de iniciada a votação;
+V - requerer informações, providências e esclarecimentos sobre os assuntos em análise;
+VI - suscitar questões de ordem;
+VII – propor, justificadamente, a conversão de processos em diligência;
+VIII - apresentar relatórios e votos nos prazos fixados;
+IX - propor a criação de Grupos de Trabalho e de Câmaras Técnicas;
+X – participar, nos termos deste Regimento, dos Grupos de Trabalho e das Câmaras
+Técnicas com direito a voz e voto;
+
+XI – propor temas e assuntos à deliberação e ação da Plenária, sob a forma de propostas
+de resoluções, moções ou recomendações;
+XII - propor a inclusão de matéria para ser apreciada em reunião subseqüente;
+XIII - solicitar ao Presidente a convocação de reunião extraordinária para apreciação de
+assunto relevante;
+XIV - propor convite a especialistas para subsidiar as deliberações do CEPRAM;
+XV – manter os dados pessoais atualizados junto à Secretaria Executiva do CEPRAM.
+Parágrafo único - Os conselheiros do CEPRAM deverão manter conduta adequada às
+funções do Colegiado, segundo padrões éticos de probidade, decoro e boa fé, vedada,
+em qualquer hipótese, a utilização da sua condição para fins de promoção pessoal.
+
+SEÇÃO VI
+DAS CÂMARAS TÉCNICAS
+Art.11 - As Câmaras Técnicas serão compostas por 09 (nove) membros titulares e
+respectivos suplentes, observando-se a representação equilibrada entre os 03 (três)
+segmentos que compõem o CEPRAM.
+Parágrafo único - Cada segmento indicará suas 03 (três) representações.
+Art.12 - As Câmaras Técnicas terão sua composição e atribuições, estabelecidas por
+decisão do CEPRAM e poderão ser permanentes ou temporárias.
+Parágrafo único - O mandato dos membros das Câmaras Técnicas coincidirá com o
+mandato dos conselheiros do CEPRAM.
+Art.13 – Na composição das Câmaras Técnicas deverão ser considerados os seguintes
+aspectos:
+I – a participação paritária dos diferentes segmentos que compõem o CEPRAM;
+II- a natureza técnica dos assuntos de suas competências.
+Art. 14 – A escolha dos membros das Câmaras Técnicas será feita internamente a cada
+segmento.
+Parágrafo único - O prazo para a indicação dos membros de cada Câmara Técnica será
+definido durante a primeira reunião ordinária do mandato dos conselheiros e em caso de
+criação de Câmaras Temporárias até a reunião subsequente à sua aprovação.
+
+Art.15 - As Câmaras Técnicas poderão estabelecer regras específicas para o seu
+funcionamento, desde que aprovadas pela maioria de seus membros e obedecidas o
+disposto neste Regimento.
+Art.16 - As Câmaras Técnicas poderão convidar especialistas de notório conhecimento
+para oferecerem subsídios aos assuntos em exame sem direito a voto.
+Art.17 - Das reuniões de Câmaras Técnicas serão lavradas atas aprovadas e assinadas
+pelos seus membros.
+Art.18 - Os pareceres, decisões e recomendações das Câmaras Técnicas serão relatados
+por um de seus membros e submetidos à aprovação da Plenária.
+Parágrafo único - O relator será escolhido por maioria simples dos membros presentes.
+Art.19 - As Câmaras Técnicas poderão solicitar aos órgãos e entidades do SISEMA, por
+meio da Secretaria Executiva do Conselho, manifestações sobre assuntos de sua
+competência.
+Art.20 – Poderão ser realizadas reuniões conjuntas entre Câmaras Técnicas.
+Art.21 - Os membros da Câmara Técnica elegerão seu Coordenador por maioria
+simples em sua primeira reunião entre os seus titulares.
+Parágrafo único - Nos casos de ausência ou impedimentos, o Coordenador da Câmara
+Técnica será substituído pela Secretaria Executiva do CEPRAM.
+Art.22 – Compete ao Coordenador da Câmara Técnica:
+I - estabelecer os procedimentos para manifestação dos presentes, submeter a ordem do
+dia à aprovação dos membros e informar o quórum;
+II - conduzir a reunião, orientar a lavratura da ata das matérias discutidas e acompanhar
+os encaminhamentos deliberados;
+III - articular com a Secretaria Executiva do CEPRAM a fim de definir as matérias que
+constarão da pauta das reuniões, bem como as datas e convocações para os encontros;
+IV - solicitar, quando necessário, a presença de especialistas, nos termos do art. 16 deste
+Regimento.
+Art.23 - As reuniões das Câmaras Técnicas deverão ser realizadas com a presença da
+maioria absoluta de seus membros.
+
+§1º - As reuniões das Câmaras Técnicas serão convocadas pela Secretaria Executiva do
+CEPRAM, acompanhada de informações sobre processos e matérias a serem
+submetidos à sua apreciação.
+§2º - A convocação ordinária será feita com, no mínimo, 07 (sete) dias e a
+extraordinária com até 48 (quarenta e oito) horas de antecedência.
+Art.24 - A ausência injustificada de membros de Câmara Técnica por 03 (três) reuniões
+consecutivas, ou por 05 (cinco) alternadas, no decorrer de um biênio, implicará
+substituição do mesmo pelo órgão ou entidade por ele representado.
+Parágrafo único - Em caso de reincidência da hipótese prevista no caput o segmento
+deverá indicar a nova entidade ou órgão para representá-lo.
+Art.25 - As decisões das Câmaras Técnicas serão tomadas por consenso ou por
+aprovação pela maioria simples dos membros presentes.
+Art.26 - A Secretaria Executiva do CEPRAM assegurará o funcionamento das Câmaras
+Técnicas, prestando-lhes apoio administrativo, técnico e financeiro.
+
+SEÇÃO VII
+DOS GRUPOS DE TRABALHO
+Art.27 - Por deliberação da Plenária poderão ser criados Grupos de Trabalho, para
+finalidades específicas, estabelecendo o tempo e cronograma do trabalho:
+§1º - Os conselheiros integrantes do Grupo de Trabalho elegerão o Coordenador e o
+relator.
+§2º - Os membros do Grupo de Trabalho poderão convidar especialistas para
+oferecerem subsídios aos assuntos em exame.
+§3º - Os Grupos de Trabalho se extinguirão quando atingidos os fins a que se destinam.
+
+CAPÍTULO IV
+DO FUNCIONAMENTO DO CEPRAM
+Art.28 - A Plenária, órgão superior de deliberação do CEPRAM, reunir-se-á em sessão
+pública, com a presença de, pelo menos, a maioria absoluta dos seus conselheiros
+nomeados, e deliberará por maioria simples dos conselheiros presentes com direito a
+voto.
+
+§1º - Para efeito do cálculo do quórum, não serão computados as entidades ou órgãos
+sem direito a voto, com direito suspenso conforme o art. 35, ou aqueles para os quais
+não foram designados conselheiros.
+§2º - O Presidente do Conselho será substituído, nas suas faltas e impedimentos, pelo
+seu primeiro e segundo suplentes respectivamente.
+§3º - O processo deliberativo da sessão deverá ser suspenso se, a qualquer tempo, não se
+verificar a presença do quórum exigido.
+§4º - Cada conselheiro, no exercício da titularidade, terá direito a um voto.
+§5º - Em caso de empate nas decisões, o Presidente do Conselho exercerá o direito do
+voto de qualidade.
+§6º - A substituição de Conselheiro Titular, em Plenária, somente poderá ser feita pelos
+seus suplentes, pela ordem formalmente indicada junto à Secretaria Executiva do
+Conselho.
+§7º - O exercício do voto é privativo dos Conselheiros titulares ou suplentes, não sendo
+permitida representação, mesmo que qualificada.
+§8° - Não havendo quórum, lavrar-se-á termo consignando a ocorrência.
+Art.29 – O CEPRAM reunir-se-á em caráter ordinário, bimensalmente,
+preferencialmente na Cidade de Salvador, e, extraordinariamente, sempre que
+convocado pelo Presidente, por iniciativa própria ou a requerimento de maioria simples
+de seus conselheiros.
+Parágrafo único - A convocação ordinária será feita com, no mínimo, 30 (trinta) dias e a
+extraordinária com, no mínimo, 48hs (quarenta e oito horas) de antecedência.
+Art.30 - A convocação das reuniões ordinárias e extraordinárias será realizada mediante
+publicação no Sistema Estadual de Informações Ambientais e de Recursos Hídricos –
+SEIA e enviadas por correio eletrônico, destinada a cada conselheiro.
+Parágrafo único - Do expediente de convocação por correio eletrônico deverá constar,
+obrigatoriamente:
+I - pauta da reunião com indicação dos assuntos a serem objeto de decisão e número dos
+processos que devem ser analisados com o nome de seus relatores;
+II - ata da reunião anterior;
+III - minutas de documentos a serem apreciados pela plenária, quando couber.
+
+Art.31 - As reuniões, ordinárias e extraordinárias, terão pautas preparadas pela
+Secretaria Executiva e aprovadas pelo Presidente.
+Parágrafo único - As matérias a serem submetidas à apreciação do Conselho deverão ser
+encaminhadas à Secretaria Executiva que proporá ao Presidente sua inclusão na pauta
+de reunião.
+Art. 32 - Fica assegurada a cada segmento interessado, mediante subscrição de, pelo
+menos, três de seus representantes, a inclusão de, no mínimo, uma matéria a ser
+submetida à apreciação da plenária do Conselho.
+Parágrafo único - Na hipótese de impossibilidade de atendimento do disposto no caput
+deste artigo, a Secretaria Executiva deverá apresentar justificativa fundamentada.
+Art.33 - As reuniões extraordinárias tratarão exclusivamente de matérias objeto de sua
+convocação.
+Art.34 - As matérias ou processos a serem submetidos à apreciação do Colegiado serão
+encaminhados à Secretaria Executiva, que efetuará sua análise e instrução.
+§1° - A Secretaria Executiva sorteará um relator para cada matéria ou processo
+submetido à apreciação do colegiado que não tenha sido apreciado por Câmara Técnica.
+§2° - A Secretaria Executiva informará o número dos processos aos relatores e demais
+conselheiros com antecedência mínima de 30 (trinta) dias da data da reunião, para que
+possam apreciá-los em sistema eletrônico próprio na rede mundial de computadores –
+internet, ressalvadas as exceções, as quais poderão ser disponibilizadas de modo
+diverso.
+§3º - Os relatores deverão entregar seus votos 15 (quinze) dias antes da data da reunião,
+a fim de que possam ser distribuídos aos demais conselheiros.
+§4º - No caso da impossibilidade do relator se fazer presente na sessão que deve
+apreciar seu voto, a Secretaria Executiva deverá lê-lo aos demais conselheiros.
+§5° - Não sendo relatado o processo em duas reuniões consecutivas, o Presidente
+designará outro relator.
+§6° - O Presidente não poderá atuar como relator.
+Art.35 - Caso o membro titular esteja impedido de comparecer à reunião plenária do
+Conselho, deverá, antecipadamente, confirmar a participação do seu suplente junto à
+Secretaria Executiva.
+
+§1° - As ausências dos conselheiros titulares ou dos seus suplentes deverão ser
+justificadas à Secretaria Executiva, no prazo máximo de 48 (quarenta e oito) horas antes
+da reunião.
+§2º - A ausência injustificada de titular e respectivos suplentes por 03 (três) reuniões
+consecutivas, ou por 05 (cinco) alternadas, no decorrer de um biênio, implicará em
+perda do direito de voto por 06 (seis) meses e a comunicação oficial aos respectivos
+órgãos ou entidades.
+§3º - Em caso de reincidência da situação descrita no § 2º deste artigo, os órgãos ou
+entidades deverão indicar novas representações no prazo de 30 (trinta) dias da
+solicitação oficial.
+§4º - Nos casos descritos nos §§ 2º e 3º deste artigo, a Secretaria Executiva deve mandar
+ofício para o órgão, entidade ou instituição comunicando as ocorrências.
+§5º – Na impossibilidade de comparecimento de membro titular com direito a
+pagamento de despesas, conforme previsto no parágrafo único do art. 54 deste
+Regimento, a Secretaria executiva deverá ser informada com, no mínimo, 07 (sete) dias
+de antecedência.
+Art.36 - As reuniões do colegiado obedecerão, preferencialmente, à seguinte ordem:
+I- verificação de quórum de instalação;
+II- abertura da sessão;
+III- leitura, discussão e aprovação da ata da reunião anterior;
+IV- discussão e votação da ordem do dia;
+V- comunicações;
+VI - o que ocorrer.
+Parágrafo único - A ata da reunião anterior será enviada com a convocação, cabendo ao
+conselheiro que pretender retificá-la manifestar-se por escrito à Secretária Executiva até
+01 (um) dia antes da reunião que a apreciará.
+Art.37 - Os assuntos incluídos na pauta que, por qualquer motivo, não forem
+apreciados, deverão constar da pauta da reunião ordinária subseqüente, priorizando-se a
+sua deliberação.
+Art.38 - A apreciação da matéria constante da ordem do dia compreende a leitura,
+discussão e votação, obedecendo à seguinte seqüência:
+
+I - Apresentação individual do processo na ordem da pauta;
+II - Leitura da conclusão do voto ou solicitação de adiamento pelo relator;
+III - solicitação de destaques;
+IV - exposição do voto do relator;
+V - discussão do processo destacado;
+VI - solicitação de Vista;
+VII - votação do processo destacado que não suscitou pedido de vista;
+VIII – apreciação de propostas de resoluções, moções ou recomendações.
+§1º - Não havendo discordância à conclusão dos votos dos relatores, bem como
+adiamentos e solicitações de destaques, a matéria será considerada aprovada por
+unanimidade.
+§2º- No caso de haver discordância ou adendo ao voto do relator, o Presidente
+concederá 03 (três) minutos a cada um dos que desejarem discutir a matéria, dando
+prioridade aqueles que ainda não se manifestaram.
+§3º - Encerrada a discussão, o Presidente colocará a matéria em votação, cujo processo
+não se interromperá salvo por invocação de questão de ordem.
+§4º - No caso de apreciação de resoluções, com caráter normativo, primeiro vota-se o
+texto integral, sendo os destaques apreciados posteriormente.
+§5º - A questão de ordem só poderá ser invocada por infração regimental ou a norma
+legal.
+Art.39 - Em casos relevantes ou envolvendo matéria controversa, poderá o Presidente
+adotar a votação nominal por iniciativa própria ou mediante proposta da maioria simples
+dos conselheiros presentes com direito a voto.
+Parágrafo único - Na hipótese prevista no caput deste artigo, os votos serão registrados
+na ata da reunião, consignando-se também o nome do conselheiro.
+Art.40 - O CEPRAM poderá realizar reunião conjunta para avaliação e manifestação,
+com quaisquer outros órgãos colegiados da Administração Pública Estadual.
+Art.41 - As deliberações do CEPRAM serão publicadas na imprensa oficial e
+divulgadas no SEIA.
+
+Art.42 - As reuniões serão gravadas e as atas deverão ser redigidas de forma a retratar
+as discussões relevantes e todas as decisões tomadas pela Plenária.
+§ 1º - As gravações das reuniões serão mantidas até a aprovação da respectiva ata.
+§ 2º - As atas, após a aprovação do Conselho, serão assinadas pelo Presidente e pelo
+Secretário Executivo.
+
+SEÇÃO I
+DOS ATOS DO CEPRAM
+Art. 43 - São atos do CEPRAM:
+I - Resolução:
+a) quando se tratar de deliberação vinculada a diretrizes e normas técnicas, critérios e
+padrões relativos à proteção ambiental e ao uso sustentável dos recursos ambientais,
+bem como demais matérias de sua competência conforme ao art. 1º desse Regimento
+Interno;
+b) quando determinar, mediante representação do órgão executor da Política de Meio
+Ambiente e de Proteção à Biodiversidade do Estado da Bahia, a perda ou restrição de
+benefícios fiscais concedidos pelo Poder Público, em caráter geral ou condicional, e a
+perda ou suspensão de participação em linhas de financiamento em estabelecimentos
+oficiais de crédito;
+II - Recomendação: quando se tratar de manifestação acerca da implementação de
+políticas, programas públicos e demais temas com repercussão na área ambiental.
+III - Moção: quando se tratar de manifestação de apoio ou rejeição relacionada com a
+temática ambiental.
+IV – Decisão: quando se tratar de infrações ambientais administrativas, em última
+instância e em grau de recurso, relativas às penalidades impostas pelo órgão executor da
+Política de Meio Ambiente e de Proteção à Biodiversidade do Estado da Bahia.
+Art. 44 - Todos os conselheiros podem submeter matéria à análise e deliberação do
+CEPRAM, mediante justificativa devidamente fundamentada.
+Art. 45 - As propostas de resolução e de moção deverão ser apresentadas à Secretaria
+Executiva do CEPRAM por meio de minuta e justificativa com o seguinte conteúdo
+técnico mínimo:
+
+I - relevância da matéria para as questões ambientais do Estado;
+II - escopo da proposta apresentada;
+III - impactos e consequências esperados;
+IV - setores a serem afetados pela aprovação da matéria.
+§1º - A proposta de Resolução, com respectiva justificativa, será submetida ao
+Presidente do Conselho, que determinará o encaminhamento à Câmara Técnica
+pertinente.
+§2º - Observado o elencado no art. 18 deste Regimento e demais disposições
+pertinentes, após a finalização dos trabalhos pela Câmara Técnica pertinente, a matéria
+será encaminhada ao Plenário para votação.
+§3º - O processo de revisão de Resolução obedecerá ao mesmo trâmite de que trata este
+artigo.
+Art.46 - As propostas de moção deverão ser encaminhadas à Secretaria Executiva do
+CEPRAM, subscritas por maioria simples dos conselheiros e consignadas em no
+máximo cinco páginas, constando título, destinatário, justificativa e objeto.
+§1º - As propostas de moção deverão ser encaminhadas à Secretaria Executiva do
+CEPRAM até o início da reunião ordinária em que deverá ser apreciada;
+§2º - As moções independem da apreciação pelas Câmaras Técnicas.
+
+SEÇÃO II
+DO PEDIDO DE VISTA E DO ADIAMENTO
+Art.47 - É facultado a qualquer conselheiro formular pedido de vista da matéria
+constante da ordem do dia após a sua discussão e ainda não posta em votação, bem
+como solicitar, justificadamente, o adiamento de matéria sob o seu relato.
+§1° - Formulado o pedido de vista, a discussão e a votação da matéria ficarão adiadas
+para a primeira reunião ordinária subseqüente.
+§2º - Os pedidos de vista de propostas de resolução discutidas em regime de urgência
+serão submetidos à apreciação do plenário, que decidira mediante a aprovação de dois
+terços dos presentes.
+
+§3º - O pedido de vista obrigará manifestação por escrito de seu autor ou autores,
+devendo ser devolvido à Secretaria Executiva 15 (quinze) dias após seu recebimento.
+§4º - É facultado o pedido de vista por mais de um conselheiro desde que observado o
+prazo comum de 15 (quinze) dias para manifestação dos interessados.
+§5º- Se na reunião subseqüente, o conselheiro que pediu vista não comparecer ou não
+enviar o seu voto ou manifestação no prazo estabelecido, o Presidente colocará a
+matéria em votação, com o voto do relator original
+§6º- Não caberá pedido de vista, aos membros de Câmara Técnica ou Grupo de
+Trabalho responsável pela análise da matéria.
+§7º - A matéria somente poderá ser retirada de pauta, por pedido de vista, uma única
+vez.
+Art. 48 – O Conselheiro relator de matéria não analisada por Câmara Técnica poderá
+pedir o adiamento da discussão e da votação, desde que devidamente justificado.
+§1° - Matérias adiadas deverão constar obrigatoriamente da pauta da reunião ordinária
+subseqüente.
+§2º - O pedido de adiamento obrigará o relator a se manifestar por escrito à Secretaria
+Executiva em, no máximo, 15 (quinze) dias após seu recebimento. O não cumprimento
+deste prazo implicará em escolha de outro relator que deverá apresentar seu voto 15
+(quinze) dias após seu recebimento para ser apreciado na reunião ordinária subseqüente.
+
+SEÇÃO III
+DA AVOCAÇÃO
+Art. 49 – O CEPRAM poderá avocar, quando julgar necessário, face às características
+do projeto e de suas conseqüências socioeconômicas e ambientais, processos de licenças
+ambientais, para sua apreciação e deliberação.
+§1º - A avocação será procedida à vista de requerimento, devidamente fundamentado,
+dirigido ao Presidente do CEPRAM, indicando as razões de interesse público ambiental
+que justifiquem a providência.
+§ 2º - O pedido de avocação deverá ser entregue, por escrito, à Secretaria Executiva
+com, no mínimo, 33 (trinta e três) dias de antecedência da reunião.
+
+§3º - Recebido o requerimento, o Presidente o colocará em discussão e votação do
+Plenário, sendo decidido por maioria simples dos conselheiros presentes com direito a
+voto.
+§4º - O pedido de avocação rejeitado não poderá ser repetido, salvo em se tratando de
+nova motivação, devidamente comprovada no requerimento.
+§5º - Aprovada a avocação, os processos deverão, após a conclusão da análise técnica
+pelo órgão competente, ser encaminhados ao CEPRAM para sua deliberação final.
+§6º - A Secretaria Executiva manterá acessíveis aos conselheiros todas as informações
+relativas aos processos, de autorização e licenciamento ambiental, avocados pelo
+CEPRAM.
+CAPÍTULO V
+DO PROCEDIMENTO PARA ANÁLISE DOS PROCESSOS
+SEÇÃO I
+DA ANÁLISE RECURSAL
+Art. 50 – O acesso ao arquivo digital dos processos administrativos relativos às
+penalidades impostas pelo órgão executor da Política de Meio Ambiente e de Proteção à
+Biodiversidade do Estado da Bahia encaminhados ao CEPRAM para análise, em grau
+de recurso, em última instância administrativa, serão disponibilizados à Câmara Técnica
+ou Conselheiro Relator pela Secretária Executiva.
+§1º - A definição da relatoria dos processos descritos no caput deste artigo obedecerá ao
+disposto no §1º do art. 34 deste Regimento, observado o critério de antiguidade na
+protocolização junto à Secretaria Executiva e o limite máximo de 03 (três) processos
+por conselheiro.
+§2º - A relação dos processos distribuídos e os documentos pertinentes deverão ser
+encaminhados aos conselheiros titulares e suplentes por ocasião da convocação e
+disponibilizados em meio eletrônico.
+§3º - Os relatores deverão entregar seus votos 15 (quinze) dias antes da data da reunião
+ordinária, a fim de que possam ser distribuídos aos demais conselheiros.
+
+SEÇÃO II
+DA ANÁLISE NORMATIVA
+Art. 51 – A Secretaria Executiva disponibilizará a Câmara Técnica os arquivos digitais
+dos processos relativos a diretrizes e normas técnicas, critérios e padrões relativos à
+
+proteção ambiental e ao uso sustentável dos recursos ambientais encaminhados ao
+CEPRAM.
+§1º - A Secretaria Executiva disponibilizará, aos Conselheiros titulares e suplentes, os
+documentos que encaminhar à análise das Câmaras Técnicas.
+§2º - A Câmara Técnica elegerá um relator para elaboração do voto que deverá ser
+encaminhado à Secretaria Executiva para análise da plenária.
+
+CAPÍTULO VI
+DAS DISPOSIÇÕES GERAIS
+Art.52 - Caberá à Secretaria Estadual do Meio Ambiente prover o suporte
+administrativo, financeiro e operacional ao Conselho.
+Art.53 - A participação dos conselheiros titulares ou suplentes no Colegiado, assim
+como de convidados ou especialistas na área, será considerada de relevante interesse
+público, não ensejando qualquer tipo de remuneração.
+Parágrafo único - No caso da necessidade da presença de especialista em uma
+determinada reunião para subsidiar análise de assunto que esteja em pauta no Conselho,
+a Secretaria do Meio Ambiente será responsável pelas despesas com deslocamento,
+alimentação e hospedagem.
+Art.54 - Eventuais despesas com deslocamento e diárias serão custeadas pelos
+respectivos órgãos e entidades representadas no CEPRAM.
+Parágrafo único - Aos representantes da sociedade civil que não residam no município
+de realização da reunião fica assegurado, para o comparecimento às reuniões ordinárias
+ou extraordinárias do plenário do CEPRAM, das Câmaras Técnicas e dos Grupos de
+Trabalho, o pagamento de despesas com deslocamento, alimentação e hospedagem,
+mediante solicitação à Secretaria Executiva do CEPRAM.
+Art.55 - A atividade dos conselheiros é considerada relevante serviço público estadual,
+reconhecida em certificado assinado pelo Presidente do CEPRAM.
+Parágrafo único - Os conselheiros que tenham dado causa à suspensão prevista no § 2º
+do art. 35 não terão direito ao certificado previsto no caput deste artigo.
+Art. 56 - A SEMA através da Secretaria Executiva dos Colegiados emitirá um crachá de
+identificação dos Conselheiros titulares e suplentes e das respectivas entidades.
+
+Art.57 - Os casos omissos neste Regimento serão resolvidos pelo Plenário do
+CEPRAM.
+Art.58 – O Regimento Interno do CEPRAM somente poderá ser parcial ou totalmente
+alterado através de Resolução, deliberada pela maioria absoluta dos conselheiros
+nomeados, em reunião convocada exclusivamente para tal fim.
+Art. 59 - Este Regimento entra em vigor na data de sua publicação.

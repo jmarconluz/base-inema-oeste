@@ -21,6 +21,7 @@ python scripts/buscar.py '"intimação por edital"' --fonte tema,stj,tjba --n 10
 | `checklist_analise_auto.md` | roteiro quando chega um auto: prazos, prescrição, nulidades, autoria, competência, Código Florestal, dosimetria, estratégia |
 | `teses_defesa.md` | as teses, com base legal, precedentes conferidos e grau de força |
 | `precedentes_cepram.md` | 156 decisões favoráveis do CEPRAM (prescrição, nulidade da notificação, advertência, redução, anulação), com nº da resolução e do processo |
+| `cepram_votos_relator.md` | fato gerador, pedido do recorrente e voto do relator (pautas da CT Recursal) de 124 dessas decisões, com resumo por tipo de infração — ex.: autos por não apresentação do PAD/PARA anulados em série desde 2023 (tese 5.3) |
 | `modelos_pecas.md` | esqueletos de defesa, recurso ao CEPRAM, prescrição, conversão de multa e desembargo |
 | `acesso_processos.md` | como obter a cópia integral dos processos (SEIA, SEI Bahia, LAI, IBAMA) + modelos de pedido |
 | `legislacao/artigos_chave.md` | texto integral dos artigos usados nas teses (federal e Bahia) |
@@ -36,6 +37,8 @@ Bases de dados relacionadas (fora desta pasta):
 
 - `multas/bahia_doe/` — 15.117 autuados em editais do INEMA (2016–2026), 847 decisões do CEPRAM, 138 conversões/TCs.
 - `multas/ibama/` — 26.013 autos e 4.963 embargos do IBAMA na Bahia (com polígonos) e o resumo do Brasil inteiro.
+- `multas/cepram_pautas/` — 1.769 registros das pautas da CT Recursal (54ª a 85ª reunião, 2022–2026): auto, nº SEI,
+  valor, município, fato gerador, pedido e histórico/voto do relator (sem nome do interessado).
 
 ## Legislação guardada
 
@@ -43,8 +46,13 @@ Federal: Lei 9.605/1998, Decreto 6.514/2008, LC 140/2011, Lei 12.651/2012, Lei 9
 Lei 10.650/2003, Lei 12.527/2011, LC 123/2006, Lei 6.938/1981, Lei 9.433/1997, Lei 11.428/2006, Decreto 6.660/2008,
 Lei 9.985/2000, Lei 13.874/2019, Lei 6.830/1980, Decreto 20.910/1932, LINDB.
 
+Federal (normas infralegais): IN IBAMA 19/2023 (processo sancionador no IBAMA), Resolução CONAMA 237/1997
+(licenciamento).
+
 Bahia: Lei 10.431/2006, Decreto 14.024/2012, Lei 11.612/2009, Lei 12.209/2011 (processo administrativo — prescrição),
-Decreto 15.805/2014, Lei 12.618/2012 (LAI), Lei 13.597/2016 (PRA).
+Decreto 15.805/2014, Lei 12.618/2012 (LAI), Lei 13.597/2016 (PRA); CEPRAM: Regimento Interno (Res. 4.318/2013, alterado
+pela Res. 5.239/2024) e CT Recursal (Res. 5.240/2024, alterada pela Res. 5.280/2025) — sustentação oral de 10 minutos com
+inscrição até 48 h antes, impedimento/suspeição de conselheiro, diligência.
 
 Normas e formulários do INEMA: `modelos_inema/` (raiz do repositório).
 

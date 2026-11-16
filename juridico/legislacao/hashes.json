@@ -42,6 +42,36 @@
   "chars": 7346
  },
  {
+  "url": "https://gestor.meioambiente.ba.gov.br/ArquivosSistemas/SistemaPublicacao/Arquivos/2951/ANEXO_1417460354547cba82d0088.pdf",
+  "arquivo": "juridico/legislacao/bahia/resolucao-cepram-4318-2013-regimento-interno.txt",
+  "sha256": "984df6a67bef0287b87fe67c6b5b4231f7478af5aac12200fd818064055dbbd6",
+  "chars": 36318
+ },
+ {
+  "url": "https://gestor.meioambiente.ba.gov.br/ArquivosSistemas/SistemaPublicacao/Arquivos/5921/ResoluoCEPRAMn5.239de28deJunho.pdf",
+  "arquivo": "juridico/legislacao/bahia/resolucao-cepram-5239-2024-regimento.txt",
+  "sha256": "3e4f999080cb071e6046ed11fdc85689e9d4190be3791c1f79f3b30300eeaacc",
+  "chars": 1973
+ },
+ {
+  "url": "https://gestor.meioambiente.ba.gov.br/ArquivosSistemas/SistemaPublicacao/Arquivos/5922/ResoluoCEPRAMn5.240de28deJunho.pdf",
+  "arquivo": "juridico/legislacao/bahia/resolucao-cepram-5240-2024-ct-recursal.txt",
+  "sha256": "1d6eef0c222e30f288e4b28ccaca6751c18da8607ebf3fff6ed9485c08a4e108",
+  "chars": 13476
+ },
+ {
+  "url": "https://gestor.meioambiente.ba.gov.br/ArquivosSistemas/SistemaPublicacao/Arquivos/5983/ResoluoCEPRAMn5.280.25AlterapontualmenteaRe.pdf",
+  "arquivo": "juridico/legislacao/bahia/resolucao-cepram-5280-2025.txt",
+  "sha256": "18b3f17b556c3571116030649374d415ce39bdeca59f5b4d68d3f9580c710b64",
+  "chars": 1354
+ },
+ {
+  "url": "https://conama.mma.gov.br/?option=com_sisconama&task=arquivo.download&id=237",
+  "arquivo": "juridico/legislacao/federal/conama_237_1997.txt",
+  "sha256": "8b891d7faf8e3f03f92d7e5ff6253a8cea890752750436bcc8c1d74cfe639ca9",
+  "chars": 25792
+ },
+ {
   "url": "https://www.planalto.gov.br/ccivil_03/decreto/antigos/d20910.htm",
   "arquivo": "juridico/legislacao/federal/d20910.txt",
   "sha256": "4b9cd99d68115aebf5708bcd7d3a51a4c8d3a6f35685221ad6259381120f4a3b",

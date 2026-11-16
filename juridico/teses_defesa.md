@@ -186,6 +186,25 @@ Ordem prática de análise: **1) prazos → 2) prescrição → 3) nulidades do 
   (Lei 12.651/2012, art. 68). Imóveis de até 4 módulos fiscais: RL = vegetação existente em 22/07/2008 (art. 67).
 - Área rural consolidada em APP: continuidade das atividades com recomposição parcial (art. 61-A).
 
+### 5.3 Auto por não apresentação do PAD (PARA — Decreto BA 12.071/2010) — Forte no CEPRAM (fundamento a confirmar)
+
+- **Quando usar:** auto de multa do INEMA "pela não apresentação do Projeto de Adequação e Regularização Ambiental
+  (PAD) ... declarado no Termo de Adesão ao Plano Estadual de Adequação e Regularização Ambiental dos Imóveis Rurais
+  (PARA), conforme determina o artigo 3º do Decreto Estadual nº 12.071/2010" — autos típicos do Oeste (2011–2015).
+- **Precedente administrativo reiterado (conferido em 16/11/2026):** cruzando as resoluções do CEPRAM publicadas no
+  DOE (`multas/bahia_doe`) com o fato gerador das pautas da CT Recursal (54ª a 85ª reunião, site da SEMA), há
+  **65 decisões favoráveis — todas anulando a multa — e 5 desfavoráveis** nesse tipo de auto. As 5 desfavoráveis são de
+  10/06/2022 (Res. 5.043, 5.045, 5.061, 5.073 e 5.075); desde 29/09/2023 (Res. 5.165) **todas** foram favoráveis,
+  incluindo 44 em 07/07/2026, julgadas em bloco na seção "Processos Caso Plano Estadual de Adequação e Regularização
+  Ambiental dos Imóveis Rurais – PARA" da pauta da 80ª reunião (Res. 5.370 a 5.415). Por município: Barreiras ≥ 16,
+  Luís Eduardo Magalhães ≥ 12, Jaborandi 11, São Desidério 3, Formosa do Rio Preto e Correntina 1 cada. Lista completa
+  em `cepram_votos_relator.md`; exemplo: Res. 5.400/2026 (Barreiras, auto 2013-011637/TEC/AIMU-0729, SEI
+  046.0525.2025.0018521-16), DOE https://dool.egba.ba.gov.br/ver-html/22291/#e:22291.
+- **Atenção:** as pautas e os registros de resultado **não trazem o fundamento** da anulação. Antes de afirmar o motivo
+  na peça, pedir cópia do voto em um desses processos (SEI Bahia — `acesso_processos.md`). Na defesa, citar as
+  resoluções como precedentes do próprio CEPRAM e pedir tratamento isonômico (Lei BA 12.209/2011, art. 3º — impessoalidade e segurança jurídica; LINDB, art. 30).
+- **Reforço:** se o passivo for anterior a 22/07/2008 e houver CEFIR/PRA, somar a tese 5.1.
+
 ## 6. Embargo e interdição
 
 - **Restrito à área da infração** — não alcança o resto da propriedade nem atividades não relacionadas
@@ -263,7 +282,8 @@ Repetitivo vincula juízes e tribunais (CPC, art. 927, III); para o órgão ambi
 ## Pendências desta versão (próximas atualizações)
 
 - Ler o voto/relatório dos processos com decisão favorável do CEPRAM (156) para registrar os **fundamentos** — a
-  resolução publicada só traz o dispositivo.
+  resolução publicada só traz o dispositivo. Feito em 16/11/2026 o que as pautas públicas permitem (fato gerador,
+  pedido e voto proposto de 124 delas, em `cepram_votos_relator.md`); a motivação continua só no processo (SEI).
 - Localizar acórdão do TJBA aplicando o art. 109 da Lei 12.209 a multa do INEMA (há decisão do TJBA calculando o prazo
   pelo art. 109, §1º, ainda não conferida no inteiro teor).
 - Conferir número do acórdão do STJ (1ª Turma, 2024) sobre multa e herdeiro e do acórdão do TRF1 que anulou autos e

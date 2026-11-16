@@ -28,7 +28,9 @@ def resumo(c):
     return re.sub(r'\s{2,}', ' ', s).strip()[:420]
 L = ['# Precedentes favoráveis do CEPRAM (Câmara Técnica Recursal)', '',
      f'Gerado de `multas/bahia_doe` (DOE-BA, 2016–2026): {len(cep)} decisões favoráveis ao autuado de {len(b["cepram"])} decisões sobre recursos.',
-     'A resolução publicada traz só o dispositivo; o fundamento (voto do relator) está no processo — pedir cópia (ver `acesso_processos.md`).', '']
+     'A resolução publicada traz só o dispositivo; o fundamento (voto do relator) está no processo — pedir cópia (ver `acesso_processos.md`).',
+     'Fato gerador, pedido do recorrente e voto do relator tirados das pautas da CT Recursal: `cepram_votos_relator.md` '
+     '(inclui o resumo por tipo de infração — ex.: autos por não apresentação do PAD/PARA quase sempre anulados desde 2023).', '']
 for g in sorted(grupos):
     L.append(f'## {g} ({len(grupos[g])})\n')
     L.append('| Resolução | Data | Processo | Município | Dispositivo (resumo) |\n|---|---|---|---|---|')
