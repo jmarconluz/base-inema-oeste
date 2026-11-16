@@ -51,7 +51,7 @@ def temas_ambientais(texto):
     campos = ['questaoSubmetidaAJulgamento', 'teseFirmada', 'referenciaLegislativa', 'informacoesComplementares']
     sel = [r for r in linhas if AMB_TEMA.search(' '.join(r.get(c) or '' for c in campos))]
     with open(TEMAS, 'w', encoding='utf-8', newline='') as f:
-        w = csv.DictWriter(f, fieldnames=list(linhas[0].keys()) if linhas else [])
+        w = csv.DictWriter(f, fieldnames=[k for k in linhas[0].keys() if k is not None] if linhas else [], extrasaction='ignore')
         w.writeheader(); w.writerows(sel)
     print(f'temas: {len(linhas)} no CSV oficial, {len(sel)} com assunto ambiental -> {os.path.relpath(TEMAS, RAIZ)}')
 

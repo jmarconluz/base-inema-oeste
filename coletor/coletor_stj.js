@@ -95,15 +95,15 @@ window.STJ = {
     const r = { pacote, zip: zipRes.nome, entradas, documentos: docs, guardados: novos, erros: erros.slice(0, 5) };
     this.log.push(r); return r;
   },
-  // Precedentes qualificados (temas repetitivos etc.) com assunto ambiental, do CSV oficial.
+  // Precedentes qualificados (temas repetitivos etc.): exporta o CSV oficial INTEIRO. Os campos têm quebras de
+  // linha dentro das aspas, então filtrar linha a linha aqui quebrava os registros (16/11/2026); a seleção dos
+  // temas ambientais é feita em Python (scripts/incorporar_stj.py, csv.DictReader + AMB_TEMA).
   async temas() {
     const rs = await this.recursos('precedentes-qualificados');
     const t = rs.filter(r => /^temas\.csv$/i.test(r.nome)).pop();
     const txt = await (await fetch(t.url)).text();
-    const linhas = txt.split(/\r?\n/); const cab = linhas[0];
-    const sel = linhas.slice(1).filter(l => this.AMB.test(l) && (this.SANC.test(l) || /florest|ambiental/i.test(l)));
-    this.temasCsv = [cab].concat(sel).join('\n');
-    return { linhas: linhas.length - 1, ambientais: sel.length, cabecalho: cab.slice(0, 300) };
+    this.temasCsv = txt;
+    return { url: t.url, chars: txt.length, cabecalho: txt.split(/\r?\n/, 1)[0].slice(0, 300) };
   },
   async preparar(chave = 'stj') {
     const obj = { acordaos: [...this.store.values()], temas_csv: this.temasCsv || null, log: this.log };

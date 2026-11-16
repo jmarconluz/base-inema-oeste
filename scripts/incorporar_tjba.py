@@ -17,16 +17,22 @@ def main():
     if len(sys.argv) < 2:
         sys.exit(__doc__)
     atual = json.load(open(ACERVO, encoding='utf-8'))
-    idx = {d['hash']: d for d in atual}
+    # A API às vezes devolve decisão sem hash (sem inteiro teor no portal): a chave passa a ser processo + data.
+    def chave(d):
+        return d.get('hash') or ('sem-hash:%s:%s' % (d.get('processo'), d.get('data')))
+    for d in atual:
+        if not d.get('hash'):
+            d['link_inteiro_teor'] = None
+    idx = {chave(d): d for d in atual}
     novos = 0; termos_novos = 0
     for arq in sys.argv[1:]:
         for d in json.load(open(arq, encoding='utf-8')):
-            d['link_inteiro_teor'] = LINK + d['hash']
+            d['link_inteiro_teor'] = (LINK + d['hash']) if d.get('hash') else None
             for k in ('ementa', 'trechos'):
                 d[k] = mascara(d.get(k) or '')
-            ant = idx.get(d['hash'])
+            ant = idx.get(chave(d))
             if ant is None:
-                idx[d['hash']] = d; novos += 1
+                idx[chave(d)] = d; novos += 1
             else:
                 for t in d.get('termos', []):
                     if t not in ant.setdefault('termos', []):
