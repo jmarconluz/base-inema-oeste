@@ -110,8 +110,9 @@ branco + texto extraído com `LEX.preparar`; depois `python scripts/verificar_le
 
 IBAMA: siga `scripts/ibama_navegador.md` (autos de infração e termos de embargo da Bahia e resumo do Brasil). Para gravar os
 CSVs: `python scripts/ibama_csv.py <arquivos salvos>` (os envelopes do IBAMA são do formato antigo `tipo: 'pk'`;
-não use o `decodificar_partes.py` para eles). Na mesma execução, numa aba em `https://www.ibama.gov.br/`, rode
-`await LEX.verificarRepo('<SHA>')` para conferir a IN IBAMA 19/2023.
+não use o `decodificar_partes.py` para eles). Na mesma execução, numa aba em `https://www.ibama.gov.br/`, confira a IN IBAMA 19/2023
+com `await LEX.verificar(['<url do hashes.json>'])` e compare o `sha256` com o de `juridico/legislacao/hashes.json`
+(o `LEX.verificarRepo` não roda nessa página: o site substitui o `URL` do navegador).
 
 STJ: numa aba em `https://dadosabertos.web.stj.jus.br/dataset/`, carregue `coletor/coletor_stj.js` e rode
 `await STJ.colher(undefined, '<AAAAMM01 do mês anterior>')` (só os arquivos mensais novos) e `await STJ.temas()`;
