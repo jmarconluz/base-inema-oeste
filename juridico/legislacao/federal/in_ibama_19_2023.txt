@@ -1,0 +1,907 @@
+Fonte: https://www.ibama.gov.br/component/legislacao/?view=legislacao&legislacao=139335
+Título da página: Instrução Normativa IBAMA nº 19, de 2 de junho de 2023 (página oficial do IBAMA)
+(Texto vigente: como publicado na página de legislação do IBAMA em 16/11/2026; trechos tachados removidos. Regulamenta, no âmbito do IBAMA, o processo administrativo de apuração de infrações ambientais — art. 1º)
+
+Página inicial
+Menu
+Início do menu principal
+Fim do menu principal
+Início do conteúdo da página
+Instrução Normativa 19, de 02 de junho de 2023
+Regulamenta o processo administrativo para apuração de infrações administrativas por condutas e atividades lesivas ao meio ambiente.
+INSTRUÇÃO NORMATIVA Nº 19, DE 2 DE JUNHO DE 2023
+Regulamenta o processo administrativo para apuração de infrações administrativas por condutas e atividades lesivas ao meio ambiente.
+O Presidente do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama), nomeado pela Portaria do Ministro de Estado da Casa Civil da Presidência da República nº 1.779, de 23 de fevereiro de 2023, no uso das competências que lhe foram conferidas pelo Decreto nº 11.095, de 13 de junho de 2022, com base no artigo 80 da Lei nº 9.605, de 12 de fevereiro de 1998, considerando o disposto no Decreto nº 6.514, de 22 de julho de 2008, que dispõe sobre o regulamento geral de apuração de infrações administrativas ambientais, e o que consta do processo nº 02001.027286/2022-18, resolve:
+Art. 1º Regulamentar, no âmbito do Ibama, o processo administrativo para apuração de infrações administrativas por condutas e atividades lesivas ao meio ambiente.
+Parágrafo único. Este regulamento é aplicável, no que couber, a processos de apuração de infrações administrativas ambientais previstas nas Leis nº 7.802, de 1989, 9.966, de 2000, 11.105, de 2005, e 13.123, de 2015.
+CAPÍTULO I
+DAS DISPOSIÇÕES GERAIS
+Art. 2º O processo de que trata esta Instrução Normativa é orientado pelos princípios que regem a Administração Pública e o direito administrativo sancionador.
+Parágrafo único. O Ibama busca, no exercício do seu poder de polícia ambiental e por meio do processo sancionador ambiental, prevenir a prática de ilícitos ambientais, induzindo o comportamento social de conformidade com a legislação ambiental brasileira pela efetiva aplicação de sanções administrativas e medidas administrativas cautelares.
+Art. 3º As condutas e atividades consideradas lesivas ao meio ambiente sujeitarão os infratores, pessoas físicas ou jurídicas, às sanções penais, civis e administrativas, independentemente da obrigação de reparar os danos causados.
+§ 1º Quem, de qualquer forma, concorre para a prática de crimes e infrações ambientais, incide nas penas a estes cominadas, na medida da sua culpabilidade, bem como o diretor, o administrador, o membro de conselho e de órgão técnico, o auditor, o gerente, o preposto ou mandatário de pessoa jurídica, que, sabendo da conduta criminosa de outrem, deixar de impedir a sua prática, quando podia agir para evitá-la.
+§ 2º As pessoas jurídicas serão responsabilizadas administrativa, civil e penalmente, conforme o disposto na legislação brasileira, nos casos em que a infração seja cometida por decisão de seu representante legal ou contratual, ou de seu órgão colegiado, no interesse ou benefício da sua entidade.
+§ 3º A responsabilidade das pessoas jurídicas não exclui a das pessoas físicas, autoras, co-autoras ou partícipes do mesmo fato.
+§ 4º Nos termos da legislação brasileira, poderá ser desconsiderada a pessoa jurídica sempre que sua personalidade for obstáculo ao ressarcimento de prejuízos causados à qualidade do meio ambiente.
+Art. 4º Os atos de apuração de infrações ambientais deverão ser realizados em meio eletrônico, observado o disposto na Lei nº 14.129, de 2021, e no Decreto nº 8.539, de 2015.
+Parágrafo único. A autoria, autenticidade e integridade dos documentos e da assinatura, nos processos administrativos eletrônicos de que trata este regulamento, poderão ser obtidas por meio de certificado digital ou identificação por meio de usuário e senha.
+Art. 5º Sem prejuízo do âmbito de aplicação da Lei nº 12.527, 2011, os autuados e seus advogados têm assegurado o direito de consulta a processo de apuração de infração ambiental eletrônico por intermédio da concessão de acesso externo a sistema informatizado dedicado à gestão processual.
+§ 1º A concessão de acesso externo depende de prévia aprovação de credenciamento e aceitação das condições regulamentares que disciplinam o sistema informatizado de gestão processual.
+§ 2º O direito dos advogados ao acesso a processo eletrônico independe da existência de procuração, ressalvados os casos sob sigilo.
+SEÇÃO I
+DAS DEFINIÇÕES
+Art. 6º Para os fins desta Instrução Normativa, entende-se por:
+I - infração administrativa ambiental (ou infração ambiental): toda ação ou omissão que viole as regras jurídicas de uso, gozo, promoção, proteção e recuperação do meio ambiente;
+II - sanção administrativa: penalidade prevista em lei, aplicada pelo Ibama, para punir toda ação ou omissão definida como infração ambiental;
+III - medida administrativa cautelar: medida de caráter preventivo, que tem como objetivo prevenir a ocorrência de novas infrações, resguardar a recuperação ambiental e garantir o resultado prático do processo administrativo, adotada, independentemente da lavratura de auto de infração, pelo agente ambiental federal no ato da fiscalização ou em momento posterior;
+IV - multa fechada: sanção pecuniária cujo valor está previamente fixado em lei ou regulamento;
+V - multa aberta: sanção pecuniária cuja definição deve observar os limites mínimo e máximo previstos na lei ou no regulamento;
+VI - multa consolidada: valor da sanção pecuniária concretamente definida com a observância dos limites previstos nesta Instrução Normativa e na legislação ambiental vigente, que pode ser composto por valores relativos à caracterização da reincidência e à configuração das circunstâncias majorantes e atenuantes, sobre o qual incidem os acréscimos legais;
+VII - reincidência: o cometimento de nova infração ambiental pelo mesmo infrator dentro de determinado período previsto na legislação ambiental, o qual leva ao agravamento da nova penalidade;
+VIII - atividades de subsistência: atividades exercidas diretamente pelos integrantes de família em situação de vulnerabilidade social decorrente de seu nível de renda, educação, saúde ou localização geográfica, admitida a ajuda eventual de terceiros, que sejam indispensáveis ao seu sustento e desenvolvimento socioeconômico;
+IX - dano ambiental: toda lesão que decorre de agressão à integridade do meio natural ou de seus componentes;
+X - auto de infração ambiental: é o documento, emitido pelo agente ambiental federal, destinado à descrição clara e objetiva de conduta passível de enquadramento como infração ambiental, do qual constam a indicação dos dispositivos legais e regulamentares infringidos, as sanções cabíveis e a identificação do autuado;
+XI - formulários próprios: emitidos pelo agente ambiental federal, correspondem a termos lavrados em decorrência da aplicação de medidas administrativas e cautelares, tais como termo de embargo e interdição, termo de suspensão, termo de apreensão, termo de depósito, termo de destruição, termo de demolição, termo de doação, termo de soltura de animais;
+XII - termo próprio de notificação: emitido por agente ambiental federal, é o documento que formaliza a adoção de medidas que têm como propósito obter informações, esclarecimentos e documentos acerca do objeto da ação fiscalizatória, relatar a impossibilidade ou recusa de nomeação de depositário de bem apreendido ou exigir do administrado providências que visem à regularização, correção ou adoção de ações de controle para cessar degradação ambiental;
+XIII - relatório de fiscalização: emitido por agente ambiental federal, é o documento que consolida os resultados da ação fiscalizatória e expõe a motivação das medidas dela decorrentes; no relatório de fiscalização, o agente ambiental federal: explicita as causas e circunstâncias da infração ambiental, narrando, detalhadamente, os fatos constatados e o modus operandi, e individualiza o comportamento, doloso ou culposo, do autuado e dos demais envolvidos; apresenta os critérios necessários à imposição de sanções e relata a existência de circunstâncias agravantes ou atenuantes; descreve os dados dos objetos, instrumentos e apetrechos relacionados com a prática da infração ambiental; aponta os elementos probatórios colhidos e demais informações necessárias à elucidação da acusação e caracterização da responsabilidade administrativa; evidencia o dano ambiental e os pressupostos necessários à configuração da responsabilidade civil;
+XIV - unidade ordenadora da ação fiscalizatória ambiental: unidade do Ibama responsável pela emissão da ordem de fiscalização ambiental;
+XV - agente ambiental federal: servidor do Ibama designado por ato de pessoal para desempenhar as atividades de fiscalização ambiental;
+XVI - notificação: providência mediante a qual o Ibama leva ao conhecimento do interessado os atos administrativos praticados no âmbito da apuração de infração administrativa ambiental;
+XVII - homologação de auto de infração ambiental: decisão mediante a qual a autoridade julgadora, ao reconhecer a existência dos pressupostos à configuração da responsabilidade administrativa ambiental, define as sanções cabíveis;
+XVIII - cancelamento de auto de infração ambiental: decisão pela insubsistência do auto de infração ambiental, proferida pela autoridade julgadora quando ausente qualquer pressuposto à configuração da responsabilidade administrativa ambiental;
+XIX - decisão anulatória: decisão que reconhece a existência de vício que torna nulo ato administrativo;
+XX - avaliação sobre a regularidade ambiental: decisão sobre a manutenção ou não dos efeitos de medida administrativa cautelar, mediante a análise de documentação, apresentada pelo interessado, que vise comprovar a regularidade de obra, empreendimento ou atividade, e de suas respectivas áreas, embargada, interditada ou suspensa;
+XXI - decisão sobre a reparação pelos danos ambientais: decisão sobre a existência dos pressupostos necessários à configuração da responsabilidade do agente pela reparação de danos ambientais;
+XXII - decisão de primeira instância: decisão exarada quando do julgamento do auto de infração ambiental, contra o qual cabe recurso;
+XXIII - decisão de segunda instância: decisão exarada quando do julgamento de recurso;
+XXIV - decisão revisional: decisão exarada com fundamento no art. 65 da Lei nº 9.784, de 1999;
+XXV - adesão à solução legal: a adesão, pelo autuado, a uma das soluções legais possíveis, previstas no inciso II do § 5º do art. 96 do Decreto nº 6.514, de 2008;
+XXVI - coisa julgada administrativa: a decisão que, não mais sujeita a recurso, torna-se definitiva em âmbito administrativo;
+XXVII - autoridade julgadora: servidor do Ibama designado por ato de pessoal para proferir decisões no âmbito do processo sancionador ambiental.
+CAPÍTULO II
+DAS COMPETÊNCIAS
+Art. 7º As Superintendências estaduais do Ibama realizam ações de fiscalização ambiental nas suas respectivas circunscrições administrativas.
+Parágrafo único. As Superintendências estaduais e as unidades que as compõem podem realizar ações conjuntas de fiscalização ambiental.
+Art. 8º A Coordenação-Geral de Fiscalização Ambiental (CGFis) pode determinar ou executar ações de fiscalização ambiental em todo o território nacional.
+Art. 9º Compete à unidade administrativa do local da infração instaurar o processo de apuração de infração ambiental.
+Parágrafo único. No caso do art. 8º, a competência para a instauração do processo de apuração de infração ambiental e decisão sobre a regularidade ambiental poderá ser definida pela CGFis.
+Art. 10. Compete ao servidor da unidade do local da infração aferir a regularidade de obra, empreendimento ou atividade, e de suas respectivas áreas, e decidir sobre a manutenção dos efeitos de medida administrativa cautelar aplicada, se provocado pelo interessado.
+Parágrafo único. Cabe ao chefe da Divisão Técnico-Ambiental das Superintendências estaduais, ao chefe do Serviço de Apoio Ambiental das Gerências Executivas ou ao chefe da Unidade Técnica indicar, em cada caso, o servidor encarregado de emitir a decisão de que trata o caput.
+Art. 11. Para os fins deste regulamento, equipara-se a local de infração:
+I - nas infrações contra o patrimônio genético ou o conhecimento tradicional associado, o domicílio do autuado;
+II - nas infrações praticadas em meio virtual, o local de registro do usuário, do dispositivo usado, identificado pelo seu Internet Protocol, do empreendimento ou da atividade;
+III - nas infrações que envolvam transporte, o local de abordagem do veículo, aeronave ou embarcação; ou
+IV - nas infrações praticadas ou que produziram resultados em mais de uma unidade federativa, aquele que, no momento da ação fiscalizatória, é o mais ambientalmente afetado.
+Art. 12. Compete ao Centro Nacional do Processo Sancionador Ambiental (Cenpsa) organizar a equipe nacional responsável pela decisão sobre pedidos de adesão à solução legal e instrução e julgamento de processos de apuração de infrações ambientais.
+§ 1º A equipe nacional de que trata o caput será instituída mediante portaria do Presidente do Ibama.
+§ 2º A alocação dos integrantes em grupos de trabalho da equipe nacional será decidida pelo Coordenador-Geral do Cenpsa.
+§ 3º A coordenação da equipe nacional deve garantir a distribuição equânime dos trabalhos entre os seus integrantes.
+Art. 13. Em primeira instância administrativa, compete à autoridade designada pelo Presidente do Ibama julgar auto de infração ambiental.
+§ 1º A autoridade julgadora de que trata o caput presidirá a instrução de processo que lhe for distribuído.
+§ 2º O Coordenador-Geral do Cenpsa, mediante decisão fundamentada, poderá avocar o julgamento de auto de infração ambiental.
+§ 3º O julgamento de que trata o § 2º deverá ser precedido de relatório circunstanciado, com proposta de decisão objetivamente justificada, emitido por ser servidor que integra a equipe nacional responsável pela instrução processual.
+Art. 14. Compete à autoridade de segunda instância designada pelo Presidente do Ibama julgar recurso, voluntário e de ofício, interposto contra decisão proferida pela autoridade de que trata o caput do art. 13, em processo formado para julgar auto de infração ambiental cujo valor da multa indicada é inferior a 1 milhão de reais.
+Art. 15. Compete ao Presidente do Ibama julgar recurso, voluntário e de ofício, interposto:
+I - contra decisão proferida pela autoridade de que trata o caput do art. 13, em processo formado para julgar auto de infração ambiental cujo valor da multa indicada é igual ou superior a 1 milhão de reais;
+II - contra decisão proferida pelo Coordenador-Geral do Cenpsa, na hipótese do § 2º do art. 13.
+§ 1º O Presidente do Ibama, mediante decisão fundamentada, poderá avocar o julgamento de recurso dirigido à autoridade julgadora de segunda instância.
+§ 2º O julgamento de que trata o caput deverá ser precedido de relatório circunstanciado, com proposta de decisão objetivamente justificada, emitido por servidor que integra a equipe nacional responsável pela instrução processual.
+CAPÍTULO III
+DAS SANÇÕES E MEDIDAS CAUTELARES AMBIENTAIS
+Art. 16. O Ibama, ao qual compete a tutela administrativa do meio ambiente, no exercício do seu poder de polícia ambiental, aplicará, em estrita observância aos preceitos desta Instrução Normativa e da legislação ambiental brasileira, as seguintes sanções e medidas administrativas cautelares:
+I - advertência;
+II - multa simples;
+III - multa diária;
+IV - apreensão dos animais, produtos e subprodutos da fauna e flora e demais produtos e subprodutos objeto da infração, instrumentos, petrechos, equipamentos, veículos e embarcações de qualquer natureza utilizados na infração;
+V - destruição ou inutilização do produto;
+VI - suspensão de venda e fabricação do produto;
+VII - embargo de obra ou atividade e suas respectivas áreas;
+VIII - demolição de obra;
+IX - suspensão parcial ou total das atividades; e
+X - sanção restritiva de direitos.
+§ 1º As sanções administrativas podem ser aplicadas de modo cumulativo.
+§ 2º Se o infrator cometer, simultaneamente, duas ou mais infrações, ser-lhe-ão aplicadas, cumulativamente, as sanções a elas cominadas.
+§ 3º O Ibama poderá aplicar outras sanções e medidas administrativas cautelares previstas na legislação brasileira.
+SEÇÃO I
+DA ADVERTÊNCIA
+Art. 17. A sanção de advertência poderá ser aplicada para as infrações administrativas de menor lesividade ao ambiente, garantidos a ampla defesa e o contraditório.
+§ 1º Consideram-se infrações administrativas de menor lesividade ao meio ambiente aquelas em que a multa consolidada não ultrapasse o valor de 1 mil reais ou, na hipótese de multa por unidade de medida, não exceda o valor referido.
+§ 2º O agente ambiental federal poderá indicar a aplicação de advertência no auto de infração ambiental.
+Art. 18. Caso o agente ambiental federal constate a existência de irregularidades a serem sanadas e decida pela indicação da sanção de advertência, lavrará o auto de infração ambiental e estabelecerá prazo para que o autuado sane tais irregularidades.
+§ 1º Sanadas as irregularidades no prazo concedido, o agente autuante certificará o ocorrido para que seja dado prosseguimento ao processo de apuração da infração ambiental.
+§ 2º Caso o autuado, por negligência ou dolo, deixe de sanar as irregularidades, o agente autuante certificará o ocorrido e indicará seja aplicada multa ambiental relativa à infração praticada, independentemente da advertência.
+Art. 19. A sanção de advertência não excluirá a aplicação de outras sanções.
+Art. 20. Fica vedada a aplicação de nova sanção de advertência no período de três anos contados do julgamento da defesa da última advertência ou de outra penalidade aplicada.
+SEÇÃO II
+DA MULTA AMBIENTAL
+Art. 21. A multa ambiental, quando for o caso, terá por base a unidade, hectare, metro cúbico, quilograma, metro de carvão (mdc), estéreo, metro quadrado, dúzia, estipe, cento, milheiros ou outra medida pertinente, de acordo com o objeto jurídico lesado.
+Parágrafo único. O agente ambiental federal especificará a unidade de medida aplicável para cada espécie de recurso ambiental objeto da infração.
+Art. 22. O valor de uma multa ambiental é de, no mínimo, 50 reais e, no máximo, de 50 milhões de reais.
+§ 1º Decorrido o prazo estabelecido no caput do art. 113 do Decreto nº 6.514, de 2008, as multas estão sujeitas à atualização monetária até o seu efetivo pagamento, sem prejuízo da aplicação de juros de mora e demais encargos, conforme previsto em lei.
+§ 2º O valor da multa ambiental consolidada não pode exceder o limite previsto no caput, ressalvado o disposto no § 1º.
+Art. 23. Nos termos do § 4º do art. 72 da Lei nº 9.605, de 1998, a multa simples decorrente de infração ambiental especificada no Decreto nº 6.514, de 2008, poderá ser convertida em serviços de preservação, melhoria e recuperação da qualidade do meio ambiente.
+§ 1º As multas ambientais relativas a infrações previstas nas Leis nº 7.802, de 1989, 9.966, de 2000, 11.105, de 2005, e 13.123, de 2015, também poderão ser convertidas em serviços de preservação, melhoria e recuperação da qualidade do meio ambiente.
+§ 2º Não cabe conversão:
+I - para reparação pelos danos decorrentes da própria infração;
+II - quando o valor resultante dos descontos aplicáveis for inferior ao valor mínimo da multa cominada no tipo infracional infringido;
+III - de multa diária, quando a situação que deu causa à lavratura do auto de infração ambiental não tiver cessado até o termo final do prazo de alegações finais.
+§ 3º A autoridade competente, ao considerar os antecedentes do infrator e as particularidades do caso concreto, indeferirá o pedido de conversão da multa ambiental quando:
+I - da infração ambiental decorrer morte humana;
+II - o autuado constar do cadastro de empregadores que tenham submetidos trabalhadores a condições análogas à de escravo;
+III - no ato de fiscalização forem constatados indícios de que o autuado explore trabalho infantil;
+IV - a infração for praticada contra as populações indígenas e quilombolas ou nas terras por elas ocupadas;
+V - a infração for praticada mediante abuso, maus-tratos ou emprego de métodos cruéis no manejo de animais;
+VI - a infração for praticada por agente público no exercício do cargo ou função;
+VII - essa alternativa se mostrar inapta a cumprir com a função de desincentivo à prática de ilícitos ambientais.
+§ 4º O Ibama fixará em regulamento próprio outras hipóteses de vedação e indeferimento à conversão de multa em prestação de serviços ambientais.
+Art. 24. O cometimento de nova infração ambiental pelo mesmo infrator, no período de cinco anos, contados da data em que a decisão administrativa que o tenha condenado por infração anterior tenha se tornado definitiva, implicará:
+I - aplicação da multa em triplo, no caso de cometimento de nova infração ambiental capitulada sob o mesmo tipo infracional; ou
+II - aplicação da multa em dobro, no caso de cometimento de nova infração ambiental capitulada sob tipo infracional distinto.
+§ 1º As infrações ambientais praticadas pelo mesmo infrator e definitivamente julgadas pelas autoridades dos demais órgãos integrantes do Sistema Nacional de Meio Ambiente (Sisnama) poderão ser consideradas para o agravamento por reincidência pelo Ibama.
+§ 2º O agravamento será apurado no curso do procedimento de apuração da nova infração ambiental, do qual se fará constar certidão com as informações sobre o auto de infração anterior e o julgamento definitivo que o confirmou.
+§ 3º Constatada a existência de decisão condenatória irrecorrível por infração anterior, o autuado será notificado para se manifestar, no prazo de dez dias, sobre a possibilidade de agravamento da penalidade.
+§ 4º Caracterizada a reincidência, a autoridade competente deverá agravar a penalidade, na forma do disposto nos incisos I e II do caput.
+§ 5º O agravamento da penalidade por reincidência não poderá ser aplicado após o julgamento de que trata o art. 124 do Decreto nº 6.514, de 2008.
+§ 6º Se, na data do requerimento de adesão a uma das soluções legais, constar do processo ao menos certidão que indique caracterizada a reincidência, o autuado reconhece que a multa ambiental está composta pelo valor previsto para o agravamento, na forma do disposto nos incisos I e II do caput.
+§ 7º A adesão a uma das soluções legais previstas no inciso II do § 5º do art. 96 do Decreto nº 6.514, de 2008, não eximirá a contabilização da infração cometida para fins de aplicação do disposto neste artigo.
+Art. 25. O agravamento por reincidência e os fatores relativos às circunstâncias majorantes e atenuantes incidem individualmente sobre o valor da multa ambiental definida.
+Art. 26. É vedada a aplicação de circunstâncias majorantes e atenuantes a multas ambientais fechadas.
+SEÇÃO III
+DA MULTA DIÁRIA
+Art. 27. A multa diária será aplicada sempre que o cometimento da infração se prolongar no tempo.
+§ 1º Constatada a situação prevista no caput, o agente ambiental federal indicará o valor da multa-dia no auto de infração ambiental.
+§ 2º O valor da multa-dia, que deverá ser fixado de acordo com os critérios estabelecidos nesta Instrução Normativa, não poderá ser inferior ao mínimo previsto no caput do art. 22 e nem superior a dez por cento do valor da multa simples máxima cominada para a infração.
+Art. 28. A multa diária deixará de ser aplicada a partir da data em que o autuado apresentar ao Ibama os documentos que comprovem a regularização da situação que deu causa à lavratura do auto de infração ambiental.
+§ 1º Caso verifique que a situação que deu causa à lavratura do auto de infração ambiental não foi regularizada, a autoridade competente notificará o autuado de que a multa-dia continua a ser aplicada.
+§ 2º Na hipótese do § 1º, o agente autuante será provocado para que sejam adotadas outras sanções e medidas cautelares necessárias à cessação da infração.
+§ 3º A celebração de termo de compromisso de reparação ou cessação dos danos encerrará a aplicação da multa diária.
+Art. 29. Por ocasião do julgamento do auto de infração ambiental, a autoridade julgadora deverá, no caso de homologação da autuação, confirmar ou modificar o valor da multa-dia, decidir o período de sua aplicação e consolidar o montante devido, para posterior cobrança e execução.
+Parágrafo único. Se interposto recurso, a autoridade julgadora de segunda instância administrativa adotará a mesma providência prevista no caput.
+Art. 30. Nos casos em que a infração não tenha cessado após a constituição definitiva do crédito, o valor da multa diária continuará a ser consolidado e executado periodicamente.
+§ 1º Na hipótese do caput, a autoridade julgadora perante a qual se tornou definitiva a decisão deverá consolidar o valor da multa diária não exigida.
+§ 2º O autuado será notificado para, no prazo de vinte dias, realizar o pagamento da obrigação.
+§ 3º Caso o autuado não realize o pagamento da obrigação, o processo será remetido à área competente para a cobrança do novo crédito administrativo constituído.
+SEÇÃO IV
+DA MULTA ABERTA
+Art. 31. Na definição da multa aberta, o agente ambiental federal e as autoridades julgadoras observarão os parâmetros previstos nas tabelas do Anexo I desta Instrução Normativa, referentes a:
+I - a gravidade dos fatos, considerando os motivos da infração e suas consequências para a saúde pública e o meio ambiente, conforme o Quadro 1 do Anexo I desta Instrução Normativa; e
+II - a capacidade econômica do infrator, conforme os Quadros 2 a 4 do Anexo I desta Instrução Normativa.
+§ 1º A fixação de multa aberta acima do valor mínimo será sempre motivada e aplicada quando presentes elementos que a justifiquem.
+§ 2º Excepcionalmente, o agente ambiental federal e a autoridade julgadora poderão readequar o valor da multa aberta, estabelecendo um valor diferente daquele resultante da aplicação dos parâmetros a que se refere este artigo, mediante justificativa de sua desproporcionalidade ou irrazoabilidade.
+Art. 32. A gravidade dos fatos será classificada, conforme o Quadro 1 do Anexo I desta Instrução Normativa, considerando:
+I - a voluntariedade do agente:
+a) dolosa: quando evidenciado que o autuado quis o resultado ou assumiu o risco de produzi-lo; ou
+b) culposa: quando o autuado deu causa ao resultado por imprudência, negligência ou imperícia.
+II - as consequências para o meio ambiente:
+a) potencial: quando as consequências não são evidentes;
+b) reduzida: quando os danos ambientais são locais ou temporários;
+c) fraca: quando os danos ambientais são de pequena proporção ou de baixa complexidade, gravidade ou magnitude, diante do contexto considerado;
+d) moderada: quando os danos ambientais são de proporção intermediária ou de moderada complexidade, gravidade ou magnitude, diante do contexto considerado; ou
+e) grave: quando os danos ambientais são de grande proporção ou de alta complexidade, gravidade ou magnitude, diante do contexto considerado.
+III - as consequências para a saúde pública:
+a) não caracterizada: quando desconhecidas ou não afetem o consumo, a utilização ou o aproveitamento de determinado recurso natural;
+b) fraca: quando impossibilitem o consumo, a utilização ou o aproveitamento de determinado recurso natural em uma proporção pequena, diante do contexto;
+c) moderada: quando impossibilitem o consumo, a utilização ou o aproveitamento de determinado recurso natural em uma proporção intermediária, diante do contexto; ou
+d) significativa: quando impossibilitem o consumo, a utilização ou o aproveitamento de determinado recurso natural em uma proporção grande, diante do contexto, provoquem a morte de pessoas ou demandem a interdição do local.
+§ 1º A aplicação da classificação de que trata o presente artigo deverá ser justificada em cada caso.
+§ 2º Quando se tratar de infração decorrente de descumprimento exclusivo de condição prevista na licença ambiental, a valoração será realizada para cada condicionante violada.
+§ 3º Na hipótese de violação de condicionante formal, as consequências para o meio ambiente e para a saúde pública serão classificadas como potenciais e não caracterizadas, respectivamente.
+Art. 33. A capacidade econômica do infrator será classificada como:
+I - na hipótese de pessoa jurídica de direito privado, de acordo com a receita bruta anual, segundo os critérios do art. 17-D da Lei nº 6.938, 1981, e da Lei Complementar nº 123, de 2006:
+a) microempresa, aquela que possuir receita bruta igual ou inferior a 360 mil reais;
+b) empresa de pequeno porte, aquela que possuir receita superior a 360 mil reais e igual ou inferior a 4 milhões e 800 mil reais;
+c) empresa de médio porte, aquela que possuir receita bruta anual superior a 4 milhões e 800 mil reais e igual ou inferior a 12 milhões de reais; ou
+d) empresa de grande porte, aquela que possuir receita bruta anual superior a 12 doze milhões de reais.
+II - na hipótese de pessoa física, de acordo com o patrimônio bruto e os rendimentos anuais constantes de declarações de ajuste anual do imposto sobre a renda;
+III - na hipótese de pessoa jurídica de direito público federal, de acordo com sua receita corrente líquida;
+IV - na hipótese de pessoa jurídica de direito público estadual, de acordo com a sua localização nas áreas prioritárias definidas no âmbito da Política Nacional de Desenvolvimento Regional - PNDR, nas áreas da Superintendência do Desenvolvimento do Nordeste (SUDENE), da Superintendência do Desenvolvimento da Amazônia (SUDAM) ou da Superintendência do Desenvolvimento do Centro-Oeste (SUDECO);
+V - na hipótese de pessoa jurídica de direito público municipal, de acordo com:
+a) a quantidade de habitantes do município, conforme último censo realizado; e
+b) a localização do município nas áreas prioritárias definidas no âmbito da Política Nacional de Desenvolvimento Regional - PNDR, nas áreas da Superintendência do Desenvolvimento do Nordeste (SUDENE), da Superintendência do Desenvolvimento da Amazônia (SUDAM) ou da Superintendência do Desenvolvimento do Centro-Oeste (SUDECO); ou
+VI - na hipótese de entidade privada sem fins lucrativos, de acordo com seu patrimônio líquido informado na última declaração de rendimentos apresentada à Receita Federal.
+§ 1º Nas hipóteses dos incisos II a VI, a classificação da capacidade econômica levará em consideração o disposto no inciso I.
+§ 2º Considera-se de baixa capacidade econômica:
+I - a pessoa física cuja renda mensal seja inferior ou igual a dois salários mínimos; e
+II - a pessoa jurídica de direito público municipal de município com até cinquenta mil habitantes e localizado nas áreas a que se refere a alínea "b" do inciso V.
+§ 3º Caso o agente autuante não disponha de informações para inferir a capacidade econômica do autuado na forma deste artigo, a classificação será feita com base na capacidade aparente verificada durante a ação fiscalizatória, devidamente fundamentada no relatório de fiscalização.
+§ 4º O autuado poderá requerer a reclassificação da sua capacidade econômica mediante comprovação documental, por ocasião da defesa.
+§ 5º Eventual alteração legislativa que revise os parâmetros de classificação do porte econômico das pessoas jurídicas deverá ser observada imediatamente.
+§ 6º Os servidores que atuam no âmbito do processo de apuração de infrações ambientais terão acesso às informações econômico-financeiras prestadas pelos autuados ao Ibama.
+SUBSEÇÃO I
+DAS CIRCUNSTÂNCIAS MAJORANTES E ATENUANTES
+Art. 34. Por ocasião da lavratura do auto de infração ambiental e da elaboração do relatório de fiscalização, o agente ambiental federal indicará as circunstâncias majorantes e atenuantes relacionadas à infração.
+Parágrafo único. As autoridades julgadoras e os demais servidores que atuam no âmbito da instrução de processos de apuração de infrações ambientais deverão aferir a existência de circunstâncias majorantes e atenuantes, ao avaliarem a proporcionalidade e a razoabilidade da multa ambiental, ainda que não apontadas pelo agente ambiental federal.
+Art. 35. As circunstâncias majorantes e atenuantes serão afastadas quando incabíveis ou injustificadas.
+Art. 36. São circunstâncias atenuantes:
+I - baixo grau de instrução ou escolaridade do autuado;
+II - arrependimento eficaz do autuado, manifestado pela adoção espontânea de medidas de reparação pelos danos ambientais e limitação significativa da degradação ambiental causada;
+III - comunicação prévia pelo autuado do perigo iminente de degradação ambiental; e
+IV - colaboração com a fiscalização ambiental para a elucidação dos fatos, desde que reconhecida pelo agente ambiental federal.
+§ 1º Indicada a existência de circunstâncias atenuantes, a autoridade julgadora competente deverá reduzir justificadamente o valor da multa, segundo os seguintes critérios:
+I - em dez por cento, nas hipóteses dos incisos III e IV;
+II - em vinte e cinco por cento, na hipótese do inciso I; e
+III - em cinquenta por cento, na hipótese do inciso II.
+§ 2º Indicada a existência de mais de uma circunstância atenuante, será aplicada aquela de maior percentual de redução.
+§ 3º A multa ambiental resultante da aplicação de circunstância atenuante não poderá ser inferior ao valor mínimo da sanção cominada para a infração ambiental.
+Art. 37. São circunstâncias majorantes, quando não constituam ou qualifiquem o tipo infracional, o agente ter cometido a infração ambiental:
+I - para obter vantagem pecuniária;
+II - coagindo outrem para a execução material da infração;
+III - concorrendo para danos à propriedade alheia;
+IV - atingindo áreas sujeitas, por ato do Poder Público, a regime especial de uso;
+V - em período de defeso à fauna;
+VI - em domingos ou feriados;
+VII - à noite;
+VIII - em épocas de seca ou inundações;
+IX - com abuso, maus-tratos ou emprego de métodos cruéis no manejo de animais;
+X - mediante fraude ou abuso de confiança;
+XI - mediante abuso do direito de licença, permissão ou autorização ambiental;
+XII - no interesse de pessoa jurídica mantida, total ou parcialmente, por verbas públicas ou beneficiada por incentivos fiscais;
+XIII - facilitada por funcionário público no exercício de suas funções; e
+XIV - no exercício de atividades econômicas financiadas direta ou indiretamente por verbas públicas.
+§ 1º Indicada a existência de circunstâncias majorantes, a autoridade julgadora competente deverá aumentar justificadamente o valor da multa, segundo os seguintes critérios:
+I - em dez por cento, nas hipóteses dos incisos II, III, VI e VII;
+II - em vinte por cento, nas hipóteses dos incisos V, XII e XIV;
+III - em trinta e cinco por cento, nas hipóteses dos incisos VIII e X; e
+IV - em cinquenta por cento, nas hipóteses dos incisos I, IV, IX, XI e XIII.
+§ 2º Indicada a existência de mais de uma circunstância majorante, será aplicada aquela de maior percentual de aumento.
+§ 3º A multa ambiental resultante da aplicação de circunstância majorante não poderá ser superior ao valor máximo da sanção cominada para a infração ambiental.
+§ 4º É vedada, na fase recursal, a majoração da sanção decorrente de circunstância cuja existência não tenha sido relatada ao longo da instrução e no julgamento em primeira instância.
+Art. 38. Indicada a existência de circunstância atenuante e majorante, se idênticos os percentuais, o valor da multa ambiental não será alterado.
+SEÇÃO V
+DAS SANÇÕES RESTRITIVAS DE DIREITOS
+Art. 39. As sanções restritivas de direitos, aplicáveis às pessoas físicas ou jurídicas, são:
+I - suspensão de registro, licença ou autorização;
+II - cancelamento de registro, licença ou autorização;
+III - perda ou restrição de incentivos e benefícios fiscais;
+IV - perda ou suspensão da participação em linhas de financiamento em estabelecimentos oficiais de crédito; e
+V - proibição de contratar com a Administração Pública.
+§ 1º A autoridade julgadora fixará o período de vigência das sanções previstas no caput, observados os seguintes prazos:
+I - até três anos para a sanção prevista no inciso V;
+II - até um ano para as demais sanções.
+§ 2º Em qualquer caso, a extinção da sanção fica condicionada à regularização da conduta que deu origem ao auto de infração ambiental.
+SEÇÃO VI
+DAS DISPOSIÇÕES GERAIS SOBRE AS MEDIDAS CAUTELARES AMBIENTAIS
+Art. 40. Constatada a infração ambiental, o agente ambiental federal, no exercício do poder de polícia ambiental, poderá aplicar as seguintes medidas:
+I - apreensão;
+II - embargo de obra ou atividade e de suas respectivas áreas;
+III - suspensão de venda ou fabricação de produto;
+IV - suspensão parcial ou total de atividades;
+V - destruição ou inutilização dos produtos, subprodutos e instrumentos da infração; e
+IV - demolição.
+§ 1º As medidas de que trata este artigo são dotadas de autoexecutoriedade e têm como objetivo prevenir a ocorrência de novas infrações, resguardar a recuperação ambiental e garantir o resultado prático do processo administrativo.
+§ 2º Nos casos de iminência ou ocorrência de degradação ambiental, o agente ambiental federal poderá adotar outras medidas cautelares não previstas neste artigo para evitá-la, fazer cessá-la ou mitigá-la, conforme o disposto no § 2º do art. 17 da Lei Complementar nº 140, de 2011.
+§ 3º A adoção das medidas administrativas cautelares de que trata este dispositivo constará de formulário próprio adequado, lavrado por meio eletrônico e vinculado ao processo instaurado em razão da emissão do auto de infração ambiental.
+SUBSEÇÃO I
+DA APREENSÃO
+Art. 41. Desde que relacionado à prática de infração administrativa ambiental, os animais, produtos, subprodutos, instrumentos, petrechos, equipamentos, veículos e embarcações de qualquer natureza, independentemente de sua fabricação ou utilização exclusiva para a prática de atividades ilícitas, serão objeto de medida administrativa cautelar de apreensão, salvo impossibilidade justificada.
+§ 1º A apreensão será formalizada em termo próprio, que indicará:
+I - o bem com exatidão, mediante descrição de suas características, estado de conservação e demais elementos que o distingam;
+II - individualização precisa dos animais e as condições em que eles se encontram;
+III - as condições de armazenamento e eventuais riscos de perecimento;
+IV - estimativa de seu valor pecuniário com base no seu valor de mercado, sempre que possível;
+V - as circunstâncias que o relacionam com a infração;
+VI - informação de eventual alteração ou adaptação para a prática de infrações ambientais; e
+VII - o proprietário ou possuidor, quando possível.
+§ 2º A apreensão deverá ser preferencialmente acompanhada de registro fotográfico do bem e do local de armazenamento.
+§ 3º A restituição ou a destinação dos objetos apreendidos caberá à autoridade julgadora competente.
+§ 4º É vedada a restituição de bem apreendido que tenha sido fabricado ou alterado para a prática de atividades ilícitas.
+Art. 42. Os bens e animais apreendidos ficarão sob a guarda do Ibama, permitida a nomeação justificada de fiel depositário.
+§ 1º A guarda e o depósito serão formalizados em termo próprio, que conterá:
+I - no caso de guarda:
+a) a unidade administrativa do Ibama responsável pela guarda;
+b) nome, matrícula funcional e assinatura do servidor responsável pelo recebimento dos bens;
+c) indicação do auto de infração ambiental, se lavrado;
+d) data e hora da lavratura;
+e) descrição clara dos bens e de suas condições;
+f) individualização precisa dos animais e as condições em que eles se encontram;
+g) indicação e descrição do local e das condições de armazenamento dos bens; e
+h) valores dos bens e animais.
+II - no caso de depósito:
+a) nome, matrícula funcional e assinatura da autoridade responsável pela entrega;
+b) nome, endereço completo, número de inscrição no Cadastro de Pessoas Físicas ou Cadastro Nacional da Pessoa Jurídica, naturalidade, filiação, telefone, endereço eletrônico e assinatura do depositário;
+c) indicação do auto de infração ambiental, se lavrado;
+d) data e hora da lavratura;
+e) descrição clara dos bens e de suas condições;
+f) individualização precisa dos animais e as condições em que eles são confiados;
+g) indicação e descrição do local do depósito e das condições de armazenamento;
+h) indicação e descrição do recinto; e
+i) valores dos bens e animais.
+§ 2º Em caso de morte, extinção ou impedimento do depositário, o Ibama deverá ser comunicado em até trinta dias.
+§ 3º Caso a retirada do bem não seja possível e haja recusa ou impossibilidade de nomeação de depositário, o agente ambiental federal notificará, por meio de formulário próprio, o proprietário ou ocupante do local e demais presentes para que se abstenham de remover ou alterar a situação dos bens até que sejam colocados sob a guarda do Ibama, confiados em depósito ou destinados.
+§ 4º O disposto no § 3º não impede seja adotada medida cautelar de destruição, quando presentes as circunstâncias previstas para sua aplicação.
+§ 5º O depósito de bem apreendido deverá ser confiado à pessoa natural ou a órgãos e entidades de caráter ambiental, beneficente, científico, cultural, educacional, hospitalar, penal ou militar.
+§ 6º Excepcionalmente, o depósito de bem ou animal poderá ser confiado ao próprio autuado, desde que não implique ocorrência de novas infrações, não prejudique a recuperação ambiental e não impeça o resultado prático do processo administrativo sancionador ambiental.
+§ 7º Os animais vítimas de maus-tratos não serão confiados ao infrator.
+§ 8º O encargo de depositário deverá ser expressamente aceito e pessoalmente recebido.
+§ 9º Caso as circunstâncias assim a recomendem, a modificação da guarda, a substituição do depositário ou a revogação do depósito poderá ser realizada pela autoridade julgadora, pelo chefe da unidade responsável ou pelo agente autuante que estiver com o processo.
+Art. 43. O Ibama poderá utilizar o bem apreendido:
+I - quando não houver outro meio disponível para a consecução da respectiva ação fiscalizatória;
+II - para fazer o deslocamento de outros bens ou animais apreendidos até local adequado;
+III - para promover a recomposição do dano ambiental; e
+IV - quando a sua conservação depender de funcionamento periódico de seus motores ou demais mecanismos, atestada tal necessidade por profissional competente, quando recomendável.
+Art. 44. O Ibama poderá:
+I - instalar equipamentos de rastreamento no bem apreendido, com a finalidade de monitorar sua localização e adequada utilização; e
+II - condicionar o depósito ou utilização do bem, em favor do depositário, à instalação ou manutenção dos equipamentos de que trata o inciso I.
+Art. 45. Os produtos e subprodutos, instrumentos, petrechos, equipamentos, veículos e embarcações apreendidos serão destinados mediante uma das seguintes modalidades:
+I - venda ou leilão;
+II - doação; ou
+III - destruição ou inutilização.
+Art. 46. A destinação de animais apreendidos observará o seguinte:
+I - os animais silvestres nativos serão, prioritariamente, libertados em seu hábitat natural ou entregues a centros de triagem;
+II - os animais exóticos serão repatriados ou entregues a criadouros conservacionistas, mantenedouros ou jardins zoológicos;
+III - os animais de produção serão leiloados ou doados;
+IV - os animais domésticos serão doados.
+§ 1º Na hipótese do inciso I, realizada a destinação na forma do art. 20 da Instrução Normativa Ibama nº 5, de 2013, o Cetas comunicará o ato ao agente ambiental federal responsável pela apreensão.
+§ 2º Na impossibilidade de destinação na forma do inciso I, o Ibama, em caráter excepcional e por motivos relevantes devidamente justificados, poderá entregar animal silvestre nativo a um dos seguintes empreendimentos, observada esta ordem:
+I - jardins zoológicos;
+II - criadouros conservacionistas;
+III - mantenedouros;
+IV - criadouros comerciais.
+§ 3º Na hipótese do inciso I do § 2º, a reprodução de espécime silvestre nativo confiado a jardim zoológico dependerá de prévia aprovação, pelo Ibama, de projeto de conservação.
+§ 4º Na hipótese do § 2º, a entrega de espécime silvestre nativo a criadouro comercial ocorrerá somente se for a única alternativa viável.
+§ 5º Na hipótese do inciso IV do § 2º, é vedada a transferência de espécime silvestre nativo entregue a criadouro comercial.
+§ 6º Na hipótese do inciso II do caput, a reprodução de espécime exótico confiado a criadouro conservacionista ou jardim zoológico dependerá de prévia aprovação pelo Ibama.
+§ 7º É vedada a reprodução de espécime potencialmente invasor ou cuja importação seja vedada pela legislação brasileira.
+§ 8º Os animais exóticos ou cuja importação seja vedada pela legislação brasileira não serão confiados a criadouros comerciais.
+§ 9º Dentro de uma mesma categoria, a destinação ao cativeiro deverá ser efetivada ao empreendimento que ofereça ao espécime as melhores condições de recinto e suporte técnico e veterinário.
+§ 10 O espécime apreendido em situação de cativeiro doméstico não será destinado a criadouro científico que não disponha de projeto ou estudo dedicado à conservação da espécie.
+§ 11 A destinação de animais silvestres a criadouros científicos, conservacionistas e comerciais, a mantenedouros e a jardins zoológicos também observará as demais prescrições estabelecidas pelas áreas competentes do Ibama.
+Art. 47. A destinação será registrada e fundamentada em formulário próprio, que conterá:
+I - nome e matrícula funcional da autoridade responsável pela destinação;
+II - nome, endereço completo, número de inscrição no Cadastro de Pessoas Físicas ou no Cadastro Nacional da Pessoa Jurídica, naturalidade, filiação, telefone e endereço eletrônico do destinatário, se houver;
+III - indicação do auto de infração ambiental, se lavrado;
+IV - data e hora da lavratura do termo;
+V - descrição clara dos bens e de suas condições;
+VI - individualização precisa dos animais e as condições em que eles são destinados;
+VII - identificação do local onde ocorreu a soltura dos animais, se for o caso;
+VIII - valor dos bens destinados; e
+IX - valor pelo qual os bens foram vendidos, se for o caso.
+Art. 48. A destinação poderá ser realizada sumariamente, logo após a apreensão e antes do julgamento do auto de infração ambiental, levando-se em conta a natureza e o risco de perecimento dos animais e bens apreendidos.
+Art. 49. Quando for o caso, a decisão da autoridade julgadora competente sobre a destinação de animais ainda em situação de cativeiro depende de prévia manifestação do Núcleo de Biodiversidade (Nubio) da unidade administrativa do local da guarda ou do depósito do espécime apreendido ou da Coordenação de Gestão, Destinação e Manejo da Fauna e Biodiversidade Aquática (Cobio).
+Art. 50. A destinação de animais, produtos e subprodutos da fauna e flora, instrumentos, petrechos, equipamentos, veículos e embarcações de qualquer natureza apreendidos também deverá observar o disposto na Instrução Normativa Ibama nº 19, de 2014.
+SUBSEÇÃO II
+DO EMBARGO, DA SUSPENSÃO DE VENDA OU FABRICAÇÃO DE PRODUTO E DA SUSPENSÃO PARCIAL OU TOTAL DE ATIVIDADES
+Art. 51. As obras ou atividades e suas respectivas áreas serão objeto de medida administrativa cautelar de embargo quando:
+I - realizadas sem licença ou autorização ambiental ou em desacordo com a concedida;
+II - realizadas em locais proibidos; ou
+III - houver risco de dano ou de seu agravamento.
+§ 1º O embargo será formalizado em formulário próprio:
+I - que conterá a delimitação da área ou local embargado mediante a indicação de suas coordenadas geográficas e a descrição das atividades a serem paralisadas; e
+II - será instruído com a poligonal georreferenciada da extensão embargada.
+§ 2º O embargo limitar-se-á às atividades irregulares realizadas na área, salvo impossibilidade de dissociação de eventuais atividades regulares ou risco de continuidade infracional.
+§ 3º Constatada a existência de desmatamento ou queimada caracterizados como infração ambiental, o embargo recairá sobre as áreas onde efetivamente ocorreu o ilícito, não alcançando as atividades de subsistência ou as demais realizadas no imóvel não relacionadas com a infração.
+§ 4º O embargo será aplicado nos casos em que o desmatamento ou a queimada ocorreu em áreas de preservação permanente e reserva legal.
+§ 5º Deverá ser embargada a área onde ocorreu o desmatamento não autorizado de mata nativa.
+§ 6º O embargo de obra ou atividade, e de suas respectivas áreas, tem por objetivo impedir a continuidade do dano ambiental, propiciar a regeneração do meio ambiente e dar viabilidade à recuperação da área degradada, devendo restringir-se ao local onde se verificou a prática do ilícito e perdurar pelo tempo necessário para atingir os seus objetivos.
+§ 7º O embargo de área será incluído, para consulta pública, em lista oficial de áreas embargadas, acessível pela página do Ibama na internet.
+Art. 52. O descumprimento total ou parcial de embargo, sem prejuízo do disposto no art. 79 do Decreto nº 6.514, de 2008, ensejará a aplicação cumulativa das seguintes sanções:
+I - suspensão da atividade que originou a infração e da venda de produtos e subprodutos criados ou produzidos na área local objeto do embargo infringido; e
+II - cancelamento de registro, licenças ou autorizações de funcionamento da atividade econômica junto aos órgãos ambientais e de fiscalização.
+Parágrafo único. O auto de infração ambiental lavrado em decorrência do descumprimento da medida de embargo será vinculado ao processo originário.
+Art. 53. A suspensão parcial ou total de atividades constitui medida que visa impedir a continuidade de processos produtivos em desacordo com a legislação ambiental.
+§ 1º A suspensão de atividade poderá ocorrer por bloqueio de acesso a sistema oficial do Ibama dedicado à gestão do uso e de controle e fiscalização de recursos ambientais.
+§ 2º A medida temporária de bloqueio adotada pelo agente ambiental federal, que precede a medida cautelar de suspensão formalizada em formulário próprio, deve observar o disposto em regulamento específico.
+§ 3º A suspensão dos efeitos das medidas adotadas na forma deste artigo observará o disposto no art. 10.
+Art. 54. Caso o responsável pela infração administrativa ou o detentor do imóvel onde foi praticada a infração seja desconhecido ou possua domicílio indefinido, o Ibama providenciará:
+I - a publicação do extrato da medida administrativa cautelar de embargo no Diário Oficial da União;
+II - a divulgação dos dados da área (ou local) embargada e da situação do auto de infração em lista oficial em seu sítio eletrônico, resguardados os dados protegidos por legislação específica; e
+III - a emissão de certidão que individualize a obra ou atividade e a parcela da área ou local objeto do embargo, a pedido de qualquer interessado.
+Art. 55. A medida cautelar de suspensão de venda ou fabricação de produto visa evitar a distribuição de produtos e subprodutos oriundos de infração ambiental ou interromper o uso de matéria-prima e subprodutos de origem ilegal.
+Parágrafo único. A aplicação da medida de que trata o caput será formalizada em formulário próprio com a descrição detalhada das atividades suspensas e dos produtos cuja venda ou fabricação foi interditada.
+Art. 56. Os efeitos das medidas cautelares de que trata esta subseção poderão ser suspensos, com observância do disposto no art. 10.
+§ 1º O servidor, indicado na forma do § 1º do art. 10, decidirá sobre o requerimento de cessação dos efeitos de medida administrativa cautelar.
+§ 2º O pedido de suspensão de efeitos de medida cautelar não instruído com documentos que comprovem a regularidade ambiental de obra, empreendimento ou atividade não será conhecido.
+§ 3º A decisão sobre o pedido de suspensão dos efeitos de medida cautelar deverá ser motivada.
+§ 4º A autoridade julgadora apenas se pronunciará sobre a conformidade legal da adoção da medida administrativa cautelar.
+Art. 57. É vedada a transferência de titularidade de embargo e suspensão.
+Parágrafo único. Os efeitos das medidas de embargo e suspensão também devem ser suportados pelo adquirente ou novo posseiro do imóvel embargado ou sucessor da atividade suspensa.
+Art. 58. A mudança de propriedade ou posse de imóvel objeto de embargo, que deverá ser comprovada mediante a apresentação da matrícula atualizada emitida pelo Cartório de Registro de Imóveis correspondente e certidão de inscrição no Cadastro Ambiental Rural, não altera a titularidade da medida cautelar.
+Parágrafo único. O novo posseiro ou adquirente do imóvel objeto de embargo deverá observar os efeitos atinentes à medida cautelar aplicada pelo agente ambiental federal e adotar as providências necessárias à regularização ambiental e reparação pelos danos ambientais, se existentes.
+SUBSEÇÃO III
+DA DESTRUIÇÃO OU DA INUTILIZAÇÃO
+Art. 59. Os produtos, inclusive madeiras, subprodutos, instrumentos, petrechos, equipamentos, veículos e embarcações utilizados na prática da infração ambiental poderão ser objeto de medida administrativa cautelar de destruição ou inutilização, de acordo com o disposto no art. 111 do Decreto nº 6.514, de 2008.
+Art. 60. A destruição ou inutilização deverá ser:
+I - formalizada em formulário próprio, com a descrição detalhada do produto, subproduto, veículo, embarcação ou instrumento e a estimativa, sempre que possível, de seu valor pecuniário com base no valor de mercado;
+II - acompanhada de relatório que exponha as circunstâncias que justificam a destruição ou inutilização, subscrito por, no mínimo, dois servidores do Ibama; e
+III - acompanhada de registro fotográfico do produto, subproduto, veículo, embarcação ou instrumento e de sua destruição.
+SUBSEÇÃO IV
+DA DEMOLIÇÃO
+Art. 61. No ato da fiscalização ambiental, o agente ambiental federal poderá, excepcionalmente, aplicar medida administrativa cautelar de demolição de obra, edificação ou construção não habitada e utilizada diretamente para a infração ambiental, nos casos em que a ausência da demolição implique risco de agravamento do dano ambiental ou de graves riscos à saúde.
+§1º A demolição deverá ser:
+I - formalizada em formulário próprio, com a descrição detalhada da obra, edificação ou construção e a estimativa de seu custo;
+II - acompanhada de relatório que exponha as circunstâncias que justifiquem a demolição, subscrito por, no mínimo, dois servidores do Ibama;
+III - instruída com o registro fotográfico da obra, edificação ou construção e de sua demolição; e
+IV - executada pelo infrator, pelo Ibama ou por terceiro autorizado.
+§ 2º É vedada a demolição de edificações residenciais que sejam a única morada de seus habitantes.
+§ 3º As despesas para a realização da demolição correrão às custas do autuado, que deve efetuá-la.
+§ 4º O Ibama efetuará a demolição caso o autuado não o faça e o notificará para restituir os valores despendidos, devidamente atualizados, no prazo de vinte dias.
+§ 5º Os documentos comprobatórios das despesas de que trata o § 4º serão anexados à notificação.
+CAPÍTULO IV
+DO PROCESSO SANCIONADOR AMBIENTAL
+Art. 62. O processo sancionador ambiental, instrumento de repressão a ilícitos ambientais, cuja efetividade contribui para a concreção do dever constitucional de tutela do meio ambiente e do direito fundamental ao meio ambiente ecologicamente equilibrado, visa a apuração de toda ação ou omissão que viole as regras jurídicas de uso, gozo, promoção, proteção e recuperação do meio ambiente, a determinação das responsabilidades administrativa e civil e a imposição de sanções administrativas.
+Art. 63. Os processos serão instruídos e julgados em observância à ordem de chegada na equipe nacional de que trata o art. 12, admitida a priorização nas seguintes hipóteses:
+I - dar cumprimento à decisão judicial;
+II - quando envolver partes ou interessados arrolados no art. 69-A da Lei nº 9.784, de 1999;
+III - quando caracterizado risco iminente de prescrição;
+IV - no interesse de propositura de ação civil pública de reparação por dano ambiental, indicado pela Procuradoria Federal Especializada do Ibama;
+V - atender à solicitação de prioridade da CGFis do Ibama, desde que devidamente fundamentada na necessidade de conferir celeridade à responsabilização administrativa de grandes infratores nacionais ou regionais; e
+VI - cumprir determinação do Presidente Ibama, devidamente fundamentada.
+SEÇÃO I
+DOS PRAZOS PRESCRICIONAIS
+Art. 64. Prescreve em cinco anos a ação do Ibama objetivando apurar a prática de infrações contra o meio ambiente, contada da data da prática do ato, ou, no caso de infração permanente ou continuada, do dia que esta tiver cessado.
+§ 1º Quando o fato objeto da infração também constituir crime, a prescrição de que trata o caput reger-se-á pelo prazo previsto na lei penal se superior a cinco anos.
+§ 2º Interrompe-se o fluxo do prazo prescricional:
+I - pelo recebimento do auto de infração ambiental ou pela cientificação do infrator por qualquer outro meio, inclusive por edital de notificação;
+II - por qualquer ato inequívoco que implique instrução do processo;
+III - pela decisão condenatória recorrível; ou
+IV - por qualquer ato inequívoco que importe manifestação expressa de tentativa de solução conciliatória.
+Art. 65. Incide a prescrição no procedimento de apuração de infração ambiental paralisado por mais de três anos, pendente de julgamento ou despacho, cujo processo será encerrado de ofício ou mediante requerimento da parte interessada, sem prejuízo da apuração da responsabilidade funcional decorrente da paralisação.
+Parágrafo único. Será dado início à apuração da responsabilidade de que trata o caput desde que o Cenpsa, provocado pela autoridade julgadora, constate a existência de indícios de autoria e materialidade da falta funcional.
+Art. 66. A pretensão de reparação pelos danos ambientais é imprescritível.
+Parágrafo único. A prescrição da pretensão punitiva do Ibama não elide a obrigação do agente pela reparação dos danos ambientais.
+Art. 67. Constituído definitivamente o crédito decorrente de multa ambiental, prescreve em cinco anos a pretensão executória do Ibama.
+SEÇÃO II
+DOS PRAZOS PROCESSUAIS
+Art. 68. Os prazos expressos em dias contam-se de modo contínuo.
+Art. 69. Os prazos fixados em meses ou anos contam-se de data a data. Se no mês do vencimento não houver o dia equivalente àquele do início do prazo, tem-se como termo o último dia do mês.
+Art. 70. Inexistindo preceito legal ou regulamentar ou prazo assinalado pela autoridade competente, será de cinco dias o prazo para a prática de ato processual a cargo dos interessados.
+Art. 71. Os prazos começam a correr a partir da data da cientificação oficial, excluindo-se da contagem o dia do começo e incluindo-se o do vencimento.
+§ 1º Para efeito da contagem dos prazos em processo eletrônico de apuração de infrações ambientais, considera-se realizada a cientificação do ato:
+I - no dia em que o usuário efetivar a consulta eletrônica ao teor da notificação eletrônica;
+II - cinco dias úteis após a data de encaminhamento da notificação eletrônica, nos casos em que não for efetuada a consulta referida no inciso I.
+§ 2º Os dias do começo e do vencimento do prazo serão protraídos para o primeiro dia útil seguinte, se coincidirem com dia em que não houver expediente ou este for encerrado antes da hora normal.
+Art. 72. No âmbito do processo eletrônico de apuração de infrações ambientais, consideram-se tempestivos os atos praticados até às 23h59 do último dia do prazo, conforme horário oficial de Brasília.
+SEÇÃO III
+DA COMUNICAÇÃO DOS ATOS
+Art. 73. O autuado será cientificado da lavratura do auto de infração ambiental e dos demais atos do processo por uma das seguintes formas:
+I - pessoalmente ou na pessoa do seu representante legal ou procurador;
+II - por via postal com aviso de recebimento;
+III - por notificação eletrônica; ou
+IV - por edital.
+§ 1º As notificações de que trata o caput podem ser efetuadas por consulta ao processo ou outro meio que assegure a certeza da ciência dos interessados.
+§ 2º A notificação da lavratura do auto de infração ambiental na pessoa do procurador requer procuração com poder específico para recebê-la.
+§ 3º Eventuais tentativas de notificação infrutíferas deverão ser precisamente registradas no processo.
+Art. 74. As notificações eletrônicas poderão ser realizadas por meio eletrônico indicado pelo autuado ou por seu representante legal ou procurador.
+§ 1º Os autuados, os representantes legais, os procuradores e demais interessados, na primeira oportunidade, deverão indicar o meio eletrônico por meio do qual serão comunicados da prática de ato processual.
+§ 2º A notificação por correio eletrônico, por aplicativo de mensagens instantâneas ou por meio de recursos tecnológicos similares deverá ser certificada no processo, mediante termo do qual constem dia, hora e endereço eletrônico.
+§ 3º Remetida a notificação eletrônica para o endereço eletrônico indicado, o administrado não poderá alegar ausência de comunicação do ato processual.
+§ 4º O administrado poderá, a qualquer momento e independentemente de fundamentação, optar pelo fim das notificações por meio eletrônico.
+§ 5º A contagem dos prazos deverá observar o disposto na Seção II do Capítulo IV desta Instrução Normativa.
+Art. 75. Considera-se comparecimento espontâneo, nos termos do § 5º do art. 26 da Lei nº 9.784, de 1999, o registro da cientificação por meio da concessão de acesso ao administrado à íntegra do processo eletrônico de apuração de infração ambiental.
+Parágrafo único. Na hipótese do caput, a contagem do prazo observará o disposto na Seção II do Capítulo IV desta Instrução Normativa.
+Art. 76. A notificação por via postal com aviso de recebimento será considerada válida quando:
+I - a devolução indicar a recusa do recebimento;
+II - recebida no mesmo endereço do autuado, ainda que por terceiros;
+III - recebida por funcionário da portaria responsável pela recepção de correspondências, nos condomínios edilícios ou loteamentos com controle de acesso;
+IV - enviada para o endereço atualizado da pessoa jurídica.
+Art. 77. A notificação por via postal com aviso de recebimento pode ser remetida para o endereço:
+I - do sócio, do representante legal ou dos demais funcionários com poderes de representação, assim indicados no estatuto ou contrato social; ou
+II - do advogado ou procurador.
+Art. 78. Na hipótese de devolução de notificação por via postal remetida para o endereço registrado no processo eletrônico de apuração de infração ambiental, o Ibama:
+I - expedirá nova notificação por via postal com aviso de recebimento para outro endereço do interessado, obtido por meio de consulta a bases de dados oficiais mantidas pela União; ou
+II - realizará notificação pessoal.
+Art. 79. Trata-se de notificação pessoal o ato de comunicação dirigido diretamente à pessoa interessada e entregue no endereço informado no processo eletrônico de apuração de infração ambiental.
+§ 1º A forma de notificação de que trata o caput será adotada quando o serviço postal não cobrir o endereço do administrado.
+§ 2º É válida a notificação pessoal recebida por terceiro no endereço atualizado do interessado, devendo ser observado o disposto no § 2º do art. 73 quando se tratar de notificação da lavratura do auto de infração ambiental.
+§ 3º A realização da notificação pessoal deve ser certificada no processo.
+Art. 80. A notificação por edital somente será realizada:
+I - se infrutífera a tentativa de notificação pessoal;
+II - quando certificado no processo que o interessado está em local incerto ou não sabido;
+III - na hipótese de autuado estrangeiro não residente e sem representante constituído no país; ou
+IV - para dar publicidade às medidas de embargos e apreensão de autoria desconhecida.
+Art. 81. É dever das partes interessadas:
+I - manter atualizada a informação sobre o meio eletrônico escolhido para receber notificações eletrônicas; e
+II - informar endereços alternativos para o recebimento de correspondências.
+SEÇÃO IV
+DO TERMO PRÓPRIO DE NOTIFICAÇÃO
+Art. 82. O agente ambiental federal lavrará termo próprio de notificação nas seguintes hipóteses:
+I - incerteza quanto à autoria ou à materialidade da infração, para apresentação de informações ou documentos que contribuam para sua identificação e comprovação;
+II - impossibilidade ou recusa de nomeação de depositário, para comunicação da proibição de remoção ou alteração dos bens apreendidos até que sejam colocados sob a guarda do órgão ambiental federal autuante, confiados em depósito ou destinados; e
+III - necessidade de adoção de providências especificadas no momento da ação fiscalizatória ou posteriormente, para seu atendimento.
+§ 1º A notificação de que trata o caput será formalizada em formulário próprio.
+§ 2º O prazo assinalado no termo próprio de notificação poderá ser prorrogado se assim for requerido pelo interessado antes do vencimento do prazo inicial.
+§ 3º Se, no prazo de quinze dias, o requerimento de que trata o § 2º não for apreciado pelo agente ambiental federal, considerar-se-á prorrogado o prazo por período igual ao assinalado inicialmente.
+§ 4º Cabe ao agente ambiental federal responsável pela lavratura do termo próprio de notificação deliberar sobre o encerramento do procedimento próprio de notificação, caso dele não decorra a lavratura de auto de infração ambiental.
+§ 5º Caso o agente ambiental federal não possa conduzir o procedimento próprio de notificação, as decisões previstas nos §§ 2º e 3º deverão ser tomadas pelos demais agentes integrantes da ação fiscalizatória ou pelo chefe da unidade ordenadora da ação.
+SEÇÃO V
+DO AUTO DE INFRAÇÃO AMBIENTAL
+Art. 83. Constatada a ocorrência de infração ambiental, o agente ambiental federal designado para a ação fiscalizatória lavrará auto de infração ambiental e termos próprios, por meio dos quais indicará a imposição de sanções e formalizará a aplicação de medidas administrativas cautelares.
+Art. 84. O auto de infração ambiental será lavrado em formulário eletrônico, com a identificação do autuado, a descrição clara e objetiva da infração constatada, a designação dos respectivos dispositivos legais e regulamentares infringidos e a indicação da sanção cabível.
+Parágrafo único. A unidade responsável pela ação de fiscalização adotará as providências necessárias ao registro do auto de infração ambiental nos sistemas institucionais.
+Art. 85. A lavratura do auto de infração será detalhada em relatório de fiscalização, que conterá:
+I - a data de ocorrência da infração;
+II - a descrição das circunstâncias que levaram à constatação da infração ambiental e à identificação da autoria, que se baseia na demonstração da relação da infração administrativa com a conduta do autuado, comissiva ou omissiva, e indicação do elemento subjetivo;
+III - o registro da situação por fotografias, vídeos, mapas, termos de declaração ou outros meios de prova;
+III - os critérios utilizados para a fixação da multa ambiental;
+IV - a caracterização preliminar do dano ambiental e dos responsáveis pela reparação;
+V - a informação sobre a possibilidade de consideração de circunstâncias majorantes e atenuantes, devidamente justificada;
+VI - quando realizada a apreensão:
+a) as condições de armazenamento dos bens, e informações sobre eventual risco de perecimento;
+b) circunstâncias que relacionam os bens com a infração;
+c) informações sobre modificação ou adaptação dos bens para a prática de infrações;
+d) critérios usados para definir os valores atribuídos aos bens; e
+e) individualização do proprietário ou possuidor, quando possível.
+VII - quaisquer outras informações consideradas relevantes para a caracterização da responsabilidade administrativa.
+Parágrafo único. O relatório de fiscalização será elaborado pelo agente autuante no prazo de dez dias, contado da lavratura do auto de infração ambiental, salvo disposição diversa, adequadamente motivada, prevista no planejamento da operação de fiscalização.
+Art. 86. Observado o disposto no art. 9º, compete à unidade administrativa responsável pela ação fiscalizatória notificar o autuado da lavratura do auto de infração ambiental.
+Parágrafo único. Instaurado o processo eletrônico de apuração da infração ambiental, a unidade de que trata o caput comunicará a lavratura do auto de infração ambiental:
+I - ao Ministério Público Federal e Estadual, quando a prática da infração também corresponder a crime ambiental;
+II - aos órgãos estaduais, distrital e municipais de meio ambiente, caso ação fiscalizatória tenha decorrido de atuação supletiva do Ibama, nos termos do art. 17 da Lei Complementar nº 140, de 2011;
+III - ao departamento de trânsito competente, caso a ação tenha resultado na apreensão de veículos;
+IV - à Capitania dos Portos da Marinha do Brasil, caso a ação tenha levado à apreensão de embarcação;
+V - ao Ministério da Agricultura e Pecuária, caso se trate de infração relacionada com a atividade pesqueira;
+VI - ao órgão fazendário estadual, quando constatados indícios de irregularidade fiscal;
+VII - ao serviço de registro de imóveis, quando da ação resultou o embargo de imóvel;
+VIII - aos Ministério da Justiça e Segurança Pública, Ministério dos Direitos Humanos e Cidadania, Ministério dos Povos Indígenas, Ministério do Trabalho e Previdência e Ministério do Desenvolvimento Agrário e Agricultura Familiar, quando constatados indícios de violações de direitos pertinentes a políticas públicas sob responsabilidade desses órgãos ministeriais; e
+IX - a outros órgãos, quando pertinente.
+SEÇÃO VI
+DO PROCEDIMENTO DE ADESÃO ÀS SOLUÇÕES LEGAIS
+Art. 87. A adesão a uma das soluções legais previstas no inciso II do § 5º do art. 96 do Decreto nº 6.514, de 2008, será estimulada pelo Ibama, com vistas a encerrar processos de apuração de infrações ambientais, no que concerne à multa ambiental.
+§ 1º A adesão de que trata o caput será admitida somente na hipótese de multa ambiental consolidada.
+§ 2º A adesão a uma solução legal não elide o dever de reparação por danos ambientais.
+§ 3º O processo prosseguirá para que seja aplicada sanção restritiva de direito, apreciado eventual pedido de suspensão de efeitos de medidas cautelares e conduzido procedimentos referentes à reparação pelos danos ambientais e à reposição florestal.
+Art. 88. Da notificação da lavratura do auto de infração ambiental constará que o autuado, no prazo de vinte dias, contado da data de cientificação, poderá:
+I - apresentar impugnação contra o auto de infração; ou
+II - aderir a uma das seguintes soluções legais possíveis para o encerramento do processo:
+a) pagamento da multa com desconto;
+b) parcelamento da multa; ou
+c) conversão da multa em serviços de preservação, de melhoria e de recuperação da qualidade do meio ambiente.
+Parágrafo único. Superado o prazo de defesa, o autuado poderá, até o julgamento do auto de infração ambiental ou de recurso, requerer a adesão a uma solução legal aplicável, cujo requerimento deverá observar o disposto no art. 97-B do Decreto nº 6.514, de 2008.
+Art. 89. O requerimento de adesão a uma das soluções legais previstas no inciso II do § 5º do art. 96 do Decreto nº 6.514, de 2008, conterá:
+I - a qualificação completa do autuado e de seu representante legal ou procurador;
+II - a indicação de meio eletrônico do autuado ou de seu representante legal ou procurador utilizado para receber notificações eletrônicas;
+III - a opção por uma das soluções legais;
+IV - a confissão irrevogável e irretratável do débito, indicado no documento, decorrente de multa ambiental consolidada na data do requerimento;
+V - a desistência de impugnar judicial ou administrativamente a autuação ambiental ou de prosseguir com eventuais impugnações ou recursos administrativos e ações judiciais que tenham por objeto o auto de infração discriminado;
+VI - a renúncia a quaisquer alegações de direito sobre as quais possam ser fundamentadas as impugnações e os recursos administrativos e as ações judiciais a que se refere o inciso V.
+§ 1º Na hipótese de autuação ambiental impugnada judicialmente, o requerimento de que trata este artigo deverá ser instruído com cópia do protocolo do pedido de extinção do respectivo processo com resolução do mérito, dirigido ao juízo competente, com fundamento na alínea "c" do inciso III do caput do art. 487 da Lei nº 13.105, de 2015.
+§ 2º No caso de multa diária, não será conhecido o requerimento não instruído com cópia de documento, emitido pela área competente, que comprove a regularização da situação que deu causa à lavratura do auto de infração ambiental, ou do termo de compromisso de reparação ou cessação dos danos.
+§ 3º O requerimento apresentado por representante legal ou procurador deverá ser instruído com procuração com poderes específicos para aderir a uma das soluções legais indicadas no art. 88, confessar, assumir dívida em nome do devedor, transigir, firmar compromisso e receber notificações.
+Art. 90. Deferido o pedido de adesão pela autoridade julgadora competente, o requerente será notificado para:
+I - na hipótese da alínea "a" do inciso II do art. 88, pagar a dívida com desconto de trinta por cento;
+II - na hipótese da alínea "b" do inciso II do art. 88, pagar a primeira prestação consignada no termo de parcelamento da dívida;
+III - na hipótese da alínea "c" do inciso II do art. 88, celebrar termo de compromisso de conversão de multas ambientais.
+Art. 91. O pedido de adesão será indeferido quando não couber a conversão da multa ambiental.
+§ 1º Na hipótese do caput, o requerente será notificado para, no prazo de vinte dias, optar pelo pagamento ou parcelamento do débito.
+§ 2º Se o requerente não realizar, no prazo previsto, a opção de que trata o § 1º, o processo será imediatamente concluído e remetido à área competente para que sejam adotadas as providências necessárias à cobrança do débito.
+Art. 92. A não adoção da providência prevista no art. 90 compatível com a solução escolhida importa na conclusão imediata do processo e remessa do débito à cobrança pela área competente.
+Art. 93. Não oferecida defesa contra a autuação, o pagamento voluntário da multa ambiental devidamente consolidada será interpretado como adesão à modalidade prevista na alínea "a" do inciso II do art. 88.
+SEÇÃO VII
+DA IMPUGNAÇÃO
+Art. 94. O autuado poderá oferecer defesa contra o auto de infração ambiental, no prazo de vinte dias, contados da data da ciência da autuação.
+§ 1º Se, no momento da notificação da autuação, não constar do processo o relatório de fiscalização, o autuado poderá, independentemente de notificação, complementar a sua impugnação.
+§ 2º O autuado ou seu procurador será notificado para sanar eventual irregularidade formal da defesa, por ausência de assinatura ou de procuração outorgada, no prazo de quinze dias, sob pena de não conhecimento.
+Art. 95. Com a sua defesa, o autuado poderá juntar documentos e requerer a realização de diligências e perícias.
+Parágrafo único. Somente poderão ser recusadas as provas ilícitas, impertinentes, desnecessárias ou protelatórias, mediante decisão fundamentada da autoridade julgadora.
+Art. 96. A defesa apresentada fora do prazo não será conhecida, e, por decisão da autoridade julgadora de primeira instância, a peça poderá ser descartada do processo eletrônico.
+Art. 97. A intempestividade da defesa ou a sua não apresentação não afasta a necessidade de condução da instrução.
+SEÇÃO VIII
+DA INSTRUÇÃO
+Art. 98. Superado o prazo de defesa, o processo será remetido para instrução e julgamento.
+Art. 99. As autuações conexas serão autuadas em processos administrativos ambientais apartados, permitida a vinculação para julgamento conjunto, quando houver risco de que sejam proferidas decisões conflitantes ou contraditórias, caso decididas separadamente.
+SUBSEÇÃO I
+DA FASE DE ANÁLISE INSTRUTÓRIA
+Art. 100. Ultrapassado o prazo para a apresentação da defesa, integrante da equipe nacional de que trata o art. 12 analisará as razões de fato e de direito que ensejaram a lavratura do auto de infração ambiental e elaborará relatório de análise instrutória, que deverá apontar:
+I - os elementos que evidenciam a autoria e a materialidade da infração;
+II - a eventual existência de vícios sanáveis ou insanáveis;
+III - o correto enquadramento da conduta ao tipo infracional;
+IV - as razões de acolhimento ou rejeição dos argumentos apresentados na defesa;
+V - a proporcionalidade e razoabilidade das sanções indicadas;
+VI - a existência de causa que extinga a punibilidade;
+VII - se cabe o perdimento ou a restituição, por exemplo, de bem ou animal apreendido;
+VIII - a existência de indícios de dano ambiental e do responsável pela reparação;
+IX - se cabe admitir a conversão da multa ambiental em serviços;
+X - se cabe exigir a reposição florestal;
+XI - a possibilidade de imposição de sanções restritivas de direito; e
+XII - a conformidade legal das medidas cautelares aplicadas.
+Art. 101. O integrante da equipe nacional poderá remeter o processo ao agente autuante ou à área técnica competente para manifestação, no prazo de cinco dias, caso seja necessária manifestação ou instrução documental complementar, com especificação do ponto a ser esclarecido ou mais bem instruído.
+§ 1º O prazo definido no caput poderá ser prorrogado mediante pedido fundamentado do agente autuante ou da área técnica provocada.
+§ 2º Caso o agente autuante não possa prestar as informações requisitadas, a manifestação poderá ser prestada por outro servidor designado pela Divisão Técnico-Ambiental, Gerência Executiva ou Unidade Técnica do local da infração.
+SUBSEÇÃO II
+DA PRODUÇÃO DE PROVAS
+Art. 102. O autuado deverá produzir as provas especificadas em sua defesa, ressalvadas aquelas que se encontrem em poder do Ibama.
+Art. 103. O autuado solicitará a produção de provas:
+I - na hipótese de vistoria, com base em dados e informações consistentes, que contrariem elementos de fato ou de direito relacionados à autuação ambiental;
+II - na hipótese de oitiva de testemunhas, com a indicação clara de sua contribuição para infirmar elementos de fato ou de direito relacionados à autuação e o compromisso de apresentá-las no local, dia e hora designados; e
+III - na hipótese de perícia, acompanhada de laudo técnico que contrarie elementos de fato ou de direito relacionados à autuação e da demonstração de que não há outro meio de prova capaz de dirimir a dúvida existente.
+Parágrafo único. Serão recusadas, mediante decisão fundamentada, as solicitações de provas que não observem os pressupostos previstos nesta Instrução Normativa e que sejam consideradas ilícitas, impertinentes, desnecessárias ou protelatórias.
+SUBSEÇÃO III
+DA SOLUÇÃO DE DÚVIDA JURÍDICA
+Art. 104. A Procuradoria Federal Especializada junto ao Ibama será consultada quando houver dúvida jurídica relevante ainda não solucionada por súmula ou orientação ou enunciado jurídico normativo.
+Parágrafo único. Não serão objeto de consulta:
+I - questões de fato; e
+II - questões técnicas, inclusive de caráter administrativo.
+SUBSEÇÃO IV
+DA REPARAÇÃO POR DANOS AMBIENTAIS
+Art. 105. Os procedimentos administrativos referentes à reparação pelos danos ambientais e à reposição florestal serão conduzidos pela área técnica competente, paralelamente à instrução.
+Parágrafo único. Quando possível, será instaurado, de modo apartado, incidente procedimental destinado à determinação das obrigações de que tratam o caput.
+SUBSEÇÃO V
+DO ENCERRAMENTO DA INSTRUÇÃO
+Art. 106. Encerrada a instrução, o autuado será notificado para, no prazo de dez dias, apresentar alegações finais e se manifestar sobre eventual indicação de agravamento por reincidência, aplicação de circunstâncias majorantes e imposição de sanções restritivas de direito.
+Parágrafo único. A notificação de que trata o caput, observará o disposto no art. 123 do Decreto nº 6.514, de 2008.
+Art. 107. Ultrapassado o prazo para apresentação das alegações finais, o feito será encaminhado à autoridade competente para o julgamento em primeira instância administrativa.
+SEÇÃO IX
+DO JULGAMENTO DO AUTO DE INFRAÇÃO AMBIENTAL
+Art. 108. A autoridade competente julgará o auto de infração ambiental e as medidas cautelares.
+§ 1º A autoridade julgadora emitirá a sua decisão no prazo de trinta dias, contados do recebimento do processo.
+§ 2º A autoridade julgadora, considerando o disposto no art. 100, pronunciar-se-á sobre a caracterização das responsabilidades administrativa e civil e a conformidade das medidas administrativas cautelares e aplicará as sanções cabíveis.
+§ 3º A não observância do prazo para julgamento não implica nulidade.
+Art. 109. Julgado o auto de infração ambiental, o autuado será notificado para:
+I - pagar a multa, no prazo de cinco dias, ou solicitar o parcelamento administrativo do débito;
+II - formalizar a adesão à conversão da multa ambiental, se deferido pedido nesse sentido; ou
+III - interpor recurso, no prazo de vinte dias.
+§ 1º A notificação de que trata este artigo conterá também a advertência de que o valor da dívida será definitivamente constituído e incluído no Cadastro Informativo de créditos não quitados do setor público federal (Cadin), caso não haja pagamento ou interposição de recurso.
+Art. 110. Declarada a nulidade do auto de infração ambiental, o processo será encaminhado ao agente ambiental federal e ao chefe da unidade responsável pela ação fiscalizatória, para ciência.
+§ 1º É facultado ao agente ambiental federal e ao chefe da unidade responsável pela ação fiscalizatória manifestar-se, no prazo de vinte dias, contra a decisão que declara a nulidade do auto de infração.
+§ 2º Da notificação de que trata o art. 109, deverá constar aviso sobre a possibilidade de restabelecimento do auto de infração ambiental em decisão de segunda instância, caso acolhida a manifestação do agente autuante ou da unidade administrativa responsável pela ação fiscalizatória.
+SEÇÃO X
+DOS RECURSOS
+Art. 111. Cabe recurso da decisão de primeira instância.
+§ 1º O prazo para interpor o recurso de que trata o caput é de vinte dias, contados da cientificação da decisão.
+§ 2º O recurso será dirigido à autoridade julgadora que proferiu a decisão.
+§ 3º Recebido o processo com o recurso interposto, a autoridade julgadora de primeira instância poderá, no prazo de cinco dias, reconsiderar a sua decisão.
+§ 4º Superado o prazo de que trata o § 3º, o processo seguirá, imediatamente, à equipe responsável pela condução do processo em segunda instância administrativa.
+Art. 112. São requisitos dos recursos:
+I - a indicação da autoridade a que se dirige;
+II - a identificação do recorrente ou de seu representante;
+III - a indicação do número do auto de infração ambiental e do respectivo processo;
+IV - o endereço do recorrente, inclusive eletrônico, ou indicação de endereço para recebimento de notificações;
+V - a formulação de pedido, com exposição dos fatos e seus fundamentos; e
+VI - a data e assinatura do recorrente ou de seu representante.
+Art. 113. O recurso não será conhecido quando interposto:
+I - fora do prazo;
+II - perante órgão incompetente;
+III - por quem não seja legitimado;
+IV - depois de exaurida a instância administrativa; ou
+V - com o objetivo de discutir a multa após a assinatura de termo de compromisso de conversão ou de parcelamento.
+Art. 114. Cabe recurso de ofício:
+I - de decisão de redução em mais de 50% do valor da sanção pecuniária, proferida em processo cujo valor da multa indicada no auto de infração ambiental seja igual ou superior a 100 mil reais e inferior a 1 milhão de reais;
+II - de decisão de redução da sanção pecuniária proferida em processo cujo valor da multa indicada no auto de infração ambiental seja igual ou superior a 1 milhão de reais;
+III - de decisão pela extinção de processo formado para julgar auto de infração ambiental.
+§ 1º O recurso de ofício será interposto mediante declaração na própria decisão.
+§ 2º Não cabe recurso de ofício:
+I - de decisão de declaração de nulidade do auto de infração, quando a conduta for objeto de nova autuação;
+II - quando houver assinatura de termo de compromisso de conversão de multa, ainda que a decisão tenha reduzido o valor da sanção pecuniária; e
+III - nas hipóteses previstas nos incisos II e III do art. 119.
+Art. 115. A equipe responsável pela condução do processo em segunda instância, quando for o caso, emitirá relatório circunscrito às razões recursais.
+§ 1º Antes da elaboração do relatório, excepcionalmente, é possível determinar a produção de provas ou a realização de diligências.
+§ 2º Caso o relator do recurso se posicione pela possibilidade do aumento do valor da multa ambiental ou imposição de outras sanções não aplicadas pela autoridade de primeira instância, o autuado será notificado para apresentar impugnação, no prazo de dez dias.
+§ 3º Emitido o relatório de que trata este artigo, o processo seguirá para julgamento em segunda instância.
+Art. 116. A autoridade julgadora competente julgará o recurso no prazo de trinta dias, contados do recebimento do processo.
+§ 1º Quando for o caso, o acolhimento parcial, a rejeição ou a complementação da proposta de decisão formulada pelo relator do recurso serão detalhadamente fundamentados pela autoridade julgadora.
+§ 2º Não cabe recurso da decisão de segunda instância.
+§ 3º Quando se tratar de decisão de segunda instância proferida em processo formado para apurar infração contra o patrimônio genético e o conhecimento tradicional associado, caberá recurso ao Conselho de Gestão do Patrimônio Genético (CGen), nos termos do art. 94 do Decreto nº 8.772, de 2016.
+§ 4º O recurso de que trata o § 3º deverá ser interposto no prazo de vinte dias, contados da cientificação da decisão.
+Art. 117. Julgado o recurso, o autuado será notificado para:
+I - pagar a multa, no prazo de cinco dias, ou solicitar o parcelamento administrativo do débito;
+II - formalizar a adesão à conversão da multa ambiental, quando cabível a decisão sobre pedido nesse sentido à autoridade julgadora de segunda instância.
+Parágrafo único. A notificação de que trata este artigo conterá também a advertência de que o valor da dívida será definitivamente constituído e incluído no Cadin, caso não haja pagamento.
+Art. 118. Formada a coisa julgada administrativa, após a inclusão do devedor no Cadin, o processo será imediatamente remetido à Procuradoria-Geral Federal para inscrição do débito na Dívida Ativa.
+SEÇÃO XI
+DAS CAUSAS EXTINTIVAS DA PUNIBILIDADE
+Art. 119. Extingue a punibilidade:
+I - a prescrição da pretensão punitiva;
+II - a morte do autuado antes de formada a coisa julgada administrativa, comprovada por certidão de óbito; e
+III - a extinção regular da pessoa jurídica de direito privado, antes de formada a coisa julgada administrativa, comprovada pela alteração da situação cadastral perante a Receita Federal e averbação da ata respectiva no órgão competente.
+§ 1º Na hipótese dos incisos II e III, não cabe recurso de ofício ou pedido de revisão contra a decisão que julga extinta a punibilidade.
+§ 2º O auto de infração ambiental com punibilidade extinta não gera reincidência.
+§ 3º Extinta a punibilidade da pessoa jurídica na forma prevista no inciso III, o processo será imediatamente encaminhado à fiscalização ambiental para que seja promovida a apuração de responsabilidade pela mesma infração ambiental das pessoas físicas, autoras, co-autoras ou partícipes do mesmo fato.
+§ 4º Na hipótese do inciso I, a autoridade julgadora competente determinará a apuração de responsabilidade funcional, quando for o caso.
+SEÇÃO XII
+DA REVISÃO
+Art. 120. Formada a coisa julgada administrativa, qualquer pedido do autuado que vise desconstituir ou modificar o julgamento será considerado pedido de revisão.
+§ 1º O pedido de revisão será autuado em processo apartado, vinculado ao processo principal.
+§ 2º Compete à autoridade julgadora que proferiu o julgamento que se tornou definitivo julgar o pedido de revisão.
+§ 3º Decorrido o prazo de cento e vinte dias da ciência do julgamento definitivo, os pedidos de revisão somente serão decididos após manifestação do órgão de execução da Procuradoria-Geral Federal.
+§ 4º O pedido de revisão somente será admitido quando o autuado alegar fatos novos ou circunstâncias relevantes suscetíveis de justificar a inadequação das sanções aplicadas.
+§ 5º A revisão não pode resultar no agravamento de penalidade ou sanção restritiva de direito.
+§ 6º O pedido de revisão não impede o prosseguimento da cobrança administrativa e não interrompe o prazo prescricional da pretensão executória.
+SEÇÃO XIII
+DA CONVALIDAÇÃO E ANULAÇÃO
+Art. 121. O Ibama deve anular seus próprios atos, quando eivados de vício de legalidade.
+Art. 122. O direito do Ibama de anular os atos administrativos dos quais decorram efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que foram praticados, salvo comprovada má-fé.
+§ 1º Considera-se exercício do direito de anular qualquer medida de autoridade administrativa que importe impugnação à validade do ato.
+§ 2º Caso o Ibama conclua que a anulação do ato é desfavorável ao administrado, o autuado será previamente notificado para, no prazo de vinte dias, manifestar-se.
+Art. 123. Em decisão na qual se evidencie não acarretarem lesão ao interesse público nem prejuízo a terceiros, os atos que apresentarem defeitos sanáveis poderão ser convalidados pelo próprio Ibama.
+Parágrafo único. São exemplos de vícios sanáveis:
+I - o erro de enquadramento da conduta infracional;
+II - a ausência do relatório de fiscalização e dos termos próprios.
+SEÇÃO XIV
+DO PARCELAMENTO DO DÉBITO
+Art. 124. Os débitos decorrentes das multas aplicadas pelo Ibama ainda não inscritos na Dívida Ativa poderão ser parcelados em até sessenta prestações mensais, a pedido do devedor.
+§ 1º O valor da parcela será determinado pela divisão do montante do valor da multa ambiental consolidada pelo número de parcelas escolhido pelo devedor.
+§ 2º O termo de parcelamento constitui confissão de dívida e instrumento hábil e suficiente para a exigência do valor da multa ambiental consolidada.
+§ 3º O parcelamento suspende a exigibilidade da multa e a inscrição do devedor no Cadin.
+Art. 125. O parcelamento de débito decorrente de multa ambiental deve observar as orientações expedidas pela Diretoria de Planejamento, Administração e Logística (Diplan) e o previsto na legislação incidente.
+Art. 126. Após a inscrição do débito na Dívida Ativa, compete à Procuradoria-Geral Federal realizar o parcelamento.
+CAPÍTULO V
+DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+Art. 127. Até a edição do regulamento que instituirá a equipe nacional de que trata o art. 12, as regras necessárias à condução da instrução e do julgamento de processos de apuração de infrações ambientais serão estabelecidas pelo Cenpsa.
+Art. 128. A norma processual não retroagirá e será aplicável imediatamente aos processos em curso, respeitados os atos processuais consumados e as situações jurídicas consolidadas sob a vigência da norma revogada.
+Art. 129. Os recursos, voluntário e de ofício, interpostos com fundamento em regulamento anterior serão julgados pelo Presidente do Ibama.
+Art. 130. A análise preliminar realizada pelo Núcleo de Conciliação Ambiental (Nucam) pode ser adotada como motivação das decisões a serem proferidas pelas autoridades julgadoras.
+Art. 131. O Presidente do Ibama, por ato próprio, designará os servidores que conduzirão as audiências de conciliação ambiental pendentes de realização, conforme o disposto neste Capítulo.
+Parágrafo único. As sessões de que trata o caput serão realizadas apenas com o propósito de formalizar a adesão a uma das soluções legais, na forma prevista na Seção VI do Capítulo IV desta Instrução Normativa.
+Art. 132. É assegurado ao autuado notificado do agendamento da audiência de conciliação a realização da sessão de que trata o art. 131.
+§ 1º O autuado será notificado sobre a redesignação da sessão de conciliação.
+§ 2º A notificação de que trata o § 1º seguirá instruída com formulário relativo ao procedimento de adesão a uma das soluções legais.
+§ 3º Antes da realização da sessão de que trata o § 1º, o autuado poderá requerer a adesão a uma das soluções legais, com a observância do disposto na Seção VI do Capítulo IV desta Instrução Normativa.
+§ 4º Na hipótese do § 3º, a sessão de conciliação será desmarcada.
+§ 5º Se, na audiência de que trata o art. 131, não for formalizada a adesão a uma das soluções legais, o prazo de defesa contra a autuação ambiental começará a fluir da data de realização da sessão.
+§ 6º O não comparecimento do autuado à audiência ensejará abertura do prazo de defesa, na forma do § 5º.
+Art. 133. O Ibama designará a sessão de que trata o art. 131 ao autuado que, nos termos do regime jurídico anterior, manifestou interesse na realização de audiência de conciliação.
+Parágrafo único. Na hipótese do caput deverá ser observado o disposto no art. 132.
+Art. 134. Se pendente a realização da notificação de que trata o art. 3º da Portaria Conjunta nº 589, de 2020, o autuado será notificado para, no prazo de vinte dias, manifestar o seu interesse na realização da sessão de que trata o art. 131.
+§ 1º Caso o autuado renuncie, expressamente, à sua participação na audiência ou ocorra o transcurso do prazo previsto no caput sem manifestação de interesse, inicia-se o prazo para apresentação de defesa no primeiro dia útil seguinte ao protocolo da renúncia ou ao termo final do prazo previsto neste artigo.
+§ 2º Da manifestação de interesse na realização da sessão de que trata o art. 131 devem constar os endereços eletrônicos dos participantes indicados.
+§ 3º Designada a sessão, o Ibama notificará o autuado, observado o disposto no § 2º do art. 132.
+§ 4º Na hipótese do caput deverá ser observado o disposto no art. 132, no que couber.
+Art. 135. O Ibama designará a sessão de que trata o art. 131 ao autuado cuja notificação da lavratura do auto de infração ambiental tenha se aperfeiçoado na vigência do Decreto nº 9.760, de 2019.
+Parágrafo único. Na hipótese do caput, aplica-se o disposto nos arts. 132, 133 e 134.
+Art. 136. Os pedidos de adesão à solução legal realizados antes da vigência do Decreto nº 11.373, de 2023, deverão ser apreciados na forma do disposto na Seção VI do Capítulo IV desta Instrução Normativa.
+§ 1º Os requerentes serão notificados para adequarem os seus requerimentos ao disposto no art. 89, quando for o caso.
+§ 2º Na hipótese do caput, aplicam-se os descontos previstos no regime jurídico anterior.
+Art. 137. A sessão de que trata o art. 131 ocorrerá, exclusivamente, no formato virtual.
+Art. 138. Após a execução integral das sanções aplicadas e a inscrição do débito em dívida ativa, os autos serão arquivados, mantido o seu registro no sistema para efeito de eventual caracterização de agravamento por reincidência.
+Art. 139. A certidão de infrações ambientais será fornecida gratuitamente ao interessado, preferencialmente mediante emissão no sítio eletrônico do Ibama.
+§ 1º A certidão de que trata o caput deste artigo será válida por trinta dias, a contar da data de sua expedição.
+§ 2º O Ibama fornecerá certidão positiva com efeitos de negativa:
+I - quando o auto de infração ainda não estiver definitivamente julgado; e
+II - quando a sanção de multa estiver suspensa:
+a) por ordem judicial ou garantida por depósito judicial de seu valor integral;
+b) por parcelamento; ou
+c) em razão da celebração de termo de compromisso de conversão de multa ambiental.
+Art. 140. A propositura de demanda judicial, pelo autuado, visando à suspensão dos efeitos ou à declaração de nulidade do auto de infração, das sanções ou de outras medidas aplicadas, não impede o normal prosseguimento do processo de apuração da infração ambiental.
+§ 1º No prazo para oferecimento de defesa no âmbito judicial, o Ibama poderá apresentar reconvenção, visando à reparação do dano ambiental.
+§ 2º O Ibama:
+I - não poderá inscrever o débito na Dívida Ativa ou adotar quaisquer outras medidas tendentes à sua execução enquanto vigente decisão judicial, liminar ou de mérito, determinando a suspensão da exigibilidade do crédito ou da multa; e
+II - cumprirá de imediato a decisão judicial, de acordo com orientação contida em parecer de força executória elaborado pelo órgão de execução da Procuradoria-Geral Federal, e juntará o respectivo comprovante nos autos.
+Art. 141. As autoridades públicas devem atuar para aumentar a segurança jurídica na aplicação das normas, inclusive por meio de regulamentos, súmulas administrativas e respostas a consultas.
+Parágrafo único. Os instrumentos previstos no caput deste artigo terão caráter vinculante em relação ao órgão ou entidade a que se destinam, até ulterior revisão.
+Art. 142. O servidor do Ibama demandado judicialmente por ato praticado no exercício legal de suas funções poderá requerer ao Procurador-Chefe Nacional da Procuradoria Federal Especializada junto Ibama sua representação judicial, observados os critérios estabelecidos na Portaria da Advocacia-Geral da União nº 428, 2019.
+Art. 143. Esta Instrução Normativa entra em vigor na data de sua publicação.
+RODRIGO AGOSTINHO
+ANEXO I
+QUADRO 1
+Níveis de gravidade: tabela de referência para aplicação dos Quadros 2 a 4
+Situação
+Indicador
+Nível de gravidade*
+1. Voluntariedade conduta
+1.1 Culposa = 5 pontos
+Nível A = até 20 pontos
+Nível B = de 21 a 40 pontos
+Nível C = de 41 a 60 pontos
+Nível D = de 61 a 80 pontos
+Nível E = de 81 a 100 pontos
+1.2 Dolosa = 15 pontos
+2. Consequências para o meio ambiente
+2.1 Potencial = 5 pontos
+2.2 Reduzida = 15 pontos
+2.3 Fraca = 30 pontos
+2.4 Moderada = 50 pontos
+2.5 Grave = 70 pontos
+3. Consequências para a saúde pública
+3.1 Não houve = 0
+3.2 Fraca = 5 pontos
+3.3 Moderada = 10 pontos
+3.4 Significativa = 15 pontos
+* O nível de gravidade é o somatório dos valores dos indicadores de cada uma das três situações.
+QUADRO 2
+Autuação Ambiental: multa aberta prevista no decreto nº 6.514, de 2008
+Tipo infracional com pena máxima em abstrato inferior ou igual a 2 milhões de reais
+Nível de gravidade
+Pessoa física de baixa renda
+Pessoa física ou jurídica com patrimônio ou receita anual de até 360 mil reais
+Pessoa física ou jurídica com patrimônio ou receita anual entre 360 mil e um centavo e 4 milhões e 800 mil reais
+Pessoa física ou jurídica com patrimônio ou receita anual entre 4 milhões 800 mil reais e um centavo e 12 milhões de reais
+Pessoa física ou jurídica com patrimônio ou receita anual acima 12 milhões de reais e um centavo
+Nível A
+Mínimo
+Mínimo
+Mínimo + 0,1% a 10% do teto
+Mínimo + 0,2% a 12% do teto
+Mínimo + 0,3% a 20% do teto
+Nível B
+Mínimo + 0,1% a 1% do teto
+Mínimo + 1% a 5% do teto
+Mínimo + 4% a 15% do teto
+Mínimo + 7% a 20% do teto
+Mínimo + 10% a 30% do teto
+Nível C
+Mínimo + 1% a 5,1% do teto
+Mínimo + 5,1% a 10% do teto
+Mínimo + 16% a 30% do teto
+Mínimo + 21% a 35% do teto
+Mínimo + 31% a 50% do teto
+Nível D
+Mínimo + 5% a 11% do teto
+Mínimo + 11% a 20% teto
+Mínimo + 31% a 40% do teto
+Mínimo + 36% a 50% do teto
+Mínimo + 51% a 75% do teto
+Nível E
+Mínimo + 11,1% a 21% do teto
+Mínimo + 21% a 40% do teto
+Mínimo + 41% a 50% do teto
+Mínimo + 51% a 65% do teto
+Mínimo + 76% a 100% do teto, limitado ao máximo da pena cominada
+QUADRO 3
+Autuação Ambiental: multa aberta prevista no decreto nº 6.514, de 2008
+Tipo infracional com pena máxima em abstrato entre 2 milhões de reais e um centavo e 10 milhões de reais
+Nível de gravidade
+Pessoa física de baixa renda
+Pessoa física ou jurídica com patrimônio ou receita anual de até 360 mil reais
+Pessoa física ou jurídica com patrimônio ou receita anual entre 360 mil e um centavo e 4 milhões e 800 mil reais
+Pessoa física ou jurídica com patrimônio ou receita anual entre 4 milhões 800 mil reais e um centavo e 12 milhões de reais
+Pessoa física ou jurídica com patrimônio ou receita anual acima 12 milhões de reais e um centavo
+Nível A
+Mínimo
+Mínimo
+Mínimo + 0,1% a 7% do teto
+Mínimo + 0,2% a 10% do teto
+Mínimo + 0,5% a 15% do teto
+Nível B
+Mínimo + 0,002% a 0,5% do teto
+Mínimo + 0,5% a 1% do teto
+Mínimo + 1% a 10% do teto
+Mínimo + 2% a 15% do teto
+Mínimo + 5% a 25% do teto
+Nível C
+Mínimo + 0,005% a 1,1% do teto
+Mínimo + 1,1% a 2% do teto
+Mínimo + 10,1% a 20% do teto
+Mínimo + 15,1% a 30% do teto
+Mínimo + 25,1% a 50% do teto
+Nível D
+Mínimo + 0,005% a 2,1% do teto
+Mínimo + 2,1% a 3% teto
+Mínimo + 20,1% a 30% do teto
+Mínimo + 30,1% a 45% do teto
+Mínimo + 51% a 75% do teto
+Nível E
+Mínimo + 0,2% a 3,1% do teto
+Mínimo + 3,1% a 5,5% do teto
+Mínimo + 30,1% a 40% do teto
+Mínimo + 45,1% a 60% do teto
+Mínimo + 75,1% a 100% do teto, limitado ao máximo da pena cominada
+QUADRO 4
+Autuação Ambiental: multa aberta prevista no decreto nº 6.514, de 2008
+Tipo infracional com pena máxima em abstrato entre 10 milhões de reais e um centavo e 50 milhões de reais
+Nível de gravidade
+Pessoa física de baixa renda
+Pessoa física ou jurídica com patrimônio ou receita anual de até 360 mil reais
+Pessoa física ou jurídica com patrimônio ou receita anual entre 360 mil e um centavo e 4 milhões e 800 mil reais
+Pessoa física ou jurídica com patrimônio ou receita anual entre 4 milhões 800 mil reais e um centavo e 12 milhões de reais
+Pessoa física ou jurídica com patrimônio ou receita anual acima 12 milhões de reais e um centavo
+Nível A
+Mínimo
+Mínimo + 0,001% do teto
+Mínimo + 0,01% a 2% do teto
+Mínimo + 0,02% a 6% do teto
+Mínimo + 0,05% a 11% do teto
+Nível B
+Mínimo + 0,002% a 0,11% do teto
+Mínimo + 0,11% a 0,20% do teto
+Mínimo + 1% a 5% do teto
+Mínimo + 2% a 11% do teto
+Mínimo + 5% a 25% do teto
+Nível C
+Mínimo + 0,001% a 0,21% do teto
+Mínimo + 0,21% a 0,30% do teto
+Mínimo + 5,1% a 8% do teto
+Mínimo + 11,1% a 15% do teto
+Mínimo + 25,1% a 45% do teto
+Nível D
+Mínimo + 0,03% a 0,31% do teto
+Mínimo + 0,31% a 0,50% teto
+Mínimo + 8,1% a 11% do teto
+Mínimo + 15,1% a 21% do teto
+Mínimo + 45,1% a 70% do teto
+Nível E
+Mínimo + 0,1% a 0,51% do teto
+Mínimo + 0,51% a 0,80% do teto
+Mínimo + 11,1% a 12% do teto
+Mínimo + 21,1% a 30% do teto
+Mínimo + 70,1% a 100% do teto, limitado ao máximo da pena cominada
+Fim do conteúdo da página

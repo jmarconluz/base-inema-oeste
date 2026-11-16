@@ -28,7 +28,7 @@ SHA=$(git rev-parse HEAD); mkdir -p /tmp/pacotes
 - `tabs_context`: reaproveite abas que já estejam nos sites; senão `tabs_create` + `navigate`.
 - Sites já liberados no navegador embutido: `dool.egba.ba.gov.br`, `jurisprudencia.tjba.jus.br`,
   `www.legislabahia.ba.gov.br`, `www.planalto.gov.br`, `dadosabertos.ibama.gov.br`, o blob de dados abertos do IBAMA
-  e `dadosabertos.web.stj.jus.br`.
+  `dadosabertos.web.stj.jus.br` e `www.ibama.gov.br` (página de legislação do IBAMA).
   Site novo precisa ser liberado pelo usuário: numa execução agendada não fique esperando a liberação — registre
   "aguardando liberação de <site> no navegador" em `juridico/PENDENCIAS.md`, peça a liberação no resumo e siga.
 - Os coletores são carregados no navegador direto do GitHub, no commit `SHA` (sem copiar código à mão):
@@ -108,10 +108,14 @@ branco + texto extraído com `LEX.preparar`; depois `python scripts/verificar_le
 
 ## 4. IBAMA e STJ (só na primeira execução do mês)
 
-IBAMA: siga `scripts/ibama_navegador.md` (autos de infração e termos de embargo da Bahia e resumo do Brasil).
+IBAMA: siga `scripts/ibama_navegador.md` (autos de infração e termos de embargo da Bahia e resumo do Brasil). Para gravar os
+CSVs: `python scripts/ibama_csv.py <arquivos salvos>` (os envelopes do IBAMA são do formato antigo `tipo: 'pk'`;
+não use o `decodificar_partes.py` para eles). Na mesma execução, numa aba em `https://www.ibama.gov.br/`, rode
+`await LEX.verificarRepo('<SHA>')` para conferir a IN IBAMA 19/2023.
 
 STJ: numa aba em `https://dadosabertos.web.stj.jus.br/dataset/`, carregue `coletor/coletor_stj.js` e rode
 `await STJ.colher(undefined, '<AAAAMM01 do mês anterior>')` (só os arquivos mensais novos) e `await STJ.temas()`;
+(o `STJ.temas()` exporta o CSV oficial inteiro, ~2,5 MB; a seleção dos temas ambientais é feita no Python);
 depois `await STJ.preparar()` e `STJ.parte(i)`; decodifique e rode `python scripts/incorporar_stj.py
 /tmp/pacotes/stj.json` e `python scripts/indexar_stj.py`. Se surgir tema repetitivo ambiental novo ou mudar a situação
 de um já listado (ex.: Tema 1.447 julgado), atualize a seção 11 de `juridico/teses_defesa.md`. Não use a pesquisa

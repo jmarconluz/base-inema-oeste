@@ -731,6 +731,36 @@ Seção Única Da Sociedade de Propósito Específico formada por Microempresas 
 Art. 1º As dívidas passivas da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda federal, estadual ou municipal, seja qual for a sua natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originarem.
 
 
+## IN IBAMA 19/2023 (processo sancionador no IBAMA)
+
+Texto integral em `legislacao/federal/in_ibama_19_2023.txt` (página oficial do IBAMA, conferida em 16/11/2026). Usar em auto do IBAMA; para o INEMA valem a Lei BA 12.209/2011 e o Decreto BA 14.024/2012.
+
+Art. 1º Regulamentar, no âmbito do Ibama, o processo administrativo para apuração de infrações administrativas por condutas e atividades lesivas ao meio ambiente.
+
+Parágrafo único. Este regulamento é aplicável, no que couber, a processos de apuração de infrações administrativas ambientais previstas nas Leis nº 7.802, de 1989, 9.966, de 2000, 11.105, de 2005, e 13.123, de 2015.
+
+Art. 5º Sem prejuízo do âmbito de aplicação da Lei nº 12.527, 2011, os autuados e seus advogados têm assegurado o direito de consulta a processo de apuração de infração ambiental eletrônico por intermédio da concessão de acesso externo a sistema informatizado dedicado à gestão processual.
+
+§ 1º A concessão de acesso externo depende de prévia aprovação de credenciamento e aceitação das condições regulamentares que disciplinam o sistema informatizado de gestão processual.
+
+§ 2º O direito dos advogados ao acesso a processo eletrônico independe da existência de procuração, ressalvados os casos sob sigilo.
+
+Art. 106. Encerrada a instrução, o autuado será notificado para, no prazo de dez dias, apresentar alegações finais e se manifestar sobre eventual indicação de agravamento por reincidência, aplicação de circunstâncias majorantes e imposição de sanções restritivas de direito.
+
+Parágrafo único. A notificação de que trata o caput, observará o disposto no art. 123 do Decreto nº 6.514, de 2008.
+
+Art. 128. A norma processual não retroagirá e será aplicável imediatamente aos processos em curso, respeitados os atos processuais consumados e as situações jurídicas consolidadas sob a vigência da norma revogada.
+
+Art. 140. A propositura de demanda judicial, pelo autuado, visando à suspensão dos efeitos ou à declaração de nulidade do auto de infração, das sanções ou de outras medidas aplicadas, não impede o normal prosseguimento do processo de apuração da infração ambiental.
+
+§ 1º No prazo para oferecimento de defesa no âmbito judicial, o Ibama poderá apresentar reconvenção, visando à reparação do dano ambiental.
+
+§ 2º O Ibama:
+
+I - não poderá inscrever o débito na Dívida Ativa ou adotar quaisquer outras medidas tendentes à sua execução enquanto vigente decisão judicial, liminar ou de mérito, determinando a suspensão da exigibilidade do crédito ou da multa; e
+
+II - cumprirá de imediato a decisão judicial, de acordo com orientação contida em parecer de força executória elaborado pelo órgão de execução da Procuradoria-Geral Federal, e juntará o respectivo comprovante nos autos.
+
 ## Lei BA 12.209/2011 (processo administrativo)
 
 Art. 1º - Esta Lei dispõe sobre o processo administrativo no âmbito da Administração direta e das entidades da Administração indireta regidas pelo regime de direito público, do Estado da Bahia, visando, em especial, à proteção dos direitos dos administrados e ao mais justo e célere cumprimento dos fins da Administração.

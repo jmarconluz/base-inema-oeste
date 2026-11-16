@@ -66,6 +66,12 @@
   "chars": 17349
  },
  {
+  "url": "https://www.ibama.gov.br/component/legislacao/?view=legislacao&legislacao=139335",
+  "arquivo": "juridico/legislacao/federal/in_ibama_19_2023.txt",
+  "sha256": "5915825b07fb3e06c0b5530b546a5075d80395c0a5e9719137dcf1b5ead7aa44",
+  "chars": 101123
+ },
+ {
   "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.650.htm",
   "arquivo": "juridico/legislacao/federal/l10.650.txt",
   "sha256": "eb341898f653f4ad3d37dc653da47474a1c6e12b01138a90f8f8a3259641ba25",

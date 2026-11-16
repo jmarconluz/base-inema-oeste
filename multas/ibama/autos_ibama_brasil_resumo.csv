@@ -327,20 +327,20 @@ AC;2025;;S;Flora;43;13328349.07
 AC;2025;;S;Outras;1;115000.00
 AC;2026;Lavrado;N;Administração Ambiental;1;120000.00
 AC;2026;Lavrado;N;Cadastro Técnico Federal;2;212500.00
-AC;2026;Lavrado;N;Fauna;45;308000.00
-AC;2026;Lavrado;N;Flora;208;25955715.24
+AC;2026;Lavrado;N;Fauna;46;313000.00
+AC;2026;Lavrado;N;Flora;214;26185020.24
 AC;2026;Lavrado;N;Licenciamento;2;41000.00
 AC;2026;Lavrado;N;Outras;2;1500.00
 AC;2026;Lavrado;N;Pesca;12;155154.80
 AC;2026;Lavrado;N;Qualidade Ambiental;1;0.00
 AC;2026;;N;Administração Ambiental;1;2500.00
 AC;2026;;N;Cadastro Técnico Federal;1;1000.00
-AC;2026;;N;Fauna;19;1189000.00
-AC;2026;;N;Flora;307;36204615.01
+AC;2026;;N;Fauna;16;1174000.00
+AC;2026;;N;Flora;303;36055310.01
 AC;2026;;N;Outras;3;15900.00
-AC;2026;;N;Qualidade Ambiental;1;10500.00
-AC;2026;;S;Fauna;6;15500.00
-AC;2026;;S;Flora;43;9583717.00
+AC;2026;;N;Qualidade Ambiental;2;11500.00
+AC;2026;;S;Fauna;8;25500.00
+AC;2026;;S;Flora;44;9603717.00
 AL;1983;Cancelado;S;Outras;1;60435.00
 AL;1986;Lavrado;N;Controle Ambiental;1;785412.00
 AL;1987;Lavrado;N;Controle Ambiental;1;3543.55
@@ -656,10 +656,10 @@ AL;2026;Lavrado;N;Licenciamento;1;1010500.00
 AL;2026;Lavrado;N;Outras;4;48000.00
 AL;2026;Lavrado;N;Pesca;24;65060.00
 AL;2026;Lavrado;N;Qualidade Ambiental;5;804500.00
-AL;2026;;N;Administração Ambiental;3;142000.00
+AL;2026;;N;Administração Ambiental;4;262000.00
 AL;2026;;N;Fauna;7;224500.00
-AL;2026;;N;Flora;13;247979.00
-AL;2026;;N;Pesca;3;42300.00
+AL;2026;;N;Flora;15;616979.00
+AL;2026;;N;Pesca;4;44820.00
 AL;2026;;N;Qualidade Ambiental;1;505000.00
 AL;2026;;S;Administração Ambiental;3;62000.00
 AL;2026;;S;Fauna;1;0.00
@@ -1155,17 +1155,17 @@ AM;2026;;N;Administração Ambiental;9;1990700.00
 AM;2026;;N;Cadastro Técnico Federal;1;0.00
 AM;2026;;N;Controle Ambiental;1;10500.00
 AM;2026;;N;Fauna;16;436500.00
-AM;2026;;N;Flora;160;48855657.42
+AM;2026;;N;Flora;163;52262657.42
 AM;2026;;N;Licenciamento;11;16021500.00
 AM;2026;;N;Outras;3;2655500.00
 AM;2026;;N;Pesca;11;175910.00
-AM;2026;;N;Qualidade Ambiental;9;6810805.10
+AM;2026;;N;Qualidade Ambiental;8;6810775.00
 AM;2026;;S;Administração Ambiental;5;2534500.00
 AM;2026;;S;Cadastro Técnico Federal;1;150.00
 AM;2026;;S;Fauna;4;298000.00
 AM;2026;;S;Flora;31;13720269.30
 AM;2026;;S;Outras;7;9692500.00
-AM;2026;;S;Qualidade Ambiental;1;50500.00
+AM;2026;;S;Qualidade Ambiental;2;50530.10
 AP;1992;Lavrado;N;Flora;1;23120255.40
 AP;1995;Lavrado;N;;3;7937.43
 AP;1996;Lavrado;N;;206;207460.79
@@ -1560,10 +1560,10 @@ BA;2001;Lavrado;N;Fauna;17;1000052.00
 BA;2001;Lavrado;N;Flora;358;2967744.55
 BA;2001;Lavrado;N;Pesca;7;21740.00
 BA;2001;Lavrado;N;Unidade de Conservação;1;1500.00
-BA;2002;Cancelado;S;;11;152850.00
+BA;2002;Cancelado;S;;12;187850.00
 BA;2002;Cancelado;S;Flora;4;57500.00
 BA;2002;Excluído;S;Flora;1;800.00
-BA;2002;Lavrado;N;;619;19331942.91
+BA;2002;Lavrado;N;;618;19296942.91
 BA;2002;Lavrado;N;Controle Ambiental;5;600500.00
 BA;2002;Lavrado;N;Fauna;17;382000.00
 BA;2002;Lavrado;N;Flora;297;2114511.40
@@ -1918,8 +1918,8 @@ BA;2026;Lavrado;N;Qualidade Ambiental;9;533000.00
 BA;2026;;N;Administração Ambiental;2;7565000.00
 BA;2026;;N;Cadastro Técnico Federal;1;1800.00
 BA;2026;;N;Controle Ambiental;5;229500.00
-BA;2026;;N;Fauna;155;3662700.00
-BA;2026;;N;Flora;38;27657244.57
+BA;2026;;N;Fauna;160;3787700.00
+BA;2026;;N;Flora;39;27660427.57
 BA;2026;;N;Licenciamento;3;432000.00
 BA;2026;;N;Outras;1;10000.00
 BA;2026;;N;Pesca;4;5940.00
@@ -2449,8 +2449,8 @@ CE;2026;Excluído;S;Fauna;1;10000.00
 CE;2026;Lavrado;N;Administração Ambiental;43;9250661.98
 CE;2026;Lavrado;N;Cadastro Técnico Federal;19;299150.00
 CE;2026;Lavrado;N;Controle Ambiental;7;22758000.00
-CE;2026;Lavrado;N;Fauna;52;612100.00
-CE;2026;Lavrado;N;Flora;108;47567351.17
+CE;2026;Lavrado;N;Fauna;55;634100.00
+CE;2026;Lavrado;N;Flora;109;47587351.17
 CE;2026;Lavrado;N;Licenciamento;12;792200.00
 CE;2026;Lavrado;N;Ord. Urbano e Patr. Cultural;3;220000.00
 CE;2026;Lavrado;N;Org. Gen. Modific. e Biopirataria;4;120000.00
@@ -2459,11 +2459,11 @@ CE;2026;Lavrado;N;Pesca;123;4047727.00
 CE;2026;Lavrado;N;Qualidade Ambiental;3;2615000.00
 CE;2026;;N;Administração Ambiental;9;295000.00
 CE;2026;;N;Cadastro Técnico Federal;3;14000.00
-CE;2026;;N;Fauna;4;25000.00
-CE;2026;;N;Flora;14;1865670.11
+CE;2026;;N;Fauna;2;13200.00
+CE;2026;;N;Flora;13;1845670.11
 CE;2026;;N;Licenciamento;1;20500.00
-CE;2026;;N;Outras;5;125500.00
-CE;2026;;N;Pesca;17;7201670.00
+CE;2026;;N;Outras;6;155500.00
+CE;2026;;N;Pesca;25;7293290.00
 CE;2026;;S;Fauna;1;5000.00
 CE;2026;;S;Flora;6;983453.23
 CE;2026;;S;Licenciamento;1;220000.00
@@ -2929,9 +2929,9 @@ ES;2004;Cancelado;S;Flora;8;70700.00
 ES;2004;Cancelado;S;Outras;1;3000.00
 ES;2004;Cancelado;S;Pesca;1;0.00
 ES;2004;Excluído;S;;2;10700.00
-ES;2004;Lavrado;N;;924;3840602.25
+ES;2004;Lavrado;N;;923;3832602.25
 ES;2004;Lavrado;N;Controle Ambiental;85;281370.00
-ES;2004;Lavrado;N;Fauna;44;128200.00
+ES;2004;Lavrado;N;Fauna;45;136200.00
 ES;2004;Lavrado;N;Flora;339;1731240.00
 ES;2004;Lavrado;N;Pesca;1;800.00
 ES;2004;Lavrado;N;Unidade de Conservação;2;2000.00
@@ -3246,7 +3246,7 @@ ES;2026;Excluído;S;Flora;3;134000.00
 ES;2026;Lavrado;N;Administração Ambiental;5;149600.00
 ES;2026;Lavrado;N;Cadastro Técnico Federal;6;26800.00
 ES;2026;Lavrado;N;Controle Ambiental;14;463200.00
-ES;2026;Lavrado;N;Fauna;118;2566720.00
+ES;2026;Lavrado;N;Fauna;120;2667220.00
 ES;2026;Lavrado;N;Flora;87;6047842.88
 ES;2026;Lavrado;N;Licenciamento;3;1061500.00
 ES;2026;Lavrado;N;Ord. Urbano e Patr. Cultural;2;30000.00
@@ -3256,7 +3256,7 @@ ES;2026;Lavrado;N;Qualidade Ambiental;26;2238600.00
 ES;2026;Lavrado;N;Unidade de Conservação;1;21000.00
 ES;2026;;N;Administração Ambiental;10;11078500.00
 ES;2026;;N;Controle Ambiental;6;228500.00
-ES;2026;;N;Fauna;45;791900.00
+ES;2026;;N;Fauna;43;691400.00
 ES;2026;;N;Flora;40;16829100.00
 ES;2026;;N;Licenciamento;3;91500.00
 ES;2026;;N;Outras;1;2500.00
@@ -4549,7 +4549,7 @@ MG;2026;Lavrado;N;Administração Ambiental;73;498776.55
 MG;2026;Lavrado;N;Cadastro Técnico Federal;2;9729.60
 MG;2026;Lavrado;N;Controle Ambiental;9;335432.05
 MG;2026;Lavrado;N;Fauna;113;2029912.00
-MG;2026;Lavrado;N;Flora;215;14903836.17
+MG;2026;Lavrado;N;Flora;217;15183934.17
 MG;2026;Lavrado;N;Licenciamento;5;24358000.00
 MG;2026;Lavrado;N;Org. Gen. Modific. e Biopirataria;2;70001.00
 MG;2026;Lavrado;N;Outras;1;2200.00
@@ -4558,7 +4558,7 @@ MG;2026;Lavrado;N;Qualidade Ambiental;16;1531800.00
 MG;2026;;N;Administração Ambiental;7;2330500.00
 MG;2026;;N;Controle Ambiental;3;96200.00
 MG;2026;;N;Fauna;3;166000.00
-MG;2026;;N;Flora;13;621671.40
+MG;2026;;N;Flora;11;341573.40
 MG;2026;;N;Licenciamento;3;116500.00
 MG;2026;;N;Org. Gen. Modific. e Biopirataria;3;0.00
 MG;2026;;N;Qualidade Ambiental;1;15700.00
@@ -4958,19 +4958,19 @@ MS;2026;Lavrado;N;Administração Ambiental;2;44000.00
 MS;2026;Lavrado;N;Cadastro Técnico Federal;1;2600.00
 MS;2026;Lavrado;N;Controle Ambiental;8;752400.00
 MS;2026;Lavrado;N;Fauna;21;526300.00
-MS;2026;Lavrado;N;Flora;60;25488544.27
+MS;2026;Lavrado;N;Flora;61;31483544.27
 MS;2026;Lavrado;N;Licenciamento;4;3703200.00
 MS;2026;Lavrado;N;Org. Gen. Modific. e Biopirataria;1;278215.23
 MS;2026;Lavrado;N;Outras;2;37684.00
-MS;2026;Lavrado;N;Qualidade Ambiental;72;3272526.00
+MS;2026;Lavrado;N;Qualidade Ambiental;73;3281526.00
 MS;2026;;N;Administração Ambiental;1;21500.00
 MS;2026;;N;Cadastro Técnico Federal;1;9000.00
 MS;2026;;N;Controle Ambiental;6;6052020.00
 MS;2026;;N;Fauna;1;10000.00
-MS;2026;;N;Flora;13;61730853.10
+MS;2026;;N;Flora;12;55735853.10
 MS;2026;;N;Licenciamento;1;50500.00
 MS;2026;;N;Pesca;4;23200.00
-MS;2026;;N;Qualidade Ambiental;26;773668.00
+MS;2026;;N;Qualidade Ambiental;25;764668.00
 MS;2026;;S;Flora;6;62571105.00
 MT;1987;Lavrado;N;;2;1104798.20
 MT;1988;Lavrado;N;;2;82747.06
@@ -5453,18 +5453,19 @@ MT;2025;;S;Outras;5;301500.00
 MT;2025;;S;Qualidade Ambiental;9;24600.00
 MT;2026;Lavrado;N;Administração Ambiental;105;65791292.12
 MT;2026;Lavrado;N;Cadastro Técnico Federal;3;27000.00
-MT;2026;Lavrado;N;Controle Ambiental;45;13098578.10
+MT;2026;Lavrado;N;Controle Ambiental;46;13113578.10
 MT;2026;Lavrado;N;Fauna;59;2930240.00
-MT;2026;Lavrado;N;Flora;299;172449222.92
+MT;2026;Lavrado;N;Flora;301;178366477.61
 MT;2026;Lavrado;N;Licenciamento;38;34872000.00
 MT;2026;Lavrado;N;Outras;22;57439940.00
 MT;2026;Lavrado;N;Pesca;14;21300.00
 MT;2026;Lavrado;N;Qualidade Ambiental;78;73120300.00
 MT;2026;Lavrado;N;Unidade de Conservação;6;103500.00
 MT;2026;;N;Administração Ambiental;2;5562500.00
-MT;2026;;N;Controle Ambiental;4;454120.00
+MT;2026;;N;Controle Ambiental;3;439120.00
 MT;2026;;N;Fauna;2;65000.00
-MT;2026;;N;Flora;100;131742959.99
+MT;2026;;N;Flora;98;125825705.30
+MT;2026;;N;Licenciamento;1;300500.00
 MT;2026;;N;Outras;6;462500.00
 MT;2026;;N;Qualidade Ambiental;6;1337600.00
 MT;2026;;S;Administração Ambiental;3;31500.00
@@ -6033,7 +6034,7 @@ PA;2026;Lavrado;N;Administração Ambiental;103;65913573.21
 PA;2026;Lavrado;N;Cadastro Técnico Federal;6;34200.00
 PA;2026;Lavrado;N;Controle Ambiental;18;15005177.73
 PA;2026;Lavrado;N;Fauna;67;2472620.00
-PA;2026;Lavrado;N;Flora;1043;738995667.33
+PA;2026;Lavrado;N;Flora;1052;739893967.33
 PA;2026;Lavrado;N;Licenciamento;50;138899550.00
 PA;2026;Lavrado;N;Ord. Urbano e Patr. Cultural;1;11000.00
 PA;2026;Lavrado;N;Org. Gen. Modific. e Biopirataria;3;110000.00
@@ -6041,13 +6042,13 @@ PA;2026;Lavrado;N;Outras;13;13655312.00
 PA;2026;Lavrado;N;Pesca;83;14150950.00
 PA;2026;Lavrado;N;Qualidade Ambiental;79;97608543.10
 PA;2026;Lavrado;N;Unidade de Conservação;2;3540000.00
-PA;2026;;N;Administração Ambiental;39;90382811.12
+PA;2026;;N;Administração Ambiental;43;96452811.12
 PA;2026;;N;Controle Ambiental;17;39323649.50
-PA;2026;;N;Fauna;22;3828280.00
-PA;2026;;N;Flora;543;331156467.30
+PA;2026;;N;Fauna;23;3833280.00
+PA;2026;;N;Flora;559;373722417.30
 PA;2026;;N;Licenciamento;8;946500.00
 PA;2026;;N;Outras;5;39792500.00
-PA;2026;;N;Pesca;21;3502470.00
+PA;2026;;N;Pesca;22;3514730.00
 PA;2026;;N;Qualidade Ambiental;19;38831037.31
 PA;2026;;N;Unidade de Conservação;3;1951500.00
 PA;2026;;S;Administração Ambiental;2;4043900.00
@@ -6465,20 +6466,20 @@ PB;2025;;S;Pesca;1;32060.00
 PB;2025;;S;Qualidade Ambiental;2;12600.00
 PB;2026;Cancelado;S;Fauna;1;9500.00
 PB;2026;Cancelado;S;Flora;1;39000.00
-PB;2026;Lavrado;N;Administração Ambiental;28;173000.00
+PB;2026;Lavrado;N;Administração Ambiental;29;173000.00
 PB;2026;Lavrado;N;Cadastro Técnico Federal;38;101450.00
 PB;2026;Lavrado;N;Controle Ambiental;10;177478.90
 PB;2026;Lavrado;N;Fauna;85;912010.00
-PB;2026;Lavrado;N;Flora;79;4099466.15
+PB;2026;Lavrado;N;Flora;80;4114466.15
 PB;2026;Lavrado;N;Licenciamento;12;623676.00
 PB;2026;Lavrado;N;Outras;5;155230.00
 PB;2026;Lavrado;N;Pesca;53;3408028.00
 PB;2026;Lavrado;N;Qualidade Ambiental;12;32300.00
-PB;2026;;N;Administração Ambiental;7;48300.00
+PB;2026;;N;Administração Ambiental;6;48300.00
 PB;2026;;N;Cadastro Técnico Federal;4;9000.00
 PB;2026;;N;Controle Ambiental;2;1052955.80
-PB;2026;;N;Fauna;9;56000.00
-PB;2026;;N;Flora;35;2664949.00
+PB;2026;;N;Fauna;10;73500.00
+PB;2026;;N;Flora;34;2649949.00
 PB;2026;;N;Licenciamento;1;0.00
 PB;2026;;N;Outras;1;10000.00
 PB;2026;;N;Pesca;8;7559400.00
@@ -6822,7 +6823,7 @@ PE;2026;Excluído;S;Outras;1;5000000.00
 PE;2026;Lavrado;N;Administração Ambiental;5;146100.00
 PE;2026;Lavrado;N;Cadastro Técnico Federal;5;28100.00
 PE;2026;Lavrado;N;Controle Ambiental;8;46300.00
-PE;2026;Lavrado;N;Fauna;129;11413980.00
+PE;2026;Lavrado;N;Fauna;140;11529980.00
 PE;2026;Lavrado;N;Flora;173;10070769.45
 PE;2026;Lavrado;N;Licenciamento;8;5094000.00
 PE;2026;Lavrado;N;Org. Gen. Modific. e Biopirataria;5;339000.00
@@ -6830,11 +6831,12 @@ PE;2026;Lavrado;N;Outras;10;11576242.00
 PE;2026;Lavrado;N;Pesca;6;122140.00
 PE;2026;Lavrado;N;Qualidade Ambiental;32;498700.00
 PE;2026;;N;Administração Ambiental;1;10500.00
-PE;2026;;N;Fauna;27;362840.00
+PE;2026;;N;Controle Ambiental;1;3500.00
+PE;2026;;N;Fauna;16;246840.00
 PE;2026;;N;Flora;28;383127.90
 PE;2026;;N;Licenciamento;1;1000.00
 PE;2026;;N;Outras;1;1000.00
-PE;2026;;N;Pesca;7;327033.00
+PE;2026;;N;Pesca;11;345993.00
 PE;2026;;N;Qualidade Ambiental;8;11500.00
 PE;2026;;S;Fauna;4;4500.00
 PE;2026;;S;Flora;9;151817.00
@@ -7198,6 +7200,7 @@ PI;2026;;N;Controle Ambiental;2;65889.00
 PI;2026;;N;Fauna;5;1726540.00
 PI;2026;;N;Flora;10;2027764.82
 PI;2026;;N;Licenciamento;2;152700.00
+PI;2026;;N;Pesca;1;11500.00
 PI;2026;;N;Qualidade Ambiental;7;78740.00
 PI;2026;;S;Controle Ambiental;1;41000.00
 PI;2026;;S;Flora;2;65000.00
@@ -7603,8 +7606,9 @@ PR;2026;;N;Administração Ambiental;1;11500.00
 PR;2026;;N;Cadastro Técnico Federal;1;6500.00
 PR;2026;;N;Controle Ambiental;11;3976500.00
 PR;2026;;N;Fauna;6;460500.00
-PR;2026;;N;Flora;3;2041683.40
+PR;2026;;N;Flora;4;2224923.40
 PR;2026;;N;Licenciamento;3;3609000.00
+PR;2026;;N;Outras;3;241550.00
 PR;2026;;N;Qualidade Ambiental;1;7200.00
 PR;2026;;S;Administração Ambiental;2;111000.00
 PR;2026;;S;Cadastro Técnico Federal;3;130000.00
@@ -8478,16 +8482,16 @@ RN;2026;Lavrado;N;Fauna;34;367280.00
 RN;2026;Lavrado;N;Flora;66;18948152.86
 RN;2026;Lavrado;N;Licenciamento;9;450500.00
 RN;2026;Lavrado;N;Outras;22;112800.00
-RN;2026;Lavrado;N;Pesca;68;2342158.00
+RN;2026;Lavrado;N;Pesca;71;2348158.00
 RN;2026;Lavrado;N;Qualidade Ambiental;19;792000.00
 RN;2026;;N;Administração Ambiental;6;547100.00
 RN;2026;;N;Cadastro Técnico Federal;3;2000.00
 RN;2026;;N;Controle Ambiental;2;14100.00
-RN;2026;;N;Fauna;7;226200.00
+RN;2026;;N;Fauna;9;1246200.00
 RN;2026;;N;Flora;11;147600.51
 RN;2026;;N;Licenciamento;1;20500.00
 RN;2026;;N;Outras;1;3000.00
-RN;2026;;N;Pesca;20;236060.00
+RN;2026;;N;Pesca;19;3013783.00
 RN;2026;;N;Qualidade Ambiental;6;11000.00
 RN;2026;;S;Administração Ambiental;2;1150.00
 RN;2026;;S;Controle Ambiental;2;17000.00
@@ -8875,21 +8879,21 @@ RO;2026;Cancelado;S;Controle Ambiental;3;314588.30
 RO;2026;Cancelado;S;Flora;4;446506.40
 RO;2026;Lavrado;N;Administração Ambiental;47;9125006.74
 RO;2026;Lavrado;N;Cadastro Técnico Federal;8;91500.00
-RO;2026;Lavrado;N;Controle Ambiental;42;2967851.22
+RO;2026;Lavrado;N;Controle Ambiental;43;2979351.22
 RO;2026;Lavrado;N;Fauna;31;426100.00
 RO;2026;Lavrado;N;Flora;602;199142131.18
 RO;2026;Lavrado;N;Licenciamento;10;58924500.00
 RO;2026;Lavrado;N;Outras;69;13433975.06
 RO;2026;Lavrado;N;Pesca;4;1675780.00
-RO;2026;Lavrado;N;Qualidade Ambiental;16;14736560.00
+RO;2026;Lavrado;N;Qualidade Ambiental;17;14817060.00
 RO;2026;;N;Administração Ambiental;6;2811111.24
 RO;2026;;N;Cadastro Técnico Federal;2;3600.00
-RO;2026;;N;Controle Ambiental;4;85254.80
+RO;2026;;N;Controle Ambiental;3;73754.80
 RO;2026;;N;Fauna;5;721300.00
-RO;2026;;N;Flora;108;35067172.96
+RO;2026;;N;Flora;113;35388095.62
 RO;2026;;N;Licenciamento;6;101607000.00
 RO;2026;;N;Outras;9;1225945.03
-RO;2026;;N;Qualidade Ambiental;6;1538050.00
+RO;2026;;N;Qualidade Ambiental;5;1457550.00
 RO;2026;;S;Administração Ambiental;1;1000.00
 RO;2026;;S;Fauna;1;344000.00
 RO;2026;;S;Flora;47;7869499.53
@@ -9236,7 +9240,7 @@ RR;2026;Lavrado;N;Qualidade Ambiental;33;4650900.00
 RR;2026;;N;Administração Ambiental;13;7565815.50
 RR;2026;;N;Controle Ambiental;1;220000.00
 RR;2026;;N;Fauna;5;29000.00
-RR;2026;;N;Flora;65;10299176.67
+RR;2026;;N;Flora;66;10491176.67
 RR;2026;;N;Licenciamento;6;5153000.00
 RR;2026;;N;Outras;3;232000.00
 RR;2026;;N;Pesca;3;4200.00
@@ -10202,19 +10206,19 @@ SC;2025;;S;Outras;3;2860500.00
 SC;2025;;S;Pesca;4;2799280.00
 SC;2026;Cancelado;S;Fauna;4;58250.00
 SC;2026;Cancelado;S;Pesca;3;193100.00
-SC;2026;Lavrado;N;Administração Ambiental;70;1484299.45
+SC;2026;Lavrado;N;Administração Ambiental;72;1500423.45
 SC;2026;Lavrado;N;Cadastro Técnico Federal;6;20800.00
 SC;2026;Lavrado;N;Controle Ambiental;9;607100.00
 SC;2026;Lavrado;N;Fauna;141;53570995.00
 SC;2026;Lavrado;N;Flora;29;2448596.20
 SC;2026;Lavrado;N;Licenciamento;18;6391705.00
 SC;2026;Lavrado;N;Outras;3;5750.00
-SC;2026;Lavrado;N;Pesca;355;23645902.74
+SC;2026;Lavrado;N;Pesca;363;23892382.74
 SC;2026;Lavrado;N;Qualidade Ambiental;10;4630000.00
-SC;2026;;N;Administração Ambiental;3;22034.00
+SC;2026;;N;Administração Ambiental;1;5910.00
 SC;2026;;N;Fauna;3;27000.00
 SC;2026;;N;Flora;4;60000.00
-SC;2026;;N;Pesca;17;604520.32
+SC;2026;;N;Pesca;12;483140.32
 SC;2026;;N;Qualidade Ambiental;1;6500.00
 SC;2026;;S;Administração Ambiental;6;329936.00
 SC;2026;;S;Cadastro Técnico Federal;3;70000.00
@@ -10963,9 +10967,9 @@ SP;2026;Lavrado;N;Org. Gen. Modific. e Biopirataria;8;3491800.00
 SP;2026;Lavrado;N;Outras;10;356350.00
 SP;2026;Lavrado;N;Pesca;50;733050.00
 SP;2026;Lavrado;N;Qualidade Ambiental;236;18950233.29
-SP;2026;;N;Administração Ambiental;8;79600.00
+SP;2026;;N;Administração Ambiental;11;96100.00
 SP;2026;;N;Controle Ambiental;2;13500.00
-SP;2026;;N;Fauna;27;445940.00
+SP;2026;;N;Fauna;29;453440.00
 SP;2026;;N;Flora;9;147000.00
 SP;2026;;N;Licenciamento;2;201500.00
 SP;2026;;N;Outras;4;91650.00
@@ -11323,7 +11327,7 @@ TO;2026;Lavrado;N;Outras;7;815000.00
 TO;2026;Lavrado;N;Qualidade Ambiental;16;239300.00
 TO;2026;;N;Cadastro Técnico Federal;2;3800.00
 TO;2026;;N;Controle Ambiental;2;8000.00
-TO;2026;;N;Flora;3;75787.00
+TO;2026;;N;Flora;11;1135787.00
 TO;2026;;N;Outras;1;1100.00
 TO;2026;;N;Qualidade Ambiental;2;40500.00
 TO;2026;;S;Cadastro Técnico Federal;1;2000.00
