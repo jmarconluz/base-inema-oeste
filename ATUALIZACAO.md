@@ -37,6 +37,8 @@ SHA=$(git rev-parse HEAD); mkdir -p /tmp/pacotes
 
 ```js
 (0, eval)(await (await fetch('https://raw.githubusercontent.com/jmarconluz/base-inema-oeste/<SHA>/coletor/<arquivo>.js')).text())
+// se o fetch acima der "Failed to fetch" (aconteceu em 17/11/2026 nas páginas da SEMA e do TJBA), use o espelho jsDelivr do mesmo commit:
+(0, eval)(await (await fetch('https://cdn.jsdelivr.net/gh/jmarconluz/base-inema-oeste@<SHA>/coletor/<arquivo>.js')).text())
 ```
 
 - **Exportação em pacotes:** os coletores devolvem envelopes `{chave, parte, partes, n, dados, pad}` com mais de

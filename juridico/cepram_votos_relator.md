@@ -2,21 +2,21 @@
 
 Gerado por `scripts/extrair_pautas_ct.py` a partir das pautas públicas da Câmara Técnica Recursal (https://www.ba.gov.br/meioambiente/404/pautas-da-camara-tecnica-recursal). Para cada decisão favorável de `precedentes_cepram.md`, mostra a pauta mais recente (até a data da resolução) em que o auto aparece. O "voto do relator" da pauta é o dispositivo proposto, às vezes com o motivo; o fundamento completo continua no processo (pedir cópia — `acesso_processos.md`). Nomes de interessados não são gravados. Extração automática do PDF em duas colunas: em algumas pautas o município ou o fato gerador saem com pedaços do histórico — conferir no PDF da pauta antes de citar.
 
-Decisões favoráveis com pauta localizada: **124 de 156** (pautas coletadas até agora: da 54ª reunião, fev/2022, à 85ª, dez/2026; faltam as de 2016 a 2021).
+Decisões favoráveis com pauta localizada: **145 de 156** (pautas coletadas: todas as publicadas na página da CT Recursal, da 12ª reunião, mar/2016, à 85ª, dez/2026; o PDF da 29ª, de 19/10/2018, só tem o cabeçalho, e a pauta da 74ª, de 02/09/2025, não está na página — só o registro de resultado).
 
 ## Resumo por tipo de infração (decisões do CEPRAM cujo auto aparece nas pautas coletadas)
 
 | Tipo de infração (pelo fato gerador da pauta) | Favoráveis | Desfavoráveis |
 |---|---|---|
-| Outros | 19 | 68 |
-| Operar sem licença / em desacordo | 14 | 65 |
-| Não apresentação do PAD (PARA — Dec. BA 12.071/2010) | 65 | 5 |
-| Não atender notificação | 7 | 37 |
-| Desmatamento / supressão / fogo | 6 | 25 |
-| APP | 4 | 20 |
-| DOF / produtos florestais | 2 | 20 |
-| Descumprir condicionante | 5 | 15 |
-| Recursos hídricos | 2 | 4 |
+| Outros | 23 | 190 |
+| Operar sem licença / em desacordo | 24 | 170 |
+| Não apresentação do PAD (PARA — Dec. BA 12.071/2010) | 69 | 7 |
+| Não atender notificação | 7 | 67 |
+| Desmatamento / supressão / fogo | 7 | 62 |
+| APP | 4 | 48 |
+| DOF / produtos florestais | 2 | 46 |
+| Descumprir condicionante | 7 | 36 |
+| Recursos hídricos | 2 | 13 |
 
 ## Decisões favoráveis, uma a uma
 
@@ -49,6 +49,7 @@ Decisões favoráveis com pauta localizada: **124 de 156** (pautas coletadas at�
 - **Pauta:** 2ª Extraordinária da CT Recursal (2026-10-20) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/2026-10/Pauta%20da%202%C2%AA%20Reuni%C3%A3o%20Extraordin%C3%A1ria%20da%20CT%20Recursal%2020.10.pdf
 - **Valor do auto:** R$ 10.000,00 (dez mil reais) Adiado Reunião
 - **Fato gerador:** por ter cometido infração material na medida que promoveu Reunião o desmatamento e a construção de obras de alvenaria em local 17/04/2026 considerado pelo CÓDIGO FLORESTAL LEI NO 4.771, DE 15 DE Diligência SETEMBRO DE 1965 e pela RESOLUÇÃO CONAMA nº 303 DE 20 DE para MARÇO DE 2003 como Área de Preservação Permanente - APP. A sistemas infração foi constatada as 13:00 horas do dia 12 de julho de 2004, durante monitoramento: inspeção técnica referente ao processo de Licenciamento Ambiental nº confirmar 2003-006021/TEC/LS-1378, e ocorreu na Área de Preservação efetiva Permanente do Rio Roda Velha, localizada na Fazenda Paraná IV, previstas município de São Desidério. compromisso; se
+- **Voto do relator na pauta** (pode ter mudado na sessão; vale o dispositivo publicado): manutenção da penalidade com redução do valor da multa para R$ 5.000,00
 
 ### Res. 5.456 (2026-10-20) — 2015-008322/TEC/AIMU-0650 — Santa luz
 
@@ -56,6 +57,7 @@ Decisões favoráveis com pauta localizada: **124 de 156** (pautas coletadas at�
 - **Processo SEI:** 046.0525.2025.0016717-58
 - **Valor do auto:** R$ 10.000,00 (dez mil reais)
 - **Fato gerador:** por ter sido constatado mediante inspeção técnica realizada no local do empreendimento, Fazenda Pedras Pretas, município de Santa Luz, no entorno do ponto de coordenadas SIRGA 2000: -11,258113Lat/S e.-39,35737Long/W no dia 05/11/2014 às 10h33min, que o empreendedor estar operando unidade de beneficiamento/britagem de minério de cromo/cromita, sem a devida Licença Ambiental. Este Auto de Infração está relacionando ao processo SEIA nº 2014.001.001533/INEMA/LIC-01533.
+- **Voto do relator na pauta** (pode ter mudado na sessão; vale o dispositivo publicado): cancelamento do auto de infração
 
 ### Res. 5.458 (2026-10-20) — 2017-000279/TEC/AIMU-0027 — Jacobina
 
@@ -543,6 +545,19 @@ Decisões favoráveis com pauta localizada: **124 de 156** (pautas coletadas at�
 - **Valor do auto:** R$ 50.000,00 (cinquenta mil reais) 1º adiamento
 - **Fato gerador:** por queimar resíduos sólidos contaminados, causando efetiva 21/09/2023 poluição ou degradação ambiental. A infração foi constatada na Fazenda Agropimenta, na Zona Rural de Ibicoara. 2º adiamento Reunião
 
+### Res. 156 (2025-07-15) — 2012-005122/TEC/AIAD-0053 — Ituaçu
+
+- **Pauta:** 53ª Ordinária da CT Recursal (2021-12-10) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/migracao_2024/arquivos/File/CEPRAM/camara-tecnicas/CTRECURSAL/2021/PAUTA53ReuniaoCTRecursal.pdf
+- **Fato gerador:** Captação de água sem outorga ou anuência dos órgãos ambientais competentes. Cultivo de maracujá sem Licença Ambiental dos órgãos ambientais competentes.
+- **Pedido do recorrente (pauta):** Solicita empenho na conclusão do processo.
+
+### Res. 158 (2025-07-15) — 2016-011380/TEC/AIMU-0823 — Andorinha
+
+- **Pauta:** 53ª Ordinária da CT Recursal (2021-12-10) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/migracao_2024/arquivos/File/CEPRAM/camara-tecnicas/CTRECURSAL/2021/PAUTA53ReuniaoCTRecursal.pdf
+- **Valor do auto:** R$ 5.000,00 (cinco mil reais)
+- **Fato gerador:** Por perfurar um poço artesiano dentro da sua propriedade sem as devidas licenças/autorizações do órgão ambiental competente.
+- **Pedido do recorrente (pauta):** Solicita a este respeitado órgão um prazo de 30 dias para que o técnico responsável entregue toda a documentação exigida no processo que corre no portal SEIA/INEMA citado e só assim, a retirada da multa no valor de R$ 5.000,00 (cinco mil reais).
+
 ### Res. 5.268 (2025-07-01) — 2012-012800/TEC/AIMU-0327 — Vitória da Conquista
 
 - **Pauta:** 72ª Ordinária da CT Recursal (2025-07-01) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/2025-07/Pauta%2072%C2%AA%20Reuni%C3%A3o%20Ordin%C3%A1ria%20CTRecursal%2001.07.pdf
@@ -568,7 +583,7 @@ Decisões favoráveis com pauta localizada: **124 de 156** (pautas coletadas at�
 - **Valor do auto:** R$120.000,00 (cento e vinte mil reais)
 - **Fato gerador:** Pela efetiva poluição ambiental do solo e do corpo hídrico, nos pontos de captação, proveniente do lançamento de derivados de petróleo, constatada nas estruturas vinculadas aos dois pivôs de 25 (vinte e cinco) hectares, na Fazenda Caraíbas.
 - **Pedido do recorrente (pauta):** Seja declarado insubsistente o Auto de Infração nº 2016- 008662/TEC/AIMU-0592, tendo em vista a existência de notificações anteriores lavradas em nome de pessoas jurídicas diversas, contendo o mesmo fato e localidade, sendo certo que a análise/julgamento dos demais processos administrativos elencados acima encontra-se pendente.
-- **Voto do relator na pauta** (pode ter mudado na sessão; vale o dispositivo publicado): Manutenção da penalidade
+- **Voto do relator na pauta** (pode ter mudado na sessão; vale o dispositivo publicado): Redução do valor da multa para R$ 40.000,00
 
 ### Res. 5.243 (2024-10-25) — 2016-008655/TEC/AIMU-0590 — Ibicoara- BA
 
@@ -576,7 +591,7 @@ Decisões favoráveis com pauta localizada: **124 de 156** (pautas coletadas at�
 - **Valor do auto:** R$ 100.000,00 (cem mil reais)
 - **Fato gerador:** Por efetiva poluição ambiental, ao lançar no solo efluentes contaminados, com agrotóxico, provenientes das lavagens de pulverizadores.
 - **Pedido do recorrente (pauta):** Seja recebida a presente Defesa Administrativa, autuada e processada regularmente, pelo princípio da busca da verdade real, autotutela e indisponibilidade do interesse público; Seja declarado insubsistente o Auto de Infração n 2016- 008655fTEC/AIM0590, tendo em vista a existência de notificação anterior pendente de apreciação por parte deste órgão ambiental; Na absurda possibilidade de subsistência do auto de infração, seja o mesmo Julgado Improcedente com sua conseqüente extinção, tendo em vista que o fato em comento não caracteriza infração e pela forma como o efluente proveniente da lavagem
-- **Voto do relator na pauta** (pode ter mudado na sessão; vale o dispositivo publicado): Redução de 70% do valor da penalidade de multa
+- **Voto do relator na pauta** (pode ter mudado na sessão; vale o dispositivo publicado): Segue o voto de Sérgio na redução da multa em 70%
 
 ### Res. 5.258 (2024-10-25) — 2016-001766/TEC/AIMU-0129 — Salvador/BA
 
@@ -607,6 +622,7 @@ Decisões favoráveis com pauta localizada: **124 de 156** (pautas coletadas at�
 - **Valor do auto:** R$10.000,00 (dez mil reais)
 - **Fato gerador:** Por ter informado a locação de Reserva Legal no CEFIR diferente da que aprovada através do Certificado ARL-0864/2010-1356.
 - **Pedido do recorrente (pauta):** Caso a V. Senhoria entenda que houve violação da Legislação, que sejam levadas em consideração na fixação da Multa as circunstâncias do caso concreto, a inexpressividade da infração, a ausência da má-fé do IMPUGNANTE, bem como a pequena extensão da infração cometida.
+- **Voto do relator na pauta** (pode ter mudado na sessão; vale o dispositivo publicado): Conversão da multa em advertência
 
 ### Res. 5.226 (2024-08-30) — 2011-017303/TEC/AIIN-0137 — Érico Cardoso processo
 
@@ -854,10 +870,141 @@ Decisões favoráveis com pauta localizada: **124 de 156** (pautas coletadas at�
 - **Fato gerador:** Por descumprimento do Auto de Infração de ADVERTÊNCIA nº 25/02/2022 2006-002145/TEC/AIAD-0133 e persistir lançando sem tratamento os efluentes 2º líquidos orgânicos oriundos dos esgotos. Reunião
 - **Pedido do recorrente (pauta):** Requer a anulação do auto de infração em razão das irregularidades apontadas. Subsidiariamente e em homenagem ao princípio da 18/03/2022 proporcionalidade, requer-se a redução da multa. Redistribuído
 
+### Res. 5.080 (2022-07-29) — 2017-010438/TEC/AIMU-0661 — Juazeiro
+
+- **Pauta:** 53ª Ordinária da CT Recursal (2021-12-10) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/migracao_2024/arquivos/File/CEPRAM/camara-tecnicas/CTRECURSAL/2021/PAUTA53ReuniaoCTRecursal.pdf
+- **Valor do auto:** R$ 150.000,00 (cento e cinqüenta mil reais)
+- **Fato gerador:** Realizar a queima em desacordo com o projeto apresentado no processo nº 2017.001.001499/INEMA/LIC-01499 (Declaração de Queima Controlada) considerando que a mesma deve ser realizada em sentido contrário ao dos ventos .
+- **Pedido do recorrente (pauta):** Excluir a imposição da multa de R$ 150.000,00 (cento e cinqüenta mil reais) ao autuado.
+
 ### Res. 5.071 (2022-06-10) — 2011-008804/TEC/AIMU-0189 — Feira de Santana
 
 - **Pauta:** 56ª Ordinária da CT Recursal (2022-04-08) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/migracao_2024/arquivos/File/CEPRAM/camara-tecnicas/CTRECURSAL/2022/Pauta56ReuniaoCTRecursal.pdf
 - **Valor do auto:** R$ 510,00 (quinhentos e dez reais) 1º
 - **Fato gerador:** Por realizar atividade de carcinicultura no lago de pedra do Reunião cavalo sem as devidas anuências do órgão ambiental competente. 18/03/2022
 - **Pedido do recorrente (pauta):** Seja julgado improcedente o processo administrativo nº 2011- 0008804TTEC/AIMU-0189, a fim de excluir a imposição da multa de 2º R$510,00 (quinhentos e dez reais) aplicada em 16.05.2011, com juros e correção monetária, a notificada; em caráter sucessivo ao pedido acima, a Reunião 08/04/2022 substituição da sanção de multa por advertência e/ou prestação de serviços de preservação, melhoria e recuperação da qualidade do meio ambiente, sob a orientação de técnicos especializados do IAP ou da Secretaria Estadual do Meio Ambiente; caso não atendidos os pedidos acima, o que não se espera, a redução d
+
+### Res. 5.024 (2022-04-29) — 2016-010565/TEC/AIAD-0524 — Conceição do Coité 1º
+
+- **Pauta:** 53ª Ordinária da CT Recursal (2021-12-10) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/migracao_2024/arquivos/File/CEPRAM/camara-tecnicas/CTRECURSAL/2021/PAUTA53ReuniaoCTRecursal.pdf
+- **Fato gerador:** por exercer atividade (posto de combustível) passível de licenciamento ambiental sem a necessária licença. A infração foi constatada na Praça José Carneiro da Silva, Centro, S/N, no município de Conceição do Coité
+- **Pedido do recorrente (pauta):** Requer Invalidade do Auto de Infração de Advertência
+
+### Res. 4.895 (2021-08-06) — 2009-027911/TEC/AIMU-0564 — Alagoinhas - BA por estar operando o Transporte de Produtos e Resíduos
+
+- **Pauta:** 46ª Ordinária da CT Recursal (2021-05-07) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/migracao_2024/arquivos/File/CEPRAM/camara-tecnicas/CTRECURSAL/2021/PAUTA46.pdf
+- **Valor do auto:** R$ 2.000,00
+- **Fato gerador:** Perigosos, com a Licença Ambiental vencida em 22.12.2008, conforme constatado no Sistema Cerberus do IMA, às 10:00 horas do dia 02/09/2009.
+- **Pedido do recorrente (pauta):** Requer anulação total do processo referente ao auto de infração, por o INEMA não comprovar a entrega documental há um representante legal dessa organização.
+
+### Res. 4.896 (2021-08-06) — 2016-000352/TEC/AIMU-0030 — Ubatã - BA
+
+- **Pauta:** 46ª Ordinária da CT Recursal (2021-05-07) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/migracao_2024/arquivos/File/CEPRAM/camara-tecnicas/CTRECURSAL/2021/PAUTA46.pdf
+- **Valor do auto:** R$ 5.000,00
+- **Fato gerador:** pelo cometimento de infração administrativa Formal do tipo Grave, por operar empreendimento/atividade sem a devida licença ambiental (LAC- vencida no momento da inspeção). A infração foi constatada aos 18 (dezoito) dias do mês de junho de 2015, às 14h, no Posto Brasil, localizado na Rua Antonio Higinio, s/n, Marinalva, Ubatã – BA / CEP: 45.550-000, no ponto de coordenadas geográficas - décimo de grau - Datum WGS-84 (S: - 14.20350º; W: - 39.53199º).
+- **Pedido do recorrente (pauta):** Requer a invalidade do auto de infração de multa, em razão de o empreendimento estar licenciado no ato da inspeção técnica realizada, conforme certificado da Renovação da Licença de Adesão e Compromisso acostado Às fls. 14/16 dos autos.
+
+### Res. 4.872 (2021-05-28) — 2016-011462/TEC/AIMU-0829 — Serrinha
+
+- **Pauta:** 45ª Ordinária da CT Recursal (2021-02-19) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/migracao_2024/arquivos/File/CEPRAM/camara-tecnicas/CTRECURSAL/2021/PAUTA45.pdf
+- **Valor do auto:** R$ 10.000,00 (dez mil reais)
+- **Fato gerador:** não atendimento dos condicionantes I; II; III; IV e VI, da Licença de Operação, concedida através da Portaria n 1765 e publicada no D.O.E de 23/12/2011, com validade até 23/12/2016, e lançamento de efluentes com possibilidade de tomar ultrapassados os padrões de dualidade ambiental. A infração foi constatada no dia 29/08/2016, às 13b, no Frigorífico Frigoserra, localizado na Rodovia Ba-409, s/n - km 02 / Anexo I, no ponto de coordenadas geográficas - décimo de grau - Datum Sirgas-2000 S -11,67677 / W-39,02098
+- **Pedido do recorrente (pauta):** Requer a Nulidade do Auto de Infração
+- **Voto do relator na pauta** (pode ter mudado na sessão; vale o dispositivo publicado): Conversão da penalidade de multa em advertência, acompanhando a orientação do agente ambiental em seu parecer Técnico PTDA – 0427/2020-0649
+
+### Res. 4.881 (2021-05-28) — 2016-009026/TEC/AIIN-0184 — Salvador por atividade de supressão de vegetação nativa, sem
+
+- **Pauta:** 45ª Ordinária da CT Recursal (2021-02-19) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/migracao_2024/arquivos/File/CEPRAM/camara-tecnicas/CTRECURSAL/2021/PAUTA45.pdf
+- **Fato gerador:** autorização do órgão ambiental competente. A infração foi constatada no dia 26/07/2016, às 11h:45min, em área no Alto do Andú, localizada em área interna da poligonal vigente da Unidade de Conservação Estadual - Parque Metropolitano de Pituaçu, nesta capital. Registro de coordenadas geográficas – décimo de grau – Datum WGS-84 (S: 12.95232°; W:
+- **Pedido do recorrente (pauta):** Requer a anulação do auto de infração, por ter cumprido a exigência de elaboração do PRAD entregue e aprovado pelo INEMA.
+- **Voto do relator na pauta** (pode ter mudado na sessão; vale o dispositivo publicado): suspensão dos efeitos da penalidade de interdição por ter cumprido o PRAD
+
+### Res. 4.885 (2021-05-28) — 2016-014914/TEC/AIIN-0295 — Aracatu - BA por atividade de supressão de vegetação nativa em estágio
+
+- **Pauta:** 45ª Ordinária da CT Recursal (2021-02-19) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/migracao_2024/arquivos/File/CEPRAM/camara-tecnicas/CTRECURSAL/2021/PAUTA45.pdf
+- **Fato gerador:** inicial de regeneração natural no Bioma Caatinga, para implantação de pastagem, em uma área de aproximadamente 10 ha (dez hectares), em desacordo com a legislação vigente, sem autorização ou licença do órgão ambiental competente. A infração administrativa ambiental foi constatada na Fazenda Guaratuba - Zona Rural de Aracatu, sob as coordenadas geográficas S 14,40688°/W 41,44331°, no dia 28/11/16 às 11:50h.
+- **Pedido do recorrente (pauta):** Requer que seja indeferido o pedido de interdição temporária, visto que a propriedade é utilizada para a criação de gado
+- **Voto do relator na pauta** (pode ter mudado na sessão; vale o dispositivo publicado): Suspensão do auto de infração de interdição
+
+### Res. 4.718 (2019-10-11) — 2010-018951/TEC/AIMU-0702 — Tanque Novo- BA
+
+- **Pauta:** 34ª Ordinária da CT Recursal (2019-09-06) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/migracao_2024/arquivos/File/CEPRAM/camara-tecnicas/CTRECURSAL/2019/PAUTA34.pdf
+- **Valor do auto:** R$ 15.000,00 (quinze mil reais)
+- **Fato gerador:** Descumprimento de Termo de Compromisso
+- **Pedido do recorrente (pauta):** Requer a reconsideração da multa
+
+### Res. 4.733 (2019-10-11) — 2010-000999/TEC/AIMU-0036 — Salvador
+
+- **Pauta:** 35ª Ordinária da CT Recursal (2019-09-26) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/migracao_2024/arquivos/File/CEPRAM/camara-tecnicas/CTRECURSAL/2019/PAUTA35.pdf
+- **Valor do auto:** R$ 10.000,01
+- **Fato gerador:** Poluição ambiental e descumprimento de condicionante de licença ambiental
+- **Pedido do recorrente (pauta):** Requer seja desconsiderada a homologação da penalidade de multa
+
+### Res. 4.741 (2019-10-11) — 2009-033193/TEC/AIAD-0340 — Itacaré - BA
+
+- **Pauta:** 35ª Ordinária da CT Recursal (2019-09-26) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/migracao_2024/arquivos/File/CEPRAM/camara-tecnicas/CTRECURSAL/2019/PAUTA35.pdf
+- **Fato gerador:** (I) estar estabelecida em praia sem a prévia autorização do Ministério da Fazenda (art.6 da Lei 9636 de 15/05/1998); e (II) lançar efluentes em águas interiores e costeiras (art.26 da Lei 10.431/2006, combinada com o art. 25 do Decreto 11.235/08) em desconformidade com normas e padrões estabelecidos no Plano de Manejo da APA de Itacaré /Serra Grande e no Plano de Requalificação Urbana – PRUA. A irregularidade foi constatada na Cabana Paradise, na Praia da Ribeira, Itacaré.
+- **Pedido do recorrente (pauta):** Requer a nulidade do auto de infração.
+
+### Res. 4.715 (2019-09-27) — 2011-016971/TEC/AIMU-0416 — Rio de Contas- BA
+
+- **Pauta:** 32ª Ordinária da CT Recursal (2019-07-12) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/migracao_2024/arquivos/File/CEPRAM/camara-tecnicas/CTRECURSAL/2019/PAUTA32.pdf
+- **Valor do auto:** R$ 2.000,00(dois mil reais)
+- **Fato gerador:** Operar sem licença ambiental.
+- **Pedido do recorrente (pauta):** Extinção da multa, haja vista, o empreendimento em questão estar devidamente licenciado pelo município.
+
+### Res. 4.670 (2018-11-30) — 2009-015172/TEC/AIMU-0281 — Esplanada- BA
+
+- **Pauta:** 27ª Ordinária da CT Recursal (2018-07-13) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/migracao_2024/arquivos/File/CEPRAM/camara-tecnicas/CTRECURSAL/2018/Pauta_27_Reuniao_definitiva.pdf
+- **Valor do auto:** R$ 200.000,00 (duzentos mil reais)
+- **Fato gerador:** Alargamento da estrada sem a necessária Licença Ambiental e realizar supressão de vegetação e aterro, potencializando o processo de assoreamento das drenagens naturais.
+- **Pedido do recorrente (pauta):** Requer a Petrobras: a) Seja o presente recurso conhecido, independentemente da realização de depósito de 30% do valor da multa; b) A nulidade do Auto de Infração e, via de conseqüência , cancelamento da penalidade imposta; c) Caso esse E. Conselho considere válida a penalidade imposta, que seja reduzido o valor da multa; d) Por derradeiro, que seja considerada abusiva a taxa de juros de 40% praticada pelo órgão quando da atualização do valor da multa.
+
+### Res. 4.637 (2018-09-28) — 2011-025923/TEC/AIMU-0599 — São Francisco do Conde
+
+- **Pauta:** 23ª Ordinária da CT Recursal (2017-11-10) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/migracao_2024/arquivos/File/CEPRAM/camara-tecnicas/CTRECURSAL/2017/pauta_23_Reuniao.pdf
+- **Valor do auto:** R$5.000,00
+- **Fato gerador:** Transportar produto perigoso sem licença ambiental Este e outros documentos estão disponíveis no Site: www.meioambiente.ba.gov.br
+- **Pedido do recorrente (pauta):** Recebimento do recurso com efeito suspensivo e deferimento ou conversão em advertência ou conversão em prestação de serviços de preservação ambiental.
+
+### Res. 4.647 (2018-09-28) — 2010-001352/TEC/AIMU-0042 — CANDIBA- BA
+
+- **Pauta:** 27ª Ordinária da CT Recursal (2018-07-13) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/migracao_2024/arquivos/File/CEPRAM/camara-tecnicas/CTRECURSAL/2018/Pauta_27_Reuniao_definitiva.pdf
+- **Valor do auto:** R$ 7.955,00 (sete mil novecentos e cinqüenta e cinco reais)
+- **Fato gerador:** Derrubada de aroeira, Candiba- BA.
+- **Pedido do recorrente (pauta):** Requer a reconsideração da multa
+
+### Res. 4.620 (2018-07-27) — 2012-016873/TEC/AIMU-0593 — Salvador
+
+- **Pauta:** 25ª Ordinária da CT Recursal (2018-05-04) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/migracao_2024/arquivos/File/CEPRAM/camara-tecnicas/CTRECURSAL/2018/pauta_25_REUNIAO.pdf
+- **Valor do auto:** R$5.000,00
+- **Fato gerador:** Falta de entrega do PAD
+- **Pedido do recorrente (pauta):** Requer a improcedência do auto de infração com o cancelamento da multa ou substituição da penalidade por advertência ou a redução de seu valor para R$500,00
+
+### Res. 4.621 (2018-07-27) — 2012-016874/TEC/AIMU-0594 — Salvador
+
+- **Pauta:** 25ª Ordinária da CT Recursal (2018-05-04) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/migracao_2024/arquivos/File/CEPRAM/camara-tecnicas/CTRECURSAL/2018/pauta_25_REUNIAO.pdf
+- **Valor do auto:** R$5.000,00
+- **Fato gerador:** Falta de entrega do PAD
+- **Pedido do recorrente (pauta):** Requer a improcedência do auto de infração com o cancelamento da multa ou substituição da penalidade por advertência ou a redução de seu valor para R$500,00
+
+### Res. 4.622 (2018-07-27) — 2012-017014/TEC/AIMU-0623 — Luis Eduardo Magalhães
+
+- **Pauta:** 25ª Ordinária da CT Recursal (2018-05-04) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/migracao_2024/arquivos/File/CEPRAM/camara-tecnicas/CTRECURSAL/2018/pauta_25_REUNIAO.pdf
+- **Valor do auto:** R$5.000,00
+- **Fato gerador:** Falta de entrega do PAD
+- **Pedido do recorrente (pauta):** Requer a improcedência do auto de infração com o cancelamento da multa ou substituição da penalidade por advertência ou a redução de seu valor para R$500,00
+
+### Res. 4.623 (2018-07-27) — 2012-017017/TEC/AIMU-0625 — Luis Eduardo Magalhães
+
+- **Pauta:** 25ª Ordinária da CT Recursal (2018-05-04) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/migracao_2024/arquivos/File/CEPRAM/camara-tecnicas/CTRECURSAL/2018/pauta_25_REUNIAO.pdf
+- **Valor do auto:** R$5.000,00
+- **Fato gerador:** Falta de entrega do PAD
+- **Pedido do recorrente (pauta):** Requer a improcedência do auto de infração com o cancelamento da multa ou substituição da penalidade por advertência ou a redução de seu valor para R$500,00
+
+### Res. 4592 (2018-04-06) — 2009-014860/TEC/AIIN-0067 — Jitauna
+
+- **Pauta:** 22ª Ordinária da CT Recursal (2017-10-06) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/migracao_2024/arquivos/File/CEPRAM/camara-tecnicas/CTRECURSAL/2017/pauta_22_Reuniao.pdf
+- **Fato gerador:** Unidade de fabricação de produtos cerâmicos funcionando sem licença
+- **Pedido do recorrente (pauta):** Cancelamento do Auto de Infração e penalização do proprietário do local Conselheiro relator Leila Márcia Souza Oliveira - FAEB
 

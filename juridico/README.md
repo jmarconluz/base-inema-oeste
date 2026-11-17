@@ -21,7 +21,7 @@ python scripts/buscar.py '"intimação por edital"' --fonte tema,stj,tjba --n 10
 | `checklist_analise_auto.md` | roteiro quando chega um auto: prazos, prescrição, nulidades, autoria, competência, Código Florestal, dosimetria, estratégia |
 | `teses_defesa.md` | as teses, com base legal, precedentes conferidos e grau de força |
 | `precedentes_cepram.md` | 156 decisões favoráveis do CEPRAM (prescrição, nulidade da notificação, advertência, redução, anulação), com nº da resolução e do processo |
-| `cepram_votos_relator.md` | fato gerador, pedido do recorrente e voto do relator (pautas da CT Recursal) de 124 dessas decisões, com resumo por tipo de infração — ex.: autos por não apresentação do PAD/PARA anulados em série desde 2023 (tese 5.3) |
+| `cepram_votos_relator.md` | fato gerador, pedido do recorrente e voto do relator (pautas da CT Recursal) de 145 dessas decisões (pautas de 2016 a 2026), com resumo por tipo de infração — ex.: autos por não apresentação do PAD/PARA anulados já em 2018 e em série desde 2023 (tese 5.3) |
 | `modelos_pecas.md` | esqueletos de defesa, recurso ao CEPRAM, prescrição, conversão de multa e desembargo |
 | `acesso_processos.md` | como obter a cópia integral dos processos (SEIA, SEI Bahia, LAI, IBAMA) + modelos de pedido |
 | `legislacao/artigos_chave.md` | texto integral dos artigos usados nas teses (federal e Bahia) |
@@ -37,7 +37,7 @@ Bases de dados relacionadas (fora desta pasta):
 
 - `multas/bahia_doe/` — 15.117 autuados em editais do INEMA (2016–2026), 847 decisões do CEPRAM, 138 conversões/TCs.
 - `multas/ibama/` — 26.013 autos e 4.963 embargos do IBAMA na Bahia (com polígonos) e o resumo do Brasil inteiro.
-- `multas/cepram_pautas/` — 1.769 registros das pautas da CT Recursal (54ª a 85ª reunião, 2022–2026): auto, nº SEI,
+- `multas/cepram_pautas/` — 2.936 registros das pautas da CT Recursal (12ª a 85ª reunião, 2016–2026): auto, nº SEI,
   valor, município, fato gerador, pedido e histórico/voto do relator (sem nome do interessado).
 
 ## Legislação guardada

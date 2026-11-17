@@ -37,6 +37,29 @@ Ordem prática de análise: **1) prazos → 2) prescrição → 3) nulidades do 
 - **Por que funciona na Bahia:** o STJ, no Tema Repetitivo 1.294 (REsp 2.137.071, 1ª Seção), fixou que o Decreto
   20.910/1932 não serve para reconhecer prescrição intercorrente em processos estaduais e municipais, que dependem de
   lei local. A Bahia tem a lei local (12.209/2011, art. 109).
+- **TJBA aplica os arts. 108, §3º, e 109, §1º, da Lei 12.209 a processo sancionador estadual** (conferido no inteiro teor
+  pela API pública do portal jurisprudencia.tjba.jus.br em 17/11/2026; nenhum dos acórdãos achados é de multa do INEMA —
+  usar por identidade de lei, já que a Lei 12.209 rege todo processo administrativo estadual):
+  - **2ª Câmara Cível, Apelação 0535542-14.2017.8.05.0001**, rel. Des. José Soares Ferreira Aras Neto — multa do
+    PROCON-BA; processo administrativo parado por mais de 10 anos; **prescrição intercorrente reconhecida** com base nos
+    arts. 108 e 109 da Lei 12.209/2011 ("precedentes desta Câmara"); sentença reformada. Inteiro teor:
+    https://jurisprudenciaws.tjba.jus.br/inteiroTeor/e7ffc806-6b64-301f-9f00-651f6380d58a
+  - **2ª Câmara Cível, Agravo de Instrumento 8026773-57.2025.8.05.0000**, rel. Des. Raimundo Nonato Borges Braga, publ.
+    17/12/2025 — mantida liminar que suspendeu multa e impedimento de licitar: extrapolado o prazo de conclusão do PAS
+    (art. 108, §3º), o prazo prescricional **reinicia integralmente** (art. 109, §1º); suspensão por diligências não
+    comprovada. https://jurisprudenciaws.tjba.jus.br/inteiroTeor/0fd4fc09-df41-3706-b177-259026c2c19d
+  - **4ª Câmara Cível, Agravo de Instrumento 8007659-98.2026.8.05.0000**, rel. Des.ª Maria das Graças Guerra de Santana
+    Hamilton, publ. 31/08/2026 — "a instauração de processo administrativo sancionatório interrompe a prescrição
+    quinquenal, a qual volta a fluir integralmente após o escoamento do prazo legal de 180 dias" (arts. 108, §3º, e
+    109, caput e §1º); tutela de urgência concedida.
+    https://jurisprudenciaws.tjba.jus.br/inteiroTeor/675cb15d-8c22-38c0-b880-b044cb7af48e
+  - **Órgão Especial, MS 8055451-19.2024.8.05.0000**, rel. Des.ª Inez Maria Brito Santos Miranda, publ. 24/10/2025 —
+    mesma contagem (interrupção na instauração, retomada após até 360 dias de instrução), prescrição afastada no caso.
+  - **Divergência a conhecer:** a 2ª Câmara Cível (AI 8001744-10.2022.8.05.0000, rel. Des. José Soares Ferreira Aras
+    Neto) leu o art. 109 como prazo da prescrição "direta" e reconheceu prescrição por **paralisação superior a 3 anos**
+    (art. 108, §3º, + razoável duração do processo) — tese ainda mais favorável, mas minoritária. E a 5ª Câmara Cível
+    (AI 8065103-60.2024.8.05.0000) não admitiu discutir a prescrição do processo administrativo em exceção de
+    pré-executividade (usar embargos à execução ou ação anulatória).
 - **Precedentes no CEPRAM (base `multas/bahia_doe/cepram_recursos.csv`):** Res. 5.268/2025 (proc. 2012-012800/TEC/AIMU-0327)
   e Res. 5.283/2025 (proc. 2015-002131/TEC/AIMU-0179) — recurso deferido "reconhecendo a prescrição da pretensão
   punitiva com a extinção do respectivo processo".
@@ -124,9 +147,24 @@ Ordem prática de análise: **1) prazos → 2) prescrição → 3) nulidades do 
 
 ### 3.2 Multa não passa para o comprador nem para o herdeiro — Forte
 
-- A multa é pessoal (CF, art. 5º, XLV — intranscendência). O STJ (1ª Turma, 2024) afastou multa administrativa
-  cobrada de herdeiro sem conduta própria; e a Turma já tratou de transferência da posse antes da infração
-  (AgInt nos EDcl no REsp 1.967.742/PR, rel. Min. Regina Helena Costa, j. 24/10/2022, citado pelo TJMT).
+- A multa é pessoal (CF, art. 5º, XLV — intranscendência). **STJ, REsp 1.823.083, 1ª Turma, rel. Min. Paulo Sérgio
+  Domingues, j. 11/06/2024, DJe 18/06/2024:** a natureza *propter rem* (Súmula 623 e Tema 1.204) vale para a
+  responsabilidade **civil**; a multa decorre do poder sancionador e tem caráter pessoal — o herdeiro que não concorreu
+  para a infração não se sujeita a ela, e o auto lavrado depois da morte do autor da herança nem chegou a integrar o
+  patrimônio transmitido. (Conferido na base oficial: Portal de Dados Abertos do STJ, espelhos de acórdãos da 1ª Turma,
+  arquivo 20240630; registro 2019/0186883-6 — `jurisprudencia/stj/stj_acordaos_ambientais.json`; conferência em
+  17/11/2026.) A Turma já tratou de transferência da posse antes da infração (AgInt nos EDcl no REsp 1.967.742/PR, rel.
+  Min. Regina Helena Costa, j. 24/10/2022, citado pelo TJMT).
+- **TJBA, multa do INEMA:** 3ª Câmara Cível, Apelação 8092343-60.2020.8.05.0001, rel. Des.ª Joanice Maria Guimarães de
+  Jesus, publ. 12/05/2026 — execução fiscal do INEMA extinta: a multa ambiental "possui natureza sancionadora e caráter
+  pessoal, não se transmitindo aos herdeiros", e é indevido prosseguir contra o espólio quando o auto e o crédito são
+  posteriores ao óbito (tese de julgamento; ementa oficial do portal do TJBA, conferida em 17/11/2026;
+  https://jurisprudenciaws.tjba.jus.br/inteiroTeor/a80b7755-be33-3035-a88f-cc8d6c11f5d8).
+- **Limite (contra-argumento a antecipar):** se o auto foi lavrado **em vida** contra o infrator, a execução fiscal
+  alcança os sucessores **até as forças da herança**, inclusive bens doados em adiantamento de legítima (STJ, AgInt no
+  REsp 1.660.327, 2ª Turma, rel. Min. Og Fernandes, j. 07/06/2022, DJe 20/06/2022 — Lei 6.830/1980, art. 4º, VI;
+  conferido na mesma base oficial em 17/11/2026). A tese do REsp 1.823.083 é forte quando o auto é lavrado contra o
+  herdeiro ou após o óbito.
 - **Atenção:** a obrigação de **reparar o dano** acompanha o imóvel (Súmula 623 do STJ) — a multa não.
 - **Uso direto na due diligence/corretagem:** o comprador herda o passivo de recuperação, não a multa.
 
@@ -140,7 +178,10 @@ Ordem prática de análise: **1) prazos → 2) prescrição → 3) nulidades do 
 
 - Os tribunais aceitam imagem de satélite como prova da **materialidade**, inclusive sem vistoria (há decisões nesse
   sentido). Mas a **autoria** atribuída ao proprietário por presunção exige exame cuidadoso da negativa de autoria
-  (TRF1 anulou autos e embargo baseados no mesmo polígono sem prova de autoria).
+  (TRF1, Apelação Cível 0004552-44.2013.4.01.3603, julgada em 12/12/2018, manteve sentença que anulou 2 autos e o termo
+  de embargo: a área autuada ficava fora dos limites da fazenda do autuado e o polígono foi traçado com dados fornecidos
+  por ele — **ainda fonte secundária**: número e data tirados de comentário em comunidadeambiental.com.br; a consulta
+  processual do TRF1 tem verificação contra robôs, conferência pendente em 17/11/2026; não citar sem o inteiro teor).
 - **Defesa:** não atacar a tecnologia; atacar data, área e autoria com **laudo multitemporal** (série histórica
   PRODES/MapBiomas/Sentinel/Landsat): desmate anterior à posse, anterior a 22/07/2008, fora do imóvel, regeneração,
   área menor que a autuada. É exatamente o laudo de contestação de alertas que a Ecoplan já faz.
@@ -192,9 +233,12 @@ Ordem prática de análise: **1) prazos → 2) prescrição → 3) nulidades do 
   (PAD) ... declarado no Termo de Adesão ao Plano Estadual de Adequação e Regularização Ambiental dos Imóveis Rurais
   (PARA), conforme determina o artigo 3º do Decreto Estadual nº 12.071/2010" — autos típicos do Oeste (2011–2015).
 - **Precedente administrativo reiterado (conferido em 16/11/2026):** cruzando as resoluções do CEPRAM publicadas no
-  DOE (`multas/bahia_doe`) com o fato gerador das pautas da CT Recursal (54ª a 85ª reunião, site da SEMA), há
-  **65 decisões favoráveis — todas anulando a multa — e 5 desfavoráveis** nesse tipo de auto. As 5 desfavoráveis são de
-  10/06/2022 (Res. 5.043, 5.045, 5.061, 5.073 e 5.075); desde 29/09/2023 (Res. 5.165) **todas** foram favoráveis,
+  DOE (`multas/bahia_doe`) com o fato gerador das pautas da CT Recursal (12ª a 85ª reunião, 2016–2026, site da SEMA;
+  ampliado em 17/11/2026), há **69 decisões favoráveis — todas anulando a multa — e 7 desfavoráveis** nesse tipo de
+  auto. O CEPRAM já anulava esses autos em 2018: Res. 4.620 a 4.623, de 27/07/2018 ("Falta de entrega do PAD", multas
+  de R$ 5.000,00, duas com município Luís Eduardo Magalhães na pauta da 24ª reunião; DOE de
+  29/08/2018, https://dool.egba.ba.gov.br/ver-html/4721/#e:4721). As 7 desfavoráveis concentram-se em 2022: Res. 5.026 e 5.027
+  (29/04/2022) e 5.043, 5.045, 5.061, 5.073 e 5.075 (10/06/2022); desde 29/09/2023 (Res. 5.165) **todas** foram favoráveis,
   incluindo 44 em 07/07/2026, julgadas em bloco na seção "Processos Caso Plano Estadual de Adequação e Regularização
   Ambiental dos Imóveis Rurais – PARA" da pauta da 80ª reunião (Res. 5.370 a 5.415). Por município: Barreiras ≥ 16,
   Luís Eduardo Magalhães ≥ 12, Jaborandi 11, São Desidério 3, Formosa do Rio Preto e Correntina 1 cada. Lista completa
@@ -283,10 +327,13 @@ Repetitivo vincula juízes e tribunais (CPC, art. 927, III); para o órgão ambi
 
 - Ler o voto/relatório dos processos com decisão favorável do CEPRAM (156) para registrar os **fundamentos** — a
   resolução publicada só traz o dispositivo. Feito em 16/11/2026 o que as pautas públicas permitem (fato gerador,
-  pedido e voto proposto de 124 delas, em `cepram_votos_relator.md`); a motivação continua só no processo (SEI).
-- Localizar acórdão do TJBA aplicando o art. 109 da Lei 12.209 a multa do INEMA (há decisão do TJBA calculando o prazo
-  pelo art. 109, §1º, ainda não conferida no inteiro teor).
-- Conferir número do acórdão do STJ (1ª Turma, 2024) sobre multa e herdeiro e do acórdão do TRF1 que anulou autos e
-  embargo por falta de prova de autoria (fonte secundária: comentário publicado em comunidadeambiental.com.br).
+  pedido e voto proposto de 124 delas, em `cepram_votos_relator.md`; ampliado para 145 em 17/11/2026 com as pautas de
+  2016–2021); a motivação continua só no processo (SEI).
+- Localizar acórdão do TJBA aplicando o art. 109 da Lei 12.209 especificamente a **multa do INEMA**: em 17/11/2026 a
+  busca no portal do TJBA achou só processos sancionadores de outros órgãos estaduais (PROCON, SAEB, TJBA, TCE) — citados
+  na seção 1.2 por identidade de lei.
+- Acórdão do STJ sobre multa e herdeiro: conferido em 17/11/2026 (REsp 1.823.083 — tese 3.2). Falta conferir no inteiro
+  teor o acórdão do TRF1 que anulou autos e embargo por falta de prova de autoria (Ap. Cível 0004552-44.2013.4.01.3603,
+  número tirado de fonte secundária; a consulta processual do TRF1 tem verificação contra robôs).
 - Jurisprudência do TRF1 (multas do IBAMA na Bahia) e do STJ por tema — coletar pelo navegador (SCON e portal do TRF1).
 - Infração instantânea x permanente em desmatamento (marco inicial da prescrição) — pesquisar posição atual do STJ.

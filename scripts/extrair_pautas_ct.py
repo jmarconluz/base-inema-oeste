@@ -62,8 +62,8 @@ def extrair(caminho, url=None):
     primeira = pdf.pages[0].extract_text() or ''
     m = re.search(r'(\d+)\s*[ªº°]\s*Reuni[ãa]o\s+(Ordin[áa]ria|Extraordin[áa]ria)', primeira, re.I)
     reuniao = (m.group(1) + 'ª ' + m.group(2).capitalize()) if m else os.path.basename(caminho)
-    d = re.search(r'Data\s*:\s*(\d{2})/(\d{2})/(\d{4})', primeira)
-    data = f'{d.group(3)}-{d.group(2)}-{d.group(1)}' if d else None
+    d = re.search(r'Data\s*:?\s*(\d{2})/(\d{2})/(\d{4}|\d{2})\b', primeira)  # pautas antigas: "Data: 22/11/19" ou "Data11/06/2021"
+    data = f'{d.group(3) if len(d.group(3)) == 4 else "20" + d.group(3)}-{d.group(2)}-{d.group(1)}' if d else None
     blocos, atual = [], None
     for lado, t in linhas(pdf):
         if lado == 'E' and re.search(r'DESCRITORES', t):
@@ -77,7 +77,7 @@ def extrair(caminho, url=None):
         if not auto:
             continue
         sei = RE_SEI.search(e)
-        rot = r'(?:Do\s+[Pp]edido|Int\.|Interessad[oa]|Tipo|Valor|Munic[íi]pio|Fato\s+Gerador|Relator(?:es)?(?:\s+Anterior(?:es)?|\s+Atual)?|\d+\.\s+[A-ZÁ-Ú]|Processo)\s*:'
+        rot = r'(?:Do\s+[Pp]edido|Conselheir[oa]\s+[Rr]elator[a]?|Int\.|Interessad[oa]|Tipo|Valor|Munic[íi]pio|Fato\s+Gerador|Relator(?:es)?(?:\s+Anterior(?:es)?|\s+Atual)?|\d+\.\s+[A-ZÁ-Ú]|Processo)\s*:'
         out.append({k: (mascara(v) if isinstance(v, str) else v) for k, v in {
             'reuniao': reuniao, 'data_reuniao': data, 'fonte': url or os.path.basename(caminho),
             'auto': auto, 'sei': sei.group(0) if sei else None,
@@ -92,7 +92,7 @@ def extrair(caminho, url=None):
 
 def ultimo_voto(hist):
     """Último 'Voto do relator' do histórico (até 'Demais membros' ou o próximo evento)."""
-    vs = list(re.finditer(r'Voto\s+(?:do\s+)?(?:relator|de\s+vistas?)[^:]{0,40}:\s*(.*?)(?=Demais\s+Membros|Reuni[ãa]o\s+(?:[Vv]irtual|Extraordin)|Voto\s+(?:do\s+)?relator|N[ãa]o\s+foi\s+analisado|Adiado|Pedido\s+de\s+vistas|$)', hist, re.I | re.S))
+    vs = list(re.finditer(r'Voto\s+(?:d[oa]\s+)?(?:relator|de\s+vistas?)[^:]{0,40}:\s*(.*?)(?=Demais\s+Membros|Reuni[ãa]o\s+(?:[Vv]irtual|Extraordin)|Voto\s+(?:d[oa]\s+)?relator|N[ãa]o\s+foi\s+analisado|Adiado|Pedido\s+de\s+vistas|$)', hist, re.I | re.S))
     vs = [v.group(1).strip(' .;') for v in vs if len(v.group(1).strip()) > 8]
     return vs[-1] if vs else None
 
@@ -165,7 +165,7 @@ def gerar_md(regs):
         if voto: linhas_md.append(f"- **Voto do relator na pauta** (pode ter mudado na sessão; vale o dispositivo publicado): {voto[:900]}")
         linhas_md.append('')
     L += resumo_temas(b, por_auto) + ['## Decisões favoráveis, uma a uma', '']
-    L.insert(4, f'Decisões favoráveis com pauta localizada: **{achados} de {len(fav)}** (pautas coletadas até agora: da 54ª reunião, fev/2022, à 85ª, dez/2026; faltam as de 2016 a 2021).\n')
+    L.insert(4, f'Decisões favoráveis com pauta localizada: **{achados} de {len(fav)}** (pautas coletadas: todas as publicadas na página da CT Recursal, da 12ª reunião, mar/2016, à 85ª, dez/2026; o PDF da 29ª, de 19/10/2018, só tem o cabeçalho, e a pauta da 74ª, de 02/09/2025, não está na página — só o registro de resultado).\n')
     open(MD, 'w', encoding='utf-8').write('\n'.join(L + [x for x in linhas_md]) + '\n')
     return achados, len(fav)
 
