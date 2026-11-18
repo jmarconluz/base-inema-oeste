@@ -1,10 +1,10 @@
 # TJBA — decisões por tema de defesa
 
-Gerado por `scripts/indexar_tjba.py` a partir de `tjba_inema_multas.json`: 1274 decisões do 2º grau (publicadas de 2012-11-16 a 2026-10-06; parte sem data no portal), 922 com assunto ambiental. Nos temas abaixo entram só as decisões ambientais que tratam de multa, auto de infração, embargo, interdição ou outra sanção (no tema da demora do órgão, também as de licenciamento e outorga).
+Gerado por `scripts/indexar_tjba.py` a partir de `tjba_inema_multas.json`: 1275 decisões do 2º grau (publicadas de 2012-11-16 a 2026-10-06; parte sem data no portal), 923 com assunto ambiental. Nos temas abaixo entram só as decisões ambientais que tratam de multa, auto de infração, embargo, interdição ou outra sanção (no tema da demora do órgão, também as de licenciamento e outorga).
 
 Classificação automática pelas palavras da ementa: use para achar o que ler. **Antes de citar, abra o inteiro teor** (link) e confira quem venceu, o fundamento e se a decisão transitou ou foi reformada.
 
-## Prescrição (Lei 12.209/2011, art. 109; Lei 9.873/1999; intercorrente) — 59 decisões
+## Prescrição (Lei 12.209/2011, art. 109; Lei 9.873/1999; intercorrente) — 60 decisões
 
 | Publicação | Processo | Classe | Órgão | Ementa (início) |
 |---|---|---|---|---|
@@ -67,6 +67,7 @@ Classificação automática pelas palavras da ementa: use para achar o que ler. 
 | s/d | [0503090-04.2015.8.05.0103](https://jurisprudenciaws.tjba.jus.br/inteiroTeor/cf75fb16-d101-364b-850c-c8d9cfbbd7ea) | Apelação | Quinta Camara Cível | 6.É cediço que a Administração Pública tem o poder-dever de rever seus atos viciados, conforme dispõe a Súmula n.º 473/STF.6, porém, no caso dos autos ocorreu a prescrição quinquenal para administração pública anular o ato, com arrimo na Lei 12.209/11. 8.Deflui-se dos autos que fora realizada nova perícia, em 2016, pela Junta Mé… |
 | s/d | [8005116-95.2022.8.05.0022](https://jurisprudenciaws.tjba.jus.br/inteiroTeor/398babd1-72c1-3eb6-a207-99745f7a152f) | Recurso em Sentido Estrito | Primeira Camara Criminal - Segunda Turma | I - Cuida-se de Recurso em Sentido Estrito interposto pelo Ministério Público do Estado da Bahia em face de decisão prolatada pelo MM. Juiz de Direito da 1ª Vara Criminal da Comarca de Barreiras/BA (ID. 66638998), que negou a homologação ao Acordo de Não Persecução Penal e declinou da competência para uma das Varas do Sistema de… |
 | s/d | [0532689-61.2019.8.05.0001](https://jurisprudenciaws.tjba.jus.br/inteiroTeor/ced4a6df-14de-373e-ba2b-112dd20f01c3) | Recurso em Sentido Estrito | Segunda Camara Criminal - Segunda Turma | RECURSO EM SENTIDO ESTRITO. CRIME CONTRA O MEIO Ambiente. Empreendimento construído em área de proteção ambiental (apa) sem autorização dos órgãos competentes (art. 60, da Lei 9.605/98). crime permanente. Precedentes do stj. Não comprovada a licença ou autorização dos órgãos de fiscalização ambiental. Afastada a incidência de pr… |
+| s/d | [8028837-45.2022.8.05.0000](https://jurisprudenciaws.tjba.jus.br/inteiroTeor/4e4be9df-ca5c-351f-acd6-23d00854ba84) | Agravo de Instrumento | Quinta Camara Cível | AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO E AMBIENTAL.. AUTO DE INFRAÇÃO EM TRÂMITE POR MAIS DE 10 ANOS. PRESCRIÇÃO INTERCORRENTE. POSSIBILIDADE. NECESSIDADE DE ASSEGURAR O RESULTADO ÚTIL DO PROCESSO. AUSÊNCIA DE PREJUÍZO À AGRAVADA E POSSIBILIDADE DE REVERSÃO DA DECISÃO. LIMINAR DEFERIDA. AGRAVO DE INSTRUMENTO PROVIDO. |
 
 ## Nulidade, notificação, ampla defesa e motivação — 161 decisões
 

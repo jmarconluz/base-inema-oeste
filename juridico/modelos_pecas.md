@@ -58,7 +58,10 @@ autoridade que proferiu a decisão (Decreto 14.024, art. 259, II; Lei 10.431, ar
 - Linha do tempo com datas do fato, do conhecimento pelo órgão, da lavratura/publicação do auto, dos despachos e da
   decisão final.
 - Fundamento: Lei BA 12.209/2011, art. 109, caput e §1º, c/c art. 108, §3º; STJ Tema 1.294 (prescrição intercorrente
-  depende de lei local — a Bahia tem); precedentes CEPRAM Res. 5.268/2025 e 5.283/2025.
+  depende de lei local — a Bahia tem); precedentes CEPRAM Res. 5.268/2025 e 5.283/2025. Em reforço (multa do INEMA):
+  Decreto BA 14.024/2012, art. 253, c/c Decreto 6.514/2008, arts. 21 e 22, e Lei 9.873/1999, art. 1º, §1º — TJBA, 4ª
+  Câm. Cível, Ap. 8055230-72.2020.8.05.0001 e Ap. 8117370-74.2022.8.05.0001; 2ª Câm. Cível, Ap. 8108706-83.2024.8.05.0001
+  (tese 1.3 de `teses_defesa.md`, conferidas em 18/11/2026).
 - Pedido: extinção do processo e arquivamento; baixa de eventual inscrição em dívida ativa.
 
 ---

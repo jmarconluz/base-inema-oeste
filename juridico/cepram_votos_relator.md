@@ -2,18 +2,18 @@
 
 Gerado por `scripts/extrair_pautas_ct.py` a partir das pautas públicas da Câmara Técnica Recursal (https://www.ba.gov.br/meioambiente/404/pautas-da-camara-tecnica-recursal). Para cada decisão favorável de `precedentes_cepram.md`, mostra a pauta mais recente (até a data da resolução) em que o auto aparece. O "voto do relator" da pauta é o dispositivo proposto, às vezes com o motivo; o fundamento completo continua no processo (pedir cópia — `acesso_processos.md`). Nomes de interessados não são gravados. Extração automática do PDF em duas colunas: em algumas pautas o município ou o fato gerador saem com pedaços do histórico — conferir no PDF da pauta antes de citar.
 
-Decisões favoráveis com pauta localizada: **145 de 156** (pautas coletadas: todas as publicadas na página da CT Recursal, da 12ª reunião, mar/2016, à 85ª, dez/2026; o PDF da 29ª, de 19/10/2018, só tem o cabeçalho, e a pauta da 74ª, de 02/09/2025, não está na página — só o registro de resultado).
+Decisões favoráveis com pauta localizada: **151 de 156** (pautas coletadas: todas as publicadas na página da CT Recursal, da 12ª reunião, mar/2016, à 85ª, dez/2026; o PDF da 29ª, de 19/10/2018, só tem o cabeçalho, e a pauta da 74ª, de 02/09/2025, não está na página — só o registro de resultado).
 
 ## Resumo por tipo de infração (decisões do CEPRAM cujo auto aparece nas pautas coletadas)
 
 | Tipo de infração (pelo fato gerador da pauta) | Favoráveis | Desfavoráveis |
 |---|---|---|
-| Outros | 23 | 190 |
-| Operar sem licença / em desacordo | 24 | 170 |
-| Não apresentação do PAD (PARA — Dec. BA 12.071/2010) | 69 | 7 |
-| Não atender notificação | 7 | 67 |
-| Desmatamento / supressão / fogo | 7 | 62 |
-| APP | 4 | 48 |
+| Outros | 24 | 193 |
+| Operar sem licença / em desacordo | 24 | 171 |
+| Não apresentação do PAD (PARA — Dec. BA 12.071/2010) | 72 | 7 |
+| Não atender notificação | 7 | 68 |
+| Desmatamento / supressão / fogo | 8 | 63 |
+| APP | 5 | 50 |
 | DOF / produtos florestais | 2 | 46 |
 | Descumprir condicionante | 7 | 36 |
 | Recursos hídricos | 2 | 13 |
@@ -74,6 +74,15 @@ Decisões favoráveis com pauta localizada: **145 de 156** (pautas coletadas: to
 - **Valor do auto:** R$ 790.000,00 (setecentos e noventa mil reais)
 - **Fato gerador:** Por desmatar, a corte raso, florestas ou demais formações ativas,fora da reserva legal, sem autorização da autoridade competente, causando efetiva degradação ambiental em uma a de 395,00 ha. A infração foi constatada na fazenda Santo Antônio, zona rural do município de Baianópolis - Ba, coordenadas geográficas
 - **Voto do relator na pauta** (pode ter mudado na sessão; vale o dispositivo publicado): manutenção da penalidade
+
+### Res. 5.450 (2026-10-06) — 2012-016737/TEC/AIMU-0580 — Piatã
+
+- **Pauta:** 83ª Ordinária da CT Recursal (2026-10-06) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/2026-09/Pauta%2083%C2%AA%20Reuni%C3%A3o%20da%20CT%20Recursal%20-06.10%20atualizada.pdf
+- **Casamento pelo interessado** (o nº do auto da resolução não aparece na pauta; na pauta: só o nº SEI) — conferir no PDF
+- **Processo SEI:** 046.0525.2025.0015459-65
+- **Valor do auto:** R$ 30.000,00 (Trinta mil reais)
+- **Fato gerador:** por realizar a extração irregular de areia sem a devida Autorização Ambiental. A infração foi constatada na Fazenda Azevedo, localizada no Povoado Azevedo, na Zona Rural do município de Piatã-BA, mediante inspeção técnica realizada no 05/10/2012 às 12:00 hs.
+- **Voto do relator na pauta** (pode ter mudado na sessão; vale o dispositivo publicado): conversão de multa em serviços de preservação e recuperação ambiental (com a devida redução legal de 50%), condicionada a apresentação de Termo de4 compromisso junto ao INEMA
 
 ### Res. 5.445 (2026-09-29) — 2012-017886/TEC/AIAD-0265 — Catolândia
 
@@ -151,6 +160,14 @@ Decisões favoráveis com pauta localizada: **145 de 156** (pautas coletadas: to
 - **Valor do auto:** R$ 5.000,00 (cinco mil reais)
 - **Fato gerador:** pela não apresentação do Projeto de Adequação e Regularização Ambiental (PAD), contendo os planos e projetos para sanar o passivo ambiental declarado no Termo de Adesão ao Plano Estadual de Adequação e Regularização Ambiental dos Imóveis Rurais (PARA), conforme determina o artigo 3º do Decreto Estadual nº 12.071 de 23/04/2010. A infração foi constatada mediante análise do respectivo Processo Administrativo nº 2011-001482/TEC/PARA-0368, na sede do Instituto de Meio Ambiente e Recursos Hídricos - INEMA,
 
+### Res. 5.372 (2026-07-07) — 2014-006282/TEC/AIMU-0666 — Formosa do Rio Preto
+
+- **Pauta:** 80ª Ordinária da CT Recursal (2026-07-07) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/2026-07/Pauta%2080%C2%AA%20Reuni%C3%A3o%20da%20CT%20Recursal%20-%2007.07.pdf
+- **Casamento pelo interessado** (o nº do auto da resolução não aparece na pauta; na pauta: 2014-006282/TEC/AIMU-0999) — conferir no PDF
+- **Processo SEI:** 046.0525.2025.0016097-93
+- **Valor do auto:** R$ 5.000,00 (cinco mil reais)
+- **Fato gerador:** Pela não apresentação do Projeto de Adequação e Regularização Ambiental (PAD), contendo os planos e projetos para sanar o passivo ambiental declarado no Termo de Adesão ao Plano Estadual de Adequação e Regularização Ambiental dos Imóveis Rurais (PARA), conforme determina o artigo 3º do Decreto Estadual nº 12.071 de 23/04/2010. A infração foi constatada mediante análise do respectivo Processo Administrativo n° 2011-014523/TEC/PARA-1495, na sede do Institut1o de Meio ambiente e Recursos Hídricos - INEMA,
+
 ### Res. 5.373 (2026-07-07) — 2014-008432/TEC/AIMU-0881 — Ribeira Do Amparo - BA
 
 - **Pauta:** 80ª Ordinária da CT Recursal (2026-07-07) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/2026-07/Pauta%2080%C2%AA%20Reuni%C3%A3o%20da%20CT%20Recursal%20-%2007.07.pdf
@@ -220,6 +237,14 @@ Decisões favoráveis com pauta localizada: **145 de 156** (pautas coletadas: to
 - **Processo SEI:** 046.0525.2025.0017247-11
 - **Valor do auto:** R$ 5.000,00 (cinco mil reais)
 - **Fato gerador:** pela não apresentação do Projeto de Adequação e Regularização Ambiental (PAD), contendo os planos e projetos para sanar o passivo ambiental declarado no Termo de Adesão ao Plano Estadual de Adequação e Regularização Ambiental dos Imóveis Rurais (PARA), conforme determina o artigo 3° do Decreto Estadual nº 12.071 de 23/04/2010. A infração foi constatada mediante análise do respectivo Processo Administrativo nº 2011-005558/TEC/PARA-0735, na sede do Instituto de Meio Ambiente e Recursos Hídricos - INEMA, no dia 07 dias do mês de outubro de 2013, às 11:19hs.
+
+### Res. 5.383 (2026-07-07) — 2013-007725/TEC/AIMU-0331 — Barreiras
+
+- **Pauta:** 80ª Ordinária da CT Recursal (2026-07-07) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/2026-07/Pauta%2080%C2%AA%20Reuni%C3%A3o%20da%20CT%20Recursal%20-%2007.07.pdf
+- **Casamento pelo interessado** (o nº do auto da resolução falta no DOE; na pauta: 2013-007725/TEC/AIMU-0331) — conferir no PDF
+- **Processo SEI:** 046.0525.2025.0017227-60
+- **Valor do auto:** R$ 5.000,00 (cinco mil reais)
+- **Fato gerador:** pela não apresentação do Projeto de Adequação e Regularização Ambiental (PAD), contendo os planos e projetos para sanar o passivo ambiental declarado no Termo de Adesão ao Plano Estadual de Adequação e Regularização Ambiental dos Imóveis Rurais (PARA), conforme determina o artigo 3º do Decreto Estadual nº 12.071 de 23/04/2010. A infração foi constatada mediante análise do respectivo Processo Administrativo n° 2012-003237/TEC/PARA-0068, na sede do Instituto de Meio Ambiente e Recursos Hídricos - INEMA, no dia 30 dias do mês de julho de 2013, às 13:36hs.
 
 ### Res. 5.384 (2026-07-07) — 2013-009879/TEC/AIMU-0568 — São Desidério
 
@@ -451,6 +476,14 @@ Decisões favoráveis com pauta localizada: **145 de 156** (pautas coletadas: to
 - **Valor do auto:** R$ 5.000,00 (cinco mil reais)
 - **Fato gerador:** por exercer atividade passível de licenciamento ambiental (transporte de produto perigoso) sem a devida licença, utilizando para tanto um veículo da marca Volvo, de cor branca e placa policial nº NYI-1460, e reboque da marca Randon, de cor branca e placa policial n° NYQ-6328, para transportar 42.450 litros de álcool etílico hidratado. A infração foi constatada na Rodovia BR - 242, km 582, no município de Ibotirama.
 
+### Res. 5.343 (2026-05-05) — 2012-020080/TEC/AIMU-0815 — Salvador
+
+- **Pauta:** 78ª Ordinária da CT Recursal (2026-05-05) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/2026-04/Pauta%2078%C2%AA%20Reuni%C3%A3o%20da%20CT%20Recursal.pdf
+- **Casamento pelo interessado** (o nº do auto da resolução não aparece na pauta; na pauta: só o nº SEI) — conferir no PDF
+- **Processo SEI:** 046.0525.2025.0015179-11
+- **Valor do auto:** R$ 5.000,00 (cinco mil reais)
+- **Fato gerador:** pela não apresentação do Projeto de Adequação e Regularização Ambiental (PAD), contendo os planos e projetos para sanar o passivo ambiental declarado no Termo de Adesão ao Plano Estadual de Adequação e Regularização Ambiental dos Imóveis Rurais (PARA), conforme determina o artigo 3° do Decreto Estadual nº 12.071 de 23/04/2010. A infração foi constatada mediante análise do respectivo Processo Administrativo nº 2011-005678/TEC/PARA-0821, na sede do Instituto de Meio ambiente e Recursos Hídricos - INEMA, no dia 14 dias do mês de dezembro de 2012, às 11:39hs.
+
 ### Res. 5.324 (2026-04-17) — 2010-005918/TEC/AIAD-0068 — Conceição de Coité
 
 - **Pauta:** 1ª Extraordinária da CT Recursal (2026-04-17) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/2026-04/Pauta%201%C2%AA%20Reuni%C3%A3o%20Extraordin%C3%A1ria%20da%20CT%20Recursal%20%28Recupera%C3%A7%C3%A3o%20Autom%C3%A1tica%29.pdf
@@ -486,6 +519,13 @@ Decisões favoráveis com pauta localizada: **145 de 156** (pautas coletadas: to
 - **Valor do auto:** R$ 18.000 (dezoito mil reais) 02/09/25
 - **Fato gerador:** por destruir 2,87 hectares de vegetação nativa do bioma Mata Atlântica, objeto de especial preservação, em desacordo com a legislação ambiental vigente. A infração Reunião administrativa ambiental foi constatada no dia 09 de agosto de 2016, às 10hl5min, na Fazenda 07/10/25 Agropecuária Bem Querer, zona rural de Vitória da Conquista - Bahia, sob as Coordenadas Geográficas DATUM SIRGAS 2000 de S 14.94088 e W 40.78330. Adiado
 
+### Res. 5.305 (2025-11-04) — 2016-004345/TEC/AIMU-0304 — Casa Nova
+
+- **Pauta:** 76ª Ordinária da CT Recursal (2025-11-04) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/2025-10/Pauta%2076%C2%AA%20Reuni%C3%A3o%20da%20CT%20Recursal%2004.11.pdf
+- **Casamento pelo interessado** (o nº do auto da resolução não aparece na pauta; na pauta: só o nº SEI) — conferir no PDF
+- **Valor do auto:** R$ 10.000,00 (dez mil reais)
+- **Fato gerador:** Efetuar supressão de vegetação nativa, em uma área com 2,0 hectares, em do Projeto de Irrigação Senador Nilo Coelho, sem a necessária autorização emitida por órgãRo
+
 ### Res. 5.306 (2025-11-04) — 2015-009455/TEC/AIMU-0729 — Candeias Reunião
 
 - **Pauta:** 76ª Ordinária da CT Recursal (2025-11-04) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/2025-10/Pauta%2076%C2%AA%20Reuni%C3%A3o%20da%20CT%20Recursal%2004.11.pdf
@@ -505,6 +545,14 @@ Decisões favoráveis com pauta localizada: **145 de 156** (pautas coletadas: to
 - **Fato gerador:** por realizar supressão de vegetação nativa do Bioma Caatinga em uma área de 10,72 hectares sem prévia autorização do órgão competente. A infração foi constatada no dia 28/07/2011 na Fazenda Carnaiba, Zona Rural, Bom Jesus da Lapa /BA.
 - **Pedido do recorrente (pauta):** requer que seja improcedente a homologação da multa, a fim de excluir a imposição da multa no valor de R$ 10.000,001 (dez mil reais e um centavo), assim como improcedência total do Processo administrativo 2011- 015087/TEC/AIMU-0356, por não ser autor da irregularidade atribuída no auto de infração ao recorrente; em caráter sucessivo acima, requer a substituição da sanção de multa por prestação de serviços de preservação, melhoria e recuperação da qualidade do meio ambiente.
 - **Voto do relator na pauta** (pode ter mudado na sessão; vale o dispositivo publicado): Nulidade da penalidade
+
+### Res. 5.320 (2025-11-04) — 2020-004403/TEC/AIMU-0454 — Dias D’ávila
+
+- **Pauta:** 76ª Ordinária da CT Recursal (2025-11-04) — https://www.ba.gov.br/meioambiente/sites/site-sema/files/2025-10/Pauta%2076%C2%AA%20Reuni%C3%A3o%20da%20CT%20Recursal%2004.11.pdf
+- **Casamento pelo interessado** (o nº do auto da resolução falta no DOE; na pauta: 2020-004403/TEC/AIMU-0454) — conferir no PDF
+- **Processo SEI:** 046.0547.2020.0011840-19
+- **Valor do auto:** R$ 10.000.00 (dez mil reais)
+- **Fato gerador:** pelo aterramento com material cerâmico em Área de Preservação Permanente nos fundo da empresa INCENOR no município de Dias Dávila nas coordenadas S-12.6496 e W -38.3627 até as coordenadas s-12.6457 e -w
 
 ### Res. 5.298 (2025-10-11) — 2009-019339/TEC/AIAD-0176 — Juazeiro
 

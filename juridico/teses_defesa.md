@@ -38,8 +38,10 @@ Ordem prática de análise: **1) prazos → 2) prescrição → 3) nulidades do 
   20.910/1932 não serve para reconhecer prescrição intercorrente em processos estaduais e municipais, que dependem de
   lei local. A Bahia tem a lei local (12.209/2011, art. 109).
 - **TJBA aplica os arts. 108, §3º, e 109, §1º, da Lei 12.209 a processo sancionador estadual** (conferido no inteiro teor
-  pela API pública do portal jurisprudencia.tjba.jus.br em 17/11/2026; nenhum dos acórdãos achados é de multa do INEMA —
-  usar por identidade de lei, já que a Lei 12.209 rege todo processo administrativo estadual):
+  pela API pública do portal jurisprudencia.tjba.jus.br em 17/11/2026; nenhum dos acórdãos abaixo é de multa do INEMA —
+  usar por identidade de lei, já que a Lei 12.209 rege todo processo administrativo estadual; para multa do **INEMA** o
+  TJBA tem reconhecido a prescrição no processo administrativo pelo Decreto 6.514 e pela Lei 9.873 — ver item 1.3,
+  conferido em 18/11/2026):
   - **2ª Câmara Cível, Apelação 0535542-14.2017.8.05.0001**, rel. Des. José Soares Ferreira Aras Neto — multa do
     PROCON-BA; processo administrativo parado por mais de 10 anos; **prescrição intercorrente reconhecida** com base nos
     arts. 108 e 109 da Lei 12.209/2011 ("precedentes desta Câmara"); sentença reformada. Inteiro teor:
@@ -66,14 +68,40 @@ Ordem prática de análise: **1) prazos → 2) prescrição → 3) nulidades do 
 - **Prova:** linha do tempo do processo (data da lavratura/publicação do auto, de cada despacho e da decisão final),
   tirada da cópia integral do processo.
 
-### 1.3 Prescrição intercorrente de 3 anos — Média (IBAMA: Forte)
+### 1.3 Prescrição intercorrente pelo Decreto 6.514 (via art. 253 do Decreto BA 14.024) — Forte no TJBA para o INEMA (IBAMA: Forte)
 
 - **IBAMA:** processo parado mais de 3 anos aguardando julgamento ou despacho = prescrição intercorrente
   (Lei 9.873/1999, art. 1º, §1º; Decreto 6.514/2008, art. 21, §2º). O que interrompe: art. 22 do Decreto (só atos
   que impliquem instrução do processo).
-- **INEMA:** o Decreto 14.024 manda aplicar subsidiariamente a Lei 9.605/1998 "e o seu Regulamento" (art. 253), isto é,
-  o Decreto 6.514. Argumento possível, mas o Tema 1.294 do STJ exige lei local para prescrição intercorrente — por isso
-  na Bahia a tese principal é a da Lei 12.209 (item 1.2) e esta fica como reforço.
+- **INEMA:** o Decreto 14.024 manda aplicar subsidiariamente "o disposto sobre o tema na Lei Federal nº 9.605 ... e no
+  seu Regulamento" (art. 253), isto é, o Decreto 6.514. **O TJBA aplica essa ponte a multas e autos do próprio INEMA**
+  (conferido no inteiro teor, API pública do portal jurisprudencia.tjba.jus.br, em 18/11/2026):
+  - **4ª Câmara Cível, Apelação 8055230-72.2020.8.05.0001**, rel. Des. Marcelo Silva Britto, julg. 09/06/2026, publ.
+    12/06/2026 — INEMA apelante; sentença que anulou auto de advertência (2010, empreendimento de irrigação sem licença)
+    **mantida**. Tese de julgamento: a pretensão punitiva no processo sancionador ambiental se submete ao prazo de 5 anos
+    do art. 21 do Decreto 6.514/2008, "aplicável subsidiariamente no Estado da Bahia por força do art. 253 do Decreto
+    Estadual nº 14.024/2012"; responsabilidade administrativa é prescritível (não se confunde com a civil — Tema 999/STF);
+    remessa à Procuradoria para parecer e análise técnica interna **não interrompem** (art. 22, II).
+    https://jurisprudenciaws.tjba.jus.br/inteiroTeor/c7f70258-953c-3a60-a32a-8d51032f9a9f
+  - **4ª Câmara Cível, Apelação 8117370-74.2022.8.05.0001**, rel. Des. Marcelo Silva Britto, decisão proclamada
+    em 27/08/2024 — ação anulatória contra multa do INEMA (desmatamento de Cerrado, Brejolândia, auto de 2015) **provida**:
+    auto lavrado em 27/07/2015 e homologação pela Diretora-Geral só em 23/02/2021 — mais de 5 anos sem ato inequívoco de
+    apuração = prescrição; transcreve o art. 253 do Decreto 14.024.
+    https://jurisprudenciaws.tjba.jus.br/inteiroTeor/56837093-9b94-3eb4-a602-3add6026ba6d
+  - **2ª Câmara Cível, Apelação 8108706-83.2024.8.05.0001**, rel. Des. Maurício Kertzman Szporer, julg. 19/05/2026, publ.
+    21/05/2026 — mandado de segurança contra multa do INEMA (auto de 2014); processo parado de 2014 a maio/2024 (remessa
+    para dívida ativa): **prescrição reconhecida, segurança mantida**; usa a Lei 9.873/1999 (art. 1º e §1º — 3 anos de
+    paralisação) e admite o MS quando a cópia do processo prova a paralisação. O INEMA alegou que a Lei 12.209 não prevê
+    prescrição intercorrente — argumento rejeitado. https://jurisprudenciaws.tjba.jus.br/inteiroTeor/e79e9f37-a8b6-329f-a49f-5228dbdf8acd
+  - **5ª Câmara Cível, AI 8028837-45.2022.8.05.0000**, rel. Juiz Subst. José Luiz Pessoa Cardoso, decisão proclamada em 08/11/2022 —
+    liminar para suspender a exigibilidade de multa do INEMA (auto de 2008) e a inscrição no CADIN/SERASA: mais de 10 anos
+    entre o auto e a homologação = probabilidade de prescrição intercorrente.
+    https://jurisprudenciaws.tjba.jus.br/inteiroTeor/4e4be9df-ca5c-351f-acd6-23d00854ba84
+- **Como usar:** pedir as duas teses juntas — Lei 12.209 (item 1.2) e Decreto 6.514 via art. 253 (este item), com a
+  linha do tempo do processo mostrando o maior intervalo sem ato de instrução (despachos de remessa, pareceres internos e
+  redistribuição não contam, segundo a 4ª Câmara). **Risco:** o INEMA sustenta que a Lei 12.209 não prevê prescrição
+  intercorrente e o Tema 1.294 do STJ exige lei local — responder com o art. 253 do Decreto 14.024, os arts. 108 e 109
+  da Lei 12.209 e os acórdãos acima.
 
 ### 1.4 Prescrição da cobrança (execução fiscal) — Forte
 
@@ -234,14 +262,17 @@ Ordem prática de análise: **1) prazos → 2) prescrição → 3) nulidades do 
   (PARA), conforme determina o artigo 3º do Decreto Estadual nº 12.071/2010" — autos típicos do Oeste (2011–2015).
 - **Precedente administrativo reiterado (conferido em 16/11/2026):** cruzando as resoluções do CEPRAM publicadas no
   DOE (`multas/bahia_doe`) com o fato gerador das pautas da CT Recursal (12ª a 85ª reunião, 2016–2026, site da SEMA;
-  ampliado em 17/11/2026), há **69 decisões favoráveis — todas anulando a multa — e 7 desfavoráveis** nesse tipo de
+  ampliado em 17/11/2026; recontado em 18/11/2026, com as pautas da fase SEI que trazem só o nº SEI e o casamento pelo
+  interessado — +3: Res. 5.343 de 05/05/2026, 5.372 e 5.383 de 07/07/2026, esta de Barreiras), há **72 decisões
+  favoráveis — todas anulando a multa — e 7 desfavoráveis** nesse tipo de
   auto. O CEPRAM já anulava esses autos em 2018: Res. 4.620 a 4.623, de 27/07/2018 ("Falta de entrega do PAD", multas
   de R$ 5.000,00, duas com município Luís Eduardo Magalhães na pauta da 24ª reunião; DOE de
   29/08/2018, https://dool.egba.ba.gov.br/ver-html/4721/#e:4721). As 7 desfavoráveis concentram-se em 2022: Res. 5.026 e 5.027
   (29/04/2022) e 5.043, 5.045, 5.061, 5.073 e 5.075 (10/06/2022); desde 29/09/2023 (Res. 5.165) **todas** foram favoráveis,
-  incluindo 44 em 07/07/2026, julgadas em bloco na seção "Processos Caso Plano Estadual de Adequação e Regularização
-  Ambiental dos Imóveis Rurais – PARA" da pauta da 80ª reunião (Res. 5.370 a 5.415). Por município: Barreiras ≥ 16,
-  Luís Eduardo Magalhães ≥ 12, Jaborandi 11, São Desidério 3, Formosa do Rio Preto e Correntina 1 cada. Lista completa
+  incluindo 46 em 07/07/2026, julgadas em bloco na seção "Processos Caso Plano Estadual de Adequação e Regularização
+  Ambiental dos Imóveis Rurais – PARA" da pauta da 80ª reunião (Res. 5.370 a 5.415). Por município (pela pauta; contagem
+  de 18/11/2026): Barreiras 17, Luís Eduardo Magalhães 16, Jaborandi 11, São Desidério 3, Formosa do Rio Preto 2 e
+  Correntina 1. Lista completa
   em `cepram_votos_relator.md`; exemplo: Res. 5.400/2026 (Barreiras, auto 2013-011637/TEC/AIMU-0729, SEI
   046.0525.2025.0018521-16), DOE https://dool.egba.ba.gov.br/ver-html/22291/#e:22291.
 - **Atenção:** as pautas e os registros de resultado **não trazem o fundamento** da anulação. Antes de afirmar o motivo

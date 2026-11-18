@@ -19,9 +19,9 @@ python scripts/buscar.py '"intimação por edital"' --fonte tema,stj,tjba --n 10
 | Arquivo | Para quê |
 |---|---|
 | `checklist_analise_auto.md` | roteiro quando chega um auto: prazos, prescrição, nulidades, autoria, competência, Código Florestal, dosimetria, estratégia |
-| `teses_defesa.md` | as teses, com base legal, precedentes conferidos e grau de força |
+| `teses_defesa.md` | as teses, com base legal, precedentes conferidos e grau de força — ex.: tese 1.3, TJBA reconhecendo prescrição no processo sancionador do próprio INEMA (Decreto 6.514 via art. 253 do Decreto BA 14.024; conferido em 18/11/2026) |
 | `precedentes_cepram.md` | 156 decisões favoráveis do CEPRAM (prescrição, nulidade da notificação, advertência, redução, anulação), com nº da resolução e do processo |
-| `cepram_votos_relator.md` | fato gerador, pedido do recorrente e voto do relator (pautas da CT Recursal) de 145 dessas decisões (pautas de 2016 a 2026), com resumo por tipo de infração — ex.: autos por não apresentação do PAD/PARA anulados já em 2018 e em série desde 2023 (tese 5.3) |
+| `cepram_votos_relator.md` | fato gerador, pedido do recorrente e voto do relator (pautas da CT Recursal) de 151 dessas decisões (pautas de 2016 a 2026), com resumo por tipo de infração — ex.: autos por não apresentação do PAD/PARA anulados já em 2018 e em série desde 2023 (tese 5.3) |
 | `modelos_pecas.md` | esqueletos de defesa, recurso ao CEPRAM, prescrição, conversão de multa e desembargo |
 | `acesso_processos.md` | como obter a cópia integral dos processos (SEIA, SEI Bahia, LAI, IBAMA) + modelos de pedido |
 | `legislacao/artigos_chave.md` | texto integral dos artigos usados nas teses (federal e Bahia) |
@@ -30,7 +30,7 @@ python scripts/buscar.py '"intimação por edital"' --fonte tema,stj,tjba --n 10
 | `jurisprudencia/stj/stj_acordaos_ambientais.json` | os 3.895 acórdãos do STJ (1990–2026; 1ª e 2ª Turmas, 1ª Seção e Corte Especial): ementa, tese, normas citadas, link da consulta processual — fonte: Portal de Dados Abertos do STJ |
 | `jurisprudencia/stj/temas_repetitivos_ambientais.csv` | os temas repetitivos e precedentes qualificados ambientais, do CSV oficial do STJ |
 | `jurisprudencia/tjba/indice_temas.md` | decisões do TJBA separadas por tema de defesa (prescrição, nulidade, competência, autoria, embargo, valor da multa, conversão, execução fiscal, demora do órgão), com link do inteiro teor |
-| `jurisprudencia/tjba/tjba_inema_multas.json` | 1.263 decisões do 2º grau do TJBA (INEMA, multa ambiental, IBAMA, CEPRAM, SEMA, Lei 10.431, Decreto 14.024, Lei 12.209, Lei 9.605, Decreto 6.514...): ementa, trechos, link do inteiro teor |
+| `jurisprudencia/tjba/tjba_inema_multas.json` | 1.275 decisões do 2º grau do TJBA (INEMA, multa ambiental, IBAMA, CEPRAM, SEMA, Lei 10.431, Decreto 14.024, Lei 12.209, Lei 9.605, Decreto 6.514...): ementa, trechos, link do inteiro teor |
 | `PENDENCIAS.md` | o que ainda falta pesquisar (fundamentos do CEPRAM, STJ, TRF1, normas do INEMA...); a atualização semanal avança um item por vez |
 
 Bases de dados relacionadas (fora desta pasta):

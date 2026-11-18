@@ -2471,7 +2471,8 @@
   "chars_inteiro_teor": 4408,
   "termos": [
    "\"INEMA\"",
-   "\"14.024/2012\""
+   "\"14.024/2012\"",
+   "\"8117370-74.2022.8.05.0001\""
   ],
   "link_inteiro_teor": "https://jurisprudenciaws.tjba.jus.br/inteiroTeor/c7f70258-953c-3a60-a32a-8d51032f9a9f"
  },
@@ -16836,7 +16837,8 @@
   "trechos": "APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE AUTO DE INFRAÇÃO ADMINISTRATIVA AMBIENTAL. RESPONSABILIDADE SUBJETIVA. PRESCRIÇÃO INTERCORRENTE DA PRETENSÃO PUNITIVA ESTATAL NO PROCESSO ADMINISTRATIVO. REQUISITOS LEGAIS PREENCHIDOS. SENTENÇA REFORMADA. RECURSO CONHECIDO E PROVIDO.\nDeve ser reformada a sentença para reconhecer a prescrição intercorrente da pretensão de cobrança judicial de multa administrativa ambiental por restarem preenchidos os requisitos legais.\nCaso em que se discute a legalidade do Auto de Infração nº 2015-007523/TEC/AIMU-0592, que impôs a Epaminondas Nascimento e Souza multa administrativa por infração ambiental no valor original de R$400.000,00 (quatrocentos mil reais), por ter desmatado vegetação do bioma Cerrado, causando degradação ao meio ambiente, na região da fazenda Volta do Riacho, no Município de Brejolândia - BA.\nDe fato, a legislação do Estado da Bahia que regulamenta a política de proteção ao meio ambiente diz expressamente da aplicação subsidiária em seu território do regime de prescrição previsto na Lei Federal nº 9.605/1998 e no Decreto Federal nº 6.514/2008.\nCaso em que o INEMA teve conhecimento do ato lesivo apurado por meio do AI nº 2015-007523/TEC/AIMU-0592 a partir de denúncia e fiscalização realizada no local em 26/05/2015, data que constitui o marco inicial para a contagem do prazo de prescrição, conforme a lei.\nA prescritibilidade das condutas jurídicas constitui a regra no ordenamento brasileiro por não ser razoável eternizar o poder de punir estatal em face dos administrados, em afronta ao princípio da segurança jurídica das relações sociais e da duração razoável do processo.\nCumpre ainda destacar que o caso concreto refere a pretensão anulatória de auto de infração ambiental de natureza jurídica administrativa, a exigir, portanto, a demonstração de todos os elementos da responsabilização subjetiva e a submissão a regime prescricional.\nVistos, relatados e discutidos estes autos de Apelação nº 8117370-74.2022.8.05.0001, sendo Apelante Epaminondas Nascimento e Souza e Apelado Instituto do Meio Ambiente e Recursos Hídricos - INEMA, ACORDAM os Desembargadores componentes da Quarta Câmara Cível do Tribunal de Justiça do Estado da Bahia em conhecer e dar provimento ao recurso para reformar a sentença com o reconhecimento da prescrição da pretensão punitiva estatal.\n",
   "chars_inteiro_teor": 2839,
   "termos": [
-   "\"INEMA\""
+   "\"INEMA\"",
+   "\"8117370-74.2022.8.05.0001\""
   ],
   "link_inteiro_teor": "https://jurisprudenciaws.tjba.jus.br/inteiroTeor/56837093-9b94-3eb4-a602-3add6026ba6d"
  },
@@ -20851,5 +20853,21 @@
    "\"12.209/2011\""
   ],
   "link_inteiro_teor": "https://jurisprudenciaws.tjba.jus.br/inteiroTeor/c22c8400-1fff-3dde-b266-23068df55036"
+ },
+ {
+  "hash": "4e4be9df-ca5c-351f-acd6-23d00854ba84",
+  "processo": "8028837-45.2022.8.05.0000",
+  "data": null,
+  "relator": "JOSE LUIZ PESSOA CARDOSO",
+  "orgao": "QUINTA CAMARA CÍVEL",
+  "classe": "Agravo de Instrumento",
+  "tipo": "ACORDAO",
+  "ementa": "PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA Quinta Câmara Cível Processo: AGRAVO DE INSTRUMENTO n. 8028837-45.2022.8.05.0000 Órgão Julgador: Quinta Câmara Cível AGRAVANTE: BRASFRUT-FRUTOS DO BRASIL LTDA Advogado(s): RICARDO JULIO COSTA OLIVEIRA AGRAVADO: INSTITUTO DO MEIO AMBIENTE E RECURSOS HIDRICOS Advogado(s): ACORDÃO AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO E AMBIENTAL.. AUTO DE INFRAÇÃO EM TRÂMITE POR MAIS DE 10 ANOS. PRESCRIÇÃO INTERCORRENTE. POSSIBILIDADE. NECESSIDADE DE ASSEGURAR O RESULTADO ÚTIL DO PROCESSO. AUSÊNCIA DE PREJUÍZO À AGRAVADA E POSSIBILIDADE DE REVERSÃO DA DECISÃO. LIMINAR DEFERIDA. AGRAVO DE INSTRUMENTO PROVIDO. Vistos, relatados e discutidos estes autos de n. 8028837-45.2022.8.05.0000, em que figuram como agravante BRASFRUT-FRUTOS DO BRASIL LTDA e como agravado INSTITUTO DO MEIO AMBIENTE E RECURSOS HIDRICOS. ACORDAM os magistrados integrantes da Quinta Câmara Cível do Estado da Bahia, por unanimidade, em DAR PROVIMENTO AO RECURSO, nos termos do voto do relator. Salvador, .",
+  "trechos": "AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO E AMBIENTAL.. AUTO DE INFRAÇÃO EM TRÂMITE POR MAIS DE 10 ANOS. PRESCRIÇÃO INTERCORRENTE. POSSIBILIDADE. NECESSIDADE DE ASSEGURAR O RESULTADO ÚTIL DO PROCESSO. AUSÊNCIA DE PREJUÍZO À AGRAVADA E POSSIBILIDADE DE REVERSÃO DA DECISÃO. LIMINAR DEFERIDA. AGRAVO DE INSTRUMENTO PROVIDO.\n",
+  "chars_inteiro_teor": 1029,
+  "termos": [
+   "\"8028837-45.2022.8.05.0000\""
+  ],
+  "link_inteiro_teor": "https://jurisprudenciaws.tjba.jus.br/inteiroTeor/4e4be9df-ca5c-351f-acd6-23d00854ba84"
  }
 ]

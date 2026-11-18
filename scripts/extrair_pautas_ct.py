@@ -11,7 +11,7 @@ Saída: multas/cepram_pautas/pautas_ct_recursal.json.gz (um registro por process
 juridico/cepram_votos_relator.md (fato gerador e voto do relator das decisões favoráveis do CEPRAM).
 O nome do interessado ("Int.:") NÃO é gravado (repositório público).
 """
-import glob, gzip, json, os, re, sys
+import glob, gzip, hashlib, json, os, re, sys, unicodedata
 from collections import defaultdict
 
 import pdfplumber
@@ -26,8 +26,25 @@ RE_AUTO = re.compile(r'(\d{4})\s*[-–]\s*(\d{6})\s*/\s*TEC\s*/\s*([A-Z]{4})\s*[
 RE_SEI = re.compile(r'046\.\d{4}\.\d{4}\.\d{7}-\d{2}')
 
 
+# Algumas pautas trazem letras cirílicas idênticas às latinas (ex.: "ТEC" com Т cirílico na 80ª, de 07/07/2026),
+# o que fazia o número do auto não ser reconhecido.
+HOMOGLIFOS = str.maketrans('АВЕЁКМНОРСТУХаеорсухіІ', 'ABEEKMHOPCTYXaeopcyxiI')
+
+
+def sem_homoglifos(s):
+    return (s or '').translate(HOMOGLIFOS)
+
+
+def chave_int(nome):
+    """Chave não reversível do interessado (sha256 do nome normalizado, 16 hex): permite casar a pauta com a
+    resolução do DOE quando o número do auto falta ou diverge, sem gravar o nome no repositório público."""
+    n = unicodedata.normalize('NFKD', sem_homoglifos(nome or '').upper())
+    n = re.sub(r'[^A-Z0-9]+', ' ', ''.join(ch for ch in n if not unicodedata.combining(ch))).strip()
+    return hashlib.sha256(n.encode()).hexdigest()[:16] if len(n) >= 4 else None
+
+
 def norm_auto(s):
-    m = RE_AUTO.search(s or '')
+    m = RE_AUTO.search(sem_homoglifos(s))
     return f'{m.group(1)}-{m.group(2)}/TEC/{m.group(3)}-{m.group(4)}' if m else None
 
 
@@ -73,14 +90,18 @@ def extrair(caminho, url=None):
     out = []
     for b in blocos:
         e = '\n'.join(b['E']); hist = re.sub(r'\s+', ' ', ' '.join(b['D'])).strip()
-        auto = norm_auto(e)
-        if not auto:
-            continue
+        # o nº do auto (sigla AI..., ex.: AIMU); o processo do PARA citado no fato gerador (TEC/PARA) não é o auto
+        autos = [norm_auto(m.group(0)) for m in RE_AUTO.finditer(sem_homoglifos(e))]
+        auto = next((a for a in autos if '/TEC/AI' in a), autos[0] if autos and '/TEC/PARA' not in autos[0] else None)
         sei = RE_SEI.search(e)
+        mi = re.search(r'(?:Int\.|Interessad[oa])\s*:\s*([^\n]+)', e)
+        ih = chave_int(mi.group(1)) if mi else None
+        if not auto and not sei and not ih:
+            continue  # bloco sem identificação (pautas da fase SEI trazem só o nº SEI: esses agora entram)
         rot = r'(?:Do\s+[Pp]edido|Conselheir[oa]\s+[Rr]elator[a]?|Int\.|Interessad[oa]|Tipo|Valor|Munic[íi]pio|Fato\s+Gerador|Relator(?:es)?(?:\s+Anterior(?:es)?|\s+Atual)?|\d+\.\s+[A-ZÁ-Ú]|Processo)\s*:'
         out.append({k: (mascara(v) if isinstance(v, str) else v) for k, v in {
             'reuniao': reuniao, 'data_reuniao': data, 'fonte': url or os.path.basename(caminho),
-            'auto': auto, 'sei': sei.group(0) if sei else None,
+            'auto': auto, 'sei': sei.group(0) if sei else None, 'int_hash': ih,
             'tipo': campo(e, r'Tipo', rot), 'valor': campo(e, r'Valor', rot),
             'municipio': campo(e, r'Munic[íi]pio', rot),
             'fato_gerador': campo(e, r'Fato\s+Gerador', rot + r'|\n\s*\d+\.\d'),
@@ -112,16 +133,38 @@ def tema(fg):
     return 'Outros'
 
 
-def resumo_temas(b, por_auto):
+def casar(c, por_auto, por_int):
+    """Pauta mais recente (até a data da resolução) do processo da resolução c: pelo nº do auto; se não houver,
+    pelo interessado (chave_int). Devolve (registro, 'auto'|'interessado') ou (None, None)."""
+    lim = c.get('data_resolucao') or c.get('data_publicacao') or '9999'
+    ok = lambda r: not r['data_reuniao'] or r['data_reuniao'] <= lim
+    cand = [r for r in por_auto.get(norm_auto(c.get('processo')), []) if ok(r)]
+    if cand:
+        return max(cand, key=lambda x: x['data_reuniao'] or ''), 'auto'
+    ih = chave_int(c.get('autuado')) if c.get('autuado') and c.get('autuado') != 'None' else None
+    cand = [r for r in por_int.get(ih, []) if ok(r)] if ih else []
+    if cand:
+        return max(cand, key=lambda x: x['data_reuniao'] or ''), 'interessado'
+    return None, None
+
+
+def indices(regs):
+    por_auto, por_int = defaultdict(list), defaultdict(list)
+    for r in regs:
+        if r['auto']: por_auto[r['auto']].append(r)
+        if r.get('int_hash'): por_int[r['int_hash']].append(r)
+    return por_auto, por_int
+
+
+def resumo_temas(b, por_auto, por_int):
     cont = defaultdict(lambda: defaultdict(int))
     for c in b['cepram']:
         res = c['resultado']
         if res not in ('Favorável', 'Favorável parcial', 'Desfavorável'):
             continue
-        auto = norm_auto(c.get('processo'))
-        if auto not in por_auto:
+        r, _ = casar(c, por_auto, por_int)
+        if not r:
             continue
-        r = max(por_auto[auto], key=lambda x: x['data_reuniao'] or '')
         cont[tema(r['fato_gerador'])]['fav' if res.startswith('Fav') else 'desf'] += 1
     L = ['## Resumo por tipo de infração (decisões do CEPRAM cujo auto aparece nas pautas coletadas)', '',
          '| Tipo de infração (pelo fato gerador da pauta) | Favoráveis | Desfavoráveis |', '|---|---|---|']
@@ -135,9 +178,7 @@ def gerar_md(regs):
     b = json.load(gzip.open(os.path.join(RAIZ, 'multas/bahia_doe/base_fiscalizacao_bahia.json.gz'), 'rt', encoding='utf-8'))
     fav = [c for c in b['cepram'] if c['resultado'].startswith('Favorável')]
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-    por_auto = defaultdict(list)
-    for r in regs:
-        por_auto[r['auto']].append(r)
+    por_auto, por_int = indices(regs)
     L = ['# Fato gerador e voto do relator — decisões favoráveis do CEPRAM (pautas da CT Recursal)', '',
          'Gerado por `scripts/extrair_pautas_ct.py` a partir das pautas públicas da Câmara Técnica Recursal '
          '(https://www.ba.gov.br/meioambiente/404/pautas-da-camara-tecnica-recursal). Para cada decisão favorável de '
@@ -148,23 +189,24 @@ def gerar_md(regs):
     achados = 0
     linhas_md = []
     for c in sorted(fav, key=lambda x: x['data_resolucao'] or x['data_publicacao'], reverse=True):
-        auto = norm_auto(c.get('processo'))
         lim = c['data_resolucao'] or c['data_publicacao']
-        cand = [r for r in por_auto.get(auto, []) if not r['data_reuniao'] or r['data_reuniao'] <= (lim or '9999')]
-        if not cand:
+        r, como = casar(c, por_auto, por_int)
+        if not r:
             continue
-        r = max(cand, key=lambda x: x['data_reuniao'] or '')
         achados += 1
         voto = ultimo_voto(r['historico'])
+        auto = norm_auto(c.get('processo')) or r['auto'] or (r['sei'] and 'SEI ' + r['sei']) or 's/ nº'
         linhas_md.append(f"### Res. {c['numero'] or '?'} ({lim}) — {auto} — {r['municipio'] or c.get('municipio') or ''}\n")
         linhas_md.append(f"- **Pauta:** {r['reuniao']} da CT Recursal ({r['data_reuniao']}) — {r['fonte']}")
+        if como == 'interessado':
+            linhas_md.append(f"- **Casamento pelo interessado** (o nº do auto da resolução {'falta no DOE' if not norm_auto(c.get('processo')) else 'não aparece na pauta'}; na pauta: {r['auto'] or 'só o nº SEI'}) — conferir no PDF")
         if r['sei']: linhas_md.append(f"- **Processo SEI:** {r['sei']}")
         if r['valor']: linhas_md.append(f"- **Valor do auto:** {r['valor']}")
         if r['fato_gerador']: linhas_md.append(f"- **Fato gerador:** {r['fato_gerador'][:900]}")
         if r.get('pedido'): linhas_md.append(f"- **Pedido do recorrente (pauta):** {r['pedido'][:600]}")
         if voto: linhas_md.append(f"- **Voto do relator na pauta** (pode ter mudado na sessão; vale o dispositivo publicado): {voto[:900]}")
         linhas_md.append('')
-    L += resumo_temas(b, por_auto) + ['## Decisões favoráveis, uma a uma', '']
+    L += resumo_temas(b, por_auto, por_int) + ['## Decisões favoráveis, uma a uma', '']
     L.insert(4, f'Decisões favoráveis com pauta localizada: **{achados} de {len(fav)}** (pautas coletadas: todas as publicadas na página da CT Recursal, da 12ª reunião, mar/2016, à 85ª, dez/2026; o PDF da 29ª, de 19/10/2018, só tem o cabeçalho, e a pauta da 74ª, de 02/09/2025, não está na página — só o registro de resultado).\n')
     open(MD, 'w', encoding='utf-8').write('\n'.join(L + [x for x in linhas_md]) + '\n')
     return achados, len(fav)
@@ -188,10 +230,10 @@ def main():
             print('erro', f, e); continue
         print(f'{os.path.basename(f)}: {len(rs)} processos')
         novos += rs
-    chave = lambda r: (r['fonte'], r['auto'])
+    chave = lambda r: (r['fonte'], r['auto'] or r['sei'] or 'int:' + (r.get('int_hash') or ''))
     todos = {chave(r): r for r in anteriores}
     todos.update({chave(r): r for r in novos})
-    regs = sorted(todos.values(), key=lambda r: (r['data_reuniao'] or '', r['auto']))
+    regs = sorted(todos.values(), key=lambda r: (r['data_reuniao'] or '', r['auto'] or '', r['sei'] or ''))
     os.makedirs(os.path.dirname(SAIDA), exist_ok=True)
     with gzip.open(SAIDA, 'wt', encoding='utf-8') as g:
         json.dump(regs, g, ensure_ascii=False)
