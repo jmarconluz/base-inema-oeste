@@ -8,7 +8,7 @@ Decisões favoráveis com pauta localizada: **151 de 156** (pautas coletadas: to
 
 | Tipo de infração (pelo fato gerador da pauta) | Favoráveis | Desfavoráveis |
 |---|---|---|
-| Outros | 24 | 193 |
+| Outros | 24 | 194 |
 | Operar sem licença / em desacordo | 24 | 171 |
 | Não apresentação do PAD (PARA — Dec. BA 12.071/2010) | 72 | 7 |
 | Não atender notificação | 7 | 68 |

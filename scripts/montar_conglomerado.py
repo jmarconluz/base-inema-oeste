@@ -4,11 +4,12 @@ Junta, com a fonte de cada trecho:
   lei      — leis e decretos (federais e da Bahia), um registro por artigo        juridico/legislacao/
   stj      — acórdãos ambientais do STJ (dados abertos)                           juridico/jurisprudencia/stj/
   tema     — temas repetitivos e precedentes qualificados ambientais do STJ
+  stf      — teses de repercussão geral (todas) e ações de controle concentrado ambientais  juridico/jurisprudencia/stf/
   tjba     — decisões do TJBA                                                      juridico/jurisprudencia/tjba/
   cepram   — decisões do CEPRAM sobre recursos (DOE-BA)                            multas/bahia_doe/cepram_recursos.csv
   tc       — termos de compromisso e conversões de multa (DOE-BA)                  multas/bahia_doe/conversoes_tc.csv
   doe      — autuados em editais do INEMA (DOE-BA)                                 multas/bahia_doe/autos_editais.csv
-  guia     — teses, checklist, modelos, guia de acesso e precedentes (seções)      juridico/*.md
+  guia     — teses, checklist, modelos, guia de acesso e precedentes (seções)      juridico/*.md e índices da jurisprudência
 
 O arquivo gerado (base/conglomerado.sqlite) não vai para o repositório: refaça quando quiser (leva segundos).
 Uso:  python scripts/montar_conglomerado.py      depois   python scripts/buscar.py "prescrição intercorrente"
@@ -87,6 +88,22 @@ def main():
                 '\n'.join(x for x in [r.get('questaoSubmetidaAJulgamento'), 'TESE: ' + (r.get('teseFirmada') or ''),
                                       r.get('referenciaLegislativa')] if x),
                 ref=f"STJ {r.get('tipoPrecedente')} {r.get('numeroPrecedente')}", data=r.get('dataJulgamento', ''))
+    # STF (repercussão geral e controle concentrado)
+    p = os.path.join(RAIZ, 'juridico', 'jurisprudencia', 'stf', 'teses_repercussao_geral.json')
+    if os.path.exists(p):
+        for r in json.load(open(p, encoding='utf-8'))['teses']:
+            add('stf', f"STF Tema {r['tema']} ({r['repercussao']}) — {r['paradigma']}", 'TESE: ' + r['tese'],
+                ref=f"STF Tema {r['tema']}", link=r['link'], data=r['data_tese'])
+    p = os.path.join(RAIZ, 'juridico', 'jurisprudencia', 'stf', 'stf_temas_e_controle.json')
+    if os.path.exists(p):
+        d = json.load(open(p, encoding='utf-8'))
+        for t in d['temas']:
+            add('stf', f"STF Tema {t['tema']} — página do tema (situação)", t['texto'], ref=f"STF Tema {t['tema']}", link=t['url'])
+        for c in d['controle_concentrado']:
+            for bloco in re.split(r'\n (?=\d\d/\d\d/\d{4}\n)', c['decisoes']):
+                if 'Decisão' in bloco:
+                    add('stf', f"{c['classe']} {c['numero']} — decisão", bloco.strip(), ref=f"STF {c['classe']} {c['numero']}",
+                        link=c['url'], data=bloco.strip()[:10])
     # TJBA
     p = os.path.join(RAIZ, 'juridico', 'jurisprudencia', 'tjba', 'tjba_inema_multas.json')
     if os.path.exists(p):
@@ -115,7 +132,7 @@ def main():
                 '\n'.join(x for x in [r.get('autuado'), r.get('descricao'), r.get('edital_motivo')] if x),
                 ref=f"{r.get('processo')}", link=r.get('link_doe', ''), data=r.get('data_publicacao', ''))
     # guias e teses (por seção)
-    for f in sorted(glob.glob(os.path.join(RAIZ, 'juridico', '*.md')) + glob.glob(os.path.join(RAIZ, 'juridico', 'legislacao', '*.md'))):
+    for f in sorted(glob.glob(os.path.join(RAIZ, 'juridico', '*.md')) + glob.glob(os.path.join(RAIZ, 'juridico', 'legislacao', '*.md')) + glob.glob(os.path.join(RAIZ, 'juridico', 'jurisprudencia', '*', 'indice_temas.md'))):
         nome = os.path.relpath(f, RAIZ)
         for tit, txt in secoes_md(open(f, encoding='utf-8').read()):
             add('guia', f'{nome} — {tit}', txt, ref=nome)

@@ -1430,3 +1430,28 @@ III - as interferências nos leitos dos rios e demais corpos hídricos para a ex
 .................................................................................................................
 
 VI - outros usos que alterem o regime, a quantidade ou a qualidade da água existente em um corpo d'água." (NR)
+
+## Normas do INEMA/SEMA (página "Normas Técnicas e Portarias" do INEMA; incluídas em 19/11/2026)
+
+Fonte: https://www.ba.gov.br/inema/legislacao/normas-tecnicas-e-portarias (PDFs do DOE). Textos completos em
+`legislacao/bahia/`. Não há, nessa página, portaria ou instrução normativa do INEMA sobre o procedimento de
+fiscalização ou a dosimetria das multas — o rito continua no Decreto 14.024/2012 (arts. 240 e seguintes).
+
+- **Portaria Conjunta SEMA/INEMA nº 10, de 26/08/2022 (DOE 27/08/2022):** "RESOLVEM suspender os prazos dos processos
+  administrativos que tramitam no SEIA, de 15/08/2022 a 30/08/2022; retomando-se a contagem dos prazos em 31/08/2022,
+  no estado em que se encontravam", com efeitos retroativos a 15/08/2022 (instabilidade do SEIA). Usar na contagem de
+  prazo de defesa/recurso nesse período.
+- **IN SEMA/INEMA nº 01, de 24/08/2021 (dados georreferenciados):** art. 3º, V — "O processo de vetorização manual
+  deverá utilizar imagem com resolução espacial compatível com a escala cartográfica do tema e ou feição mapeado";
+  art. 5º — os sistemas da SEMA e do INEMA que produzem ou usam dados espaciais "deverão atender aos dispositivos desta
+  Instrução Normativa, visando garantir os critérios técnicos de qualidade da informação espacial"; art. 7º, I — "todos
+  os dados geoespaciais apresentados à SEMA e ao INEMA, assim como aqueles que são produzidos por estes órgãos devem
+  possuir informações de seus metadados". Revogou a Portaria IMA nº 13.950/2010 (art. 10).
+- **IN SEMA/INEMA nº 15/2022 (consolidada com a IN nº 002/2023):** apuração de fraude no SEIA e no CEFIR (de ofício, a
+  pedido do interessado ou por denúncia — art. 3º); útil quando o auto ou a pendência do CEFIR decorre de cadastro
+  feito por terceiro.
+- **Portaria INEMA nº 22.078/2021 (alterada pela Portaria nº 27.646/2022):** aprovação da localização da Reserva Legal.
+- **Portaria INEMA nº 23.238/2021:** regularização de atividades agrossilvopastoris de até 200 ha (sequeiro, irrigada,
+  pecuária extensiva, silvicultura vinculada a PSS).
+- **IN INEMA nº 003/2022:** perfuração, tamponamento, monitoramento e outorga de poços no aquífero Urucuia (Oeste).
+

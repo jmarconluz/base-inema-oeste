@@ -107,6 +107,10 @@ Ordem prática de análise: **1) prazos → 2) prescrição → 3) nulidades do 
 
 - **Súmula 467 do STJ:** a execução da multa ambiental prescreve em 5 anos contados do término do processo administrativo.
 - **Uso:** CDA/execução ajuizada mais de 5 anos depois da decisão definitiva; ou execução parada (art. 40 da Lei 6.830/1980).
+- **STF, Tema 390 (RE 636.562; trânsito em julgado em 31/03/2023; conferido em 19/11/2026):** o art. 40 da LEF é
+  constitucional; passado 1 ano de suspensão, começa automaticamente o prazo de 5 anos da prescrição intercorrente
+  (a tese fala em crédito tributário; para a multa, que é não tributária, o prazo de 5 anos vem do STJ, Tema 146).
+  Não confundir com a execução da **reparação** do dano, que o STF declarou imprescritível (Tema 1.194 — seção 12).
 - A base `autos_editais.csv` marca as fases "Inscrição em dívida ativa (cobrança)" (1.731 registros) — conferir as datas.
 
 ## 2. Nulidades do auto e da notificação (Bahia)
@@ -213,6 +217,13 @@ Ordem prática de análise: **1) prazos → 2) prescrição → 3) nulidades do 
 - **Defesa:** não atacar a tecnologia; atacar data, área e autoria com **laudo multitemporal** (série histórica
   PRODES/MapBiomas/Sentinel/Landsat): desmate anterior à posse, anterior a 22/07/2008, fora do imóvel, regeneração,
   área menor que a autuada. É exatamente o laudo de contestação de alertas que a Ecoplan já faz.
+- **Reforço normativo na Bahia (Argumentativa):** a IN SEMA/INEMA nº 01/2021 (DOE 25/08/2021; texto em
+  `legislacao/bahia/in-sema-inema-01-2021-dados-georreferenciados.txt`, conferido em 19/11/2026) manda que a vetorização
+  manual use imagem "com resolução espacial compatível com a escala cartográfica" (art. 3º, V), que os sistemas da
+  SEMA/INEMA atendam a esses critérios de qualidade (art. 5º) e que os dados geoespaciais **produzidos pelos órgãos**
+  tenham metadados (art. 7º, I). Na defesa, pedir os arquivos vetoriais, a imagem usada (sensor, data, resolução) e os
+  metadados do polígono do auto; se faltarem ou a resolução for incompatível com a área autuada, a prova da área fica
+  frágil.
 
 ## 4. Competência e duplicidade
 
@@ -220,7 +231,7 @@ Ordem prática de análise: **1) prazos → 2) prescrição → 3) nulidades do 
 
 - Cabe ao órgão que licencia/autoriza a atividade lavrar o auto; os demais podem fiscalizar, mas prevalece o auto do
   licenciador (LC 140/2011, art. 17, caput e §3º; Decreto BA 14.024, art. 240 e §3º).
-- **Limite fixado pelo STF (ADI 4.757/DF, Plenário, rel. Min. Rosa Weber, j. 12/12/2022):** a prevalência não impede a
+- **Limite fixado pelo STF (ADI 4.757/DF, Plenário, rel. Min. Rosa Weber, j. 12/12/2022; conferido no portal do STF em 19/11/2026 — seção 12):** a prevalência não impede a
   atuação supletiva de outro ente quando houver omissão ou insuficiência da fiscalização do órgão licenciador. O STJ
   (2025) aplicou esse entendimento para manter multa do IBAMA sobre atividade licenciada por outro órgão. Por isso a
   tese funciona melhor quando o licenciador **já agiu** sobre o mesmo fato (auto, notificação, TC) — aí a
@@ -247,6 +258,9 @@ Ordem prática de análise: **1) prazos → 2) prescrição → 3) nulidades do 
   convertidas (Lei 12.651/2012, art. 59, §§4º e 5º). Na Bahia o PRA foi instituído pela Lei 13.597/2016.
 - **STF, ADC 42 e ADIs 4.901/4.902/4.903/4.937:** dispositivos válidos, com interpretação conforme para que a
   prescrição fique interrompida durante o cumprimento do termo (não há "anistia" automática, há suspensão condicionada).
+  Conferido em 19/11/2026 no acompanhamento processual do STF (ADI 4.902, decisão de 28/02/2018: interpretação conforme
+  ao art. 59, §4º, "de modo a afastar, no decurso da execução dos termos de compromissos [...] o risco de decadência ou
+  prescrição"); embargos julgados em 24/10/2024 sem mudar esse ponto (seção 12).
 - **Prova:** laudo multitemporal comprovando que a supressão é anterior a 22/07/2008; CEFIR/CAR; adesão ao PRA.
 
 ### 5.2 Reserva Legal pela lei da época — Forte
@@ -353,6 +367,27 @@ Repetitivo vincula juízes e tribunais (CPC, art. 927, III); para o órgão ambi
 | 1.329 | Decreto 6.514: edital para alegações finais só anula os atos seguintes se houver prejuízo efetivo comprovado | Acórdão publicado; RE pendente | Mostre o prejuízo concreto (seção 2.1) |
 | 1.036 e 1.043 | Apreensão do instrumento da infração não depende de uso exclusivo ou habitual; o dono do veículo não tem direito a ser fiel depositário (cabe à Administração decidir) | Trânsito em julgado | Contra — em apreensão, discuta prova e proporcionalidade, não o uso habitual |
 | 1.447 | Afetado: definir se a conversão da multa em medidas alternativas é decisão discricionária do órgão, com controle judicial só de legalidade | Afetado (sem tese) | Acompanhar — afeta pedidos judiciais de conversão (seção 8) |
+
+## 12. Precedentes do STF (repercussão geral e controle concentrado)
+
+Conferidos em 19/11/2026 no Portal do STF: teses de repercussão geral (https://portal.stf.jus.br/repercussaogeral/teses.asp,
+banco oficial com 819 teses com RG e 473 sem RG — cópia em `jurisprudencia/stf/teses_repercussao_geral.json`), página
+de cada tema (`tema.asp?num=N`, situação) e acompanhamento processual das ações de controle concentrado
+(`detalhe.asp`, aba Decisões). Lista comentada em `jurisprudencia/stf/indice_temas.md`. Tese de repercussão geral e
+decisão em ADI/ADC vinculam (CPC, art. 927, I e III; CF, art. 102, §2º).
+
+| Tema / ação | O que o STF fixou (texto oficial, resumido só quando indicado) | Situação (19/11/2026) | Uso na defesa |
+|---|---|---|---|
+| Tema 999 (RE 654.833) | "É imprescritível a pretensão de reparação civil de dano ambiental." | Trânsito em julgado em 19/08/2020 | **Limite**: vale para a reparação civil; a tese não fala de multa. Argumento (nosso): a multa é sanção administrativa e segue os prazos próprios (seções 1.1 a 1.4) |
+| Tema 1.194 (ARE 1.352.872) | "É imprescritível a pretensão executória e inaplicável a prescrição intercorrente na execução de reparação de dano ambiental, ainda que posteriormente convertida em indenização por perdas e danos." | Trânsito em julgado em 16/04/2025 | **Contra** na execução da reparação; não confundir com a execução da multa (Súmula 467 do STJ; Tema 390 abaixo) |
+| Tema 1.268 (RE 1.427.694) | Imprescritível o ressarcimento ao erário pela exploração irregular do patrimônio mineral da União, "porquanto indissociável do dano ambiental causado" | Trânsito em julgado em 08/10/2025 | Contra em lavra irregular (ressarcimento à União); não trata de multa |
+| Tema 666 (RE 669.069) | "É prescritível a ação de reparação de danos à Fazenda Pública decorrente de ilícito civil." | Trânsito em julgado em 31/08/2016 | Reforço: a regra é a prescritibilidade; a imprescritibilidade é exceção (Tema 999) |
+| Tema 390 (RE 636.562) | "É constitucional o art. 40 da Lei nº 6.830/1980 [...] Após o decurso desse prazo [1 ano de suspensão], inicia-se automaticamente a contagem do prazo prescricional [...] de 5 (cinco) anos." | Trânsito em julgado em 31/03/2023 | A favor — prescrição intercorrente na execução fiscal da multa parada (seções 1.4 e 9). A tese fala em prazo "tributário"; para multa ambiental (dívida não tributária, também cobrada pela LEF) o prazo de 5 anos vem do Decreto 20.910/1932 (STJ, Tema 146; Súmula 467) |
+| Tema 145 (RE 586.224) | Município pode legislar sobre meio ambiente "no limite do seu interesse local e desde que tal regramento seja harmônico com a disciplina estabelecida pelos demais entes federados" | Trânsito em julgado em 21/05/2015 | Multa municipal (Barreiras, LEM etc.): lei municipal mais severa ou contrária à norma federal/estadual pode ser atacada |
+| Tema 532 (RE 633.782) | "É constitucional a delegação do poder de polícia, por meio de lei, a pessoas jurídicas de direito privado integrantes da Administração Pública indireta de capital social majoritariamente público que prestem exclusivamente serviço público de atuação própria do Estado e em regime não concorrencial." | Trânsito em julgado em 03/02/2021 | Argumentativa: auto lavrado por empresa contratada/terceirizado fica fora das condições da tese (seção 2.3) |
+| Tema 1.244 (ARE 1.409.059) | "A fixação de multa administrativa em múltiplos do salário mínimo não viola o disposto no art. 7º, IV, da Constituição Federal." | Acórdão de mérito publicado em 27/11/2025 | Contra — não alegue inconstitucionalidade de multa fixada em salários mínimos |
+| ADC 42 e ADIs 4.901, 4.902, 4.903 e 4.937 (Código Florestal; rel. Min. Luiz Fux; j. 28/02/2018; embargos julgados em 24/10/2024) | ADI 4.902: "dar interpretação conforme a Constituição ao art. 59, §4º, do Código Florestal, de modo a afastar, no decurso da execução dos termos de compromissos subscritos nos programas de regularização ambiental, o risco de decadência ou prescrição, seja dos ilícitos ambientais praticados antes de 22.7.2008, seja das sanções deles decorrentes" (aplicando o art. 60, §1º). Embargos (24/10/2024): declarado constitucional o art. 48, §2º (compensação de RL no mesmo bioma) | Julgadas; embargos parcialmente providos em 24/10/2024 | Seção 5.1: a suspensão das sanções pelo PRA continua válida; durante o termo **não corre** prescrição (o órgão pode cobrar se o termo for descumprido) |
+| ADI 4.757 (LC 140/2011; rel. Min. Rosa Weber; Plenário virtual de 02 a 12/12/2022; embargos rejeitados em 04/09/2023) | Interpretação conforme ao art. 17, §3º: "a prevalência do auto de infração lavrado pelo órgão originalmente competente para o licenciamento ou autorização ambiental não exclui a atuação supletiva de outro ente federado, desde que comprovada omissão ou insuficiência na tutela fiscalizatória"; e ao art. 14, §4º: a mora "imotivada e desproporcional" na renovação de licença instaura a competência supletiva do art. 15 | Julgada | Seção 4.1: exija do órgão não licenciador a prova da omissão ou insuficiência do licenciador |
 
 ## Pendências desta versão (próximas atualizações)
 

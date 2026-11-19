@@ -4,13 +4,13 @@ Uso:
     python scripts/buscar.py "prescrição intercorrente" [--fonte stj,tema] [--n 10] [--completo]
     python scripts/buscar.py '"intimação por edital" alegações'      (aspas = expressão exata)
     python scripts/buscar.py 2019-012345/TEC/AIMU                   (número de processo: busca literal)
-Fontes: lei, stj, tema, tjba, cepram, tc, doe, guia.  Sem --fonte, busca em todas e mostra as melhores de cada uma.
+Fontes: lei, stf, stj, tema, tjba, cepram, tc, doe, guia.  Sem --fonte, busca em todas e mostra as melhores de cada uma.
 """
 import os, re, sqlite3, sys
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB = os.path.join(RAIZ, 'base', 'conglomerado.sqlite')
-FONTES = ['tema', 'lei', 'stj', 'tjba', 'cepram', 'tc', 'guia', 'doe']
+FONTES = ['tema', 'stf', 'lei', 'stj', 'tjba', 'cepram', 'tc', 'guia', 'doe']
 
 
 def consulta_fts(q):

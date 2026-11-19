@@ -12,6 +12,24 @@
   "chars": 65125
  },
  {
+  "url": "https://www.ba.gov.br/inema/sites/site-inema/files/migracao_2024/arquivos/wp-content/files/INEMA_-_Instrucao_Normativa_003_-_Procedimentos_Administrativos_e_Critrios_de_Autorizao_para_Perfurao_de_Poos_-_APPO__no_aqufero_Urucuia.pdf",
+  "arquivo": "juridico/legislacao/bahia/in-inema-03-2022-pocos-aquifero-urucuia.txt",
+  "sha256": "b35d35c47bd7238550de78dfba7665e966a671fd7f77a05c30f49a703b065817",
+  "chars": 18962
+ },
+ {
+  "url": "https://www.ba.gov.br/inema/sites/site-inema/files/migracao_2024/arquivos/wp-content/files/Instruo_Normativa_SEMA_INEMA_01_-_Define_critrios_para_uso_de_dados_e_informaes_Georreferenciadas.pdf",
+  "arquivo": "juridico/legislacao/bahia/in-sema-inema-01-2021-dados-georreferenciados.txt",
+  "sha256": "03cecd7145ed704010211417dd7186567503745967fc5971611dfdb1b3d9c112",
+  "chars": 13020
+ },
+ {
+  "url": "https://www.ba.gov.br/inema/sites/site-inema/files/migracao_2024/arquivos/wp-content/files/Instruo_Normativa_n_002_de_10_de_julho_de_2023_atualizada_em_11_de_agosto_de_2023.pdf",
+  "arquivo": "juridico/legislacao/bahia/in-sema-inema-15-2022-fraudes-seia-cefir.txt",
+  "sha256": "2214f56295b82b0a01bbca942031274dd97d0d7a81110d06d6864001161e0cdc",
+  "chars": 7039
+ },
+ {
   "url": "https://www.legislabahia.ba.gov.br/documentos/lei-no-10431-de-20-de-dezembro-de-2006",
   "arquivo": "juridico/legislacao/bahia/lei-no-10431-de-20-de-dezembro-de-2006.txt",
   "sha256": "e147cf4a27da80be45a954924672e2373cf2879422b132565d43de30d5965dd7",
@@ -40,6 +58,24 @@
   "arquivo": "juridico/legislacao/bahia/lei-no-13597-de-14-de-dezembro-de-2016.txt",
   "sha256": "986676ea0bf91482d3fb98cdf797fb8af19badacde72c42c1fd8cf7468d477bc",
   "chars": 7346
+ },
+ {
+  "url": "https://www.ba.gov.br/inema/sites/site-inema/files/migracao_2024/arquivos/wp-content/files/Portaria_Conjunta_SEMA_INEMA_n-_10_2022.pdf",
+  "arquivo": "juridico/legislacao/bahia/portaria-conjunta-sema-inema-10-2022-suspensao-prazos-seia.txt",
+  "sha256": "9bfbd72dc1d6e7e7ed32a8a23a4fab9c1ed1b9bab7b5993ccfda0b7e13ec5ee6",
+  "chars": 1210
+ },
+ {
+  "url": "https://www.ba.gov.br/inema/sites/site-inema/files/migracao_2024/arquivos/wp-content/files/PORTARIA_RL_alterao_consolidada_formatada_para_site.pdf",
+  "arquivo": "juridico/legislacao/bahia/portaria-inema-22078-2021-reserva-legal.txt",
+  "sha256": "6994077e15716fd4161bfc589a3461d791918922c338cad707633e217a0abe09",
+  "chars": 17356
+ },
+ {
+  "url": "https://www.ba.gov.br/inema/sites/site-inema/files/migracao_2024/arquivos/wp-content/files/INEMA_-_APE.pdf",
+  "arquivo": "juridico/legislacao/bahia/portaria-inema-23238-2021-agrossilvopastoris.txt",
+  "sha256": "df530e3d7d34702fb45951906760591e521d954e9be4a74ef37bd2960a2b8852",
+  "chars": 5514
  },
  {
   "url": "https://gestor.meioambiente.ba.gov.br/ArquivosSistemas/SistemaPublicacao/Arquivos/2951/ANEXO_1417460354547cba82d0088.pdf",
