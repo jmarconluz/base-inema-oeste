@@ -21,6 +21,13 @@ Usar na ordem. Cada item aponta a tese correspondente em `teses_defesa.md`.
 | Pagamento | 30 dias da notificação (art. 259, IV) | conforme notificação; 30% de desconto à vista |
 | Edital | ciência considerada 5 dias após a publicação (art. 261, §2º) | conforme edital |
 
+**ICMBio** (auto em unidade de conservação federal): rito da IN ICMBio nº 9/2023, compilada com a IN ICMBio nº 13/2026 —
+defesa em 20 dias da ciência (art. 58), alegações finais em 10 dias (art. 87; mais 10 a pedido, §4º, incluído pela IN
+13/2026), recurso em 20 dias (art. 91); pagamento à vista com 30% de desconto como solução legal (art. 49, §2º).
+Conferido na página oficial do ICMBio em 21/11/2026; o texto integral ainda não está no acervo. A IN Conjunta
+MMA/IBAMA/ICMBio nº 1/2021 não é mais o rito: foi substituída pela IN IBAMA 19/2023 no IBAMA e pela IN ICMBio 9/2023 no
+ICMBio (ver `PENDENCIAS.md`, item 11).
+
 Contagem: exclui o dia do início, inclui o do fim; prorroga para o dia útil seguinte (Decreto 14.024, art. 259, §2º).
 Defesa por e-mail é aceita, mas tem de ser validada em até 5 dias por protocolo ou correio com AR (art. 264, parágrafo único).
 Defesa fora do prazo não é conhecida (art. 265, parágrafo único).

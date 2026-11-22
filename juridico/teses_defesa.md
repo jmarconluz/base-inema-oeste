@@ -27,6 +27,21 @@ Ordem prática de análise: **1) prazos → 2) prescrição → 3) nulidades do 
 - **Uso:** auto lavrado mais de 5 anos depois de o INEMA ter tido conhecimento do fato (vistoria anterior, denúncia,
   análise de processo de licença, alerta de satélite já disponível ao órgão).
 - **Prova:** data da vistoria/denúncia/relatório que deu ciência ao órgão; histórico no SEIA; data do alerta (PRODES/DETER/MapBiomas).
+- **Cuidado — infração permanente (STJ, 2026; conferido em 21/11/2026 no Portal de Dados Abertos do STJ, espelhos em
+  `jurisprudencia/stj/`):** se a infração for **permanente ou continuada**, os 5 anos só correm do dia em que ela cessa
+  (Lei 9.873/1999, art. 1º; Decreto 6.514/2008, art. 21, aplicado no INEMA pelo art. 253 do Decreto 14.024 — tese 1.3).
+  - **2ª Turma, REsp 2.240.573/GO**, rel. Min. Francisco Falcão, j. 09/09/2026, DJEN 14/09/2026: construção em APP sem
+    autorização (art. 74 do Decreto 6.514) é infração administrativa **permanente**, e a prescrição foi afastada; o STJ
+    separou expressamente a esfera penal, em que o crime do art. 64 da Lei 9.605 é de consumação instantânea.
+    https://processo.stj.jus.br/processo/pesquisa/?tipoPesquisa=tipoPesquisaNumeroRegistro&termo=202504149110
+  - **1ª Turma, AgInt no AREsp 3.001.049**, rel. Min. Sérgio Kukina, j. 14/09/2026, DJEN 30/09/2026: saber se a
+    infração é permanente ou continuada é questão de fato, que o STJ não reexamina (Súmula 7) — a classificação se ganha
+    na defesa, no CEPRAM e no TJBA/TRF1. https://processo.stj.jus.br/processo/pesquisa/?tipoPesquisa=tipoPesquisaNumeroRegistro&termo=202502759846
+  - **Na defesa:** separar o ato (o corte, consumado na data do desmate, provada pela série histórica
+    PRODES/MapBiomas/Sentinel/Landsat) da simples manutenção do uso da área. Autos por obra ou estrutura em APP e, por
+    raciocínio parecido, por impedir a regeneração (art. 48 do Decreto 6.514) correm o risco de ser tratados como
+    permanentes: antes de contar a prescrição desses autos, procurar precedente específico (ainda não localizado na base
+    para desmatamento e regeneração — ver Pendências).
 
 ### 1.2 Prescrição durante o processo — Bahia (INEMA) — Forte
 
@@ -210,10 +225,19 @@ Ordem prática de análise: **1) prazos → 2) prescrição → 3) nulidades do 
 
 - Os tribunais aceitam imagem de satélite como prova da **materialidade**, inclusive sem vistoria (há decisões nesse
   sentido). Mas a **autoria** atribuída ao proprietário por presunção exige exame cuidadoso da negativa de autoria
-  (TRF1, Apelação Cível 0004552-44.2013.4.01.3603, julgada em 12/12/2018, manteve sentença que anulou 2 autos e o termo
-  de embargo: a área autuada ficava fora dos limites da fazenda do autuado e o polígono foi traçado com dados fornecidos
-  por ele — **ainda fonte secundária**: número e data tirados de comentário em comunidadeambiental.com.br; a consulta
-  processual do TRF1 tem verificação contra robôs, conferência pendente em 17/11/2026; não citar sem o inteiro teor).
+  (TRF1, Apelação Cível 0004552-44.2013.4.01.3603, 5ª Turma, rel. Des. Federal Souza Prudente, julgada em 12/12/2018,
+  publ. 22/01/2019, manteve sentença que anulou 2 autos e o termo de embargo: a área autuada ficava fora dos limites da
+  fazenda do autuado e o polígono foi traçado com dados fornecidos por ele — **ainda fonte secundária [2ª]**: número,
+  turma, relator e datas tirados do Portal Comunidade Ambiental (comunidadeambiental.com.br, consultado em 17 e
+  21/11/2026); a consulta processual do TRF1 tem verificação contra robôs e jurisprudencia.trf1.jus.br aguarda
+  liberação no navegador embutido; não citar sem o inteiro teor).
+- **Pista mais recente no TRF1 [2ª até conferir no PJe]:** Apelação Cível 1006530-66.2023.4.01.3901 (Altamira/PA),
+  decisão monocrática do Des. Federal Flávio Jardim, assinada em 04/07/2025: deu provimento à apelação e extinguiu os
+  efeitos de 7 autos de infração e 1 termo de embargo do IBAMA, porque a autoria se apoiou só em testemunhas "de ouvir
+  dizer", sem prova documental ou pericial que ligasse o autuado à área; exigir dele mais do que os documentos que
+  afastavam a posse seria exigir prova negativa (reforça também a tese 3.1). Lida em 21/11/2026 na cópia do inteiro teor
+  publicada pelo Conjur; conferir no PJe do 2º grau do TRF1 (consulta pública de documento, ID 25070420064134200000)
+  antes de citar.
 - **Defesa:** não atacar a tecnologia; atacar data, área e autoria com **laudo multitemporal** (série histórica
   PRODES/MapBiomas/Sentinel/Landsat): desmate anterior à posse, anterior a 22/07/2008, fora do imóvel, regeneração,
   área menor que a autuada. É exatamente o laudo de contestação de alertas que a Ecoplan já faz.
@@ -328,6 +352,13 @@ Ordem prática de análise: **1) prazos → 2) prescrição → 3) nulidades do 
 | Parcelamento | até 12 meses (Decreto 14.024, art. 274, §1º); conversão indireta em até 36 parcelas (art. 295-B, §3º) | conforme regulamento |
 | Termo de compromisso | suspende interdição/embargo e a exigibilidade da multa convertida (arts. 278, 282, 291, 298, §6º) | — |
 
+**ICMBio** (autos em unidade de conservação federal): as soluções legais estão na IN ICMBio nº 9/2023, compilada com a
+IN ICMBio nº 13/2026 (arts. 46 a 49) — pagamento à vista com 30% de desconto, parcelamento e conversão em serviços
+ambientais, com 40% de desconto na conversão direta pedida junto com a defesa; o pedido de conversão só é aceito até o
+prazo das alegações finais (art. 49, §§ 2º, 4º e 5º). Conferido na página oficial do ICMBio em 21/11/2026
+(https://www.gov.br/icmbio/pt-br/acesso-a-informacao/autuacoes-ambientais/infracoes-ambientais/normativas/instrucao-normativa-no-9-gabin-icmbio-de-23-de-agosto-de-2023);
+o texto integral ainda não está no acervo — conferir a redação antes de transcrever em peça.
+
 **Cuidado:** assinar o termo de conversão implica renúncia a defesa e recursos sobre as multas convertidas
 (Decreto 14.024, art. 298, §1º, I). Por isso: primeiro verificar prescrição e nulidades; se forem fracas, pedir a
 conversão **dentro do prazo de defesa** para garantir o maior desconto.
@@ -400,6 +431,10 @@ decisão em ADI/ADC vinculam (CPC, art. 927, I e III; CF, art. 102, §2º).
   na seção 1.2 por identidade de lei.
 - Acórdão do STJ sobre multa e herdeiro: conferido em 17/11/2026 (REsp 1.823.083 — tese 3.2). Falta conferir no inteiro
   teor o acórdão do TRF1 que anulou autos e embargo por falta de prova de autoria (Ap. Cível 0004552-44.2013.4.01.3603,
-  número tirado de fonte secundária; a consulta processual do TRF1 tem verificação contra robôs).
+  5ª Turma, rel. Des. Souza Prudente, publ. 22/01/2019 — dados de fonte secundária; a consulta processual do TRF1 tem
+  verificação contra robôs) e, no PJe do TRF1, a decisão de 04/07/2025 na Ap. 1006530-66.2023.4.01.3901 (tese 3.3).
 - Jurisprudência do TRF1 (multas do IBAMA na Bahia) e do STJ por tema — coletar pelo navegador (SCON e portal do TRF1).
-- Infração instantânea x permanente em desmatamento (marco inicial da prescrição) — pesquisar posição atual do STJ.
+- Infração instantânea x permanente em desmatamento (marco inicial da prescrição): em 21/11/2026 a base oficial do STJ
+  trouxe só o quadro geral (obra em APP = permanente, REsp 2.240.573/2026; natureza é questão de fato, AgInt no AREsp
+  3.001.049/2026 — tese 1.1). Falta precedente específico para desmatamento e para "impedir a regeneração" (art. 48 do
+  Decreto 6.514): procurar no TJBA, no TRF1 e na próxima carga mensal do STJ.

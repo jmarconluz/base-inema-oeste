@@ -13,6 +13,13 @@ mão). Escreva tudo em português. Se uma etapa falhar, registre o motivo e siga
   usuário (lá pode estar rodando a coleta do SEIA) nem no SEIA.
 - O repositório é público: CPF, RG e CNH sempre mascarados (`scripts/privacidade.py`); nenhum dado de cliente aqui.
 - Não invente número, data nem norma. Não apague arquivos existentes.
+- **Fontes confiáveis e atualização contínua (regra permanente do RT, 21/11/2026):** cada execução tenta subir de nível
+  pelo menos um item da base — trocar fonte secundária [2ª] por fonte oficial [C], fechar um item "bloqueado" ou
+  "aguardando" quando houver caminho legítimo, completar o que falta — e registra a data da conferência. O que não der
+  para conferir fica marcado com o motivo. Quando o navegador embutido não alcançar um site oficial, tente o WebSearch e
+  o WebFetch: em 21/11/2026 o WebFetch abriu páginas do gov.br (ICMBio, Participa + Brasil) que o shell da nuvem não
+  alcança. Ele devolve um resumo da página, não o texto: serve para conferir situação, número e data, não para guardar
+  texto integral no acervo. Regra completa no CLAUDE.md do `ecoplan-laudos`.
 
 ## 0. Preparar
 
@@ -117,6 +124,11 @@ CSVs: `python scripts/ibama_csv.py <arquivos salvos>` (os envelopes do IBAMA sã
 não use o `decodificar_partes.py` para eles). Na mesma execução, numa aba em `https://www.ibama.gov.br/`, confira a IN IBAMA 19/2023
 com `await LEX.verificar(['<url do hashes.json>'])` e compare o `sha256` com o de `juridico/legislacao/hashes.json`
 (o `LEX.verificarRepo` não roda nessa página: o site substitui o `URL` do navegador).
+Ainda na mesma execução, abra a página oficial da IN ICMBio 9/2023 compilada
+(https://www.gov.br/icmbio/pt-br/acesso-a-informacao/autuacoes-ambientais/infracoes-ambientais/normativas/instrucao-normativa-no-9-gabin-icmbio-de-23-de-agosto-de-2023)
+e veja se a compilação mudou (hoje: compilada com a IN ICMBio nº 13/2026). Enquanto ela não estiver no acervo, guarde o
+texto integral com `LEX.preparar` em `legislacao/federal/in_icmbio_09_2023.txt` e rode
+`python scripts/verificar_legislacao.py hashes` (precisa de www.gov.br liberado no navegador embutido).
 
 STJ: numa aba em `https://dadosabertos.web.stj.jus.br/dataset/`, carregue `coletor/coletor_stj.js` e rode
 `await STJ.colher(undefined, '<AAAAMM01 do mês anterior>')` (só os arquivos mensais novos) e `await STJ.temas()`;
