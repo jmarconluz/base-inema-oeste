@@ -138,6 +138,12 @@
   "chars": 101123
  },
  {
+  "url": "https://www.gov.br/icmbio/pt-br/acesso-a-informacao/autuacoes-ambientais/infracoes-ambientais/normativas/instrucao-normativa-no-9-gabin-icmbio-de-23-de-agosto-de-2023",
+  "arquivo": "juridico/legislacao/federal/in_icmbio_09_2023.txt",
+  "sha256": "db77a94af13e9f23b0c51cfe214822a793e71d7b614988552a7792c6e2ee5f12",
+  "chars": 92846
+ },
+ {
   "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.650.htm",
   "arquivo": "juridico/legislacao/federal/l10.650.txt",
   "sha256": "eb341898f653f4ad3d37dc653da47474a1c6e12b01138a90f8f8a3259641ba25",

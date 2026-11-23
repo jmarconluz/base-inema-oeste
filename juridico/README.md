@@ -50,7 +50,8 @@ Lei 9.985/2000, Lei 13.874/2019, Lei 6.830/1980, Decreto 20.910/1932, LINDB.
 
 Federal (normas infralegais): IN IBAMA 19/2023 (processo sancionador no IBAMA), Resolução CONAMA 237/1997
 (licenciamento). Rito do ICMBio: IN ICMBio nº 9/2023, compilada com a IN ICMBio nº 13/2026 — situação, prazos e
-soluções legais conferidos na página oficial do ICMBio em 21/11/2026 (texto integral ainda a guardar no acervo). A IN
+soluções legais conferidos na página oficial do ICMBio em 21/11/2026; texto integral no acervo desde 23/11/2026
+(`legislacao/federal/in_icmbio_09_2023.txt`). A IN
 Conjunta MMA/IBAMA/ICMBio nº 1/2021 foi substituída: pela IN IBAMA 19/2023 no IBAMA e pela IN ICMBio 9/2023 no ICMBio.
 
 Bahia (normas do INEMA/SEMA, incluídas em 19/11/2026): Portaria Conjunta SEMA/INEMA 10/2022 (prazos do SEIA suspensos

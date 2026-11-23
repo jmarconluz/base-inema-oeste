@@ -84,7 +84,7 @@ DOCPROC_RE = re.compile(
     r'\s*,?\s*(?:[^,]{0,90}?,\s*)?nos\s+autos\s+do\s+processo\s+administrativo\s*(?:de\s*)?(?:n\s*[º°o]\.?|n\.)?\s*'
     r'(?P<proc>' + PROC + ')', re.I)
 NOME_RE = re.compile(r'(?:Autuad[oa]s?\s*:|Notificad[oa]s?\s*:|;|:|\bao\s+Autuado\b|\bà\s+|\bao\s+)\s*([^;:]{2,220}?)\s*,?\s*(?:inscrit[ao]\s+no\s*)?$', re.I)
-CABEC_RE = re.compile(r'(?=EDITAL DE NOTIFICA[ÇC][ÃA]O|EDITAL DE CI[ÊE]NCIA|RESOLU[ÇC][ÃA]O\s+(?:CEPRAM\s+)?N\s*[º°o]|EXTRATO D[OE]|TERMO DE COMPROMISSO|PORTARIA\s+(?:INEMA\s+)?N\s*[º°o])')
+CABEC_RE = re.compile(r'(?=EDITAL DE NOTIFICA[ÇC][ÃA]O|EDITAL DE CI[ÊE]NCIA|RESOLU[ÇC][ÃA]O\s+(?:CEPRAM\s+)?N\s*[º°o]|EXTRATO D[OE]|TERMO DE COMPROMISSO(?!\s*,)|PORTARIA\s+(?:INEMA\s+)?N\s*[º°o])')
 MUN_RE = re.compile(r'[Mm]unic[íi]pio\s+de\s+([A-ZÀ-Ý][A-Za-zÀ-ú\'\- ]{2,45}?)(?=\s*(?:[,;.\)/]|\s-\s|\s+-?\s*BA\b|\s+Bahia|\s+e\s|\s+no\s|\s+na\s|\s+em\s|\s+onde|\s+conforme|\s+com\s|\s+sem\s|$))')
 
 
@@ -106,8 +106,13 @@ MESES = {'janeiro': 1, 'fevereiro': 2, 'marco': 3, 'abril': 4, 'maio': 5, 'junho
          'setembro': 9, 'outubro': 10, 'novembro': 11, 'dezembro': 12}
 
 
+# "Salvador, 14 de março de 2024." fecha os editais do INEMA: é o local da assinatura, não o do fato (corrigido em
+# 23/11/2026: 1.758 autuados ficavam com Salvador só por causa dessa linha).
+ASSINATURA_RE = re.compile(r'Salvador\s*[,\-–]\s*\d{1,2}\s*(?:de\s+)?[A-Za-zçÇ]+\s+(?:de\s+)?\d{4}', re.I)
+
+
 def municipio(texto):
-    t = texto or ''
+    t = ASSINATURA_RE.sub(' ', texto or '')
     for rx in (MUN_CTX_RE, MUN_UF_RE):
         m = rx.search(t)
         if m:
@@ -415,6 +420,9 @@ def main():
     L.append('\n## Municípios com mais autuados em editais (todos)\n')
     for mun, n in Counter(l['municipio'] for l in editais if l['municipio']).most_common(20):
         L.append(f'- {mun}: {n}')
+    sem_mun = sum(1 for l in editais if not l['municipio'])
+    L.append(f'- (sem município no texto do edital: {sem_mun} — a linha de assinatura "Salvador, <data>" não conta como '
+             'município desde 23/11/2026)')
     L.append('\n## Observações\n')
     L.append('- O DOE traz os editais (autuados não localizados pelo correio, art. 261, III, do Decreto 14.024/2012), as homologações, '
              'as decisões do CEPRAM e os termos de compromisso. Autos entregues pessoalmente ao autuado não aparecem no DOE.')

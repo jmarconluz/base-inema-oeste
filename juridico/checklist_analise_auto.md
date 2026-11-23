@@ -24,7 +24,8 @@ Usar na ordem. Cada item aponta a tese correspondente em `teses_defesa.md`.
 **ICMBio** (auto em unidade de conservação federal): rito da IN ICMBio nº 9/2023, compilada com a IN ICMBio nº 13/2026 —
 defesa em 20 dias da ciência (art. 58), alegações finais em 10 dias (art. 87; mais 10 a pedido, §4º, incluído pela IN
 13/2026), recurso em 20 dias (art. 91); pagamento à vista com 30% de desconto como solução legal (art. 49, §2º).
-Conferido na página oficial do ICMBio em 21/11/2026; o texto integral ainda não está no acervo. A IN Conjunta
+Conferido na página oficial do ICMBio em 21/11/2026; texto integral no acervo desde 23/11/2026
+(`legislacao/federal/in_icmbio_09_2023.txt`; trechos em `legislacao/artigos_chave.md`). A IN Conjunta
 MMA/IBAMA/ICMBio nº 1/2021 não é mais o rito: foi substituída pela IN IBAMA 19/2023 no IBAMA e pela IN ICMBio 9/2023 no
 ICMBio (ver `PENDENCIAS.md`, item 11).
 
@@ -83,6 +84,9 @@ Defesa fora do prazo não é conhecida (art. 265, parágrafo único).
 3. Teses fracas e multa relevante → pedir **conversão no prazo de defesa** (maior desconto: 90/60/30%) ou parcelamento.
 4. Embargo → pedido de desembargo/delimitação em paralelo (não esperar o julgamento do auto).
 5. Cobrança já em execução → advogado: embargos à execução / exceção de pré-executividade (só matéria de direito).
+6. Multa do **IBAMA** já em dívida ativa (inscrita até 01/06/2025, até R$ 97,2 mil, pessoa física, ME ou EPP) e sem tese
+   forte → transação por adesão da AGU/PGF (até 50% de desconto à vista), **pedido até 30/11/2026** na plataforma
+   Resolve Dívidas AGU; exige desistir de recursos e ações (teses, seção 8).
 
 ## 10. Documentos a juntar
 

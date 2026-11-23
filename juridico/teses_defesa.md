@@ -224,20 +224,28 @@ Ordem prática de análise: **1) prazos → 2) prescrição → 3) nulidades do 
 ### 3.3 Autuação só por imagem de satélite — Média
 
 - Os tribunais aceitam imagem de satélite como prova da **materialidade**, inclusive sem vistoria (há decisões nesse
-  sentido). Mas a **autoria** atribuída ao proprietário por presunção exige exame cuidadoso da negativa de autoria
-  (TRF1, Apelação Cível 0004552-44.2013.4.01.3603, 5ª Turma, rel. Des. Federal Souza Prudente, julgada em 12/12/2018,
-  publ. 22/01/2019, manteve sentença que anulou 2 autos e o termo de embargo: a área autuada ficava fora dos limites da
-  fazenda do autuado e o polígono foi traçado com dados fornecidos por ele — **ainda fonte secundária [2ª]**: número,
-  turma, relator e datas tirados do Portal Comunidade Ambiental (comunidadeambiental.com.br, consultado em 17 e
-  21/11/2026); a consulta processual do TRF1 tem verificação contra robôs e jurisprudencia.trf1.jus.br aguarda
-  liberação no navegador embutido; não citar sem o inteiro teor).
-- **Pista mais recente no TRF1 [2ª até conferir no PJe]:** Apelação Cível 1006530-66.2023.4.01.3901 (Altamira/PA),
-  decisão monocrática do Des. Federal Flávio Jardim, assinada em 04/07/2025: deu provimento à apelação e extinguiu os
-  efeitos de 7 autos de infração e 1 termo de embargo do IBAMA, porque a autoria se apoiou só em testemunhas "de ouvir
-  dizer", sem prova documental ou pericial que ligasse o autuado à área; exigir dele mais do que os documentos que
-  afastavam a posse seria exigir prova negativa (reforça também a tese 3.1). Lida em 21/11/2026 na cópia do inteiro teor
-  publicada pelo Conjur; conferir no PJe do 2º grau do TRF1 (consulta pública de documento, ID 25070420064134200000)
-  antes de citar.
+  sentido). Mas a **autoria** atribuída ao proprietário por presunção exige exame cuidadoso da negativa de autoria.
+- **TRF1, Apelação Cível 1006530-66.2023.4.01.3901** [C] (6ª Turma, gabinete do Des. Federal Flávio Jardim; origem:
+  2ª Vara Federal Cível e Criminal de Marabá/PA; área autuada em Altamira/PA) — decisão monocrática de 04/07/2025
+  (art. 932 do CPC; ID do documento 438762633): deu provimento à apelação, julgou procedente o pedido e extinguiu os
+  efeitos de **7 autos de infração e 1 termo de embargo do IBAMA** em relação ao autor. Fundamentos: a responsabilidade
+  administrativa é subjetiva (EREsp 1.318.051/RJ — tese 3.1); a autoria se apoiou em três "testemunhas de ouvir dizer",
+  sem declaração formalizada, em gado com marcas genéricas e num caminhão registrado na cidade do autuado — meras
+  ilações; o ônus de provar a autoria era do IBAMA, e exigir mais do autuado, que juntou documentos afastando a posse,
+  seria exigir prova negativa. Embargos de declaração não acolhidos (decisão de 23/09/2025); **trânsito em julgado em
+  18/11/2025**. Inteiro teor e andamento lidos na consulta pública do PJe do 2º grau do TRF1
+  (https://pje2g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam, busca pelo número) em 23/11/2026.
+- A mesma decisão transcreve a ementa de **TRF1, Apelação Cível 0004552-44.2013.4.01.3603** [C] (5ª Turma, rel. Des.
+  Federal Souza Prudente, j. 12/12/2018, publ. 22/01/2019): auto cujas coordenadas indicavam local fora da propriedade
+  do suposto infrator; "havendo significativas dúvidas acerca da autoria da infração não há como se lhe imputar
+  responsabilidade pelo ilícito administrativo" — nulidade da multa e do embargo, apelação do IBAMA desprovida. Ressalva
+  da própria ementa: estar vizinho da área desmatada não afasta, sozinho, a imputação, porque a infração administrativa
+  não pressupõe ser dono ou possuidor. No PJe o processo de 2013 aparece migrado (04/08/2021), com autos devolvidos à
+  origem em 25/11/2021 por julgamento definitivo, mas sem documentos públicos; os detalhes "2 autos" e "polígono traçado
+  com dados fornecidos pelo autuado" continuam só na fonte secundária [2ª] (Portal Comunidade Ambiental, consultado em
+  17 e 21/11/2026). Também citados na decisão de 2025 (não conferidos um a um): TRF1 AC 0038871-88.2011.4.01.3900
+  (6ª Turma, rel. Des. Federal Kassio Nunes Marques, j. 13/02/2017 — queimada; auto anulado sem prova de autoria e nexo)
+  e REO 1001031-85.2020.4.01.3908 (12ª Turma, j. 20/11/2023 — ação civil pública; sem prova de autoria nem de posse).
 - **Defesa:** não atacar a tecnologia; atacar data, área e autoria com **laudo multitemporal** (série histórica
   PRODES/MapBiomas/Sentinel/Landsat): desmate anterior à posse, anterior a 22/07/2008, fora do imóvel, regeneração,
   área menor que a autuada. É exatamente o laudo de contestação de alertas que a Ecoplan já faz.
@@ -351,13 +359,39 @@ Ordem prática de análise: **1) prazos → 2) prescrição → 3) nulidades do 
 | Pagamento à vista | — | desconto de 30% (Decreto 6.514, art. 113, parágrafo único) |
 | Parcelamento | até 12 meses (Decreto 14.024, art. 274, §1º); conversão indireta em até 36 parcelas (art. 295-B, §3º) | conforme regulamento |
 | Termo de compromisso | suspende interdição/embargo e a exigibilidade da multa convertida (arts. 278, 282, 291, 298, §6º) | — |
+| Dívida ativa (transação) | — | transação por adesão da AGU/PGF para pequenos devedores: até 50% de desconto, **adesão até 30/11/2026** (ver abaixo) |
 
 **ICMBio** (autos em unidade de conservação federal): as soluções legais estão na IN ICMBio nº 9/2023, compilada com a
 IN ICMBio nº 13/2026 (arts. 46 a 49) — pagamento à vista com 30% de desconto, parcelamento e conversão em serviços
-ambientais, com 40% de desconto na conversão direta pedida junto com a defesa; o pedido de conversão só é aceito até o
-prazo das alegações finais (art. 49, §§ 2º, 4º e 5º). Conferido na página oficial do ICMBio em 21/11/2026
-(https://www.gov.br/icmbio/pt-br/acesso-a-informacao/autuacoes-ambientais/infracoes-ambientais/normativas/instrucao-normativa-no-9-gabin-icmbio-de-23-de-agosto-de-2023);
-o texto integral ainda não está no acervo — conferir a redação antes de transcrever em peça.
+ambientais, com 40% de desconto na conversão direta pedida junto com a defesa e 35% até as alegações finais (indireta:
+60% e 50%, mas o deferimento depende de regulamentação do ICMBio — art. 49, § 6º); o pedido de conversão só é aceito até
+o prazo das alegações finais (art. 49, §§ 2º, 4º e 5º) e, desde a IN 13/2026, incidem acréscimos legais até a assinatura
+do termo de conversão ou de parcelamento (art. 49, § 7º). Prazo de 20 dias da ciência do auto para defesa ou adesão a
+solução legal (arts. 23 e 58). Texto integral vigente no acervo desde 23/11/2026
+(`legislacao/federal/in_icmbio_09_2023.txt`, página oficial do ICMBio "atualizada em 20/02/2026",
+https://www.gov.br/icmbio/pt-br/acesso-a-informacao/autuacoes-ambientais/infracoes-ambientais/normativas/instrucao-normativa-no-9-gabin-icmbio-de-23-de-agosto-de-2023).
+
+**IBAMA — dívida já inscrita em dívida ativa (transação por adesão da AGU/PGF)** [C]: Edital de Transação por Adesão
+nº 2/2026/PGF/AGU (DOU 08/06/2026), prorrogado pelo Edital nº 4/2026/PGF/AGU (DOU 31/08/2026). Alcança pessoas
+físicas, microempresas e empresas de pequeno porte com débitos **não tributários** do IBAMA (multas ambientais e
+outras cobranças administrativas) **inscritos em dívida ativa até 01/06/2025**, com valor consolidado de até
+60 salários-mínimos (R$ 97,2 mil). Descontos sobre o valor consolidado: **50% à vista**; 40% em até 20 meses, 30% em até
+40 e 20% em até 60 (parcela mínima de R$ 100). Pedido na plataforma Resolve Dívidas AGU
+(https://www.gov.br/agu/pt-br/assuntos-1/resolve-dividas-agu; elegibilidade em listadevedorespgf.agu.gov.br) **até
+30/11/2026**; formalização, depois da análise da PGF, até 31/01/2027. Ficam de fora débitos já parcelados ou
+transacionados, com exigibilidade suspensa por decisão judicial ou garantia integral, devedor contumaz e quem teve
+transação rescindida nos últimos dois anos. A adesão exige **desistir de ações judiciais, recursos administrativos e
+outras medidas que contestem o crédito** — antes, conferir a prescrição da cobrança e a intercorrente (itens 1.3 e 1.4)
+e a autoria (item 3), como no termo de conversão. Conferido em 23/11/2026 na nota oficial do IBAMA de
+04/09/2026, lida no navegador embutido
+(https://www.gov.br/ibama/pt-br/assuntos/notas/2026/agu-prorroga-edital-de-negociacao-para-pequenos-devedores-do-ibama-ate-30-de-novembro-de-2026),
+e na notícia da AGU de 09/06/2026 (https://www.gov.br/agu/pt-br/comunicacao/noticias/agu-lanca-edital-de-negociacao-para-pequenos-devedores-do-ibama,
+pelo WebFetch); débitos elegíveis em https://listadevedorespgf.agu.gov.br/creditos-transacao-ibama-sicafi. Os editais
+no DOU (https://www.in.gov.br/web/dou/-/aviso-de-adesao-728907993 e
+https://www.in.gov.br/web/dou/-/edital-de-transacao-por-adesao-n-2/2026/pgf/agu-710699026) não foram abertos —
+www.in.gov.br ainda recusado no navegador embutido; conferir o edital antes de orientar cliente. Não serve para multa do INEMA (crédito estadual: a
+PGF só cobra as autarquias e fundações federais). Para o ICMBio e as demais autarquias federais valia o Edital nº 1/2025/PGF/AGU, aberto até
+31/08/2026 segundo a mesma notícia da AGU; prorrogação não conferida.
 
 **Cuidado:** assinar o termo de conversão implica renúncia a defesa e recursos sobre as multas convertidas
 (Decreto 14.024, art. 298, §1º, I). Por isso: primeiro verificar prescrição e nulidades; se forem fracas, pedir a
@@ -429,10 +463,10 @@ decisão em ADI/ADC vinculam (CPC, art. 927, I e III; CF, art. 102, §2º).
 - Localizar acórdão do TJBA aplicando o art. 109 da Lei 12.209 especificamente a **multa do INEMA**: em 17/11/2026 a
   busca no portal do TJBA achou só processos sancionadores de outros órgãos estaduais (PROCON, SAEB, TJBA, TCE) — citados
   na seção 1.2 por identidade de lei.
-- Acórdão do STJ sobre multa e herdeiro: conferido em 17/11/2026 (REsp 1.823.083 — tese 3.2). Falta conferir no inteiro
-  teor o acórdão do TRF1 que anulou autos e embargo por falta de prova de autoria (Ap. Cível 0004552-44.2013.4.01.3603,
-  5ª Turma, rel. Des. Souza Prudente, publ. 22/01/2019 — dados de fonte secundária; a consulta processual do TRF1 tem
-  verificação contra robôs) e, no PJe do TRF1, a decisão de 04/07/2025 na Ap. 1006530-66.2023.4.01.3901 (tese 3.3).
+- Acórdão do STJ sobre multa e herdeiro: conferido em 17/11/2026 (REsp 1.823.083 — tese 3.2). TRF1 conferido em
+  23/11/2026 na consulta pública do PJe do 2º grau: decisão de 04/07/2025 na Ap. 1006530-66.2023.4.01.3901 (inteiro
+  teor, trânsito em julgado em 18/11/2025) e ementa da Ap. 0004552-44.2013.4.01.3603 transcrita por ela (tese 3.3).
+  Falta só o inteiro teor do acórdão de 2018 (processo migrado, sem documentos públicos no PJe).
 - Jurisprudência do TRF1 (multas do IBAMA na Bahia) e do STJ por tema — coletar pelo navegador (SCON e portal do TRF1).
 - Infração instantânea x permanente em desmatamento (marco inicial da prescrição): em 21/11/2026 a base oficial do STJ
   trouxe só o quadro geral (obra em APP = permanente, REsp 2.240.573/2026; natureza é questão de fato, AgInt no AREsp

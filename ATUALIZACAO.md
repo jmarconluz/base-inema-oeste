@@ -37,7 +37,10 @@ SHA=$(git rev-parse HEAD); mkdir -p /tmp/pacotes
   `www.legislabahia.ba.gov.br`, `www.planalto.gov.br`, `dadosabertos.ibama.gov.br`, o blob de dados abertos do IBAMA
   `dadosabertos.web.stj.jus.br`, `www.ibama.gov.br` (página de legislação do IBAMA), `www.ba.gov.br` (site da SEMA:
   pautas da CT Recursal), `gestor.meioambiente.ba.gov.br` (Consulta de Publicações da SEMA: resoluções do CEPRAM em PDF)
-  e `conama.mma.gov.br` (resoluções do CONAMA). Ainda não liberado: `www.in.gov.br` (DOU).
+  e `conama.mma.gov.br` (resoluções do CONAMA); desde 23/11/2026 também `www.gov.br` (páginas do ICMBio, do IBAMA e da
+  AGU), `jurisprudenciaws.tjba.jus.br` (API e inteiro teor do TJBA) e a consulta pública do PJe do 2º grau do TRF1
+  (`pje2g.trf1.jus.br`, que leva a `pje2g-consultapublica.trf1.jus.br`; sem verificação contra robôs, busca pelo número).
+  Ainda não liberados: `www.in.gov.br` (DOU) e `jurisprudencia.trf1.jus.br` (recusados em 23/11/2026).
   Site novo precisa ser liberado pelo usuário: numa execução agendada não fique esperando a liberação — registre
   "aguardando liberação de <site> no navegador" em `juridico/PENDENCIAS.md`, peça a liberação no resumo e siga.
 - Os coletores são carregados no navegador direto do GitHub, no commit `SHA` (sem copiar código à mão):
@@ -81,7 +84,10 @@ CEPRAM (quantas favoráveis e por qual motivo), conversões/termos de compromiss
 ## 2. TJBA (jurisprudência)
 
 Na aba em `https://jurisprudencia.tjba.jus.br/`, carregue `coletor/coletor_tjba.js`. `DESDE` = data mais recente do
-acervo (`juridico/jurisprudencia/tjba/tjba_inema_multas.json`, campo `data`) − 30 dias.
+acervo (`juridico/jurisprudencia/tjba/tjba_inema_multas.json`, campo `data`) − 30 dias. Se o `fetch` para
+`jurisprudenciaws.tjba.jus.br/graphql` ficar pendurado a partir dessa aba (aconteceu em 23/11/2026: nem a busca do
+próprio portal respondia), abra uma aba em `https://jurisprudenciaws.tjba.jus.br/inteiroTeor/<hash de uma decisão do
+acervo>` e carregue o coletor nela: é a mesma origem da API e respondeu em menos de 1 segundo.
 
 ```js
 await TJ.novas('<DESDE>')        // todos os termos de TJ.TERMOS, da decisão mais recente para trás
@@ -124,11 +130,12 @@ CSVs: `python scripts/ibama_csv.py <arquivos salvos>` (os envelopes do IBAMA sã
 não use o `decodificar_partes.py` para eles). Na mesma execução, numa aba em `https://www.ibama.gov.br/`, confira a IN IBAMA 19/2023
 com `await LEX.verificar(['<url do hashes.json>'])` e compare o `sha256` com o de `juridico/legislacao/hashes.json`
 (o `LEX.verificarRepo` não roda nessa página: o site substitui o `URL` do navegador).
-Ainda na mesma execução, abra a página oficial da IN ICMBio 9/2023 compilada
-(https://www.gov.br/icmbio/pt-br/acesso-a-informacao/autuacoes-ambientais/infracoes-ambientais/normativas/instrucao-normativa-no-9-gabin-icmbio-de-23-de-agosto-de-2023)
-e veja se a compilação mudou (hoje: compilada com a IN ICMBio nº 13/2026). Enquanto ela não estiver no acervo, guarde o
-texto integral com `LEX.preparar` em `legislacao/federal/in_icmbio_09_2023.txt` e rode
-`python scripts/verificar_legislacao.py hashes` (precisa de www.gov.br liberado no navegador embutido).
+Ainda na mesma execução, numa aba na página oficial da IN ICMBio 9/2023 compilada
+(https://www.gov.br/icmbio/pt-br/acesso-a-informacao/autuacoes-ambientais/infracoes-ambientais/normativas/instrucao-normativa-no-9-gabin-icmbio-de-23-de-agosto-de-2023),
+carregue `coletor/coletor_lex.js` e rode `await LEX.verificarRepo('<SHA>')`: o texto integral está no acervo desde
+23/11/2026 (`legislacao/federal/in_icmbio_09_2023.txt`, compilada com a IN ICMBio nº 13/2026, página "atualizada em
+20/02/2026"). Se `mudou` não vier vazio, siga o mesmo caminho da seção 3 (`LEX.preparar`, `verificar_legislacao.py
+atualizar`) e revise a seção 8 de `teses_defesa.md` e o trecho da IN em `artigos_chave.md`.
 
 STJ: numa aba em `https://dadosabertos.web.stj.jus.br/dataset/`, carregue `coletor/coletor_stj.js` e rode
 `await STJ.colher(undefined, '<AAAAMM01 do mês anterior>')` (só os arquivos mensais novos) e `await STJ.temas()`;

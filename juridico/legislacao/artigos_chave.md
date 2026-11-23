@@ -761,6 +761,66 @@ I - não poderá inscrever o débito na Dívida Ativa ou adotar quaisquer outras
 
 II - cumprirá de imediato a decisão judicial, de acordo com orientação contida em parecer de força executória elaborado pelo órgão de execução da Procuradoria-Geral Federal, e juntará o respectivo comprovante nos autos.
 
+## IN ICMBio 9/2023 (processo sancionador no ICMBio)
+
+Texto integral em `legislacao/federal/in_icmbio_09_2023.txt` (página oficial do ICMBio, compilada com a IN ICMBio nº 13/2026, "atualizada em 20/02/2026"; conferida em 23/11/2026). Usar em auto do ICMBio (unidade de conservação federal); substituiu, no ICMBio, a IN Conjunta MMA/IBAMA/ICMBio nº 1/2021 (ver item 11 de `PENDENCIAS.md`). Trechos selecionados (arts. 49 e 57 sem parte dos parágrafos e incisos — ver o texto integral):
+
+Art. 1º Esta Instrução Normativa regulamenta o processo administrativo federal para apuração de infrações administrativas por condutas e atividades lesivas ao meio ambiente no âmbito do Instituto Chico Mendes de Conservação da Biodiversidade - ICMBio.
+
+Art. 23. No termo de intimação da lavratura do auto de infração constará que o autuado, no prazo de vinte dias contado da data da cientificação, poderá:
+
+I - apresentar defesa ou impugnação contra o auto de infração;
+
+II - requerer adesão a uma das soluções legais previstas no inciso II do § 5º do art. 96 do Decreto 6.514/2008.
+
+Parágrafo único. A adesão a uma das soluções legais será requerida por meio de formulário de requerimento em modelo instituído pelo ICMBio e serão disponibilizados no sítio do órgão na rede.
+
+Art. 49. São soluções legais possíveis para encerrar o processo, no que tange à sanção pecuniária:
+
+I - o pagamento à vista com desconto;
+
+II - o parcelamento; e
+
+III - a conversão da multa em serviços de preservação, melhoria e recuperação da qualidade do meio ambiente.
+
+§ 2º O desconto de trinta por cento de que tratam o § 2º do art. 3º e o art. 4º da Lei nº 8.005, de 22 de março de 1990, será aplicado na hipótese de o autuado requerer o pagamento da multa à vista como adesão a solução legal para encerrar o processo.
+
+§ 4º A conversão da multa em serviços de preservação, melhoria e recuperação da qualidade do meio ambiente observará os percentuais de desconto aplicáveis de acordo com a modalidade e fase em que se encontrar o processo, na forma do § 2º do art. 143 do Decreto nº 6.514, de 2008, sendo de:
+
+I - quarenta por cento, na hipótese de conversão direta, se a conversão for requerida juntamente com a defesa;
+
+II - trinta e cinco por cento, na hipótese de conversão direta, se a conversão for requerida até o prazo das alegações finais;
+
+III - sessenta por cento, na hipótese de conversão indireta, se a conversão for requerida juntamente com a defesa; ou
+
+IV - cinquenta por cento, na hipótese de conversão indireta, se a conversão for requerida até o prazo das alegações finais.
+
+§ 5º O requerimento de conversão de multa somente poderá ser deferido caso tenha sido apresentado até o prazo das alegações finais, conforme estabelecido no Art. 142 do Decreto 6.514/2008.
+
+§ 6º O deferimento de pedidos de conversão de multa na modalidade indireta ficará condicionado à regulamentação dos procedimentos necessários a sua operacionalização pelo ICMBio.
+
+§ 7º Incidirão acréscimos legais ao valor da multa consolidada até a data da assinatura do Termo de Compromisso de Conversão de Multa ou do Termo de Compromisso de Parcelamento, conforme o caso. (Incluído pela Instrução Normativa ICMBio nº 13/2026)
+
+Art. 57. Os processos serão instruídos e julgados em observância à ordem de chegada às Equipes de Instrução ou à autoridade competente para julgamento, admitida a prioridade nas seguintes hipóteses:
+
+III - processos com risco de prescrição;
+
+§ 2º Para fins do inciso III, entende-se como risco de prescrição os processos com mais de 180 dias transcorridos desde o último ato interruptivo da prescrição.
+
+Art. 58. O autuado poderá, no prazo de 20 (vinte) dias, contados da data da ciência da autuação, apresentar defesa contra o auto de infração ou requerimento de adesão a uma das soluções legais previstas no inciso II do § 5º do art. 96 do Decreto 6.514, de 2008.
+
+§ 1º Considerar-se-á como termo inicial do prazo para apresentação de defesa a data da ciência da autuação pelo autuado, consignada no auto de infração, no recibo do aviso de recebimento ou em documento juntado aos autos do processo administrativo.
+
+§ 2º A defesa protocolizada em unidade diferente daquela em que o processo tramita será encaminhada imediatamente à unidade competente, por meio dos sistemas de controle.
+
+§ 3º Caso o autuado tenha encaminhado a defesa por via postal, será considerada a data de postagem da correspondência para aferição da tempestividade.
+
+§ 4º O autuado poderá formular pedido de conversão da multa em prestação de serviços ambientais na defesa administrativa, ainda que não tenha optado pela adesão à solução legal para encerramento do processo.
+
+Art. 67. A análise acerca de eventual prescrição da pretensão punitiva deve indicar a modalidade da prescrição, o prazo prescricional concernente à infração e o período exato de sua ocorrência, bem como as consequências de seu reconhecimento, em especial sobre as medidas cautelares aplicadas, caso existam, além das medidas mencionadas no art. 108, § 2º desta instrução normativa.
+
+Art. 117. Esta Instrução Normativa entra em vigor em 1º de setembro de 2023.
+
 ## Resolução CONAMA 237/1997 (licenciamento ambiental)
 
 Texto integral em `legislacao/federal/conama_237_1997.txt` (arquivo oficial do CONAMA, baixado em 16/11/2026). Útil em autos por "operar sem licença" ou "descumprir condicionante": prazos de análise, renovação tempestiva e motivação para suspender ou cancelar licença. Competência para licenciar: ler com a LC 140/2011.

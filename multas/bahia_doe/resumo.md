@@ -1,21 +1,21 @@
 # Base de fiscalização ambiental da Bahia (DOE-BA)
 
-Período: publicações de 2016-12-01 a 2026-11-11.
+Período: publicações de 2016-12-01 a 2026-11-20.
 
-- Registros de autuados em editais: **15117** (processos distintos: 11356)
+- Registros de autuados em editais: **15206** (processos distintos: 11431)
 - Decisões do CEPRAM sobre recursos: **847**
-- Termos de compromisso / conversões / descontos: **138**
+- Termos de compromisso / conversões / descontos: **137**
 - Outros atos de fiscalização: **30**
 
 ## Autuados em editais por tipo de ato e fase
 
 | Tipo | Registros | Valor total (R$) |
 |---|---:|---:|
-| Multa | 7414 | 211.535.988,27 |
-| Notificação | 2897 | 221.000,00 |
-| Advertência | 2283 | 112.250,00 |
-| Interdição | 1227 | 56.000,00 |
-| Apreensão | 967 | 262.892,00 |
+| Multa | 7449 | 212.239.275,27 |
+| Notificação | 2938 | 222.000,00 |
+| Advertência | 2292 | 112.250,00 |
+| Interdição | 1230 | 56.000,00 |
+| Apreensão | 968 | 262.892,00 |
 | Embargo | 182 | 10.000,00 |
 | Demolição | 88 | 0,00 |
 | AIDF | 47 | 27.600,00 |
@@ -26,9 +26,9 @@ Período: publicações de 2016-12-01 a 2026-11-11.
 
 | Fase | Registros |
 |---|---:|
-| Homologação (decisão de 1ª instância) | 6434 |
-| Lavratura (prazo de defesa) | 3915 |
-| Notificação | 2897 |
+| Homologação (decisão de 1ª instância) | 6452 |
+| Lavratura (prazo de defesa) | 3945 |
+| Notificação | 2938 |
 | Inscrição em dívida ativa (cobrança) | 1731 |
 | Decisão (prazo de recurso) | 88 |
 | Outro | 51 |
@@ -48,7 +48,7 @@ Período: publicações de 2016-12-01 a 2026-11-11.
 | 2023 | 1913 | 996 | 61 | 8 |
 | 2024 | 1681 | 845 | 80 | 34 |
 | 2025 | 2057 | 1075 | 68 | 20 |
-| 2026 | 1515 | 488 | 141 | 72 |
+| 2026 | 1604 | 523 | 141 | 72 |
 
 ## Decisões do CEPRAM por resultado
 
@@ -76,17 +76,17 @@ Período: publicações de 2016-12-01 a 2026-11-11.
 
 ## Oeste Baiano
 
-- Autuados em editais com município do Oeste identificado: **1727**
-  - Barreiras: 225
-  - Santa Maria da Vitória: 196
-  - Cocos: 166
-  - Formosa do Rio Preto: 152
+- Autuados em editais com município do Oeste identificado: **1744**
+  - Barreiras: 226
+  - Santa Maria da Vitória: 198
+  - Cocos: 167
+  - Formosa do Rio Preto: 155
   - Coribe: 126
-  - Riachão das Neves: 97
-  - Santa Rita de Cássia: 95
-  - Jaborandi: 95
-  - São Desidério: 78
-  - Correntina: 60
+  - Riachão das Neves: 99
+  - Santa Rita de Cássia: 96
+  - Jaborandi: 96
+  - São Desidério: 79
+  - Correntina: 62
   - Serra do Ramalho: 49
   - Angical: 36
   - São Félix do Coribe: 34
@@ -95,26 +95,27 @@ Período: publicações de 2016-12-01 a 2026-11-11.
 
 ## Municípios com mais autuados em editais (todos)
 
-- Salvador: 2521
-- Juazeiro: 288
-- Jequié: 250
-- Barreiras: 225
-- Santa Maria da Vitória: 196
-- Cocos: 166
-- Vitória da Conquista: 161
-- Formosa do Rio Preto: 152
+- Salvador: 783
+- Juazeiro: 290
+- Jequié: 251
+- Barreiras: 226
+- Santa Maria da Vitória: 198
+- Cocos: 167
+- Vitória da Conquista: 162
+- Formosa do Rio Preto: 155
 - Casa Nova: 140
-- Feira de Santana: 129
+- Feira de Santana: 130
 - Coribe: 126
 - Senhor do Bonfim: 118
 - Valença: 113
-- Ilhéus: 112
-- Simões Filho: 102
-- Camaçari: 98
+- Ilhéus: 113
+- Simões Filho: 103
+- Camaçari: 102
+- Riachão das Neves: 99
 - Morro do Chapéu: 98
-- Riachão das Neves: 97
-- Santa Rita de Cássia: 95
-- Jaborandi: 95
+- Santa Rita de Cássia: 96
+- Jaborandi: 96
+- (sem município no texto do edital: 5382 — a linha de assinatura "Salvador, <data>" não conta como município desde 23/11/2026)
 
 ## Observações
 
