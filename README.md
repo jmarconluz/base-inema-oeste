@@ -75,7 +75,7 @@ Os CSV usam `;` como separador e codificação UTF-8 com BOM, então abrem diret
 
 ## Cópias dos processos (SEIA)
 
-`coletor/coletor_seia.js` roda na consulta pública do SEIA (logado, HTTPS). Para cada processo da lista (`dados/oeste/lista_processos_seia.json`), ele gera uma ficha com os atos e a lista de documentos. Quando a pasta local é conectada, baixa também os PDFs para `E:\Downloads\processos\<processo>\`. O progresso fica salvo no navegador, então dá para parar e retomar.
+`coletor/coletor_seia.js` roda na consulta pública do SEIA (logado, HTTPS). Para cada processo da lista (`dados/oeste/lista_processos_seia.json`), ele gera uma ficha com os atos e a lista de documentos. Quando a pasta local é conectada, baixa também os PDFs; desde 23/11/2026 eles vão direto para `F:\Processo - Portarias - Base Ambiental Processual`, no PC do escritório (antes, `E:\Downloads\processos\<processo>\`). O progresso fica salvo no navegador, então dá para parar e retomar.
 
 ### Retomar a coleta do SEIA (índice em 3 abas)
 
@@ -94,7 +94,15 @@ Se o `localStorage` tiver sido limpo, recrie a lista a partir de `coletor/lista_
 
 O checklist oficial (Portaria INEMA 11.292/2016 + IN 03/2022 Urucuia + IN SEMA/INEMA 01/2021) está em `checklists/checklist_oficial_inema.md`.
 
-## Cópia integral dos processos do SEIA → `E:\Downloads\processos\<processo>\`
+O checklist dos processos deferidos (base completa do SEIA: 10.388 processos com ato deferido no DOE-BA; versão de 23/11/2026)
+está em `checklists/checklist_inema.md`, com os prazos reais de cada tipo de ato. Ele substitui a versão preliminar de 11/11
+(121 processos), e a coluna "% aprovados" do checklist oficial vem dele.
+
+## Cópia integral dos processos do SEIA → `F:\Processo - Portarias - Base Ambiental Processual`
+
+Desde 23/11/2026, a regra é gravar direto no F: o que se baixa do SEIA e do DOE (pastas por ano). A cópia que estava em
+`E:\Downloads\processos\<processo>\` foi conferida arquivo a arquivo no F: (23.814 idênticos) e apagada. O passo a passo
+abaixo é o da coleta original.
 
 O app só deixa o navegador baixar vários arquivos seguidos logo depois que a aba é recarregada. Por isso:
 

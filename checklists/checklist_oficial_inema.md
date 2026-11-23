@@ -8,9 +8,11 @@ Normas complementares usadas aqui:
 - **Portaria INEMA nº 22.181/2021**: medidores e monitoramento dos usos da água.
 - **Portaria INEMA nº 22.078/2021**: Reserva Legal.
 
-A coluna "% aprovados" vem do índice dos processos deferidos no SEIA (`checklist_inema_preliminar.md`). Ela mostra o que o INEMA aceitou na prática.
+A coluna "% aprovados" vem do checklist dos processos deferidos no SEIA (`checklist_inema.md`, base completa, 23/11/2026): é a
+porcentagem dos processos deferidos do Oeste formados de 2021 em diante em que o documento foi anexado na formação (ASV: 500
+processos; poço: 336). Ela mostra o que o INEMA aceitou na prática. "—" = item gerado no próprio SEIA ou que o índice não separa.
 
-Os arquivos oficiais citados estão em `modelos_inema/` (repositório) e em `E:\Downloads\modelos_inema\`.
+Os arquivos oficiais citados estão em `modelos_inema/` (repositório) e, no PC do escritório, em `F:\Processo - Portarias - Base Ambiental Processual\modelos_inema\` (cópia de 23/11/2026).
 
 ---
 
@@ -31,20 +33,20 @@ Os arquivos oficiais citados estão em `modelos_inema/` (repositório) e em `E:\
 
 | Documento exigido | % aprovados | Modelo oficial |
 |---|---|---|
-| Requerimento de Atos Florestais | — | `florestal_asv/F-ATD-056-14_Requerimento_Atos_Florestais.doc` |
-| Inventário Florestal (amostragem ou censo), conforme modelo do INEMA | 73% | `florestal_asv/Inventario_florestal_atualizado_22022016.pdf` e o TR `IN-ATD-002-00_Termo_de_Referncia_para_a_Elaborao_de_Inventrio_Florestal.pdf` |
-| Estudo fitossociológico com estágio de regeneração (Res. CONAMA 05/1994), **só** para Mata Atlântica ou áreas do mapa da Lei 11.428/2006 | 78% | — (no oeste, Cerrado, em geral não se aplica; conferir o mapa da Lei da Mata Atlântica) |
-| Declaração do aproveitamento socioeconômico e ambiental do produto/subproduto | 81% | `florestal_asv/F-ATD-079-00_Declarao_de_Aproveitamento_...doc` |
-| Autorização de passagem por imóvel de terceiro, se couber | — | — |
-| Escritura pública com certidão de inteiro teor | — | — |
+| Requerimento de Atos Florestais | 98% | `florestal_asv/F-ATD-056-14_Requerimento_Atos_Florestais.doc` |
+| Inventário Florestal (amostragem ou censo), conforme modelo do INEMA | 100% | `florestal_asv/Inventario_florestal_atualizado_22022016.pdf` e o TR `IN-ATD-002-00_Termo_de_Referncia_para_a_Elaborao_de_Inventrio_Florestal.pdf` |
+| Estudo fitossociológico com estágio de regeneração (Res. CONAMA 05/1994), **só** para Mata Atlântica ou áreas do mapa da Lei 11.428/2006 | 56% | — (no oeste, Cerrado, em geral não se aplica; conferir o mapa da Lei da Mata Atlântica) |
+| Declaração do aproveitamento socioeconômico e ambiental do produto/subproduto | 99% | `florestal_asv/F-ATD-079-00_Declarao_de_Aproveitamento_...doc` |
+| Autorização de passagem por imóvel de terceiro, se couber | <1% | — |
+| Escritura pública com certidão de inteiro teor | <1% | — |
 | Anuência do proprietário/posseiro, se o empreendimento estiver em imóvel de terceiro | — | — |
-| Estudo Ambiental para Supressão: (a) identificação (nome, área, local); (b) projeto técnico com ocupação econômica atual e projetada e viabilidade técnica e econômica; (c) cronograma e metodologia da supressão | 73% | Modelo próprio Ecoplan (a montar a partir dos aprovados) |
-| Planta planimétrica georreferenciada, com tabela de coordenadas: ocupação atual e futura, vegetação nativa, área a suprimir, APP e Reserva Legal | 81% | Modelo QGIS (seção 5) |
-| Memorial descritivo da poligonal de supressão em SIRGAS 2000 | 81% | — |
-| Proposta de Educação Ambiental (Res. CEPRAM 4.610/2018 e Documento Técnico Orientador) | 81% | Documento Técnico Orientador (`modelos/`, site do INEMA) |
-| Proposta de compensação (Mata Atlântica, estágio médio ou avançado), quando couber | 66% | — |
+| Estudo Ambiental para Supressão: (a) identificação (nome, área, local); (b) projeto técnico com ocupação econômica atual e projetada e viabilidade técnica e econômica; (c) cronograma e metodologia da supressão | 97% | Modelo próprio Ecoplan (a montar a partir dos aprovados) |
+| Planta planimétrica georreferenciada, com tabela de coordenadas: ocupação atual e futura, vegetação nativa, área a suprimir, APP e Reserva Legal | 99% | Modelo QGIS (seção 5) |
+| Memorial descritivo da poligonal de supressão em SIRGAS 2000 | 97% | — |
+| Proposta de Educação Ambiental (Res. CEPRAM 4.610/2018 e Documento Técnico Orientador) | 96% | Documento Técnico Orientador (`modelos/`, site do INEMA) |
+| Proposta de compensação (Mata Atlântica, estágio médio ou avançado), quando couber | 42% | — |
 
-**Fauna (Anexo III, item 10)**: quando há supressão, os processos aprovados quase sempre trazem o **Plano de Salvamento de Fauna** (66%), o CTF dos profissionais e da consultoria, a carta de aceite da instituição que recebe o material biológico, a carta de aceite da área de soltura e a declaração do veterinário.
+**Fauna (Anexo III, item 10)**: quando há supressão, os processos aprovados quase sempre trazem o **Plano de Salvamento de Fauna** (88%), o CTF dos profissionais (91%) e da consultoria (85%), o registro no CEAPD (89%), a carta de aceite da instituição que recebe o material biológico (87%), a carta de aceite da área de soltura (88%), a declaração do veterinário (87%) e o registro de anilhamento (81%). O plano de levantamento de fauna aparece em 60%.
 
 **Outros**: Relatório de Caracterização do Imóvel – RCI (`IN-ATD-001-00`), plantio compensatório (`licenciamento/F-ATD-082-00`), SINAFLOR (exigência federal para ASV), ART de cada responsável técnico.
 
@@ -54,12 +56,14 @@ Os arquivos oficiais citados estão em `modelos_inema/` (repositório) e em `E:\
 |---|---|---|
 | Requerimento de Outorga | — | `outorga/F-OUT-003-03_Requerimento_de_Outorga.doc` |
 | Formulário de Caracterização do Empreendimento (FCE) | — | Gerado no SEIA |
-| Memorial descritivo: justificativa, demandas com memória de cálculo, metodologia e parâmetros da vazão, sistema de recalque e projeto técnico da captação | 88% | Modelo próprio (a partir dos aprovados) |
-| Relatório técnico com croqui do sistema de captação e distribuição | 88% | — |
-| **APPO** – Autorização para Perfuração de Poço (poços perfurados após 08/10/2009) | 70% | Pedido próprio (Anexo IV, item 4) |
-| **Declaração de Conformidade de Poço** (poços perfurados antes de 08/10/2009) | — | `outorga/F-OUT-018-01_Modelo_Declarao_de_Conformidade_de_Poo.doc` |
-| Relatório de acompanhamento geológico: município, localidade, coordenadas, profundidade, NE/ND, vazão, aquífero, rocha, RT da perfuração, data, aspectos construtivos, uso, perfil litológico, **teste de bombeamento**, análise físico-química | 88% | — |
-| Cessão de uso ou autorização de passagem, se houver uso de área de terceiro | — | — |
+| Memorial descritivo: justificativa, demandas com memória de cálculo, metodologia e parâmetros da vazão, sistema de recalque e projeto técnico da captação | 96% | Modelo próprio (a partir dos aprovados) |
+| Relatório técnico com croqui do sistema de captação e distribuição | 98% | — |
+| **APPO** – Autorização para Perfuração de Poço (poços perfurados após 08/10/2009) | 88% | Pedido próprio (Anexo IV, item 4) |
+| **Declaração de Conformidade de Poço** (poços perfurados antes de 08/10/2009) | 10% | `outorga/F-OUT-018-01_Modelo_Declarao_de_Conformidade_de_Poo.doc` |
+| Relatório de acompanhamento geológico: município, localidade, coordenadas, profundidade, NE/ND, vazão, aquífero, rocha, RT da perfuração, data, aspectos construtivos, uso, perfil litológico, **teste de bombeamento**, análise físico-química | 98% | — |
+| Cessão de uso ou autorização de passagem, se houver uso de área de terceiro | 11% | — |
+
+Nos processos de poço deferidos do Oeste desde 2021, o projeto agronômico com balanço hidroagrícola aparece em 87%.
 
 ### Regras extras no aquífero Urucuia (IN INEMA 03/2022) – oeste da Bahia
 - A perfuração deve ser acompanhada por geólogo ou engenheiro de minas, com ART (art. 8º). A empresa perfuradora precisa de cadastro no INEMA (art. 7º; formulário `outorga/F-OUT-001-02`).
@@ -95,6 +99,9 @@ Os arquivos oficiais citados estão em `modelos_inema/` (repositório) e em `E:\
 | Rio de domínio federal (por exemplo, o São Francisco): a outorga é da **ANA**, não do INEMA | — |
 
 Para irrigação, os processos aprovados trazem também o projeto agronômico, com balanço hídrico e dimensionamento hidráulico.
+Nos processos deferidos do Oeste formados de 2021 em diante (132), aparecem o croqui da captação (96%), o memorial de demandas
+(85%), o projeto agronômico (79%), a cessão de uso (25%) e o CEFIR (17%); o estudo hidráulico e o estudo de alternativas quase
+não aparecem (0 a 5%).
 
 **Dispensa de outorga de captação (Anexo IV, item 5)**: FCE, justificativa técnica, projeto básico e Termo de Compromisso (`outorga/TERMO_DE_COMPROMISSO_PARA_DISPENSA_DE_OUTORGA...pdf`, `modelos/Dispensa_de_Outorga_-_MODELO.doc`), mais a APPO ou a Declaração de Conformidade, no caso de poço.
 
