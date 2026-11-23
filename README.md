@@ -70,6 +70,8 @@ Os CSV usam `;` como separador e codificação UTF-8 com BOM, então abrem diret
 2. No console da página, cole o conteúdo de `coletor/coletor_doe.js` e rode:
    `await ECO.rodar('AAAA-MM-DD', 'AAAA-MM-DD'); ECO.baixar();`
 3. Copie os `doe_inema_AAAA.json` baixados para `dados/brutos/` e rode `python scripts/processar.py`.
+4. Anote em `dados/coleta_doe.json` até que dia o DOE foi conferido (`conferido_ate`): a Central Ecoplan mostra essa data
+   em cada processo da equipe ("DOE-BA conferido até").
 
 ## Cópias dos processos (SEIA)
 
