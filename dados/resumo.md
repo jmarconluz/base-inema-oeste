@@ -1,6 +1,6 @@
 # Resumo da base
 
-Total de atos (Bahia): **11293** · Oeste Baiano: **2965** · pontos georreferenciados no Oeste: **2050**
+Total de atos (Bahia): **11314** · Oeste Baiano: **2970** · pontos georreferenciados no Oeste: **2051**
 
 | Ano | Oeste ASV | Oeste OUTORGA | Demais ASV | Demais OUTORGA |
 |---|---|---|---|---|
@@ -14,32 +14,32 @@ Total de atos (Bahia): **11293** · Oeste Baiano: **2965** · pontos georreferen
 | 2023 | 76 | 260 | 212 | 657 |
 | 2024 | 110 | 234 | 256 | 619 |
 | 2025 | 100 | 134 | 299 | 341 |
-| 2026 | 21 | 88 | 194 | 338 |
+| 2026 | 22 | 92 | 201 | 347 |
 
 ## Outorgas por tipo (Bahia)
 
 | Tipo | Atos |
 |---|---|
-| Poço (captação subterrânea) | 3873 |
-| Captação superficial | 2830 |
-| Transferência de titularidade (sem dado técnico) | 472 |
+| Poço (captação subterrânea) | 3879 |
+| Captação superficial | 2834 |
+| Transferência de titularidade (sem dado técnico) | 474 |
 | Não identificado | 137 |
-| Barramento | 124 |
+| Barramento | 125 |
 | Poço + captação superficial | 41 |
 | Alteração de outorga (sem dado técnico) | 39 |
 | Lançamento de efluentes | 12 |
 
-Pontos georreferenciados na Bahia: **7473** · Oeste: outorga **1995**, ASV **55**
+Pontos georreferenciados na Bahia: **7488** · Oeste: outorga **1996**, ASV **55**
 
 ## Municípios do Oeste com mais atos
 
 | Município | Atos |
 |---|---|
-| São Desidério | 577 |
+| São Desidério | 578 |
 | Barreiras | 440 |
 | Jaborandi | 380 |
-| Correntina | 260 |
-| Luís Eduardo Magalhães | 252 |
+| Correntina | 261 |
+| Luís Eduardo Magalhães | 253 |
 | Formosa do Rio Preto | 181 |
 | Riachão das Neves | 146 |
 | Cocos | 96 |
@@ -54,4 +54,4 @@ Pontos georreferenciados na Bahia: **7473** · Oeste: outorga **1995**, ASV **55
 | Angical | 28 |
 | Wanderley | 23 |
 | Tabocas do Brejo Velho | 18 |
-| Santana | 15 |
+| Santana | 16 |
