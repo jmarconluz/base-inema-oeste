@@ -1,8 +1,8 @@
 """Atos dos diários oficiais municipais do Oeste da Bahia, por tema (coletor/coletor_diarios.js).
 
-Fontes oficiais: o Diário Oficial de cada prefeitura, pela busca pública da plataforma que ela usa (DOEM/IBDM e Diário
-Mtransparente). Busca por tema, nunca por nome de pessoa.
-Entrada: pacote(s) do coletor já decodificados (diarios_doem.json, diarios_mtransparente.json). Acumula em
+Fontes oficiais: o Diário Oficial de cada prefeitura, pela busca pública da plataforma que ela usa (DOEM/IBDM, GEDDOEM/IBDM
+e Diário Mtransparente). Busca por tema, nunca por nome de pessoa.
+Entrada: pacote(s) do coletor já decodificados (diarios_doem.json, diarios_geddoem.json, diarios_mtransparente.json). Acumula em
          dados/diarios_municipais/brutos/diarios_oeste.json.gz (chave: município + endereço + título).
 Saída (dados/diarios_municipais/):
   atos_municipais_oeste.csv   um ato por linha: município, data, plataforma, edição, caderno, título, temas, relevância,
@@ -34,14 +34,20 @@ TEMAS = [  # (tema, padrão no título sem acento)
     ('participação e planejamento', r'audiencia publica|consulta publica|conferencia municipal'),
     ('infraestrutura', r'estradas? vicina(?:l|is)|\bpavimentacao\b|\brodovias?\b|\bpontes?\b|eletrificacao rural|\baeroporto\b|'
                        r'\bbarragem\b|\badutora\b|\bferrovia\b|linha de transmissao'),
+    # tema novo sempre no fim da lista: TEMA_DO_TERMO guarda a posição de cada tema
+    ('ITR e valor da terra nua', r'\bitr\b|territorial rural|terra nua|\bvtn\b'),
 ]
 TEMAS_RE = [(t, re.compile(p)) for t, p in TEMAS]
+TEMA_ITR = TEMAS[6][0]
 TEMA_DO_TERMO = {'desapropriacao': 0, 'utilidade publica': 0, 'servidao administrativa': 0, 'plano diretor': 1,
                  'perimetro urbano': 1, 'zoneamento': 1, 'uso e ocupacao do solo': 1, 'parcelamento do solo': 1, 'loteamento': 1,
                  'expansao urbana': 1, 'iptu': 2, 'itbi': 2, 'codigo tributario': 2, 'planta generica de valores': 2,
                  'licenca ambiental': 3, 'codigo de meio ambiente': 3, 'auto de infracao ambiental': 3,
                  'supressao de vegetacao': 3, 'conselho municipal de meio ambiente': 3, 'audiencia publica': 4,
-                 'estrada vicinal': 5}
+                 'estrada vicinal': 5, 'licenca de operacao': 3, 'licenca simplificada': 3, 'itr': 6, 'valor da terra nua': 6}
+# Por estes termos o coletor só guarda o ato cujo título trata do ITR (DOM.SO_TITULO): notificação de lançamento, termo
+# de constatação e intimação, valor da terra nua. O ato achado por eles é do tema mesmo sem a sigla no título.
+TERMOS_ITR = {'itr', 'valor da terra nua'}
 NORMATIVO = re.compile(r'^(lei|decreto|portaria|resolucao|edital|notifica|licenca|instrucao|audiencia|aviso|ato|extrato|outros|'
                        r'deliberac|parecer|termo|comunicad|errata|oficio|projeto de lei)')
 FORA = re.compile(r'pregao|dispensa|inexigibilidade|contrat|licitac|ata de registro|adjudica|homologa|concorrencia|convite|'
@@ -72,9 +78,12 @@ def registrar_coleta(chave, **info):
 def classificar(r):
     tit = sem_acento(r.get('titulo', ''))
     cad = sem_acento(r.get('caderno', ''))
-    if (FORA.search(cad) or FORA.search(tit[:80])) and not DESAPROPRIA.search(tit):
+    itr = bool(TERMOS_ITR & {sem_acento(t) for t in r.get('termos', [])}) or bool(TEMAS_RE[6][1].search(tit))
+    if (FORA.search(cad) or FORA.search(tit[:80])) and not DESAPROPRIA.search(tit) and not itr:
         return [], 'fora'  # licitação, contrato, pessoal e contas: fora, mesmo que o texto cite o tema
     temas = [t for t, rx in TEMAS_RE if rx.search(tit)]
+    if itr and TEMA_ITR not in temas:
+        temas.append(TEMA_ITR)
     if temas and temas[0].startswith('desapropria') and ENTIDADE.search(tit) and not DESAPROPRIA.search(tit):
         temas = temas[1:]  # título de utilidade pública a entidade: não é desapropriação
         if not temas:
@@ -124,7 +133,8 @@ def main():
     altas = [x for x in linhas if x['relevancia'] == 'alta']
     L = ['# Diários oficiais municipais do Oeste da Bahia – atos por tema\n',
          'Fontes oficiais: o Diário Oficial de cada prefeitura, pela busca pública da plataforma (DOEM/IBDM em '
-         'https://doem.org.br/ba/<município>/pesquisar e Diário Mtransparente em https://pm<município>.diariomtransparente.com.br/publicacoes). '
+         'https://doem.org.br/ba/<município>/pesquisar, GEDDOEM/IBDM em https://www.acessoinformacao.com.br/ba/<município>/ e '
+         'Diário Mtransparente em https://pm<município>.diariomtransparente.com.br/publicacoes). '
          'Coletor: `coletor/coletor_diarios.js`; busca por tema, nunca por nome de pessoa.\n']
     if linhas:
         L.append(f"Período: atos de {min(x['data'] for x in linhas if x['data'])} a {max(x['data'] for x in linhas)}.\n")
@@ -143,6 +153,16 @@ def main():
     L.append('| Data | Município | Ato |\n|---|---|---|')
     for x in [x for x in altas if re.search(r'desapropria|urbanismo', x['temas'])][:40]:
         L.append(f"| {x['data']} | {x['municipio']} | [{x['titulo'][:150]}]({x['link']}) |")
+    itr = [x for x in altas if TEMA_ITR in x['temas']]
+    if itr:
+        L.append('\n## ITR e valor da terra nua (mais recentes)\n')
+        L.append('Município com convênio com a Receita Federal fiscaliza o ITR. No diário saem, por edital, termos de constatação '
+                 'e intimação e notificações de lançamento (em regra, quando a intimação por outro meio não deu certo) e, em '
+                 'alguns municípios, o laudo ou o edital do valor da terra nua (VTN). A lista de quem é intimado e o prazo para '
+                 'responder estão no edital: abrir a edição.\n')
+        L.append('| Data | Município | Ato |\n|---|---|---|')
+        for x in itr[:40]:
+            L.append(f"| {x['data']} | {x['municipio']} | [{x['titulo'][:150]}]({x['link']}) |")
     L.append('\n## Observações\n')
     L.append('- A tabela traz o título do ato e o endereço da edição; o texto integral está no PDF oficial.')
     L.append('- Municípios cujo diário é publicado em plataforma que recusa acesso automatizado (robots.txt) ficam de fora '

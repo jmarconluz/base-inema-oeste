@@ -35,9 +35,10 @@ python -c "import json; print(json.dumps(json.load(open('dados/acervo_local.json
 ```
 
 - Navegador embutido, carga dos coletores pelo commit `SHA` e exportação em pacotes: como na seção 0 do
-  `ATUALIZACAO.md`. Sites desta rotina, já liberados em 25/11/2026: `www.legislabahia.ba.gov.br`, `doem.org.br` e
-  `pmbarreiras.diariomtransparente.com.br`. Site novo que pedir liberação: registre em `juridico/PENDENCIAS.md`
-  ("aguardando liberação de <site> no navegador"), peça no resumo e siga.
+  `ATUALIZACAO.md`. Sites desta rotina, já liberados em 25/11/2026: `www.legislabahia.ba.gov.br`, `doem.org.br`,
+  `pmbarreiras.diariomtransparente.com.br`, `www.acessoinformacao.com.br` (diário de São Desidério) e
+  `pesquisa.apps.tcu.gov.br` (acórdãos do TCU, para a seção 3). Site novo que pedir liberação: registre em
+  `juridico/PENDENCIAS.md` ("aguardando liberação de <site> no navegador"), peça no resumo e siga.
 - Sem navegador (computador desligado ou app fechado): pule as seções 1 a 4, faça a 6 (integração e resumo dos
   alertas, que não dependem do computador) e diga no aviso que a coleta ficou para a semana seguinte.
 
@@ -61,33 +62,48 @@ python scripts/processar_dup.py /tmp/pacotes/dup_ba.json
   pública dado a entidade fica de fora) e lê o texto de cada um.
 - Confira em `dados/utilidade_publica/resumo.md` a seção "Oeste Baiano": decreto novo no Oeste entra no aviso (seção 7)
   com município, entidade, para que serve e o endereço oficial.
+- Coleta sem decreto novo: confira na lista de todos os Decretos Numerados (`/documentos?categoria%5B0%5D=2`) qual é o
+  último publicado e diga no commit até que decreto a conferência foi (em 25/11/2026, do 24.901 ao 24.926 só havia
+  homologação de situação de emergência e atos sem desapropriação).
 - Para recuar o acervo no tempo (hoje começa em 2024), rode uma vez `DUP.colher('<ano>-01-01')`: é demorado
   (cerca de 400 decretos por ano); faça só quando sobrar tempo, um ano por execução.
 
-## 2. Diários oficiais municipais (DOEM e Diário Mtransparente)
+## 2. Diários oficiais municipais (DOEM, GEDDOEM e Diário Mtransparente)
 
-Duas abas, o mesmo coletor (`coletor/coletor_diarios.js`), busca por tema (nunca por nome de pessoa):
+Três abas, o mesmo coletor (`coletor/coletor_diarios.js`), busca por tema (nunca por nome de pessoa):
 
 - `https://doem.org.br/ba/formosadoriopreto/pesquisar` – cobre de uma vez Formosa do Rio Preto, Riachão das Neves,
   Correntina, Santa Rita de Cássia, Cotegipe e Cristópolis;
+- `https://www.acessoinformacao.com.br/ba/saodesiderio/` – São Desidério (GEDDOEM; ligado em 25/11/2026);
 - `https://pmbarreiras.diariomtransparente.com.br/publicacoes` – Barreiras.
 
 ```js
 window.__r = null; DOM.colher('<desde>').then(r => window.__r = r)   // <desde> = "ate" de diarios_municipais menos 14 dias
-// no fim (DOM.estado.rodando === false): await DOM.preparar(); DOM.parte(0) …   (chaves diarios_doem e diarios_mtransparente)
+// no fim (DOM.estado.rodando === false): await DOM.preparar(); DOM.parte(0) …
+// chaves: diarios_doem, diarios_geddoem e diarios_mtransparente (aba sem ato no período não precisa exportar)
 ```
 
 ```bash
 python scripts/decodificar_partes.py /tmp/pacotes <arquivos das partes>
-python scripts/processar_diarios.py /tmp/pacotes/diarios_doem.json /tmp/pacotes/diarios_mtransparente.json
+python scripts/processar_diarios.py /tmp/pacotes/diarios_doem.json /tmp/pacotes/diarios_geddoem.json /tmp/pacotes/diarios_mtransparente.json
 ```
 
 - O script classifica cada ato por tema (desapropriação e utilidade pública; urbanismo e uso do solo; tributos sobre
-  imóveis; ambiental municipal; participação e planejamento; infraestrutura) e pela relevância; licitação, pessoal e
-  orçamento ficam de fora.
+  imóveis; ambiental municipal; participação e planejamento; infraestrutura; ITR e valor da terra nua) e pela
+  relevância; licitação, pessoal e orçamento ficam de fora.
 - Leia os atos novos de relevância alta em `dados/diarios_municipais/resumo.md`. Para lei de perímetro urbano, plano
   diretor, zoneamento ou decreto de desapropriação, abra a edição e confira o título; o que mudar a vida de imóvel
   rural entra no aviso.
+- ITR (desde 25/11/2026): os municípios com convênio com a Receita Federal publicam por edital o termo de constatação e
+  intimação, a notificação de lançamento e o valor da terra nua (Barreiras, São Desidério, Formosa do Rio Preto e
+  Riachão das Neves publicaram em 2026). Edital de ITR novo entra no aviso, com o endereço da edição: a lista de quem
+  é intimado e o prazo estão no PDF. Pelos termos "ITR" e "valor da terra nua" o coletor só guarda o ato cujo título
+  trata do assunto (`DOM.SO_TITULO`), porque a busca no texto das edições acha ITR em todo balancete.
+- Barreiras: o índice de atos, onde a busca por palavra procura, só existe da edição 4668 (08/06/2026) em diante; ali
+  a licença ambiental sai como "Licença Simplificada" ou "Licença de Operação" (`DOM.TERMOS_INDICE`).
+- Termo novo no coletor: rode uma vez só por ele desde o começo do acervo (`DOM.colher('2024-01-01', ['<termo>'])`; no
+  DOEM, com muitas páginas, `DOM.doem(slug, termo, '2024-01-01', 150)`), e acrescente o termo ao `TEMA_DO_TERMO` do
+  `scripts/processar_diarios.py`.
 
 ## 3. Obras, ferrovias e planos diretores
 
@@ -98,6 +114,11 @@ Até 3 conferências por execução, só em página oficial (prefeitura, ANTT, D
 - fato novo (trecho licitado, decreto de utilidade pública federal, plano diretor aprovado, audiência marcada) entra
   como linha nova: data, municípios, tema, título, o que muda (em linguagem simples), fonte oficial, link, conferido em
   e a marca [C]. Notícia de imprensa só serve de pista: sem fonte oficial, não entra.
+- Onde conferir (25/11/2026): os acórdãos do TCU sobre a FIOL abrem inteiros na Pesquisa Integrada, pelo navegador
+  embutido (`https://pesquisa.apps.tcu.gov.br/doc/acordao-completo/<nº>/<ano>/Plenário`; o WebFetch só recebe a página
+  vazia); em 25/11/2026 havia auditoria do lote 5F em curso (TC 001.733/2026-5). As páginas da ANEEL sobre declaração
+  de utilidade pública não listam os atos por município: o despacho de cada linha de transmissão sai no Diário Oficial
+  da União (`www.in.gov.br`, ainda não liberado no navegador).
 
 ## 4. Expansão (um item por execução, até 30 minutos)
 
@@ -165,7 +186,7 @@ Uma mensagem por semana, em até 8 linhas, começando por "⚖️ Alertas e acer
 
 - alertas com prazo correndo ou a confirmar (imóvel ou cliente, o que é e a data) e os novos da semana;
 - decreto estadual de utilidade pública novo no Oeste e ato municipal novo que pese em imóvel rural (perímetro urbano,
-  plano diretor, zoneamento, desapropriação), com o endereço oficial;
+  plano diretor, zoneamento, desapropriação, edital de ITR), com o endereço oficial;
 - o item da expansão feito e o que falhou ou ficou aguardando liberação.
 
 Notificação no celular só quando houver alerta vermelho novo, prazo correndo novo, decreto ou ato que cite fazenda da

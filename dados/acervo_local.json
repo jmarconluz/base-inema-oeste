@@ -1,7 +1,7 @@
 {
  "diarios_municipais": {
-  "ate": "2026-11-24",
-  "atos": 616,
+  "ate": "2026-11-25",
+  "atos": 931,
   "coletado_em": "2026-11-25",
   "municipios": [
    "Barreiras",
@@ -10,9 +10,10 @@
    "Cristópolis",
    "Formosa do Rio Preto",
    "Riachão das Neves",
-   "Santa Rita de Cássia"
+   "Santa Rita de Cássia",
+   "São Desidério"
   ],
-  "relevancia_alta": 163
+  "relevancia_alta": 285
  },
  "utilidade_publica": {
   "ate": "2026-10-23",
