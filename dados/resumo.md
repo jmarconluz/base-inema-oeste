@@ -1,6 +1,6 @@
 # Resumo da base
 
-Total de atos (Bahia): **11314** · Oeste Baiano: **2970** · pontos georreferenciados no Oeste: **2051**
+Total de atos (Bahia): **11315** · Oeste Baiano: **2971** · pontos georreferenciados no Oeste: **2055**
 
 | Ano | Oeste ASV | Oeste OUTORGA | Demais ASV | Demais OUTORGA |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ Total de atos (Bahia): **11314** · Oeste Baiano: **2970** · pontos georreferen
 | 2023 | 76 | 260 | 212 | 657 |
 | 2024 | 110 | 234 | 256 | 619 |
 | 2025 | 100 | 134 | 299 | 341 |
-| 2026 | 22 | 92 | 201 | 347 |
+| 2026 | 22 | 93 | 201 | 347 |
 
 ## Outorgas por tipo (Bahia)
 
 | Tipo | Atos |
 |---|---|
-| Poço (captação subterrânea) | 3879 |
+| Poço (captação subterrânea) | 3880 |
 | Captação superficial | 2834 |
 | Transferência de titularidade (sem dado técnico) | 474 |
 | Não identificado | 137 |
@@ -29,13 +29,13 @@ Total de atos (Bahia): **11314** · Oeste Baiano: **2970** · pontos georreferen
 | Alteração de outorga (sem dado técnico) | 39 |
 | Lançamento de efluentes | 12 |
 
-Pontos georreferenciados na Bahia: **7488** · Oeste: outorga **1996**, ASV **55**
+Pontos georreferenciados na Bahia: **7492** · Oeste: outorga **2000**, ASV **55**
 
 ## Municípios do Oeste com mais atos
 
 | Município | Atos |
 |---|---|
-| São Desidério | 578 |
+| São Desidério | 579 |
 | Barreiras | 440 |
 | Jaborandi | 380 |
 | Correntina | 261 |
