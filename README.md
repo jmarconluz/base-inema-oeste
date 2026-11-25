@@ -10,7 +10,7 @@
 > - [Números da base de multas do DOE-BA](multas/bahia_doe/resumo.md) (15.117 autuados, 2016–2026) e [dados do IBAMA](multas/ibama/README.md)
 > - [Índice completo da base jurídica](juridico/README.md) e [o que ainda está sendo pesquisado](juridico/PENDENCIAS.md)
 
-> **Acervo local: desapropriação, diários municipais, obras e planos** — atualizado toda quarta-feira ([roteiro](ATUALIZACAO_ACERVO_LOCAL.md))
+> **Acervo local: desapropriação, diários municipais, obras e planos** — coleta de 25/11/2026; atualização semanal pelo [roteiro](ATUALIZACAO_ACERVO_LOCAL.md)
 >
 > - [Decretos estaduais de utilidade pública e interesse social](dados/utilidade_publica/resumo.md) (desapropriação e servidão; Legisla Bahia)
 > - [Atos dos diários oficiais municipais do Oeste, por tema](dados/diarios_municipais/resumo.md) (plano diretor, perímetro urbano, zoneamento, desapropriação, IPTU/ITBI, ambiental municipal) e [onde cada município publica](dados/diarios_municipais/plataformas.csv)

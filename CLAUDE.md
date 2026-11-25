@@ -9,6 +9,11 @@
   no CLAUDE.md do repositório privado `ecoplan-laudos` (conta `jmarconluz`): acrescentá-lo à sessão com a ferramenta de
   adicionar repositório e seguir de lá. Antes de dizer "não tenho esse dado" ou de pedir ao RT o que ele já enviou,
   consultar os repositórios.
+- Acervo local (pedido do RT em 25/11/2026): decretos estaduais de utilidade pública (`dados/utilidade_publica/`),
+  atos dos diários oficiais municipais do Oeste por tema (`dados/diarios_municipais/`) e obras e planos com fonte
+  oficial (`dados/infraestrutura/`). Roteiro semanal em `ATUALIZACAO_ACERVO_LOCAL.md`. Busca sempre por tema, nunca por
+  nome de pessoa; plataforma cujo `robots.txt` recusa acesso automatizado (IMAP) não se automatiza; o cruzamento com os
+  imóveis da carteira é feito no sistema privado e o resultado nunca vem para cá.
 - Fontes confiáveis e atualização contínua (regra permanente do RT, 21/11/2026): toda tarefa aqui deixa a base melhor do
   que encontrou — dado novo só com fonte oficial e data da conferência; fonte secundária só como pista marcada [2ª]; a
   cada execução, tentar subir de nível um item [2ª], "bloqueado" ou "aguardando". Regra completa no CLAUDE.md do

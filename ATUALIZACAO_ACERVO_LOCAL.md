@@ -1,7 +1,8 @@
 # Atualização semanal do acervo local: decretos de utilidade pública, diários municipais, obras e planos
 
-Procedimento da tarefa agendada "ECOPLAN – acervo jurídico local e alertas (semanal)" (quarta-feira, 16h17, horário da
-Bahia; pedido do RT em 25/11/2026) e de quem for rodar à mão. Escreva tudo em português. Se uma etapa falhar, registre
+Roteiro semanal do acervo local (pedido do RT em 25/11/2026), para quem rodar à mão e para a tarefa agendada
+"ECOPLAN – acervo jurídico local e alertas (semanal)", proposta para quarta-feira, 16h17 (horário da Bahia). Em
+25/11/2026 a tarefa ainda não estava agendada: depende do sim do RT. Escreva tudo em português. Se uma etapa falhar, registre
 o motivo e siga com as outras. As regras do `ATUALIZACAO.md` (seção Regras) valem aqui: coleta só pelo navegador
 embutido do Claude no computador do escritório; nunca digitar senha, fazer login nem contornar captcha, bloqueio,
 `robots.txt` ou termos de uso; repositório público, sem dado de cliente; não inventar número, data nem norma.

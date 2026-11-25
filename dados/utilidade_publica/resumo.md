@@ -2,56 +2,57 @@
 
 Fonte oficial: Legisla Bahia (Casa Civil), Decretos Numerados com a ementa "utilidade pública" (https://www.legislabahia.ba.gov.br/documentos?categoria%5B0%5D=2&ementa=utilidade+p%C3%BAblica). Coletor: `coletor/coletor_dup.js`. Só os decretos para desapropriação, servidão administrativa, interesse social ou ocupação; os que dão título de utilidade pública a entidades ficam de fora.
 
-Período: decretos de 2024-06-27 a 2026-10-23.
+Período: decretos de 2024-01-05 a 2026-10-23.
 
-- Decretos: **966** (63 com município do Oeste Baiano)
+- Decretos: **1186** (72 com município do Oeste Baiano)
 - Sem município identificado no texto: 12
 
 ## Por finalidade
 
-- desapropriação: 831
-- servidão administrativa: 133
+- desapropriação: 1007
+- servidão administrativa: 177
 - ocupação temporária: 2
 
 ## Por entidade que desapropria
 
-- CERB: 388
-- EMBASA: 361
-- CONDER: 105
-- SEC: 58
+- CERB: 481
+- EMBASA: 429
+- CONDER: 117
+- SEC: 89
+- SIT: 26
 - SEDUR: 20
-- SIT: 19
-- SESAB: 6
+- SESAB: 9
+- Secretaria de Infraestrutura: 5
+- SAEB: 3
 - Secretaria Extraordinária do Sistema Viário do Oeste Ponte S: 2
-- Secretaria de Infraestrutura: 2
 - CAR: 1
 - Secretaria Extraordinária do Sistema Viário Oeste Ponte Salv: 1
 - CBN: 1
-- SAEB: 1
 - IFBA: 1
+- SDE: 1
 
 ## Municípios com mais decretos
 
-- Salvador: 102
-- Riachão do Jacuípe: 30
-- Mata de São João: 24
-- Candeias: 15
+- Salvador: 110
+- Riachão do Jacuípe: 36
+- Mata de São João: 25
+- Barra do Choça: 20
+- Candeias: 19
+- Ipiaú: 18
+- Brumado: 15
 - Nazaré: 14
-- Barra do Choça: 14
-- Brumado: 13
+- Vitória da Conquista: 13
+- Seabra: 12
+- Caetité: 12
+- Jequié: 12
+- Juazeiro: 12
 - Tucano: 12
+- Senhor do Bonfim: 12
+- Cícero Dantas: 12
 - Condeúba: 11
-- Caetité: 11
-- Vitória da Conquista: 11
 - Camaçari: 11
-- Juazeiro: 11
 - Ribeira do Pombal: 10
-- Cícero Dantas: 10
-- Boa Nova: 9
-- Ipiaú: 9
-- Seabra: 9
-- Barrocas: 8
-- Ilhéus: 8
+- Ilhéus: 10
 
 ## Oeste Baiano
 
@@ -120,6 +121,15 @@ Período: decretos de 2024-06-27 a 2026-10-23.
 | 2024-09-04 | [23.030](https://www.legislabahia.ba.gov.br/documentos/decreto-no-23030-de-04-de-setembro-de-2024) | Cocos | CERB | implantação de Poço (Captação) e Reservatório, pertencentes ao Sistema de Abastecimento de Água da localidade  | 98,00 m² |
 | 2024-09-04 | [23.029](https://www.legislabahia.ba.gov.br/documentos/decreto-no-23029-de-04-de-setembro-de-2024) | Coribe | CERB | implantação de Poço (Captação), Estação de Tratamento de Água e Reservatório, pertencentes ao Sistema de Abast | 147,00 m² |
 | 2024-08-22 | [22.998](https://www.legislabahia.ba.gov.br/documentos/decreto-no-22998-de-22-de-agosto-de-2024) | Barreiras | CERB | implantação de Poço (Captação) e Reservatório, pertencentes ao Sistema de Abastecimento de Água da localidade  | 147,00 m² |
+| 2024-06-06 | [22.858](https://www.legislabahia.ba.gov.br/documentos/decreto-no-22858-de-06-de-junho-de-2024) | Riachão das Neves | EMBASA | implantação de Adutora de Água Bruta, pertencente Sistema de Abastecimento de Água de Cariparé, no Município d | 514,10 m² |
+| 2024-04-26 | [22.794](https://www.legislabahia.ba.gov.br/documentos/decreto-no-22794-de-26-de-abril-de-2024) | Barra | CERB | implantação de Reservatório, pertencentes ao Sistema de Abastecimento de Água das localidades de Lagoa Preta e | 98,00 m² |
+| 2024-04-16 | [22.761](https://www.legislabahia.ba.gov.br/documentos/decreto-no-22761-de-16-de-abril-de-2024) | Ibotirama | CERB | implantação de Poço (Captação) e reservatório, pertencentes ao Sistema de Abastecimento de Água nas localidade | 176,00 m² |
+| 2024-04-16 | [22.753](https://www.legislabahia.ba.gov.br/documentos/decreto-no-22753-de-16-de-abril-de-2024) | Santana | CERB | implantação de Poço (captação), Caixa de Quebra Pressão e Reservatório, pertencentes ao Sistema de Abastecimen | 147,00 m² |
+| 2024-03-26 | [22.694](https://www.legislabahia.ba.gov.br/documentos/decreto-no-22694-de-26-de-marco-de-2024) | Muquém do São Francisco | CERB | implantação de Poço (Captação) e Reservatório, pertencentes ao Sistema de Abastecimento de Água na localidade  | 98,00 m² |
+| 2024-03-25 | [22.693](https://www.legislabahia.ba.gov.br/documentos/decreto-no-22693-de-25-de-marco-de-2024) | Mansidão | CERB | implantação de Poço (Captação), Reservatório e Dessalinizador, pertencentes ao Sistema de Abastecimento de Águ | 441,00 m² |
+| 2024-02-02 | [22.607](https://www.legislabahia.ba.gov.br/documentos/decreto-no-22607-de-02-de-fevereiro-de-2024) | Santana | CERB | implantação de Faixa de Servidão para Passagem de Adutora, pertencente ao Sistema de Abastecimento de Água da  | 1.850,00 m² |
+| 2024-01-17 | [22.563](https://www.legislabahia.ba.gov.br/documentos/decreto-no-22563-de-17-de-janeiro-de-2024) | Baianópolis | SEC | construção de Unidade Escolar, no Município de Baianópolis - Bahia | 15.134,26 m² |
+| 2024-01-05 | [22.541](https://www.legislabahia.ba.gov.br/documentos/decreto-no-22541-de-05-de-janeiro-de-2024) | Angical | CERB | implantação de Poço (Captação), Reservatório e Caixa de Transição, pertencentes ao Sistema de Abastecimento de | 343,00 m² |
 
 ## Observações
 
