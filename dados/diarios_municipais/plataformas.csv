@@ -1,0 +1,31 @@
+﻿municipio;codigo_ibge;onde_publica;plataforma;busca_por_palavra;automacao;marca;conferido_em;observacao
+Barreiras;2903201;https://pmbarreiras.diariomtransparente.com.br/publicacoes;Diário Mtransparente;sim (no índice de atos de cada edição);ligada (coletor_diarios.js);[C];25/11/2026;"conferido no navegador do PC: sem captcha; edição 4783 de 24/11/2026; PDF em barreiras.ba.gov.br/diario/pdf/<ano>/diario<nº>.pdf"
+Formosa do Rio Preto;2911105;https://doem.org.br/ba/formosadoriopreto;DOEM (IBDM);sim (no texto das edições);ligada (coletor_diarios.js);[C];25/11/2026;"conferido no navegador do PC: robots.txt libera tudo, sem captcha; /pesquisar?keyword="
+Riachão das Neves;2926202;https://doem.org.br/ba/riachaodasneves;DOEM (IBDM);sim (no texto das edições);ligada (coletor_diarios.js);[C];25/11/2026;edição 4.819 de 24/11/2026
+Correntina;2909307;https://doem.org.br/ba/correntina;DOEM (IBDM);sim (no texto das edições);ligada (coletor_diarios.js);[C];25/11/2026;edição 8.478 de 24/11/2026
+Santa Rita de Cássia;2928406;https://doem.org.br/ba/santaritadecassia;DOEM (IBDM);sim (no texto das edições);ligada (coletor_diarios.js);[C];25/11/2026;"edição 2.320 de 24/11/2026; até 2020 no portal do IMAP"
+Cotegipe;2909406;https://doem.org.br/ba/cotegipe;DOEM (IBDM);sim (no texto das edições);ligada (coletor_diarios.js);[C];25/11/2026;"edição 936 de 25/11/2026; também há https://pmcotegipe.diariomtransparente.com.br/"
+Cristópolis;2909703;https://doem.org.br/ba/cristopolis;DOEM (IBDM);sim (no texto das edições);ligada (coletor_diarios.js);[C];25/11/2026;edição 1.369 de 24/11/2026
+São Desidério;2928901;https://www.acessoinformacao.com.br/ba/saodesiderio/#diario-oficial;IBDM – GEDDOEM;"sim (palavra-chave, período, caderno; exporta JSON)";pronta para ligar (falta o adaptador do coletor);[C];25/11/2026;"edição 3.023 de 24/11/2026; atos até 2018 em ba.portaldatransparencia.com.br"
+Angical;2901403;https://www.acessoinformacao.com.br/ba/angical/diario/;IBDM – GEDDOEM;"sim (palavra-chave, período, caderno; exporta JSON)";pronta para ligar (falta o adaptador do coletor);[C];25/11/2026;edição 1.492 de 24/11/2026
+Tabocas do Brejo Velho;2930907;https://diario.portaliop.org.br/BA/prefeitura/TabocasdoBrejoVelho;Portal IOP;sim (exporta CSV, XML e JSON);pronta para ligar (falta o adaptador do coletor);[C];25/11/2026;edição 1071 de 25/11/2026
+Cocos;2908101;https://cocos.ba.gov.br/diario-oficial/;Procede;busca avançada (fonte, datas, edição);pronta para ligar (falta o adaptador do coletor);[C];25/11/2026;edição 3802 de 24/11/2026
+Santana;2928208;https://santana.ba.gov.br/diario-oficial/;Procede;busca avançada;pronta para ligar (falta o adaptador do coletor);[C];25/11/2026;edição 2033 de 25/11/2026
+Serra do Ramalho;2930154;https://serradoramalho.ba.gov.br/diario-oficial/;Procede;busca avançada;pronta para ligar (falta o adaptador do coletor);[C];25/11/2026;edição 2137 de 25/11/2026
+Bom Jesus da Lapa;2903904;https://bomjesusdalapa.ba.gov.br/diario-oficial/;Procede;busca avançada (a página deu erro na conferência);pronta para ligar (falta o adaptador do coletor);[C];25/11/2026;edição 3822 de 25/11/2026
+Sítio do Mato;2930758;https://sitiodomato.ba.gov.br/diario-oficial/;Procede;busca avançada;pronta para ligar (falta o adaptador do coletor);[C];25/11/2026;edição 2195 de 25/11/2026
+São Félix do Coribe;2929057;https://procede.org/ba/saofelixdocoribe/diarios;Procede;busca avançada;a conferir (endereço atual não localizado);[C];25/11/2026;portal antigo lista até a edição 2253 de 06/02/2025
+Canápolis;2906105;https://egbanet.egba.ba.gov.br/canapolis;EGBA;sim (por data e por palavra);pronta para ligar (falta o adaptador do coletor);[C];25/11/2026;
+Luís Eduardo Magalhães;2919553;https://diariooficial.luiseduardomagalhaes.ba.gov.br/homepage;IMAP (io.org.br);não conferida;manual: o robots.txt do portal recusa acesso automatizado;[C];25/11/2026;"os PDFs abrem em diof.io.org.br, mas sem listagem nem busca aberta; legislação em https://luiseduardomagalhaes.leisnaweb.com.br/"
+Jaborandi;2917359;https://diariooficial.jaborandi.ba.gov.br/homepage;IMAP (pelo padrão do endereço);não conferida;manual: plataforma do IMAP;[C];25/11/2026;só o link foi conferido
+Wanderley;2933455;http://ba.portaldatransparencia.com.br/prefeitura/wanderley/;IMAP;não conferida;manual: plataforma do IMAP;[C];25/11/2026;só o link foi conferido
+Catolândia;2907400;http://ba.portaldatransparencia.com.br/prefeitura/catolandia;IMAP;não conferida;manual: plataforma do IMAP;[C];25/11/2026;no DOEM só há a edição 740 de 27/01/2021
+Baianópolis;2902500;http://ba.portaldatransparencia.com.br/prefeitura/baianopolis/;IMAP (link oficial) e Diário Mtransparente;Mtransparente: sim;a conferir (qual é o veículo oficial);[C];25/11/2026;https://pmbaianopolis.diariomtransparente.com.br/ com nº 6924 de 30/10/2026
+Mansidão;2920452;https://www.mansidao.ba.gov.br/;provável IMAP/SAI;não conferida;manual: o robots.txt do portal recusa acesso automatizado;[2ª];25/11/2026;Mtransparente parado em 31/12/2024
+Barra;2902708;http://ba.portaldatransparencia.com.br/prefeitura/barra/;IMAP;não conferida;manual: plataforma do IMAP;[C];25/11/2026;só o link foi conferido
+Ibotirama;2913200;https://www.ibotirama.ba.gov.br/;IMAP (SAI, DIOF);não conferida;manual: o robots.txt do portal recusa acesso automatizado;[C];25/11/2026;só um PDF foi conferido
+Coribe;2909109;https://diario.coribe.ba.gov.br/;IMAP (pelo padrão);não conferida;manual: o robots.txt do portal recusa acesso automatizado;[2ª];25/11/2026;
+Serra Dourada;2930303;https://www.serradourada.ba.gov.br/diariooficial;IMAP/SAI (pelo título);não conferida;a conferir (a página não abriu);[2ª];25/11/2026;
+Santa Maria da Vitória;2928109;http://ba.portaldatransparencia.com.br/prefeitura/santamariadavitoria/;provável IMAP;não conferida;a conferir (site da prefeitura recusa acesso automatizado);[2ª];25/11/2026;
+Brejolândia;2904407;https://www.brejolandia.ba.gov.br/diario;site próprio, Diário Mtransparente e EGBA;Mtransparente: sim;a conferir (qual é o veículo oficial);[C];25/11/2026;https://pmbrejolandia.diariomtransparente.com.br/ com nº 6941 de 23/11/2026
+Muquém do São Francisco;2922250;https://www.muquemdosaofrancisco.ba.gov.br/diario;site próprio (IMAP até 2024);não conferida;a conferir (o conteúdo não carregou);[C];25/11/2026;só os links foram conferidos

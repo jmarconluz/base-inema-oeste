@@ -10,6 +10,12 @@
 > - [Números da base de multas do DOE-BA](multas/bahia_doe/resumo.md) (15.117 autuados, 2016–2026) e [dados do IBAMA](multas/ibama/README.md)
 > - [Índice completo da base jurídica](juridico/README.md) e [o que ainda está sendo pesquisado](juridico/PENDENCIAS.md)
 
+> **Acervo local: desapropriação, diários municipais, obras e planos** — atualizado toda quarta-feira ([roteiro](ATUALIZACAO_ACERVO_LOCAL.md))
+>
+> - [Decretos estaduais de utilidade pública e interesse social](dados/utilidade_publica/resumo.md) (desapropriação e servidão; Legisla Bahia)
+> - [Atos dos diários oficiais municipais do Oeste, por tema](dados/diarios_municipais/resumo.md) (plano diretor, perímetro urbano, zoneamento, desapropriação, IPTU/ITBI, ambiental municipal) e [onde cada município publica](dados/diarios_municipais/plataformas.csv)
+> - [Obras de infraestrutura e planos diretores do Oeste](dados/infraestrutura/obras_e_planos_oeste.csv), só com fonte oficial
+
 Base de atos autorizativos do **INEMA** publicados no **Diário Oficial do Estado da Bahia (DOE-BA)** nos últimos 10 anos (nov/2016 a nov/2026):
 
 - **Autorização de Supressão de Vegetação Nativa (ASV)**
@@ -33,6 +39,12 @@ dados/oeste/portarias_oeste.csv          atos do Oeste com o texto integral da p
 dados/oeste/portarias_oeste.json         idem, em JSON
 dados/oeste/pontos_outorga_oeste.geojson / pontos_asv_oeste.geojson   idem, só Oeste
 dados/resumo.md               números da base por ano e por município
+coletor/coletor_dup.js        decretos estaduais de utilidade pública (Legisla Bahia) → scripts/processar_dup.py
+coletor/coletor_diarios.js    diários oficiais municipais do Oeste, por tema (DOEM e Diário Mtransparente) → scripts/processar_diarios.py
+dados/utilidade_publica/      decretos_utilidade_publica_ba.csv (um decreto por linha) e resumo.md
+dados/diarios_municipais/     atos_municipais_oeste.csv, resumo.md e plataformas.csv (onde cada município publica)
+dados/infraestrutura/         obras_e_planos_oeste.csv (ferrovia, rodovia, energia, plano diretor; fonte oficial e data da conferência)
+dados/acervo_local.json       data e números da última coleta do acervo local
 ```
 
 Os CSV usam `;` como separador e codificação UTF-8 com BOM, então abrem direto no Excel. O GeoJSON está em SIRGAS 2000 geográfico (EPSG:4674).
