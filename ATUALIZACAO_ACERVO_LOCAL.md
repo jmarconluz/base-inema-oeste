@@ -36,9 +36,10 @@ python -c "import json; print(json.dumps(json.load(open('dados/acervo_local.json
 
 - Navegador embutido, carga dos coletores pelo commit `SHA` e exportação em pacotes: como na seção 0 do
   `ATUALIZACAO.md`. Sites desta rotina, já liberados em 25/11/2026: `www.legislabahia.ba.gov.br`, `doem.org.br`,
-  `pmbarreiras.diariomtransparente.com.br`, `www.acessoinformacao.com.br` (diário de São Desidério) e
-  `pesquisa.apps.tcu.gov.br` (acórdãos do TCU, para a seção 3). Site novo que pedir liberação: registre em
-  `juridico/PENDENCIAS.md` ("aguardando liberação de <site> no navegador"), peça no resumo e siga.
+  `pmbarreiras.diariomtransparente.com.br`, `www.acessoinformacao.com.br` (diário de São Desidério),
+  `barreiras.ba.gov.br` (PDF do diário de Barreiras) e `pesquisa.apps.tcu.gov.br` (acórdãos do TCU, para a seção 3).
+  Site novo que pedir liberação: registre em `juridico/PENDENCIAS.md` ("aguardando liberação de <site> no navegador"),
+  peça no resumo e siga.
 - Sem navegador (computador desligado ou app fechado): pule as seções 1 a 4, faça a 6 (integração e resumo dos
   alertas, que não dependem do computador) e diga no aviso que a coleta ficou para a semana seguinte.
 
@@ -99,6 +100,18 @@ python scripts/processar_diarios.py /tmp/pacotes/diarios_doem.json /tmp/pacotes/
   Riachão das Neves publicaram em 2026). Edital de ITR novo entra no aviso, com o endereço da edição: a lista de quem
   é intimado e o prazo estão no PDF. Pelos termos "ITR" e "valor da terra nua" o coletor só guarda o ato cujo título
   trata do assunto (`DOM.SO_TITULO`), porque a busca no texto das edições acha ITR em todo balancete.
+- Para ler um edital no PDF oficial (como foi feito em 25/11/2026 com os editais de ITR de 08/10 a 13/11/2026):
+  - DOEM: a página "previsualizar" traz o endereço do PDF no `#pdfjs-object` e a própria origem tem o leitor
+    (`const pdfjs = await import('/pdf.js/build/pdf.mjs')`, com `GlobalWorkerOptions.workerSrc =
+    '/pdf.js/build/pdf.worker.mjs'`, e `getTextContent()` em cada página). O PDF de São Desidério abre pela mesma
+    origem (`doem.org.br/ba/saodesiderio/arquivos/download/…`, o endereço que vem no `hurl` do portal).
+  - Página escaneada vem sem texto (Riachão das Neves e São Desidério): desenhe com `page.render({..., intent:
+    'print'})` (com a aba em segundo plano o desenho comum não termina), exporte em WebP em partes de 400 mil
+    caracteres e leia na nuvem com `tesseract` em português.
+  - Barreiras: `https://barreiras.ba.gov.br/diario/pdf/<ano>/diario<nº>.pdf` tem texto; numa aba do próprio site, o
+    leitor vem do cdnjs (`https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.min.mjs`).
+  - O cruzamento com o cadastro (CPF/CNPJ e nome) se faz só na máquina da rotina; os nomes lidos não se guardam e o
+    resultado vai só no aviso ao RT e no registro do cadastro privado, nunca para este repositório.
 - Barreiras: o índice de atos, onde a busca por palavra procura, só existe da edição 4668 (08/06/2026) em diante; ali
   a licença ambiental sai como "Licença Simplificada" ou "Licença de Operação" (`DOM.TERMOS_INDICE`).
 - Termo novo no coletor: rode uma vez só por ele desde o começo do acervo (`DOM.colher('2024-01-01', ['<termo>'])`; no
