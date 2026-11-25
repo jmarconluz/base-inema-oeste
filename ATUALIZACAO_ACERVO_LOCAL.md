@@ -152,6 +152,9 @@ python ferramentas/datajud.py js --base <clone do ecoplan-base-dados>      # imp
 - No fim, peça `JSON.stringify(window.__datajud)` (o resultado é salvo em arquivo) e rode
   `python ferramentas/datajud.py gravar --base <clone do ecoplan-base-dados> <arquivo>`. Ele diz o que mudou.
 - Resultado com partes do índice sem resposta é inconclusivo: nunca escrever "processo não encontrado" por causa dele.
+- O DataJud não é em tempo real e traz só o nome dos movimentos, não o texto das decisões. Quando o `gravar` avisar que
+  o registro tem mais de 45 dias (`avisos`), não é falha: diga a data do registro junto com o andamento e, se o caso
+  pedir a situação de hoje, deixe a conferência no tribunal como passo para o RT (consulta à mão).
 - Se algum andamento mudou: commit só de `cadastro/processos_judiciais.csv` no ecoplan-base-dados ("Processos
   judiciais: andamento conferido no DataJud em DD/MM/AAAA") e push; o andamento novo entra no aviso (seção 7).
 - Sem processo com `acompanhar` = sim, ou com o site ainda não liberado no navegador, pule esta parte.
