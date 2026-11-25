@@ -1,8 +1,7 @@
 # Atualização semanal do acervo local: decretos de utilidade pública, diários municipais, obras e planos
 
-Roteiro semanal do acervo local (pedido do RT em 25/11/2026), para quem rodar à mão e para a tarefa agendada
-"ECOPLAN – acervo jurídico local e alertas (semanal)", proposta para quarta-feira, 16h17 (horário da Bahia). Em
-25/11/2026 a tarefa ainda não estava agendada: depende do sim do RT. Escreva tudo em português. Se uma etapa falhar, registre
+Roteiro da tarefa agendada "ECOPLAN – acervo jurídico local e alertas (semanal)" (quarta-feira, 16h17, horário da
+Bahia; criada em 25/11/2026 com o sim do RT) e de quem for rodar à mão. Escreva tudo em português. Se uma etapa falhar, registre
 o motivo e siga com as outras. As regras do `ATUALIZACAO.md` (seção Regras) valem aqui: coleta só pelo navegador
 embutido do Claude no computador do escritório; nunca digitar senha, fazer login nem contornar captcha, bloqueio,
 `robots.txt` ou termos de uso; repositório público, sem dado de cliente; não inventar número, data nem norma.
@@ -18,6 +17,12 @@ O que esta rotina mantém (pasta `dados/`):
 
 Para que serve: o sistema da ECOPLAN (`ddrural/alertas.py`, no repositório privado) cruza essas tabelas com os imóveis
 do cadastro. O que é do município vira contexto na ficha do imóvel; o ato que cita a fazenda vira alerta.
+
+Sem buscas repetidas (pedido do RT em 25/11/2026): esta rotina é a dona dos decretos de utilidade pública, dos diários
+municipais e das obras e planos. Ela não pesquisa o que outra rotina já busca: autuações, CEPRAM, TJBA e normas de
+fiscalização são da rotina de segunda (`ATUALIZACAO.md`); atos do INEMA, da coleta diária do DOE-BA; notícias do agro,
+do radar do projeto do Instagram. O que aparecer aqui e for da alçada de outra rotina vai como pista para a base dela
+(`juridico/PENDENCIAS.md`), sem repetir a pesquisa.
 
 ## 0. Preparar
 
@@ -129,6 +134,27 @@ python -m ddrural alertas --pasta <clone do ecoplan-base-dados>
 - A integração tem de vir sem erro e com `"pendencias_integracao": 0`; ela refaz `cadastro/gerado/alertas.csv`,
   `semaforo.csv` e `contexto_municipal.csv` e envia só `cadastro/gerado/`.
 - `ddrural alertas` imprime o resumo da semana: alertas com prazo correndo, com prazo a confirmar e os novos em 7 dias.
+
+### 6A. Andamento dos processos judiciais registrados (DataJud do CNJ)
+
+O RT autorizou em 25/11/2026 o uso da API pública do DataJud, só para o andamento dos processos já registrados no
+cadastro privado (`cadastro/processos_judiciais.csv`, com `acompanhar` = sim), pelo número. Nada de busca por nome ou
+CPF/CNPJ, e nada disso vem para este repositório.
+
+```bash
+cd <clone do ecoplan-laudos>
+python ferramentas/datajud.py js --base <clone do ecoplan-base-dados>      # imprime o código da consulta
+```
+
+- Abra uma aba em `https://api-publica.datajud.cnj.jus.br/` (a página mostra um erro 401: é o esperado) e rode ali o
+  código impresso. Ele dispara e volta na hora; acompanhe `window.__datajud.fim`. Em dia de servidor cheio (429 ou 504)
+  leva alguns minutos por processo.
+- No fim, peça `JSON.stringify(window.__datajud)` (o resultado é salvo em arquivo) e rode
+  `python ferramentas/datajud.py gravar --base <clone do ecoplan-base-dados> <arquivo>`. Ele diz o que mudou.
+- Resultado com partes do índice sem resposta é inconclusivo: nunca escrever "processo não encontrado" por causa dele.
+- Se algum andamento mudou: commit só de `cadastro/processos_judiciais.csv` no ecoplan-base-dados ("Processos
+  judiciais: andamento conferido no DataJud em DD/MM/AAAA") e push; o andamento novo entra no aviso (seção 7).
+- Sem processo com `acompanhar` = sim, ou com o site ainda não liberado no navegador, pule esta parte.
 
 ## 7. Avisar o RT
 

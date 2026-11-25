@@ -13,6 +13,12 @@ mão). Escreva tudo em português. Se uma etapa falhar, registre o motivo e siga
   usuário (lá pode estar rodando a coleta do SEIA) nem no SEIA.
 - O repositório é público: CPF, RG e CNH sempre mascarados (`scripts/privacidade.py`); nenhum dado de cliente aqui.
 - Não invente número, data nem norma. Não apague arquivos existentes.
+- **Sem buscas repetidas (pedido do RT em 25/11/2026):** esta rotina é a dona das autuações do DOE-BA, do CEPRAM, dos
+  termos de compromisso, do TJBA, das leis acompanhadas e das normas novas de fiscalização; as outras rotinas leem o
+  que ela grava aqui. Ela não pesquisa o que já tem dono: decretos de utilidade pública, diários municipais e obras e
+  planos são da rotina de quarta (`ATUALIZACAO_ACERVO_LOCAL.md`); atos do INEMA de ASV e outorga, da coleta diária do
+  DOE-BA; notícias do agro, do radar do projeto do Instagram. Antes de pesquisar uma norma nova, ver se ela já está
+  em `juridico/legislacao/` ou em `juridico/PENDENCIAS.md`.
 - **Fontes confiáveis e atualização contínua (regra permanente do RT, 21/11/2026):** cada execução tenta subir de nível
   pelo menos um item da base — trocar fonte secundária [2ª] por fonte oficial [C], fechar um item "bloqueado" ou
   "aguardando" quando houver caminho legítimo, completar o que falta — e registra a data da conferência. O que não der
