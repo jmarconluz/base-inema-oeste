@@ -74,6 +74,8 @@ Os CSV usam `;` como separador e codificação UTF-8 com BOM, então abrem diret
 ## Limitações
 
 - Os campos são extraídos automaticamente do texto da portaria. Portarias com redação fora do padrão podem ficar com campos em branco, mas o `texto` integral e o `link_doe` estão sempre lá para conferência.
+- Errata ou retificação que cita outra portaria no próprio texto ("Portaria nº 35.590") é cortada pelo coletor nesse ponto e fica fora da base. Exemplo: a Portaria 35.709, de 26/11/2026 (DOE de 27/11), errata da outorga 35.590. Em processo da carteira, confira a edição no DOOL. (Visto em 27/11/2026.)
+- O município do registro é o último citado no art. 1º. Quando o ato só cita o município da sede do requerente, o registro vai para "Demais", mesmo com a captação no Oeste. Exemplo: a Portaria 35.708, de 26/11/2026, na bacia do Rio Grande, saiu como Salvador. Confira `bacia` e `coordenadas`. (Visto em 27/11/2026.)
 - O DOE publica só o resumo do ato. Estudos, mapas e condicionantes completos ficam no processo no SEIA.
 
 ## Como atualizar
