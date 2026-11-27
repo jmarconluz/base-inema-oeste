@@ -121,7 +121,7 @@ def uma_letra(a, b):
     """Verdadeiro se as palavras diferem em no máximo uma letra (troca, falta ou sobra)."""
     if a == b:
         return True
-    if min(len(a), len(b)) < 6 or abs(len(a) - len(b)) > 1:
+    if min(len(a), len(b)) < 5 or abs(len(a) - len(b)) > 1:
         return False
     if len(a) == len(b):
         return sum(x != y for x, y in zip(a, b)) <= 1
