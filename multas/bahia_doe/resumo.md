@@ -4,7 +4,7 @@ Período: publicações de 2016-12-01 a 2026-11-20.
 
 - Registros de autuados em editais: **15206** (processos distintos: 11431)
 - Decisões do CEPRAM sobre recursos: **847**
-- Termos de compromisso / conversões / descontos: **137**
+- Termos de compromisso / conversões / descontos: **192**
 - Outros atos de fiscalização: **30**
 
 ## Autuados em editais por tipo de ato e fase

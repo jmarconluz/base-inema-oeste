@@ -16,7 +16,7 @@ mão). Escreva tudo em português. Se uma etapa falhar, registre o motivo e siga
 - **Sem buscas repetidas (pedido do RT em 25/11/2026):** esta rotina é a dona das autuações do DOE-BA, do CEPRAM, dos
   termos de compromisso, do TJBA, das leis acompanhadas e das normas novas de fiscalização; as outras rotinas leem o
   que ela grava aqui. Ela não pesquisa o que já tem dono: decretos de utilidade pública, diários municipais e obras e
-  planos são da rotina do acervo local (`ATUALIZACAO_ACERVO_LOCAL.md`; sexta, 10h05); atos do INEMA de ASV e outorga, da coleta semanal do
+  planos são da rotina do acervo local (`ATUALIZACAO_ACERVO_LOCAL.md`; sexta, 16h00); atos do INEMA de ASV e outorga, da coleta semanal do
   DOE-BA; notícias do agro, do radar do projeto do Instagram. Antes de pesquisar uma norma nova, ver se ela já está
   em `juridico/legislacao/` ou em `juridico/PENDENCIAS.md`.
 - **Fontes confiáveis e atualização contínua (regra permanente do RT, 21/11/2026):** cada execução tenta subir de nível
@@ -29,12 +29,14 @@ mão). Escreva tudo em português. Se uma etapa falhar, registre o motivo e siga
 
 ## Quando roda e o que fazer com o computador desligado
 
-- Sexta, 9h05 (horário da Bahia), desde 27/11/2026, a pedido do RT; antes era segunda, 14h49. A rotina do acervo local
-  e dos alertas roda uma hora depois (10h05), no mesmo navegador.
+- Sexta, 16h00 (horário da Bahia), desde 27/11/2026, a pedido do RT: no mesmo dia ele passou as coletas para a sexta de
+  manhã (9h05) e depois todas as tarefas semanais que precisam do computador para a sexta às 16h00; antes era segunda,
+  14h49. No mesmo horário, e no mesmo navegador, rodam o acervo local e os alertas, o DOE-BA do INEMA e o acervo de
+  fazendas: cada rotina trabalha só nas próprias abas e nunca fecha aba que não é dela.
 - Computador desligado ou app fechado (pedido do RT em 27/11/2026: a coleta fica para quando o computador for
   ligado): espere 10 minutos e tente mais uma vez. Se continuar sem resposta, não colete nada e agende uma nova
-  tentativa na mesma conversa (`send_later`): 14h05 do mesmo dia e, depois, 9h05 e 14h05 de segunda a quinta, uma de
-  cada vez. A última é a de quinta às 14h05; depois dela, a execução da sexta cobre o período, porque a coleta parte
+  tentativa na mesma conversa (`send_later`): 18h00 do mesmo dia e, depois, 16h00 e 18h00 de segunda a quinta, uma de
+  cada vez. A última é a de quinta às 18h00; depois dela, a execução da sexta cobre o período, porque a coleta parte
   da última data coletada (seção 1). Aviso ao RT só na primeira vez; as tentativas seguintes sem computador encerram em
   silêncio.
 - Numa nova tentativa, antes de coletar: `git pull --rebase origin main`. Se outra execução já fez a coleta da semana
@@ -101,6 +103,13 @@ python scripts/processar_multas.py && python scripts/gerar_precedentes_cepram.py
 Anote do `multas/bahia_doe/resumo.md` e do `git diff --stat`: autuados novos (quantos no Oeste), decisões novas do
 CEPRAM (quantas favoráveis e por qual motivo), conversões/termos de compromisso.
 
+Desde 27/11/2026 o coletor também guarda o termo de compromisso do INEMA com cláusula penal de multa (ex.: regularização
+da operação de fazenda sem licença), que sai em matéria própria, sem citar auto de infração, e ficava de fora. Na mesma
+data a coleta foi refeita de 14/11/2016 a 27/11/2026 com o coletor novo, para trazer os termos antigos (+49 matérias, de
+2021 a 2026; `conversoes_tc.csv` passou de 137 para 192 termos). O DOOL não tem
+busca por palavra aberta ao público (só por data e edição; a pesquisa de texto é serviço por e-mail da EGBA): o que
+não estiver numa pasta do INEMA, da SEMA ou do CEPRAM não entra pela coleta.
+
 ## 2. TJBA (jurisprudência)
 
 Na aba em `https://jurisprudencia.tjba.jus.br/`, carregue `coletor/coletor_tjba.js`. `DESDE` = data mais recente do
@@ -121,6 +130,11 @@ python scripts/indexar_tjba.py
 
 Na **primeira execução de cada mês**, faça a varredura completa (`for (const t of TJ.TERMOS) await TJ.colher(t)`),
 que pega decisões antigas indexadas com atraso. A paginação da API começa em 0.
+
+Em 27/11/2026 a API pública do TJBA não tinha nenhuma decisão publicada depois de 06/10/2026, em nenhum termo (nem
+"recurso" nem "ambiental"; varredura completa de "INEMA", "multa ambiental", "auto de infração ambiental" e "CEPRAM"
+sem decisão nova). Se a data mais recente continuar parada, anote em `juridico/PENDENCIAS.md` e confira a busca do
+próprio portal antes de concluir que não há decisão nova.
 
 Leia as decisões novas que tratem de prescrição, nulidade, competência, autoria, embargo, conversão de multa ou
 execução fiscal de multa ambiental; se alguma for útil para a defesa, cite-a (número, órgão, data, link) na tese
@@ -181,7 +195,11 @@ Os já baixados estão em `multas/cepram_pautas/pdfs_baixados.json`. Na nuvem: `
 <urls.json>` (acumula em `multas/cepram_pautas/pautas_ct_recursal.json.gz` e refaz `juridico/cepram_votos_relator.md`).
 Resoluções do CEPRAM em PDF: Consulta de Publicações (`gestor.meioambiente.ba.gov.br/Consultas/ConsultaPublicacao/`,
 GET com `texto`, `colegiado=COL_CEPRAM`, `tipoPublicacao=24`); as resoluções em `legislacao/bahia/resolucao-cepram-*`
-vêm de lá e são conferidas à mão (o `LEX.verificarRepo` não lê PDF).
+vêm de lá e são conferidas à mão (o `LEX.verificarRepo` não lê PDF). A busca por `texto` só funciona com termos sem
+acento ("convers", "infra", "autua", "embargo"; com acento volta vazia, conferido em 27/11/2026); a página da
+publicação (`publicacao.php?publicacao_id=<id>`) deu erro de banco em 27/11/2026, depois de buscas com acento, e o PDF fica em
+`ArquivosSistemas/SistemaPublicacao/Arquivos/<id>/<arquivo>.pdf`. Filtros úteis por `classificacao`: 149
+(normatização), 169 (estabelecer procedimentos), 97 (fiscalização), 187 (termo de compromisso).
 
 ## 6. Conferir e publicar
 

@@ -361,6 +361,22 @@ Ordem prática de análise: **1) prazos → 2) prescrição → 3) nulidades do 
 | Termo de compromisso | suspende interdição/embargo e a exigibilidade da multa convertida (arts. 278, 282, 291, 298, §6º) | — |
 | Dívida ativa (transação) | — | transação por adesão da AGU/PGF para pequenos devedores: até 50% de desconto, **adesão até 30/11/2026** (ver abaixo) |
 
+**Como pedir a conversão na Bahia (SEMA)** [C]: página oficial "Conversão de Multas" da SEMA
+(https://www.ba.gov.br/meioambiente/592/conversao-de-multas, "última atualização 11/02/2026"; conferida em 27/11/2026)
+e Decreto 14.024/2012, arts. 292 a 300, na redação do Decreto 22.086/2023 (texto vigente no acervo). O pedido vai à
+**SEMA**, não ao INEMA, e pode ser feito a qualquer tempo (arts. 295-A e 297), com o desconto da fase em que o processo
+estiver (tabela acima). A SEMA decide de forma motivada, depois de ouvir o INEMA, considerando os antecedentes do
+autuado (inclusive sanções e compromissos ambientais não cumpridos), o caso concreto e o efeito dissuasório (art. 292,
+§§ 1º e 7º). A conversão alcança multa já inscrita em dívida ativa, ouvida antes a PGE (art. 292, § 6º). Modalidade
+direta: pré-projeto junto com o requerimento (art. 296). Indireta: projeto próprio aceito pela SEMA, projeto do Cadastro
+Estadual de Projetos e Programas Socioambientais (CEPPS) ou projeto de órgão público escolhido pela SEMA (art. 296-A).
+O mesmo infrator só pode converter de novo depois de 5 anos da assinatura do termo (art. 300): havendo mais de um AIMU,
+indicar todos no mesmo requerimento, como a própria página orienta. Protocolo: formulário oficial da página, entregue
+na SEMA ou enviado para protocolo.da@sema.ba.gov.br (a página diz que outros canais não são aceitos), com cópia do auto e
+dos documentos da autuação, identificação e CPF ou CNPJ, procuração quando houver, comprovante de endereço, pré-projeto
+(modalidade direta), prova de propriedade ou posse da área, situação atual da área (fotos, planta, relatório técnico)
+e, quando couber, declaração de baixa condição socioeconômica e de escolaridade.
+
 **ICMBio** (autos em unidade de conservação federal): as soluções legais estão na IN ICMBio nº 9/2023, compilada com a
 IN ICMBio nº 13/2026 (arts. 46 a 49) — pagamento à vista com 30% de desconto, parcelamento e conversão em serviços
 ambientais, com 40% de desconto na conversão direta pedida junto com a defesa e 35% até as alegações finais (indireta:
