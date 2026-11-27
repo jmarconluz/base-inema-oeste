@@ -20,7 +20,7 @@ do cadastro. O que é do município vira contexto na ficha do imóvel; o ato que
 
 Sem buscas repetidas (pedido do RT em 25/11/2026): esta rotina é a dona dos decretos de utilidade pública, dos diários
 municipais e das obras e planos. Ela não pesquisa o que outra rotina já busca: autuações, CEPRAM, TJBA e normas de
-fiscalização são da rotina de segunda (`ATUALIZACAO.md`); atos do INEMA, da coleta diária do DOE-BA; notícias do agro,
+fiscalização são da rotina de segunda (`ATUALIZACAO.md`); atos do INEMA, da coleta semanal do DOE-BA (quinta); notícias do agro,
 do radar do projeto do Instagram. O que aparecer aqui e for da alçada de outra rotina vai como pista para a base dela
 (`juridico/PENDENCIAS.md`), sem repetir a pesquisa.
 
