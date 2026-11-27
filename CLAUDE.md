@@ -15,7 +15,8 @@
   nome de pessoa; plataforma cujo `robots.txt` recusa acesso automatizado (IMAP) não se automatiza; o cruzamento com os
   imóveis da carteira é feito no sistema privado e o resultado nunca vem para cá.
 - Sem buscas repetidas e sem perguntas repetidas (pedido do RT em 25/11/2026): cada informação tem uma rotina dona (a
-  de segunda, `ATUALIZACAO.md`; a de quarta, `ATUALIZACAO_ACERVO_LOCAL.md`; a coleta semanal do DOE-BA, às quintas) e as outras leem
+  de multas e jurídica, `ATUALIZACAO.md`, e a do acervo local, `ATUALIZACAO_ACERVO_LOCAL.md`, as duas na sexta de manhã
+  desde 27/11/2026; a coleta semanal do DOE-BA, às quintas) e as outras leem
   o que ela gravou. As decisões que o RT já tomou estão no CLAUDE.md do `ecoplan-laudos` ("Antes de perguntar ou de
   pesquisar"): ver lá antes de pedir um sim.
 - Fontes confiáveis e atualização contínua (regra permanente do RT, 21/11/2026): toda tarefa aqui deixa a base melhor do

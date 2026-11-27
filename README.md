@@ -1,6 +1,6 @@
 # Base INEMA – Bahia (foco no Oeste Baiano)
 
-> **Base de multas e base jurídica de defesa** — atualizada toda segunda-feira ([roteiro](ATUALIZACAO.md))
+> **Base de multas e base jurídica de defesa** — atualizada toda sexta-feira ([roteiro](ATUALIZACAO.md))
 >
 > - [Roteiro para analisar um auto de infração](juridico/checklist_analise_auto.md)
 > - [Teses de defesa, com lei e decisões conferidas](juridico/teses_defesa.md)
@@ -10,7 +10,7 @@
 > - [Números da base de multas do DOE-BA](multas/bahia_doe/resumo.md) (15.117 autuados, 2016–2026) e [dados do IBAMA](multas/ibama/README.md)
 > - [Índice completo da base jurídica](juridico/README.md) e [o que ainda está sendo pesquisado](juridico/PENDENCIAS.md)
 
-> **Acervo local: desapropriação, diários municipais, obras e planos** — atualizado toda quarta-feira ([roteiro](ATUALIZACAO_ACERVO_LOCAL.md))
+> **Acervo local: desapropriação, diários municipais, obras e planos** — atualizado toda sexta-feira ([roteiro](ATUALIZACAO_ACERVO_LOCAL.md))
 >
 > - [Decretos estaduais de utilidade pública e interesse social](dados/utilidade_publica/resumo.md) (desapropriação e servidão; Legisla Bahia)
 > - [Atos dos diários oficiais municipais do Oeste, por tema](dados/diarios_municipais/resumo.md) (plano diretor, perímetro urbano, zoneamento, desapropriação, IPTU/ITBI, ITR, ambiental municipal) e [onde cada município publica](dados/diarios_municipais/plataformas.csv)

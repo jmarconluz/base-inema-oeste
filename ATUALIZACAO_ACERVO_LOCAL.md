@@ -1,7 +1,7 @@
 # Atualização semanal do acervo local: decretos de utilidade pública, diários municipais, obras e planos
 
-Roteiro da tarefa agendada "ECOPLAN – acervo jurídico local e alertas (semanal)" (quarta-feira, 16h17, horário da
-Bahia; criada em 25/11/2026 com o sim do RT) e de quem for rodar à mão. Escreva tudo em português. Se uma etapa falhar, registre
+Roteiro da tarefa agendada "ECOPLAN – acervo jurídico local e alertas (semanal)" (sexta-feira, 10h05, horário da
+Bahia; criada em 25/11/2026 com o sim do RT e passada da quarta, 16h17, para a sexta em 27/11/2026, a pedido dele) e de quem for rodar à mão. Escreva tudo em português. Se uma etapa falhar, registre
 o motivo e siga com as outras. As regras do `ATUALIZACAO.md` (seção Regras) valem aqui: coleta só pelo navegador
 embutido do Claude no computador do escritório; nunca digitar senha, fazer login nem contornar captcha, bloqueio,
 `robots.txt` ou termos de uso; repositório público, sem dado de cliente; não inventar número, data nem norma.
@@ -20,7 +20,7 @@ do cadastro. O que é do município vira contexto na ficha do imóvel; o ato que
 
 Sem buscas repetidas (pedido do RT em 25/11/2026): esta rotina é a dona dos decretos de utilidade pública, dos diários
 municipais e das obras e planos. Ela não pesquisa o que outra rotina já busca: autuações, CEPRAM, TJBA e normas de
-fiscalização são da rotina de segunda (`ATUALIZACAO.md`); atos do INEMA, da coleta semanal do DOE-BA (quinta); notícias do agro,
+fiscalização são da coleta de multas e jurídica (`ATUALIZACAO.md`; sexta, 9h05, uma hora antes desta); atos do INEMA, da coleta semanal do DOE-BA (quinta); notícias do agro,
 do radar do projeto do Instagram. O que aparecer aqui e for da alçada de outra rotina vai como pista para a base dela
 (`juridico/PENDENCIAS.md`), sem repetir a pesquisa.
 
@@ -40,8 +40,17 @@ python -c "import json; print(json.dumps(json.load(open('dados/acervo_local.json
   `barreiras.ba.gov.br` (PDF do diário de Barreiras) e `pesquisa.apps.tcu.gov.br` (acórdãos do TCU, para a seção 3).
   Site novo que pedir liberação: registre em `juridico/PENDENCIAS.md` ("aguardando liberação de <site> no navegador"),
   peça no resumo e siga.
-- Sem navegador (computador desligado ou app fechado): pule as seções 1 a 4, faça a 6 (integração e resumo dos
-  alertas, que não dependem do computador) e diga no aviso que a coleta ficou para a semana seguinte.
+- Sem navegador (computador desligado ou app fechado; pedido do RT em 27/11/2026: a coleta fica para quando o
+  computador for ligado): espere 10 minutos e tente mais uma vez. Se continuar sem resposta, faça só a 6 e a
+  7 (integração e resumo dos alertas, que não dependem do computador; a 6A depende), diga no aviso que a coleta espera
+  o computador e agende uma nova tentativa na mesma conversa (`send_later`): 15h05 do mesmo dia e, depois, 10h05 e
+  15h05 de segunda a quinta, uma de cada vez, sempre uma hora depois das tentativas da coleta de multas. A última é a
+  de quinta às 15h05; depois dela, a execução da sexta cobre o período, porque a coleta parte da última data coletada.
+- Nova tentativa com o navegador de volta: `git pull --rebase origin main`; se `dados/acervo_local.json` já mostrar
+  coleta com data igual ou posterior à da sexta, encerre em silêncio; senão, faça as seções 1 a 5, a 6A e de novo a 6,
+  com mensagem curta só se houver novidade.
+- A coleta de multas e jurídica começa às 9h05 no mesmo navegador: se ainda houver aba dela aberta (DOE-BA ou TJBA),
+  espere 10 minutos e confira de novo, até 3 vezes. Nunca feche aba que não é sua.
 
 ## 1. Decretos estaduais de utilidade pública (Legisla Bahia)
 

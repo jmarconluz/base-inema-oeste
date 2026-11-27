@@ -8,7 +8,7 @@ mão). Escreva tudo em português. Se uma etapa falhar, registre o motivo e siga
 - Os sites do governo da Bahia (DOE, Casa Civil, TJBA) só respondem do Brasil e o ambiente de nuvem não alcança sites
   do governo: tudo o que é coleta roda no **navegador embutido** do Claude no computador do usuário
   (ferramentas `mcp__remote-devices__Claude_Browser__*`). Se o navegador não responder (computador desligado ou app
-  fechado), não insista: avise o usuário e encerre.
+  fechado), a coleta espera o computador: veja "Quando roda e o que fazer com o computador desligado", abaixo.
 - Nunca digitar senha nem fazer login; nunca contornar captcha, bloqueio ou termos de uso; não mexer no Chrome do
   usuário (lá pode estar rodando a coleta do SEIA) nem no SEIA.
 - O repositório é público: CPF, RG e CNH sempre mascarados (`scripts/privacidade.py`); nenhum dado de cliente aqui.
@@ -16,7 +16,7 @@ mão). Escreva tudo em português. Se uma etapa falhar, registre o motivo e siga
 - **Sem buscas repetidas (pedido do RT em 25/11/2026):** esta rotina é a dona das autuações do DOE-BA, do CEPRAM, dos
   termos de compromisso, do TJBA, das leis acompanhadas e das normas novas de fiscalização; as outras rotinas leem o
   que ela grava aqui. Ela não pesquisa o que já tem dono: decretos de utilidade pública, diários municipais e obras e
-  planos são da rotina de quarta (`ATUALIZACAO_ACERVO_LOCAL.md`); atos do INEMA de ASV e outorga, da coleta diária do
+  planos são da rotina do acervo local (`ATUALIZACAO_ACERVO_LOCAL.md`; sexta, 10h05); atos do INEMA de ASV e outorga, da coleta semanal do
   DOE-BA; notícias do agro, do radar do projeto do Instagram. Antes de pesquisar uma norma nova, ver se ela já está
   em `juridico/legislacao/` ou em `juridico/PENDENCIAS.md`.
 - **Fontes confiáveis e atualização contínua (regra permanente do RT, 21/11/2026):** cada execução tenta subir de nível
@@ -26,6 +26,20 @@ mão). Escreva tudo em português. Se uma etapa falhar, registre o motivo e siga
   o WebFetch: em 21/11/2026 o WebFetch abriu páginas do gov.br (ICMBio, Participa + Brasil) que o shell da nuvem não
   alcança. Ele devolve um resumo da página, não o texto: serve para conferir situação, número e data, não para guardar
   texto integral no acervo. Regra completa no CLAUDE.md do `ecoplan-laudos`.
+
+## Quando roda e o que fazer com o computador desligado
+
+- Sexta, 9h05 (horário da Bahia), desde 27/11/2026, a pedido do RT; antes era segunda, 14h49. A rotina do acervo local
+  e dos alertas roda uma hora depois (10h05), no mesmo navegador.
+- Computador desligado ou app fechado (pedido do RT em 27/11/2026: a coleta fica para quando o computador for
+  ligado): espere 10 minutos e tente mais uma vez. Se continuar sem resposta, não colete nada e agende uma nova
+  tentativa na mesma conversa (`send_later`): 14h05 do mesmo dia e, depois, 9h05 e 14h05 de segunda a quinta, uma de
+  cada vez. A última é a de quinta às 14h05; depois dela, a execução da sexta cobre o período, porque a coleta parte
+  da última data coletada (seção 1). Aviso ao RT só na primeira vez; as tentativas seguintes sem computador encerram em
+  silêncio.
+- Numa nova tentativa, antes de coletar: `git pull --rebase origin main`. Se outra execução já fez a coleta da semana
+  (commit "Atualização semanal" com data igual ou posterior à da sexta), encerre em silêncio.
+- À mão ("rode a coleta de multas"): o mesmo roteiro, em qualquer dia, com o computador ligado.
 
 ## 0. Preparar
 
