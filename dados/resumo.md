@@ -1,6 +1,6 @@
 # Resumo da base
 
-Total de atos (Bahia): **11315** · Oeste Baiano: **2971** · pontos georreferenciados no Oeste: **2055**
+Total de atos (Bahia): **11325** · Oeste Baiano: **2976** · pontos georreferenciados no Oeste: **2057**
 
 | Ano | Oeste ASV | Oeste OUTORGA | Demais ASV | Demais OUTORGA |
 |---|---|---|---|---|
@@ -14,22 +14,22 @@ Total de atos (Bahia): **11315** · Oeste Baiano: **2971** · pontos georreferen
 | 2023 | 76 | 260 | 212 | 657 |
 | 2024 | 110 | 234 | 256 | 619 |
 | 2025 | 100 | 134 | 299 | 341 |
-| 2026 | 22 | 93 | 201 | 347 |
+| 2026 | 23 | 97 | 202 | 351 |
 
 ## Outorgas por tipo (Bahia)
 
 | Tipo | Atos |
 |---|---|
-| Poço (captação subterrânea) | 3880 |
-| Captação superficial | 2834 |
-| Transferência de titularidade (sem dado técnico) | 474 |
+| Poço (captação subterrânea) | 3882 |
+| Captação superficial | 2838 |
+| Transferência de titularidade (sem dado técnico) | 476 |
 | Não identificado | 137 |
 | Barramento | 125 |
 | Poço + captação superficial | 41 |
 | Alteração de outorga (sem dado técnico) | 39 |
 | Lançamento de efluentes | 12 |
 
-Pontos georreferenciados na Bahia: **7492** · Oeste: outorga **2000**, ASV **55**
+Pontos georreferenciados na Bahia: **7499** · Oeste: outorga **2002**, ASV **55**
 
 ## Municípios do Oeste com mais atos
 
@@ -37,13 +37,13 @@ Pontos georreferenciados na Bahia: **7492** · Oeste: outorga **2000**, ASV **55
 |---|---|
 | São Desidério | 579 |
 | Barreiras | 440 |
-| Jaborandi | 380 |
+| Jaborandi | 383 |
 | Correntina | 261 |
 | Luís Eduardo Magalhães | 253 |
 | Formosa do Rio Preto | 181 |
 | Riachão das Neves | 146 |
 | Cocos | 96 |
-| Santa Rita de Cássia | 87 |
+| Santa Rita de Cássia | 89 |
 | São Félix do Coribe | 65 |
 | Baianópolis | 62 |
 | Santa Maria da Vitória | 61 |
