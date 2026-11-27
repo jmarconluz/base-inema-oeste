@@ -41,6 +41,7 @@ dados/oeste/pontos_outorga_oeste.geojson / pontos_asv_oeste.geojson   idem, só 
 dados/resumo.md               números da base por ano e por município
 coletor/coletor_dup.js        decretos estaduais de utilidade pública (Legisla Bahia) → scripts/processar_dup.py
 coletor/coletor_diarios.js    diários oficiais municipais do Oeste, por tema (DOEM, GEDDOEM e Diário Mtransparente) → scripts/processar_diarios.py
+scripts/itr_editais.py        lê a tabela de contribuintes dos editais de ITR dos diários municipais (página escaneada ou com texto) e compara com uma lista de nomes; nada é gravado
 dados/utilidade_publica/      decretos_utilidade_publica_ba.csv (um decreto por linha) e resumo.md
 dados/diarios_municipais/     atos_municipais_oeste.csv, resumo.md e plataformas.csv (onde cada município publica)
 dados/infraestrutura/         obras_e_planos_oeste.csv (ferrovia, rodovia, energia, plano diretor; fonte oficial e data da conferência)

@@ -1,7 +1,9 @@
 # Atualização semanal do acervo local: decretos de utilidade pública, diários municipais, obras e planos
 
-Roteiro da tarefa agendada "ECOPLAN – acervo jurídico local e alertas (semanal)" (sexta-feira, 10h05, horário da
-Bahia; criada em 25/11/2026 com o sim do RT e passada da quarta, 16h17, para a sexta em 27/11/2026, a pedido dele) e de quem for rodar à mão. Escreva tudo em português. Se uma etapa falhar, registre
+Roteiro da tarefa agendada "ECOPLAN – acervo jurídico local e alertas (semanal)" (sexta-feira, 16h00, horário da
+Bahia; criada em 25/11/2026 com o sim do RT, passada da quarta, 16h17, para a sexta em 27/11/2026 e, no mesmo dia, para as
+16h00, com as outras tarefas que usam o computador; horário conferido na lista de tarefas agendadas em 27/11/2026) e de
+quem for rodar à mão. Escreva tudo em português. Se uma etapa falhar, registre
 o motivo e siga com as outras. As regras do `ATUALIZACAO.md` (seção Regras) valem aqui: coleta só pelo navegador
 embutido do Claude no computador do escritório; nunca digitar senha, fazer login nem contornar captcha, bloqueio,
 `robots.txt` ou termos de uso; repositório público, sem dado de cliente; não inventar número, data nem norma.
@@ -20,7 +22,7 @@ do cadastro. O que é do município vira contexto na ficha do imóvel; o ato que
 
 Sem buscas repetidas (pedido do RT em 25/11/2026): esta rotina é a dona dos decretos de utilidade pública, dos diários
 municipais e das obras e planos. Ela não pesquisa o que outra rotina já busca: autuações, CEPRAM, TJBA e normas de
-fiscalização são da coleta de multas e jurídica (`ATUALIZACAO.md`; sexta, 9h05, uma hora antes desta); atos do INEMA, da coleta semanal do DOE-BA (quinta); notícias do agro,
+fiscalização são da coleta de multas e jurídica (`ATUALIZACAO.md`; sexta, 16h00, no mesmo horário desta); atos do INEMA, da coleta semanal do DOE-BA; notícias do agro,
 do radar do projeto do Instagram. O que aparecer aqui e for da alçada de outra rotina vai como pista para a base dela
 (`juridico/PENDENCIAS.md`), sem repetir a pesquisa.
 
@@ -43,14 +45,15 @@ python -c "import json; print(json.dumps(json.load(open('dados/acervo_local.json
 - Sem navegador (computador desligado ou app fechado; pedido do RT em 27/11/2026: a coleta fica para quando o
   computador for ligado): espere 10 minutos e tente mais uma vez. Se continuar sem resposta, faça só a 6 e a
   7 (integração e resumo dos alertas, que não dependem do computador; a 6A depende), diga no aviso que a coleta espera
-  o computador e agende uma nova tentativa na mesma conversa (`send_later`): 15h05 do mesmo dia e, depois, 10h05 e
-  15h05 de segunda a quinta, uma de cada vez, sempre uma hora depois das tentativas da coleta de multas. A última é a
-  de quinta às 15h05; depois dela, a execução da sexta cobre o período, porque a coleta parte da última data coletada.
+  o computador e agende uma nova tentativa na mesma conversa (`send_later`): 18h00 do mesmo dia e, depois, 16h00 e
+  18h00 de segunda a quinta, uma de cada vez, nos mesmos horários das tentativas da coleta de multas. A última é a
+  de quinta às 18h00; depois dela, a execução da sexta cobre o período, porque a coleta parte da última data coletada.
 - Nova tentativa com o navegador de volta: `git pull --rebase origin main`; se `dados/acervo_local.json` já mostrar
   coleta com data igual ou posterior à da sexta, encerre em silêncio; senão, faça as seções 1 a 5, a 6A e de novo a 6,
   com mensagem curta só se houver novidade.
-- A coleta de multas e jurídica começa às 9h05 no mesmo navegador: se ainda houver aba dela aberta (DOE-BA ou TJBA),
-  espere 10 minutos e confira de novo, até 3 vezes. Nunca feche aba que não é sua.
+- A coleta de multas e jurídica, a do DOE-BA do INEMA e a do acervo de fazendas começam no mesmo horário e usam o mesmo
+  navegador: trabalhe só nas suas abas. Se houver aba que não é sua no DOE-BA ou no TJBA, espere 10 minutos e confira de
+  novo, até 3 vezes, antes de abrir as suas. Nunca feche aba que não é sua.
 
 ## 1. Decretos estaduais de utilidade pública (Legisla Bahia)
 
@@ -84,7 +87,9 @@ Três abas, o mesmo coletor (`coletor/coletor_diarios.js`), busca por tema (nunc
 
 - `https://doem.org.br/ba/formosadoriopreto/pesquisar` – cobre de uma vez Formosa do Rio Preto, Riachão das Neves,
   Correntina, Santa Rita de Cássia, Cotegipe e Cristópolis;
-- `https://www.acessoinformacao.com.br/ba/saodesiderio/` – São Desidério (GEDDOEM; ligado em 25/11/2026);
+- `https://www.acessoinformacao.com.br/ba/saodesiderio/` – São Desidério e Angical, numa aba só (GEDDOEM; São Desidério
+  ligado em 25/11/2026 e Angical em 27/11/2026). Em Angical os títulos dos atos são genéricos ("LEI", "DECRETO"): eles
+  entram com relevância média e o assunto se confere no PDF;
 - `https://pmbarreiras.diariomtransparente.com.br/publicacoes` – Barreiras.
 
 ```js
@@ -119,6 +124,14 @@ python scripts/processar_diarios.py /tmp/pacotes/diarios_doem.json /tmp/pacotes/
     caracteres e leia na nuvem com `tesseract` em português.
   - Barreiras: `https://barreiras.ba.gov.br/diario/pdf/<ano>/diario<nº>.pdf` tem texto; numa aba do próprio site, o
     leitor vem do cdnjs (`https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.min.mjs`).
+  - Nesta versão do leitor, `getDocument` pede um objeto: `pdfjs.getDocument({ url })`.
+  - Leitura e cruzamento (desde 27/11/2026): `python scripts/itr_editais.py <páginas> --lista <base
+    privada>/cadastro/gerado/clientes.csv`. As páginas escaneadas entram como imagem (a página inteira, ou só o meio
+    dela: escala 2, de 20% a 83% da largura e de 25% a 70% da altura, WebP 0,6, em lotes de até 370 mil caracteres); a
+    página que já vem com texto entra como `.txt`, uma linha por linha. O script acha a tabela "Sujeito(s) Passivo(s)"
+    de cada edital e compara pelo CPF/CNPJ e pelo nome, inclusive o nome parcial (no cadastro "Fulano Souza", no
+    edital "Fulano José Souza"): a comparação de 25/11/2026 só achava o nome inteiro e deixou passar esse caso.
+    Ligação só pelo nome é indício: confirmar pelo CPF antes de tratar como certa.
   - O cruzamento com o cadastro (CPF/CNPJ e nome) se faz só na máquina da rotina; os nomes lidos não se guardam e o
     resultado vai só no aviso ao RT e no registro do cadastro privado, nunca para este repositório.
 - Barreiras: o índice de atos, onde a busca por palavra procura, só existe da edição 4668 (08/06/2026) em diante; ali
@@ -138,7 +151,9 @@ Até 3 conferências por execução, só em página oficial (prefeitura, ANTT, D
   e a marca [C]. Notícia de imprensa só serve de pista: sem fonte oficial, não entra.
 - Onde conferir (25/11/2026): os acórdãos do TCU sobre a FIOL abrem inteiros na Pesquisa Integrada, pelo navegador
   embutido (`https://pesquisa.apps.tcu.gov.br/doc/acordao-completo/<nº>/<ano>/Plenário`; o WebFetch só recebe a página
-  vazia); em 25/11/2026 havia auditoria do lote 5F em curso (TC 001.733/2026-5). As páginas da ANEEL sobre declaração
+  vazia); a lista dos acórdãos do ano que citam a ferrovia, dos mais recentes para os mais antigos, abre em
+  `https://pesquisa.apps.tcu.gov.br/resultado/acordao-completo/FIOL/ANOACORDAO%253A<ano>` (16 em 2026, em 27/11/2026;
+  já lidos: 2531, lote 6F; 2845, lote 5F – a auditoria do TC 001.733/2026-5 –; e 1969, lote 7F). As páginas da ANEEL sobre declaração
   de utilidade pública não listam os atos por município: o despacho de cada linha de transmissão sai no Diário Oficial
   da União (`www.in.gov.br`, ainda não liberado no navegador).
 

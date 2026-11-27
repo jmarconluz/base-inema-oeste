@@ -6,6 +6,7 @@
 //   * https://doem.org.br/ba/formosadoriopreto/pesquisar   (DOEM/IBDM: todos os municípios de DOM.DOEM, numa aba só)
 //   * https://pmbarreiras.diariomtransparente.com.br/publicacoes   (Diário Mtransparente: o município do subdomínio)
 //   * https://www.acessoinformacao.com.br/ba/saodesiderio/   (GEDDOEM/IBDM: todos os municípios de DOM.GEDDOEM, numa aba só)
+//     (São Desidério e, desde 27/11/2026, Angical: mesma origem, /ba/<município>/?_f[keyword]=…)
 // Uso:
 //   await DOM.colher('2024-01-01');       // todos os termos de DOM.TERMOS, do ato mais recente para trás, até a data
 //   await DOM.preparar(); DOM.parte(0)…   // envelopes {chave: 'diarios_<plataforma>', parte, partes, n, dados, pad}
@@ -30,7 +31,7 @@ window.DOM = {
     'valor da terra nua': /terra nua|\bVTN\b/i },
   DOEM: { formosadoriopreto: 'Formosa do Rio Preto', riachaodasneves: 'Riachão das Neves', correntina: 'Correntina',
     santaritadecassia: 'Santa Rita de Cássia', cotegipe: 'Cotegipe', cristopolis: 'Cristópolis' },
-  GEDDOEM: { saodesiderio: 'São Desidério' },
+  GEDDOEM: { saodesiderio: 'São Desidério', angical: 'Angical' },
   MTRANSPARENTE: { pmbarreiras: 'Barreiras' },
   MESES: { janeiro: 1, fevereiro: 2, marco: 3, abril: 4, maio: 5, junho: 6, julho: 7, agosto: 8, setembro: 9, outubro: 10, novembro: 11, dezembro: 12 },
   PESSOAL: /REURB|Regulariza[çc][ãa]o Fundi[áa]ria de Interesse|aposentadoria|pens[ãa]o por morte|exonera|nomeia|licen[çc]a[- ]pr[êe]mio|licen[çc]a maternidade/i,

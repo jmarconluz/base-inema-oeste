@@ -2,10 +2,10 @@
 
 Fontes oficiais: o Diário Oficial de cada prefeitura, pela busca pública da plataforma (DOEM/IBDM em https://doem.org.br/ba/<município>/pesquisar, GEDDOEM/IBDM em https://www.acessoinformacao.com.br/ba/<município>/ e Diário Mtransparente em https://pm<município>.diariomtransparente.com.br/publicacoes). Coletor: `coletor/coletor_diarios.js`; busca por tema, nunca por nome de pessoa.
 
-Período: atos de 2024-01-02 a 2026-11-25.
+Período: atos de 2024-01-02 a 2026-11-27.
 
-- Atos na tabela: **931** (285 de relevância alta: o título trata do tema; 646 de relevância média: abrir o PDF da edição)
-- Achados pela busca e deixados só no bruto (licitações, contratos, pessoal): 793
+- Atos na tabela: **1018** (286 de relevância alta: o título trata do tema; 732 de relevância média: abrir o PDF da edição)
+- Achados pela busca e deixados só no bruto (licitações, contratos, pessoal): 926
 
 ## Por município
 
@@ -13,9 +13,10 @@ Período: atos de 2024-01-02 a 2026-11-25.
 |---|---:|---:|---|
 | São Desidério | 238 | 43 | 2026-11-25 |
 | Correntina | 178 | 35 | 2026-11-21 |
-| Formosa do Rio Preto | 154 | 63 | 2026-11-17 |
-| Riachão das Neves | 97 | 67 | 2026-11-13 |
+| Formosa do Rio Preto | 155 | 63 | 2026-11-27 |
+| Riachão das Neves | 98 | 68 | 2026-11-27 |
 | Santa Rita de Cássia | 94 | 16 | 2026-11-05 |
+| Angical | 85 | 0 | 2026-11-03 |
 | Cristópolis | 79 | 6 | 2026-11-24 |
 | Barreiras | 46 | 46 | 2026-11-18 |
 | Cotegipe | 45 | 9 | 2026-11-13 |
@@ -23,7 +24,7 @@ Período: atos de 2024-01-02 a 2026-11-25.
 ## Por tema (relevância alta)
 
 - ambiental municipal: 182
-- ITR e valor da terra nua: 60
+- ITR e valor da terra nua: 61
 - urbanismo e uso do solo: 20
 - desapropriação e utilidade pública: 16
 - tributos sobre imóveis: 7
@@ -77,6 +78,7 @@ Município com convênio com a Receita Federal fiscaliza o ITR. No diário saem,
 
 | Data | Município | Ato |
 |---|---|---|
+| 2026-11-27 | Riachão das Neves | [EDITAIS DE NOTIFICAÇÃO DE LANÇAMENTO DO ITR Nº 00018 A 00021/2026](https://doem.org.br/ba/riachaodasneves/diarios/previsualizar/wWakgwa3) |
 | 2026-11-13 | Riachão das Neves | [EDITAL DE TERMO DE CONSTATAÇÃO E INTIMAÇÃO Nº 00030/2026 - ITR](https://doem.org.br/ba/riachaodasneves/diarios/previsualizar/mgag2EN5) |
 | 2026-11-13 | Riachão das Neves | [EDITAL DE TERMO DE CONSTATAÇÃO E INTIMAÇÃO ITR Nº 00031/2026](https://doem.org.br/ba/riachaodasneves/diarios/previsualizar/mgag2EN5) |
 | 2026-11-12 | Riachão das Neves | [TERMOS DE CONSTATAÇÃO E INTIMAÇÃO DO ITR (EDITAIS NºS 00023 A 00029/2026)](https://doem.org.br/ba/riachaodasneves/diarios/previsualizar/KZVY2yNQ) |
@@ -116,7 +118,6 @@ Município com convênio com a Receita Federal fiscaliza o ITR. No diário saem,
 | 2025-11-26 | Riachão das Neves | [EDITAIS DE NOTIFICAÇÃO DE LANÇAMENTO DO ITR – SANTA LAURA PARTICIPAÇÕES LTDA – Nº 00001, 00002 E 00003/2025](https://doem.org.br/ba/riachaodasneves/diarios/previsualizar/R7NyE2Nk) |
 | 2025-10-15 | São Desidério | [EDITAL DE INTIMAÇÃO FISCAL - ITR](https://www.acessoinformacao.com.br/ba/saodesiderio/wp-includes/ExternalApps/downloader.php?hurl=aHR0cDovL2RvZW0ub3JnLmJyL2JhL3Nhb2Rlc2lkZXJpby9hcnF1aXZvcy9kb3dubG9hZC81MTdhNGYxNmJlMmJlMmM0ZjNjYzJmNzc5MzY2NTQ4Ny9mMzcxYTRjMmZhNmJhOGM1NjhkNjIwODA4ZjQzYzhiMi5wZGY%3D) |
 | 2025-09-29 | Riachão das Neves | [EDITAL DE INTIMAÇÃO PARA CIÊNCIA DE TERMO DE CONSTATAÇÃO FISCAL DO ITR – Nº 00007/2025](https://doem.org.br/ba/riachaodasneves/diarios/previsualizar/R0jOmGNM) |
-| 2025-09-29 | Riachão das Neves | [EDITAL DE INTIMAÇÃO PARA CIÊNCIA DE TERMO DE CONSTATAÇÃO FISCAL DO IMPOSTO SOBRE A PROPRIEDADE TERRITORIAL RURAL (ITR) – Nº 00009/2025](https://doem.org.br/ba/riachaodasneves/diarios/previsualizar/R0jOmGNM) |
 
 ## Observações
 

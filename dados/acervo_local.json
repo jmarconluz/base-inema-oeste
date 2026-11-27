@@ -1,9 +1,10 @@
 {
  "diarios_municipais": {
-  "ate": "2026-11-25",
-  "atos": 931,
-  "coletado_em": "2026-11-25",
+  "ate": "2026-11-27",
+  "atos": 1018,
+  "coletado_em": "2026-11-27",
   "municipios": [
+   "Angical",
    "Barreiras",
    "Correntina",
    "Cotegipe",
@@ -13,11 +14,11 @@
    "Santa Rita de Cássia",
    "São Desidério"
   ],
-  "relevancia_alta": 285
+  "relevancia_alta": 286
  },
  "utilidade_publica": {
   "ate": "2026-10-23",
-  "coletado_em": "2026-11-25",
+  "coletado_em": "2026-11-27",
   "de": "2024-01-05",
   "decretos": 1186,
   "oeste": 72
