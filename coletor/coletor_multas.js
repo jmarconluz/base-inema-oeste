@@ -25,8 +25,11 @@ window.MUL = (function () {
   // Pastas do DOE que interessam (INEMA, SEMA, CEPRAM, CONERH, FERFA)
   const PASTA = /INEMA|Instituto do Meio Ambiente|Secretaria do Meio Ambiente|CEPRAM|Conselho Estadual d[eo] Meio Ambiente|Conselho Estadual de Recursos H[ií]dricos|CONERH|FERFA|Fundo Estadual de Recursos para o Meio Ambiente/i;
   const PULA_TITULO = /RHBAHIA|Integracao_RH/i;
-  // Conteúdo de fiscalização / processo sancionador
-  const RELEVANTE = /auto\s+de\s+infra[çc][ãa]o|TEC\s*\/\s*(?:AI[A-Z]{0,4}|NOT)\s*-|infra[çc][ãa]o\s+ambiental|homologad[oa]\s+o\s+auto|convers[ãa]o\s+d[ae]\s+multa|CEPRAM[\s\S]{0,400}recurso|recurso[\s\S]{0,400}CEPRAM|termo\s+de\s+embargo|interdi[çc][ãa]o\s+tempor[áa]ria/i;
+  // Conteúdo de fiscalização / processo sancionador.
+  // Desde 27/11/2026 também o termo de compromisso do INEMA com cláusula penal de multa (ex.: regularização da operação
+  // de fazenda sem licença), que sai em matéria própria sem citar auto de infração e ficava de fora (visto no DOE de
+  // 27/11/2026). O termo de compensação ambiental (TCCA, do licenciamento) não tem cláusula penal e continua fora.
+  const RELEVANTE = /auto\s+de\s+infra[çc][ãa]o|TEC\s*\/\s*(?:AI[A-Z]{0,4}|NOT)\s*-|infra[çc][ãa]o\s+ambiental|homologad[oa]\s+o\s+auto|convers[ãa]o\s+d[ae]\s+multa|CEPRAM[\s\S]{0,400}recurso|recurso[\s\S]{0,400}CEPRAM|termo\s+de\s+embargo|interdi[çc][ãa]o\s+tempor[áa]ria|termo\s+de\s+compromisso[\s\S]{0,1500}?cl[áa]usula\s+penal/i;
 
   let db;
   function abrir() {
